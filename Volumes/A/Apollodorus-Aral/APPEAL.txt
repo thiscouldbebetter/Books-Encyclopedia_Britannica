@@ -1,0 +1,980 @@
+APPEAL, in law. In the old English common law the term "appeal" was used
+to describe a process peculiar to English criminal procedure. It was a
+right of prosecution possessed as a personal privilege by a party
+individually aggrieved by a felony, a privilege of which the crown could
+not directly or indirectly deprive him, since he could use it alike when
+the prisoner was tried and acquitted, and when he was convicted and
+pardoned. It was chiefly known in practice as the privilege of the
+nearest relation of a murdered person. When in 1729 (after Colonel
+Oglethorpe's inquiry and report on the London prisons) Banbridge and
+other gaolers were indicted for their treatment of prisoners, but were
+acquitted for deficiency of evidence, appeals for murder were freely
+brought by relatives of deceased prisoners. In the case of Slaughterford
+(1708) the accused was charged with murdering a woman whom he had
+seduced; the evidence was very imperfect, and he was acquitted on
+indictment. But public indignation being aroused by the atrocities
+alleged to have been perpetrated, an appeal was brought, and on
+conviction he was hanged, as his execution was a privilege belonging to
+the prosecutor, of which the crown could not deprive him by a pardon. In
+1818 an appeal was ingeniously met by an offer of battle, since if the
+appellee were an able-bodied man he had the choice between combat or a
+jury (see WAGER). This neutralizing of one obsolete and barbarous
+process by another called the attention of the legislature to the
+subject, and appeal in criminal cases, along with trial by battle, was
+abolished in 1819. The history of this appeal is fully dealt with in
+Pollock and Maitland, _History of English Law_, 1898.
+
+In its usual modern sense the term appeal is applied to the proceeding
+by which the decision of a court of justice is brought for review before
+another tribunal of higher authority. In Roman jurisprudence it was used
+in this and in other significations; it was sometimes equivalent to
+prosecution, or the calling up of an accused person before a tribunal
+where the accuser appealed to the protection of the magistrate against
+injustice or oppression. The derivation from _appellare_ ("call")
+suggests that its earliest meaning was an urgent outcry or prayer
+against injustice. During the republic the magistrate was generally
+supreme within his sphere, and those who felt themselves outraged by
+injustice threw themselves on popular protection by _provocatio_,
+instead of looking to redress from a higher official authority. Under
+the empire different grades of jurisdiction were established, and the
+ultimate remedy was an appeal to the emperor; thus Paul, when brought
+before Festus, appealed unto Caesar. Such appeals were, however, not
+heard by the emperor in person but by a supreme judge representing him.
+In the _Corpus Juris_ the appeal to the emperor is called
+indiscriminately _appellatio_ and _provocatio_. A considerable portion
+of the 49th book of the _Pandects_ is devoted to appeals; but little of
+the practical operation of the system is to be deduced from the
+propositions there brought together.
+
+During the middle ages full scope was afforded for appeals from the
+lower to the higher authorities in the church. In matters
+ecclesiastical, including those matrimonial, testamentary and other
+departments, which the church ever tried to bring within the operation
+of the canon law, there were various grades of appeal, ending with the
+pope. The claims of the church to engross appeals in matters trenching
+on the temporal rights of princes led to continual conflicts between
+church and state, terminated in England at the reformation by the
+suppression in 1534 of appeals to Rome, which had previously been
+discouraged by legislation of Edward III. and Richard II.
+
+In temporal, as distinct from spiritual matters, it became customary for
+ambitious sovereigns to encourage appeals from the courts of the crown
+vassals to themselves as represented by the supreme judges, and
+Charlemagne usually enjoys the credit of having set the example of this
+system of centralization by establishing _missi dominici_. It is not
+improbable that his claim was suggested or justified by the practice of
+the Roman empire, to the sovereignty whereof he claimed to be
+successor.
+
+_England._--When the royal authority in England grew strong as against
+that of the tenants _in capite_, the king's courts in England were more
+effectively organized, and their net swept wider so as to draw within
+their cognizance matters previously adjudged in courts baron or courts
+leet or in the county court, and they acquired authority to supervise
+and review the decisions of the inferior and local courts, to control
+and limit their claims to exercise jurisdiction, and to transfer causes
+from the local to the royal courts. The machinery by which this process
+was usually effected, under the common law, was not by what is now known
+as appeal, but by the process of _certiorari_ or writs of error or
+prohibition. Recourse was also had against the decisions of the royal
+courts by appeal to the great council of the king, or to parliament as a
+whole. The supremacy of the king's courts over all causes, as well
+ecclesiastical as civil, has been completely established since the reign
+of Henry VIII., and they have effectually asserted the power to regulate
+and keep within their proper jurisdiction all other tribunals within the
+realm. Since that date the organization of judicial tribunals has
+gradually been changed and improved with the object (1) of creating a
+judicial hierarchy independent of executive control; (2) of ensuring
+that all decisions on questions of law shall be co-ordinated and
+rendered systematic by correction of the errors and vagaries of
+subordinate tribunals; and (3) of securing so far as possible uniformity
+in the judicial interpretation and administration of the law, by
+creating a supreme appellate tribunal to whose decisions all other
+tribunals are bound to conform. It would be undesirable to detail at
+length the history of appellate jurisdiction in England, involving as it
+would the discussion in great detail of the history and procedure of
+English law, and it may suffice to indicate the system of appeals as at
+present organized, beginning with the lowest courts.
+
+_Justices of the Peace._--The decisions of justices of the peace sitting
+as courts of summary jurisdiction are subject to review on questions of
+law only by the High Court of Justice. This review is in a sense
+consultative, because it is usually effected by means of a case
+voluntarily stated by the justices at the request of the aggrieved
+party, in which are set forth the facts as determined by the justices,
+the questions of law raised and their decision thereon, as to the
+correctness whereof the opinion of the High Court is invited. The
+procedure is equally open in criminal and civil matters brought before
+the justices. But when the justices decline to state a case for the
+opinion of the High Court, the latter, if review seems desirable, may
+order the justices to state a case. And the High Court has also power to
+control the action of justices by prohibiting them from acting in a case
+beyond their jurisdiction, ordering them to exercise jurisdiction where
+they have improperly declined (_mandamus_), or bringing up for review
+and quashing orders or convictions which they have made in excess of
+jurisdiction, or in cases in which interested or biassed justices have
+adjudicated (_certiorari_). None of these regulative processes exactly
+corresponds to what is popularly known as an appeal, but in effect if
+not in form an appeal is thus given.
+
+There is also another form of appeal, in the fullest sense of the term,
+from the decision of justices sitting as a court of summary jurisdiction
+to the justices of the same county sitting in general or quarter
+sessions, or in the case of a borough to the recorder as judge of the
+borough court of quarter sessions. This form of appeal is in every case
+the creation of statute: and even in text-books it is hardly possible to
+find a really complete list of the matters in respect of which such
+appeal lies. But as regards criminal cases there is an approximately
+general rule, given by § 19 of the Summary Jurisdiction Act 1879, viz.
+that an appeal to quarter sessions lies from the conviction or order of
+a court of summary jurisdiction directing imprisonment without the
+option of a fine as a punishment for an offence, or for failing to do or
+to abstain from doing any act required to be done or left undone other
+than an order for the payment of money, or to find sureties or give
+security or to enter into a recognizance, or a conviction made on a plea
+of guilty or admission of the truth of the matter of complaint.
+
+As a general rule, subject to particular statutory exceptions, appeals
+of this kind are by way of rehearing, i.e. the actor or prosecutor must
+before the appellate tribunal call his witnesses and prove his case just
+as if no previous hearing had taken place before the court appealed from
+(Pritchard, _Quarter Sessions Practice_, 2nd ed., 461). The only limit
+is that the appellant must confine himself to the grounds of appeal
+stated in the notice of appeal given by him.
+
+_Justices in Quarter Sessions._--This tribunal has under the commission
+of the peace and under statute power to refer questions of difficulty
+arising before it for decision to the High Court. The old mode of
+exercising this power was by sending on to assizes indictments raising
+difficult questions which had been presented at quarter sessions. The
+High Court has _ex officio_ power to transfer such indictments where the
+nature of the case and the demands of justice call for such transfer.
+The quarter sessions had also power under statute on trying an
+indictment to refer to the court for crown cases reserved (Crown Cases
+Act 1848), abolished by the Criminal Appeal Act 1907, questions of law
+which had arisen at the trial, and in all civil cases the quarter
+sessions has power of its own volition and subject to no direct
+compulsion to consult the High Court on legal questions of difficulty
+which have arisen. Until 1894 this jurisdiction was regarded as
+consultative only. It was and is exercised by stating the facts, of
+which the court of quarter sessions is the sole judge, and indicating
+the questions of law arising on the facts, and the view of quarter
+sessions thereon, and inviting the opinion of the High Court. Under the
+Judicature Act 1894 cases stated in this way are now treated as
+"appeals" in the popular sense.
+
+_Inferior Courts of purely Civil Jurisdiction._--An appeal also lies as
+a general rule to the High Court from the judgment of a county court or
+of any inferior tribunal having civil jurisdiction.
+
+(a) County Courts. Any party to an action or matter in a county court
+who is dissatisfied with the determination or direction of the judge in
+law or equity, or upon the admission or rejection of any evidence, may
+appeal against the decision in the following cases: (1) if the amount of
+claim or counter-claim in the proceeding exceeds £20; or (2) in all
+equity matters or cases in which an injunction has been given; or (3) in
+actions to recover possession of land where questions of title are
+involved (County Courts Act 1888, § 120). In the case of a claim below
+£20 no appeal lies except by the leave of the county court. The old
+practice of appeal by way of special case as in appeals from justices
+has been abolished, and the present procedure is by notice of motion
+(R.S.C. O. LIX. rr. 10-18).
+
+These appeals are heard in the king's bench division, except in the case
+of appeals from judgments of a county court sitting in the exercise of
+admiralty jurisdiction, which are heard by two or more judges sitting in
+the probate, divorce and admiralty division. The chancery division has
+never sat to hear "appeals" from a county court exercising equity
+jurisdiction; but at times, by _prohibition_ or _certiorari_, has, in
+effect, reviewed or restrained excess of jurisdiction by county courts
+in equity matters.
+
+The decision of the High Court on county court appeals is final unless
+an appeal to the court of appeal is brought by leave of that court or of
+the High Court (Judicature Act 1894, § 1, sub. sect. 5; Judicature Act
+1873, § 45).
+
+(b) Other inferior courts of civil jurisdiction. Appeals from the local
+courts of record which still survive in certain cities, towns and
+districts are in a somewhat anomalous position. The general rule is
+that, unless a statute regulates such appeal, it may be brought in the
+king's bench division of the High Court on notice of motion in any case
+in which, before the Judicature Acts, the court of king's bench could
+have reviewed the decision of the inferior court by writ of error. The
+history of this question is dealt with in _Darlow v. Shuttleworth_,
+1902, 1 K.B. 721.
+
+In the case of the mayor's court of London, under the local and general
+statutes regulating that court, the appeal is usually to the king's
+bench division, but where there is what is termed "error" on the face of
+the proceedings of the mayor's court, the appeal lies direct to the
+court of appeal as successor of the court of exchequer chamber. Appeals
+from the Liverpool court of passage and from the chancery courts of the
+duchies of Lancaster and Durham lie by statute direct to the court of
+appeal.
+
+_High Court of Justice._--Until the Supreme Court of Judicature Acts of
+1873 and 1875 came into operation, the superior courts in England were
+imperfectly co-ordinated both as to jurisdiction and appeals. The effect
+of these acts was to create a Supreme Court of Judicature divided into
+two main branches, the High Court of Justice, which is an appellate
+court with respect to the inferior courts already mentioned, and to
+certain other special courts and persons; and the court of appeal, which
+is mainly concerned with appeals from the High Court of Justice.
+
+The High Court of Justice acts as an appellate court or court of
+consultation with reference to courts of summary jurisdiction or quarter
+sessions and to county courts and other inferior courts of civil
+jurisdiction in the cases already indicated. The three divisions of the
+court are somewhat differently placed with reference to appeals.
+
+In the chancery division (made up, in 1908, of six single judge courts)
+no appeals are heard except from subordinate officials (masters) of the
+court, or an occasional interference by _certiorari_ or _prohibition_
+with a county court.
+
+In the probate, divorce and admiralty division, besides the supervision
+which may be exercised by a single judge over the subordinate officers
+of the court (registrars), divisional courts (of two judges) hear
+appeals from decisions of the county court in admiralty causes, and
+appeals from justices in cases between husband and wife under the
+Summary Jurisdiction (Married Women) Act 1895, as amended by the
+Licensing Act 1902. In the first of these cases the appeal is on law
+only as in the case of other county court appeals; in the second, the
+procedure is by rehearing, or reconsideration of the facts as minuted in
+the court appealed from, and of the law there applied to these facts.
+
+The bulk of the appellate work of the High Court is conducted in the
+king's bench division--which, as successor of the old court of king's
+bench in the duties of _custos morum_ of the realm, still retains
+supervisory power over all inferior courts in all cases in which that
+supervision has not been transferred to the other divisions of the High
+Court or to the court of appeal, or to the court of criminal appeal.
+
+The king's bench division exercises appellate jurisdiction in the
+following cases.
+
+With respect to decisions of justices of the peace sitting at quarter
+sessions, or as a court of summary jurisdiction, except in the case
+above stated, the subject matter of appeal is for the most part of a
+criminal or quasi-criminal character, the civil jurisdiction of justices
+being comparatively limited. The appeal in such cases is as to matters
+of law only, the justices' decision on facts not being subject to
+review.
+
+In the case of the courts above named, the appeal is brought by writ of
+_certiorari_, where the jurisdiction of quarter sessions to give the
+judgment challenged is denied _in toto_, or in some cases by writ of
+_habeas corpus_, where the appellant is in custody under an order of the
+court appealed from (Judicature Act 1894, § 2). The best example of this
+is the right of a fugitive criminal committed for extradition to
+challenge the legality of the decision of the committing magistrate by
+writ of _habeas corpus_. Save in cases of want of jurisdiction or
+refusal to exercise it, no appeal lies from quarter sessions except by
+consent of the court appealed from, which states the facts as
+ascertained by the inferior court, and invites the review of the
+superior court upon the questions of law raised by the facts as found.
+
+Decisions of justices sitting in the exercise of summary jurisdiction
+are subject to review by a special case in which the justices state the
+facts found by them and their decision on the points of law, and invite
+the review of the appellate court on these grounds. Such cases for
+appeal are usually stated by consent of the justices, but in the event
+of their refusal the appellate court may order that a case shall be
+stated.
+
+Decisions of justices in the exercise of summary jurisdiction may also
+be challenged by writ of _certiorari_ as having been wholly outside
+their jurisdiction; and in such proceeding the appellate tribunal may
+review the evidence taken below so far as to ascertain whether the
+justices have by an erroneous finding of fact enabled themselves to
+assume a jurisdiction which upon the true facts they did not possess.
+
+Where the decision appealed from is in a criminal cause or matter the
+decision of the High Court is final. Where it is in a civil matter a
+further appeal also lies to the court of appeal by leave of the High
+Court or of the court of appeal (Judicature Act 1873, § 45).
+
+Appeals in criminal cases tried on indictment, criminal information or
+coroner's inquisition, stand on a different footing from other appeals.
+
+For many years the question of criminal appeal in general had been a
+matter of great controversy. As early as 1844 a bill had been
+unsuccessfully introduced for the purpose of establishing appeal in
+criminal cases, and from that time up to 1906 nearly thirty bills were
+brought forward with the same object, but none succeeded in passing. In
+1892 the question was referred to the council of judges and favourably
+reported upon by them. It may be remarked that England was practically
+the only civilized country in which there was no appeal in criminal
+cases. It is true there was an appeal on questions of law arising at the
+trial. But the procedure was intricate and technical, being either (1)
+by writ of error, issued by the consent of the attorney-general
+(expressed by his _fiat_), to review errors of law appearing in the
+record of the trial, or (2) by special case, stated by the judge
+presiding at the trial, with respect to a question of law raised at the
+trial. These appeals were heard by the king's bench division. Meanwhile
+there had been a considerable development of public opinion in favour of
+the establishment of criminal appeal, a development undoubtedly hastened
+by the report of a committee of inquiry in the case of Adolf Beck
+(1904), showing clearly that the home office was not a satisfactory
+tribunal of final appeal. In 1906 the lord chancellor (Lord Loreburn)
+introduced another criminal appeal bill, which passed the House of
+Lords, but was dropped in the House of Commons after a first reading.
+The next year the act (Criminal Appeal Act 1907), which was ultimately
+carried, was introduced into the House of Commons. By this act a court
+is established consisting of the lord chief justice and eight judges of
+the king's bench division, the jurisdiction of the court for crown cases
+reserved being transferred to the new court. The court to be duly
+constituted must consist of not less than three judges and of an uneven
+number of judges. The court may sit in two or more divisions if the lord
+chief justice so directs. Its sittings are held in London unless special
+directions are given by the lord chief justice that it shall sit at some
+other place. The opinion of the majority of those hearing the case
+determines any question before the court, and judgment is pronounced by
+the president (who is the lord chief justice or senior member present),
+unless in questions of law, when, if it is convenient that separate
+judgments should be pronounced by the members of the court, they may be
+so pronounced. The judgment of the court of criminal appeal is final,
+except where the decision involves a point of law of exceptional public
+importance, and a certificate must be obtained from the attorney-general
+to that effect. The court of criminal appeal is a superior court of
+record. An appeal may be made either against conviction or against
+sentence. A person convicted on indictment may appeal either on a
+question of law alone or of fact alone, or on a question of mixed law
+and fact. On a point of law a prisoner has an unqualified right of
+appeal, on a question of fact or of mixed law and fact there is a right
+of appeal only if leave be obtained from the court of criminal appeal or
+a certificate be granted by the judge who tried the prisoner that it is
+a fit case for appeal. The court is given a wide discretion as to
+whether a conviction may be sustained or set aside. The court may allow
+the appeal if they think that the verdict of the jury should be set
+aside because it is unreasonable, or because it cannot be supported
+having regard to the evidence, or that the judgment should be set aside
+on the ground of a wrong decision on any point of law, or that on any
+ground there was a miscarriage of justice. Power is given to the court
+to dismiss the appeal if they consider that no substantial miscarriage
+of justice has occurred, even though they are of opinion that the point
+raised in the appeal might be decided in favour of the appellant. The
+sentence passed at the trial may be quashed by the appeal court and such
+other sentence (whether more or less severe) warranted in law by the
+verdict substituted. Notice of appeal or notice of application for leave
+to appeal must be given within ten days of the date of conviction; where
+a conviction involves sentence of death or corporal punishment the
+sentence must not be executed until after the expiration of ten days,
+and, if notice of appeal is given, not until after the determination of
+the appeal or the final dismissal of the application for leave to
+appeal. The act gives the court power to order any witnesses who would
+have been compellable witnesses at the trial to attend and be examined
+before the court, and to receive the evidence, if tendered, of any
+witness who is a competent but not compellable witness. If any question
+arises on the appeal involving prolonged examination of documents or
+accounts or any scientific or local investigation, which the court
+thinks cannot be conveniently conducted before it, the matter may be
+referred to a special commissioner appointed by the court, and the court
+may act on the report of that commissioner if it thinks fit. An
+appellant is given the right to be present on the hearing of his appeal,
+if he desires it, except where the appeal is on some ground involving a
+question of law alone, but rules of court may provide for his presence
+in such a case, or the court may give him leave. The act requires
+shorthand notes to be taken of the proceedings at the trial of any
+person, who, if convicted, would have a right to appeal under the act.
+Nothing in the act affects the prerogative of mercy, and the home
+secretary may, if he thinks fit, at any time refer a case to the court
+of criminal appeal.
+
+_The Court of Appeal._--The court of appeal, constituted under the
+Judicature Acts, is one of the two permanent divisions of the Supreme
+Court of Judicature. As now constituted the court consists of _ex
+officio_ members and five ordinary members, styled lords justices of
+appeal. The _ex officio_ members are the lord chancellor, every person
+who has held that office, the lord chief justice, the master of the
+rolls, and the president of the probate, &c., division.
+
+The ordinary business of the court is carried on by the lords justices
+under the presidency of the master of the rolls, who in 1881 ceased to
+be a judge of the High Court (Judicature Act 1881, § 2). The court
+usually sits in two divisions of three judges, but on occasion a third
+court can be formed, with the assistance of the other _ex officio_
+judges, in the absence of the ordinary judges from illness or public
+engagements, or to deal with arrears of business. The quorum for final
+appeals is three, for interlocutory appeals two judges.
+
+The court of appeal has succeeded to the appellate authority exercised
+(1) in the case of equity and bankruptcy matters by the lord chancellor
+and the lords justices of appeal in chancery (Judicature Act 1873, §
+18); (2) in the case of common law matters, by the court of exchequer
+chamber, as a court of error, and the superior courts of common law
+sitting to review the decisions of single judges of these courts sitting
+with or without a jury at first instance in civil actions; (3) in the
+case of divorce or probate causes by the full court of divorce
+(Judicature Act 1881, § 9); (4) in the case of admiralty causes by the
+king in council or the judicial committee of the privy council; (5) in
+the case of applications for new trials in jury actions by the king's
+bench division (Judicature Act 1890, § 1).
+
+The court never had jurisdiction to hear an appeal in any criminal cause
+or matter, but was able to review by writ of error decisions of the
+king's bench division in such cases, unless the court for crown cases
+reserved had dealt with the question under the Crown Cases Act 1848.
+This procedure has been abolished by the Criminal Appeal Act 1907.
+Instances of procedure by writ of error were rare. Those best worth
+notice are the cases of the Tichborne claimant on his conviction of
+perjury, and the case of C. Bradlaugh on the sufficiency of the
+indictment against him for publishing the _Fruits of Philosophy_.
+
+The appellate jurisdiction of the court as now exercised entitles the
+court to hear and determine (1) appeals from every judgment or decree of
+every division of the High Court in all civil cases in which such
+judgment is not declared final by statute; (2) applications for a new
+trial in civil cases tried in the king's bench division by judge and
+jury which, until 1890, were dealt with by two or more judges in that
+division; (3) appeals in matters of civil practice and procedure from
+decisions of a single judge in chambers, which, until 1894, were dealt
+with in a divisional court or by a judge in open court; (4) appeals from
+the chancery courts of Durham (Palatine Court of Durham Act 1889) and
+Lancaster (act of 1890, c. 23) and the Liverpool court of passage
+(_Anderson v. Dean_, 1894, 2 Q.B. 222), and on error in a record of the
+mayor's court of London (_Le Blanche_ v. _Heaton Telegram Co._, 1876, 1
+Ex.D. 408); and from county courts under the Agricultural Holdings Acts
+and Workmen's Compensation Acts; (5) appeals on questions of law from
+decisions of the railway commissioners in England (Railway and Canal
+Traffic Act 1888).
+
+The court of appeal also exercises the lunacy jurisdiction of the lord
+chancellor, but in regard to this the jurisdiction of the court is for
+the most part original and not appellate.
+
+The jurisdiction of the court of appeal is excluded or limited in the
+following cases:--(1) judgments of the High Court--(a) where its
+jurisdiction is consultative only; (b) where there is an appeal to the
+High Court from an inferior court of civil jurisdiction; (c) where there
+is an appeal to the High Court from any court of person, unless in cases
+(b) and (c) leave be obtained of the court by which the order is made,
+or of the court of appeal; (2) orders of the High Court in registration
+and election cases except with the like leave; (3) orders made by
+consent of parties, or as to costs only which by law are left to the
+discretion of the court; (4) certain interlocutory orders mentioned in §
+1 of the Supreme Court of Judicature (Procedure) Act 1894, except by
+leave of the judge appealed from or of the court of appeal (5) orders of
+the admiralty division in cases of prize, the appeal from which lies to
+His Majesty in Council; (6) where the decision of any court whose
+jurisdiction was transferred to the High Court is declared by statute to
+be final; (7) matters which from their nature were not appealable to any
+court before the Judicature Acts, or in which the court of appeal has no
+means of enforcing or executing its judgment. For example, it was held
+in the House of Lords, in _Cox_ v. _Hakes_, 1890, 15 A.C. 506, that no
+appeal lies from the order of a judge discharging a prisoner under a
+writ of _habeas corpus_. "If," said Lord Herschell, "the contention of
+the respondent is to prevail, the statute has effected a grave
+constitutional change"; and later, "if" the High Court "has inherited
+the combined powers of the courts whose functions were transferred to
+it, but none of them had any jurisdiction or authority to review a
+discharge by a competent court under a writ of _habeas corpus_, or to
+enforce the arrest of one thus freed from custody ... it seems to me to
+follow, that however wrong the court of appeal might think a discharge
+to have been, it would have been powerless to order a rearrest, or at
+least to enforce such an order."
+
+The procedure of the court of appeal is regulated by the rules of the
+Supreme Court. A distinction is drawn between appeals from a final
+judgment or order (which, unless the parties consent to a smaller
+quorum, must be heard by three judges) and an appeal from an
+interlocutory order (which may be determined by two judges of the court
+of appeal).
+
+In the case of appeals from a final or interlocutory "judgment," or from
+an order, including applications for a new trial, the appeal must be
+brought within three months from the time when the judgment or order is
+signed, entered or otherwise perfected, or in the case of refusal of an
+application from the date of refusal. The appeal is by notice of motion,
+which except in cases of application for a new trial, need not state
+the grounds of appeal. Fourteen clear days' notice of the motion must be
+given by the appellant to the other party, the respondent.
+
+In the case of appeals from an interlocutory order, or from a final
+order, or from an order made in any matter which is not an action, or
+from an order made in chambers, the appeal must be brought within
+fourteen days by motion, of which four clear days' notice must be given
+by the appellant to all parties directly affected by the appeal.
+Controversies have arisen as to the meaning of the term "interlocutory,"
+which (in the absence of any authoritative definition) the court of
+appeal settles as they arise. The test most generally accepted is that a
+judgment or order is final if, as made, it finally disposes of the
+rights of the parties in a manner equally conclusive between them. The
+court may by special leave allow appeals of either class to be brought
+after the time above limited. The respondent may by proper notice bring
+a cross appeal against any portion of the judgment or order made below
+with which he is dissatisfied. The court has power to order the
+appellant to find security for the costs of an appeal, if special
+circumstances, such as insolvency or poverty or foreign domicile or the
+like, make the giving of security desirable. The court of appeal
+"rehears" the case. Under ordinary circumstances it does not permit a
+new case to be set up inconsistent with the case as presented below; and
+it is content with the judges' notes, or a transcript of the evidence
+given below, and with a note or transcript of the judgment appealed
+from, but has power on special grounds to receive fresh evidence either
+_viva voce_ or on affidavit. The court may call in for its assistance
+assessors who are experts on the matters of fact or science involved in
+the appeal, and usually does so in cases arising out of collisions at
+sea.
+
+The court of appeal may make any order which it deems just as to the
+costs of the whole or any part of an appeal, except possibly in the case
+of certain appeals in matters on the crown side of the High Court, as to
+which some doubt still exists. In practice the costs follow the event,
+unless the court in a particular case makes an order to the contrary.
+
+A decision of the court of appeal is final in appeals from the High
+Court in bankruptcy, unless leave be given to appeal to the House of
+Lords (§ 104, Bankruptcy Act 1883), and in divorce appeals, except where
+the decision either is upon the grant or refusal of a decree for
+dissolution or nullity of marriage, or for a declaration of legitimacy,
+or is upon any question of law on which the court gives leave to appeal
+(Supreme Court of Judicature Act 1881, § 9); but no further appeal to
+the House of Lords lies, even with leave of the court of appeal, on
+appeals from the High Court sitting as a court of appeal from county
+courts in bankruptcy. With these exceptions there is now a right of
+appeal from every order of the court of appeal to the House of Lords.
+
+_The House of Lords._--The House of Lords has for centuries been the
+court of last resort, and is still the final court of appeal from the
+chief courts in the United Kingdom. The origin of the appellate
+jurisdiction of the House of Lords was undoubtedly of that partly feudal
+and partly popular character already alluded to, which made the suitor
+seek from the high court of parliament the justice denied elsewhere in
+the baronial courts or by the king's judges. The lords exercised the
+mixed function of jurymen and judges, and, as in judgments on
+impeachment, might be influenced by private or party considerations,
+debating and dividing on the question before the House. A revolution was
+silently accomplished, however, by which the function of reviewing the
+decisions of the courts fell entirely to the lawyers raised to the
+peerage, while the unprofessional lords only attended to give the
+sanction of a quorum to the proceedings, and the House has always had
+the right to invoke the assistance of the judges of the superior courts
+to advise on the questions of law raised by an appeal. The letters and
+memoirs, so late as Queen Anne's reign, show that party or personal
+influence and persuasion were employed to procure votes on appeals, as
+they have been in later times on railway or other local bills. The last
+instance probably in which a strong division of opinion was manifested
+among the unprofessional lords was the celebrated Douglas cause in 1769,
+when the House was addressed by the dukes of Newcastle and Bedford, but
+was led by the authoritative opinion of Lord Mansfield on the effect of
+the evidence--an opinion which was treated rather as that of a political
+partisan than of a judge. The case of Daniel O'Connell and others,
+brought up on writ of error from the queen's bench in Ireland in 1844,
+may be said to have finally established the precedent that the judgments
+of the House of Lords were to be given solely by the law lords. On that
+occasion there was a difference of opinion among the law lords
+themselves. The judgment of the majority of the House was strongly
+against the political feeling of the government and of the peers as a
+body, while the law lords who carried the decision had been appointed by
+previous governments opposed in politics to the existing cabinet. But
+all these temptations to a party vote by the unprofessional members were
+resisted.
+
+By § 20 of the act of 1873, the appellate jurisdiction of the House of
+Lords (so far as it affects England) was abolished, but this section was
+repealed by the Appellate Jurisdiction Act 1876. Under that act and an
+amending act of 1887, the appellate business of the House of Lords is
+conducted solely by the law lords, though lay peers may still sit
+(_Bradlaugh_ v. _Clarke_, 1882, 8 App. Cas. 354). No appeal may be heard
+or determined except in the presence of not less than three of the
+following persons:--(1) the lord chancellor; (2) the lords of appeal,
+four of whom are appointed under the act from among persons who hold, or
+have held, high judicial office, or, at the date of appointment, have
+been in practice for not less than fifteen years as barristers in
+England or Ireland, or as advocates in Scotland; (3) such peers of
+parliament as hold, or have held, high judicial office. By "high
+judicial office" is meant the office of lord chancellor of Great Britain
+or Ireland, lord of appeal in ordinary, paid judge of the judicial
+committee or member of that committee, or judge of one of the superior
+courts of Great Britain or Ireland.
+
+An appeal lies to the House of Lords (1) from any order or judgment of
+the court of appeal in England except as above stated; (2) from a
+judgment or order of any court in Scotland or Ireland from which error
+or an appeal to the House of Lords lay by common law or statute
+immediately before the 1st of November 1876. No appeals are heard from
+the decision of courts in criminal cases. The House of Lords has an
+indirect power by standing orders to admit appeals from Scotland or
+Ireland which under former law or practice could not be admitted
+(Appellate Jurisdiction Act 1876, § 12). The procedure on appeals is
+regulated by standing orders of the House. The proceedings are commenced
+by petition of appeal, which must be lodged with the clerk of the
+parliaments within one year from the date of the last judgment it
+appealed from. Security for costs (£200) must be given by bond or
+lodgment of the money, unless dispensed with by the House on the ground
+of poverty (act of 1893). Each party lodges a printed case signed and
+certified by counsel, containing a resumé of the matters to be discussed
+and of the contentions for or against the allowance of the appeal. The
+hearing is before three or more law lords, who may call in nautical
+assessors in admiralty cases (acts of 1893 and 1894). It is not public
+in the full sense of the term, as persons not concerned in the appeal
+can attend only by consent of the House. The House pronounces the
+judgment which in the opinion of the majority of the law lords should
+have been pronounced below, and has jurisdiction in the case of all
+appeals to give or refuse costs to the successful party. The costs of
+the appeal if given are taxed by the officers of the House. The
+jurisdiction as to costs does not directly arise under any statute (see
+_West Ham Guardians_ v. _Bethnal Green Churchwardens_, 1896, A.C. 477).
+
+_Appeals to the King in Council._--The decisions of ecclesiastical
+courts when acting within the limits of their jurisdiction, and the
+decisions of courts in the king's dominions outside the United Kingdom,
+and of courts in foreign countries set up under the Foreign Jurisdiction
+Acts, cannot be dealt with by the House of Lords or any of the ordinary
+tribunals of any part of the United Kingdom. The power once claimed by
+the court of king's bench in England to control the courts of Ireland
+has lapsed, and its power to intervene in colonial cases is limited to
+the grant of the writ of _habeas corpus_ to a possession in which no
+court exists having power to issue that writ or one of like effect
+(Habeas Corpus Act 1862). As regards all British possessions, the appeal
+to the king in council is in its origin and nature like that of the
+provincials unto Caesar, and flows from the royal prerogative to admit
+appeals. With the growth of the British empire it has been found
+necessary to create a comparatively constant and stable tribunal to
+advise the king in the exercise of this prerogative. For this purpose
+the judicial committee of the privy council was created in 1833. In
+1851, and again in 1870, it was reorganized, and by acts of 1876, 1887
+and 1898 it received its present form. The committee consists of the
+president of the council, and of the following persons, if privy
+councillors--the lord chancellor and ex-chancellors of Great Britain and
+of Ireland, the four lords of appeal in ordinary, the lords justices of
+appeal in England or retired lords justices of appeal in England, and
+persons who hold or have held the office (a) of judge of the High Court
+of Justice or the court of appeal in England or Ireland, or of the court
+of session in Scotland; (b) any person who is or has been chief justice
+or a judge of the Supreme Court of Canada or of a superior court of any
+province of Canada, of any of the Australian states (except Fiji and
+Papua), or of New Zealand or the Cape of Good Hope or Natal. The number
+of persons of this class who may be members at once is limited to five
+(1895, c. 44); (c) provision is also made for the payment of two privy
+councillors who have been judges in India who attend the privy council.
+
+Numerous as are the members of the committee, the quorum is three. One
+or more of the lords of appeal in ordinary usually attend at every
+hearing, but the composition of the committee is very fluctuating.
+Appeals from the British dominions abroad lie in criminal as well as
+civil matters. The right of appeal is regulated as to most possessions
+by order in council, and in some cases is limited by imperial or
+colonial statute. Appeals are on fact as well as on law, but the
+committee rarely if ever disturbs the concurrent judgments on facts of
+two colonial courts. In the case of admiralty appeals from colonial or
+consular courts, naval assessors may be called in. The committee also
+hears (with the aid of ecclesiastical assessors) appeals from
+ecclesiastical courts. The judgment of the committee is in the form of a
+report and advice to the king, which is read by one of the members
+sitting, and no indication is given as to whether the members present
+are unanimous. Effect is given to the advice by orders in council
+dismissing or allowing the appeal, and giving direction as to the
+payment of costs and as to the further proceedings to be taken in the
+colonial courts.
+
+The procedure of the committee is on the same lines as that on appeals
+to the House of Lords; no well-arranged code of practice existed however
+up to the end of 1908, and new rules were then being proposed on the
+subject. The appeal is commenced by a petition of appeal, and by the
+giving of security for costs. In colonial appeals printed cases are
+lodged containing a summary of the contentions of the parties, and with
+this a printed copy of the record of the proceedings and documents used
+in the courts appealed from. The hearing is in the privy council chamber
+and is not public. When an appeal is called on, the counsel and parties
+are summoned into the chamber, and when the arguments are concluded they
+are requested to retire. The appeals to the king in council from
+colonial states having a federal constitution, like Canada and
+Australia, stand in an exceptional position. The act creating the
+Supreme Court of Canada purports to make the decision of that court
+final. But it is still the practice to admit by special leave a
+prerogative appeal from the court, and to entertain appeals from courts
+of the provinces of Canada direct to the king in council, without
+requiring them to go to the Supreme Court. The constitution of the
+Australian Commonwealth contemplates (§ 73) the possibility of
+restricting appeals to the king in council from the supreme courts of
+Australia, and sec. 74 forbids appeals to the king in council except by
+leave of the High Court of Australia from decision of that court on any
+question however arising as to the limits _inter se_ of the
+constitutional powers of the commonwealth and those of any state or
+states, or as to the limits _inter se_ of the constitutional powers of
+any two or more states. The exact effect of these enactments and of
+Australian legislation under § 73 is a matter of controversy.
+
+_Scotland._--In Scotland the ordinary appellate tribunal for decisions
+of inferior courts and of the lords ordinary is the court of session,
+which for appellate purposes sits in two divisions. Appeals from
+inferior tribunals in criminal cases go before the judges of the court
+of session sitting in the High Court of Justiciary. The court of session
+was in its original constitution a committee of parliament for the
+performance of its judicial functions, and an appeal to parliament was
+consequently anomalous. In the reign of Charles II., however, the courts
+grew so intolerably corrupt that a determined effort was made to have
+their judgments overturned, by an appeal which was strictly of the old
+character of a cry for protection against flagrant injustice. It was
+called a "protest for remeid of law," and was inserted as one of the
+national claims in the Petition of Right at the revolution. The treaty
+of union is silent as to appeals, though definitely excluding the right
+of English courts to interfere with Scottish courts or cases. The House
+of Lords has since the Union acted without challenge as the final
+appellate tribunal for Scotland in civil causes; but has always declined
+jurisdiction in Scottish criminal cases.
+
+_Ireland._--The Supreme Court of Judicature (Ireland) Acts have
+remodelled the courts and appellate system of Ireland on the same lines
+as those of England. The High Court of Justice in Ireland now consists
+of two divisions only, the chancery division, which has little or no
+appellate functions, and the king's bench division, which has for
+Ireland substantially the same power of reviewing and correcting the
+decisions of inferior courts as has the corresponding court in England.
+To this there is one exception, that appeals from a county court in
+Ireland may be heard on circuit by a single judge of assize. In Ireland
+there is also a court of appeal, created in 1877, whose jurisdiction and
+procedure follow the same lines as that of the English court of appeal.
+
+_France._--The court of last resort in France for all cases, whether
+civil or criminal (_en matière criminelle, correctionnelle et de
+police_), is the _cour de cassation_, which sits in Paris. It is a court
+of error for the review of all judgments of tribunals of last resort
+(except _juges de paix_ in certain cases), and for the transfer of
+causes from one court to another when justice so demands, and to
+determine conflicts of jurisdiction (Law 1 Dec. 1790). Ordinarily it is
+confined to errors of law and procedure, but where evidence not
+available below is brought before the court, it may send the case back
+for retrial or give the appropriate final judgment, as in the case of
+Dreyfus (1906). It also hears appeals from courts martial.
+
+Next to the _cour de cassation_ are the courts of appeal, which have
+jurisdiction to hear appeals (1) in civil matters from courts of first
+instance, _juges de paix_, and where the amount in dispute exceeds £60
+from commercial courts, _tribunaux de commerce_ (Civil Proc. Code, arts.
+443-475); (2) in criminal matters from _tribunaux correctionnels_ (Com.
+Proc. Code, arts. 202-235). The appeal is both on fact and on law, and
+applies to interlocutory or preparatory as well as to final judgments.
+
+_Spain._--In Spain the jurisdiction and procedure with reference to
+appeals is on the same lines as in France. As regards civil matters it
+is regulated by title 21 of the Civil Procedure Code. The appeal to the
+supreme court is for the most part on questions of law (_por infraccion
+de ley o de doctrina_); but the court has also power to review judgments
+on materials not available at the first hearing (arts. 1796, 1801).
+
+_British India._--In British India complete and systematic provision is
+made for appeals both in civil and in criminal cases by the Procedure
+Codes (Civil of 1882, with subsequent amendments, and Criminal of 1898),
+and also to some extent by the charters of the high courts of Calcutta,
+Bombay and Madras (see Ilbert, _Government of India_, Oxford, 1898, p.
+137). In addition, the decisions of subordinate tribunals may be revised
+by a superior tribunal _proprio motu_, or reviewed in a proper case by
+the tribunal which has given them; and provision is made for the
+consultation of a superior by an inferior tribunal in cases of legal
+difficulty. The policy of admitting so many appeals has been criticized.
+But with an enormous population which has no representative institutions
+it has been deemed wise to provide ample means of correcting judicial
+errors at the instance not only of the aggrieved person but also at the
+instance of the supervising judicial authorities, as a means of ensuring
+regularity and propriety in the conduct of judicial business by
+subordinate judges in out-of-the-way districts.
+
+_Civil Appeals._--(1) Except where otherwise expressly provided by the
+Civil Procedure Code, or by any other law for the time being in force,
+an appeal lies from the whole or part of any decree, whether made _ex
+parte_ or _inter partes_, of a court exercising original jurisdiction
+(Civil Procedure Code, § 540). By "decree" is meant the final expression
+of an adjudication upon a right claimed or defence set up in a civil
+court, when such adjudication, so far as regards the court expressing
+it, decides the suit (§ 2). The appeal is both on facts and on law. The
+procedure on the appeal is prescribed by c. 41 of the Civil Procedure
+Code, and the directions of the code deal even with the language of the
+judgment on appeal and the matters to be stated therein. (2) Decrees
+passed on an appeal to any court in India subordinate to a High Court
+are as a general rule subject to appeal to the High Court on the grounds
+(a) that they are contrary to a specified law, or usage having the force
+of law; (b) that they have failed to determine some material issue of
+law, or usage having the force of law; (c) of substantial error or
+defect in procedure prescribed by the code or other law which might
+possibly have produced error or defect in the decision of the case upon
+the merits (§ 584). The procedure on these appeals is regulated by c. 42
+of the Civil Procedure Code. (3) Appeals from orders which do not fall
+within the definition of decrees are allowed in the cases specified in §
+588 of the code. The procedure with respect to these appeals is on the
+same lines as that on appeals against decrees (§ 590). Provision is made
+(by c. 44) for allowing appeals _in forma pauperis_ after certain
+preliminary inquiries. In the High Courts appeals lie from the decision
+of one judge to two or more judges of the High Court, whose decision has
+effect as a judgment of the full court. Appeals, in civil cases, from
+the courts of India to the king in council are regulated by c. 45 of the
+Civil Procedure Code. The appealable amount is for most cases Rs. 10,000
+or a claim or question as to property of like amount.
+
+Besides the provisions stated as to appeals, Indian courts have power in
+certain contingencies to review their own decisions (§ 623). An inferior
+court may also refer cases of difficulty to the High Court on a
+statement of the facts as found in the referring court and of the
+opinion thereon of that Court (§§ 617-620); and in cases in which no
+appeal lies to the High Court, that court may call for the record of any
+case in which the court below appears to have acted without jurisdiction
+or failed to exercise its jurisdiction, or to have exercised its
+jurisdiction illegally or with material illegality (§ 622).
+
+_Criminal Matters._--Criminal jurisdiction in India is exercised by
+magistrates of the first, second and third class, by sessions courts,
+and the high or chief courts of the presidencies or provinces (Criminal
+Procedure Code of 1898). The higher judges in a district have the power
+of revising those decisions which are not absolutely summary of the
+judges of the classes below them in the same district; i.e. the sessions
+judge can revise the decisions of a first-class magistrate, and the High
+Court those of a sessions judge (§ 435). Inferior tribunals can also
+refer questions of law to the High Court (§§ 432, 433); and where a
+sentence of death is passed, or a sessions judge differs from the jury
+(§ 307), the matter must be referred to the High Court. On matters of
+reference or revision the parties have no right to be heard.
+
+Provision is also made for appeals by c. 31 of the Code. Appeals from
+second- or third-class magistrates are dealt with by the district
+(first-class) magistrate (§ 407). Persons convicted on trial by
+assistant sessions judges or first-class magistrates, except in cases
+where the punishment is very small, have an appeal to the sessions judge
+(§§ 408, 413). A person convicted on trial by the sessions judge has an
+appeal to the High Court (§ 410), but where he has pleaded guilty the
+only point on which appeal is open is the legality or extent of sentence
+(§ 412). Special provision is made as to appeals by persons born in
+Europe (whether British subjects or not) and Americans (§§ 408, 415, and
+c. 33).
+
+In criminal cases there is a right of appeal to the king in council in
+certain cases provided for by the charters of the chartered high courts
+(see Ilbert, _Government of India_, Oxford, 1898, p. 137).
+
+An appeal also lies in certain cases from the courts of British officers
+in feudatory states of India to a high court in India, and from the
+courts of Aden and Zanzibar and British East Africa to the High Court of
+Bombay. Appeals do not lie from the courts of native states to British
+courts in India, though in some cases there is an appeal of a political
+rather than judicial nature from the judicial tribunals of feudatory
+states; e.g. in the case of Kathiawar (_Hemchand Derchand_ v. _Azam
+Sakarlal_; 1906. L.R. A.C. 212).
+
+_Canada._--In Canada each province has the regulation of its own courts
+of justice. In Ontario the judiciary are organized, under the Provincial
+Judicature Acts, in much the same manner as in England; and the review
+of decisions of inferior courts (by appeal or other proceedings based on
+English practice) is in the hands of the High Court of Justice, subject
+to appeal to the provincial court of appeal. In Quebec the highest court
+(king's bench), besides its original jurisdiction, has appellate
+jurisdiction over the superior court (see Quebec Civil Procedure Code,
+art. 1114 _et seq_.). The jurisdiction is exercised by writ of error or
+by appeal, according to the nature of the decision appealed from. The
+judges of the superior court have also, under art. 494, power to review
+before three judges decisions of a judge of that court or of a circuit
+court (arts. 494-504). Nova Scotia, New Brunswick, Manitoba and British
+Columbia have supreme courts with appellate authority over decisions of
+single judges of the court and over inferior tribunals in the province.
+Appeals lie from the highest courts of each province, in civil matters,
+to the Supreme Court of Canada, or to the king in council in cases
+falling within the orders in council applying to each province, but in
+criminal matters to the king in council. From the Supreme Court of
+Canada no appeal lies as of right to the king in council (Dominion Act
+1875, 38 Vic. c. 11, § 47), and the royal prerogative of granting
+special leave to appeal is sparingly exercised. The principles on which
+the judicial committee acts in advising for or against the grant of
+special leave in civil case& are stated in _Daily Telegraph Newspaper
+Co._ v. _M'Laughlin_, 1904, L.R. A.C. 776. It is, however, as before,
+quite common for appeals to be brought direct to the privy council from
+the provincial courts without resort to the Dominion court (see Wheeler,
+_Privy Council Law_, p. 955).
+
+_Australia._--Each of the states of the Australian Commonwealth has its
+own supreme court. The Commonwealth parliament constituted in 1903 a
+High Court for Australia, which, besides its original federal
+jurisdiction, is also a court of appeal from the supreme courts of the
+constitutional states, or from any state court from which an appeal lay
+to the king in council at the establishment of the Commonwealth. The
+jurisdiction of the court is defined by the Judiciary Act of 1903, by
+which it is created. The right of appeal is given both as to criminal
+and civil matters.
+
+_South Africa._--In Cape Colony and Natal the appellate courts are the
+supreme courts, subject to further appeal in certain cases to the king
+in council. The superior courts of Cape Colony are empowered to review
+the proceedings of all inferior courts in the colony and its
+dependencies in cases where no appeal lies. There was for a time an
+appeal from the High Court of Orange River Colony to the supreme court
+of the Transvaal, and from that court (whether acting for its own colony
+or on appeal from the Orange Colony), an appeal to the king in council.
+In other colonies the provisions as to appeal follow more or less
+closely the lines of English law and procedure as to appeals, and in all
+cases the ultimate appeal is to the king in council.
+
+_United States._--In the American courts the term "appeal" covers (1) a
+removal of a cause to a higher court for retrial on all the questions of
+law or fact involved, or (2) taking up points of law only by proceedings
+in error, for revision by a higher court. Decrees in admiralty,
+bankruptcy and equity, in the federal courts, are the subjects of an
+appeal; judgments in actions at law, of a writ of error. On an equity
+appeal the evidence taken at the original hearing is reported at length
+to the appellate court, and it has the right to review the conclusions
+of fact reached by the court below and come to different ones. This,
+however, is seldom done, the appeal being almost always decided on
+points of law based upon the conclusions of fact reached in the original
+hearing. In admiralty appeals the conclusions of fact reached by the
+trial court are specially set forth, and are final.
+
+"Appeal" in many of the states is the general term for reviewing any
+judgment of an inferior court on assignments of error. It is also often
+used to signify a mode of reviewing proceedings of municipal bodies,
+affecting the interests of particular persons, e.g. in matters of
+licences or assessments.
+
+In criminal prosecutions an appeal, or writ of error on points of law,
+is almost everywhere allowed by statute to the defendant, and often to
+the state. (_United States_ v. _Sanges_, 144 United States Reports, 310;
+_State_ v. _Lee_, 65 Connecticut Reports, 265.)
+
+By the constitution of the United States the Supreme Court is vested
+with "appellate jurisdiction, both as to law and fact, with such
+exceptions, and under such regulations, as the Congress shall make."
+This provision is held not to create but only to authorize the creation
+of the jurisdiction. In the words of Chancellor Kent, "If congress had
+not provided any rule to regulate the proceedings in appeal, the court
+could not exercise an appellate jurisdiction: and, if a rule be
+provided, the court could not depart from it." In pursuance of this
+principle, the Supreme Court decided in _Clarke_ v. _Bazadone_ that a
+writ of error did not lie to that court from a court of the United
+States territory north-west of the Ohio, because the act had not
+authorized an appeal or writ of error from such a court (_Commentaries_,
+i. 324). The appellate jurisdiction of the court is now regulated by
+title 13 chap. ii. of the Revised Statutes of the United States (1873),
+§§ 690-710; and by the acts enumerated at p. 901 of the Revised
+Statutes, United States, 1873 to 1891. Under these statutes the Supreme
+Court may entertain appeals from the highest court of a state of the
+Union, but only (1) where the state court has decided against the
+validity of a treaty or statute of the United States, or of an authority
+exercised under the United States; (2) where a state court has affirmed
+the validity of a statute, or of an authority exercised which has been
+challenged on the ground of repugnance to the constitution, laws or
+treaties of the United States; (3) where the state court has decided
+against the existence of a title, right, privilege, or immunity claimed
+or set up under the constitution of, or under any statute, treaty,
+commission or authority of the United States.
+
+The appeal from state courts is by writ of error, i.e. on law only; and
+applies as well in criminal as in civil cases. The Supreme Court will
+not act unless the federal question was raised in the court below
+(_Chicago U.S. Mail Co._ v. _McGuire_, 1904, 196, U.S. 128). The circuit
+court of appeals, established in 1891, deals with appeals from the
+district and circuit courts of the United States, except where other
+provision is made, e.g. where the jurisdiction of the court appealed
+from is in question; in prize causes and convictions of capital crimes
+(U.S. Statutes, 1801, c. 54. § 5); in cases involving the construction
+or application of the constitution; in cases arising in district or
+circuit courts involving the constitutional questions already stated as
+subject of appeal from state courts.
+
+The review by the circuit court of appeals is effected by appeal or by
+writ of error, and its decision is final, with certain exceptions but
+with power to certify cases to the Supreme Court for instructions (1891,
+c. 511, § 6).
+
+The Supreme Court hears appeals from the circuit court of appeals within
+the limits above stated, and appeals from the circuit and district
+courts in cases in which an appeal does not lie to the circuit court of
+appeals, and has power to issue a _certiorari_ to transfer a case from
+the circuit court of Appeals.     (W. F. C.)

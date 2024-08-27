@@ -1,0 +1,189 @@
+APTERA (Greek for "wingless"), a term in zoological classification
+applied by Linnaeus to various groups of wingless arthropods, including
+some of the insects, the centipedes, the millipedes, the Arachnida
+(scorpions, spiders, &c.) and the Crustacea. In modern zoology the term
+has become restricted to the lowest order of the class Hexapoda or true
+insects. This order includes the bristle-tails and the springtails.
+
+[Illustration: From _Knowledge_
+
+FIG. 1.--A typical Thysanuran (_Machilus maritima_). Female, ventral
+view.
+
+  ii.-x., Appendages on 2nd to 10th abdominal segments. The eversible
+    sacs on the abdominal segments are shown, some protruded and some
+    retracted.
+  Ovp, Ovipositor.
+  Mn, Mandible, and Mxl, maxillula, dissected out of head.]
+
+Many wingless insects--such as lice, fleas and certain earwigs and
+cockroaches--are placed in various orders together with winged insects
+to which they show evident relationships. In such cases the absence of
+wings must be regarded as secondary--due to a parasitic or other special
+manner of life. But the bristle-tails and springtails, which form the
+modern order Aptera, are all without any trace of wings, and, on account
+of several remarkable archaic characters which they exhibit, there is
+reason for believing that they are primitively wingless--that they
+represent an early offshoot which sprang from the ancestral stock of the
+Hexapoda before organs of flight had been acquired by the class.
+
+_Characters._--In addition to the complete absence of wings and of
+metamorphosis, the Aptera are characterized by peculiar elongate
+mandibles (figs. 1, Mn.; 2, 4), with toothed apex and sub-apical
+grinding surface, like those of certain Crustacea; by the presence
+between the mandibles and maxillae of a pair of appendages (superlinguae
+or maxillulae), fig. 1, Mxl., which are absent or vestigial in all other
+insects; and, in most genera, by the presence in the adult of abdominal
+appendages used for locomotion, these latter varying in number from one
+to nine pairs. Among peculiarities of the internal organs the segmental
+arrangement of the ovaries in most members of the order is noteworthy.
+Many Aptera are covered with flattened scales like those of moths.
+
+_Classification._--The Aptera are divided into two divergent sub-orders,
+the _Thysanura_ (q.v.) or bristle-tails, and the _Collembola_ or
+springtails.
+
+_Thysanura._--The bristle-tails have an abdomen of eleven segments, the
+tenth usually carrying a pair of long many-jointed tail-feelers (cerci,
+fig. 1, x.); sometimes a median, jointed tail-appendage is also present.
+To these feelers the popular name is due. There may also be abdominal
+appendages--in the form of simple unjointed stylets (fig. 1, ii.-ix.),
+accompanied by paired eversible sacs, probably respiratory in
+function--on eight (or fewer) other abdominal segments. The head of a
+bristle-tail carries a pair of compound eyes and a pair of elongate
+many-jointed feelers.
+
+The air-tube system is developed in varying degree in different
+bristle-tails, the number of pairs of spiracles being three
+(_Campodea_), nine (_Machilis_), ten (_Lepisma_), or eleven (_Japyx_).
+
+Four families of Thysanura are usually recognized. In the _Machilidae_
+and _Lepismidae_ (these two families are known as the Ectotrophi) the
+maxillae are like those of typical biting insects, and there is a median
+tail-bristle in addition to the paired cerci; while in the _Campodeidae_
+and _Japygidae_ (which form the group Entotrophi) the jaws are
+apparently sunk in the head, through a deep inpushing at the mouth, and
+there is no median tail-bristle. The cerci in _Japyx_ are not, as usual,
+jointed feelers, but strong, curved appendages forming a forceps as in
+earwigs.
+
+[Illustration: From Carpenter, _Proc. R. Dub. Soc._, vol. xi.
+
+FIG. 2.--Structure of Collembola.
+
+  1. _Isotoma hibernica_. Side view.
+  2.        "             Ocelli and post-antennal organ of right side.
+  3.        "             Tip of terminal antennal segment with antennal
+                            organ.
+  4.        "             Mandible.
+  5.        "             Tip of left dens with mucro. Outer view.
+  6.        "             Hind-foot with claws. × 240.
+  7. _Entomobrya anomala_. Catch.]
+
+_Collembola._--In springtails, or _Collembola_, the jaws are sunk into
+the head, as in the entotrophous Thysanura; the head carries a pair of
+feelers with not more than six (usually four) segments, and there are
+eight (or fewer) distinct simple eyes on each side of the head (fig. 2,
+1, 2). These are in some genera like the single elements (_ommatidia_)
+of a compound insect eye, in others like simple ocelli. The abdomen
+consists of six segments only. The first of these usually carries a
+ventral tube, furnished with paired eversible sacs which assist the
+insects in walking on smooth surfaces, and perhaps serve also as organs
+for breathing. From the researches of V. Willem it appears that the
+viscid fluid which causes the adherence of the ventral tube is secreted
+by a pair of glands in the head whose ducts open into a superficial
+groove leading from the second maxillae backward to the tube on the
+first abdominal segment. The third abdominal segment usually carries a
+pair of short appendages whose basal segments are fused together; this
+is the "catch" (fig. 2, 7), whose function is to hold in place the
+"spring," which is formed by the fourth pair of abdominal
+appendages--also with fused basal segments. In most Collembola the
+spring appears to belong to the fifth abdominal somite, but Willem, by
+study of the muscles, has shown that it really belongs to the fourth.
+The fused basal segments of the appendages form the "manubrium" of the
+spring, which carries the two "dentes" (usually elongate and flexible),
+each with a "mucro" at its tip (fig. 2, 5). The fifth abdominal segment
+is the genital, and the sixth the anal somite.
+
+The spring serves the Collembola which possess it as an efficient
+leaping-organ (see SPRINGTAIL). But in some genera it is greatly reduced
+and in many quite vestigial.
+
+Most springtails are without air-tubes, and breathe through the general
+cuticle of the body. But in one family (_Sminthuridae_) a spiracle,
+opening on either side between the head and the prothorax, leads to a
+branching system of air-tubes. The _Sminthuridae_ are further
+characterized by the globular abdomen, which shows but little external
+trace of segmentation, and by the well-developed spring.
+
+In the _Entomobryidae_ the body is elongate and clearly segmented, but
+the dorsal region (tergum) of the prothorax is much reduced and the head
+downwardly directed; the spring is well developed. In the _Achorutidae_
+the head is forwardly directed, the tergum of the prothorax conspicuous,
+and the spring small or vestigial.
+
+In many genera of springtails a curious post-antennal organ, consisting
+of sensory structures (often complex in form) surrounded by a firm ring,
+is to be noticed on the cuticle of the head between the eyes and the
+feelers. It may be of use as an organ of smell. Other sensory organs
+occur on the third and fourth antennal segments in the _Achorutidae_ and
+_Entomobryidae_ (fig. 2, 3).
+
+_Distribution and Habits._--The Aptera are probably the most widely
+distributed of all insects. Among the bristle-tails we find the genus
+_Machilis_, represented in Europe (including the Faeroe Islands) and in
+Chile; while _Campodea_ lives high on the mountains and in the deepest
+caves. The springtails have even a wider distribution. The genus
+_Isotoma_, for example, has some of its numerous species in regions so
+remote as Alaska, Franz Josef Land, the Sandwich Islands, the South
+Orkneys, Graham Land, Kerguelen and South Victoria Land. As it is
+unlikely that these delicate insects could be transported across
+sea-channels, their wide and discontinuous range suggests both their
+great antiquity and the former existence of continental tracts over
+which they may have travelled to their present stations.
+
+Springtails and bristle-tails live in damp concealed places--under
+stones or tree-bark, in moss, and in the decaying vegetable or animal
+matter which serves as food for most of them. Some species, however, eat
+fresh plant-tissues. A species of bristle-tail (_Machilis maritima_) and
+quite a number of springtails haunt the sea-coast at or below high-water
+mark. In such localities many thousands of individuals may sometimes be
+found associated together. The insect fauna of limestone caves both in
+Europe and North America is largely composed of Aptera, especially
+Collembola.
+
+_Geological History._--A supposed Thysanuran from the Silurian of New
+Brunswick has been described by G.F. Matthew, and another genus from the
+French Carboniferous by C. Brongniart. Not till the Tertiary do we find
+remains of Aptera in any quantity, species both of living and extinct
+genera being represented in the amber.
+
+_Development._--The embryonic development of several genera of Aptera,
+which has been carefully studied, will be more suitably described in
+comparison with that of other insects than here (see HEXAPODA).
+
+  BIBLIOGRAPHY.--The modern study of the Aptera may be said to date from
+  the classical memoirs of T. Tullberg, "Sveriges Podurider," in _Kongl.
+  Svensk Vetensk. Akad. Handl._ x., 1872, and Sir J. Lubbock (Lord
+  Avebury), "Monograph of the Collembola and Thysanura," _Ray Society_,
+  1873. In these, full references to the older literature will be found.
+  Subsequently our knowledge of the Thysanura has been markedly advanced
+  by J.T. Oudemans, _Bijdrage tot de Kennis den Thysanura en Collembola_
+  (Amsterdam, 1888); B. Grassi, who published between 1885 and 1889 a
+  series of memoirs entitled "I progenitori dei Miriapodi e degli
+  Insetti," in the _Atti Accad. di Scienz. Nat. Catania_, and the
+  _Memor. R. Accad. dei Lincei_; and V. Willem, whose "Recherches sur
+  les Collemboles et les Thysanoures," in _Mem. Cour. Acad. Roy.
+  Belgique_, lviii., 1900, are indispensable to the student. In addition
+  to this work of Willem, valuable anatomical papers on Collembola have
+  been published by H.J. Hansen (_Zool. Anz._ xvi., 1893), J.W. Folsom
+  (_Bull. Mus. Comp. Anat. Harv._ xxxv., 1899), C. Börner (_Zool. Anz._
+  xxiii., 1900), and K. Absolon (_Zool. Anz._ xxiii. and xxiv., 1900,
+  1901), the two latter writers having paid especial attention to the
+  peculiar post-antennal and antennal sense-organs of springtails.
+  Absolon has also written on the Collembola of caves. These writers,
+  with H. Schött, C. Schäffer and others, have published many systematic
+  papers on Collembola, as has F. Silvestri on Thysanura. British
+  species are mentioned in Lubbock's monograph; for recent additions see
+  G.H. Carpenter and W. Evans (_Proc. R. Phys. Soc. Edinb._ xiv., 1899,
+  and xv., 1903).     (G. H. C.)

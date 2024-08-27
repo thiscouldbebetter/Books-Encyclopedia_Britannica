@@ -1,0 +1,43 @@
+ANOMALY (from Gr. [Greek: anomalia], unevenness, derived from [Greek:
+an-], privative, and [Greek: homalos], even), a deviation from the
+common rule. In astronomy the word denotes the angular distance of a
+body from the pericentre of the orbit in which it is moving. Let AB be
+the major axis of the orbit, B the pericentre, F the focus or centre of
+motion, P the position of the body. The anomaly is then the angle BFP
+which the radius vector makes with the major axis. This is the actual or
+_true anomaly_. _Mean anomaly_ is the anomaly which the body would have
+if it moved from the pericentre around F with a uniform angular motion
+such that its revolution would be completed in its actual time (see
+ORBIT). _Eccentric anomaly_ is defined thus:--Draw the circumscribing
+circle of the elliptic orbit around the centre C of the orbit. Drop the
+perpendicular RPQ through P, the position of the planet, upon the major
+axis. Join CR; the angle CRQ is then the eccentric anomaly.
+
+[Illustration]
+
+In the ancient astronomy the anomaly was taken as the angular distance
+of the planet from the point of the farthest recession from the earth.
+
+_Kepler's Problem_, namely, that of finding the co-ordinates of a planet
+at a given time, which is equivalent--given the mean anomaly--to that of
+determining the true anomaly, was solved approximately by Kepler, and
+more completely by Wallis, Newton and others.
+
+The anomalistic revolution of a planet or other heavenly body is the
+revolution between two consecutive passages through the pericentre.
+Starting from the pericentre, it is completed on the return to the
+pericentre. If the pericentre is fixed, this is an actual revolution;
+but if it moves the anomalistic revolution is greater or less than a
+complete circumference.
+
+An _Anomalistic year_ is the time (365 days, 6 hours, 13 minutes, 48
+seconds) in which the earth (and similarly for any other planet) passes
+from perihelion to perihelion, or from any given value of the anomaly to
+the same again. Owing to the precession of the equinoxes it is longer
+than a tropical or sidereal year by 25 minutes and 2.3 seconds. An
+_Anomalistic month_ is the time in which the moon passes from perigee to
+perigee, &c.
+
+  For the mathematics of Kepler's problem see E.W. Brown, _Lunar Theory_
+  (Cambridge 1896), or the work of Watson or of Bauschinger on
+  Theoretical Astronomy.

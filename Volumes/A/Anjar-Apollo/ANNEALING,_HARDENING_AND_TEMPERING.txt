@@ -1,0 +1,218 @@
+ANNEALING, HARDENING AND TEMPERING. Annealing (from the prefix _an_, and
+the old English _aélan_, to burn or bake; the meaning has probably also
+been modified from the French _nieler_, to enamel black on gold or
+silver, from the med. Lat. _nigellare_, to make black; cf. _niello_) is
+a process of treating a metal or alloy by heat with the object of
+imparting to it a certain condition of ductility, extensibility, or a
+certain grade of softness or hardness, with all that is involved in and
+follows from those conditions. The effect may be mechanical only, or a
+chemical change may take place also. Sometimes the causes are obvious,
+in other cases they are more or less obscure. But of the actual facts,
+and the immense importance of this operation as well as of the related
+ones of tempering and hardening in shop processes, there is no question.
+
+When the treatment is of a mechanical character only, there can be no
+reasonable doubt that the common belief is correct, namely, that the
+metallic crystals or fibres undergo a molecular rearrangement of some
+kind. When it is of a chemical character, the process is one of
+cementation, due to the occlusion of gases in the molecules of the
+metals.
+
+Numerous examples of annealing due to molecular rearrangement might be
+selected from the extensive range of workshop operations. The following
+are a few only:--when a boiler-maker bends the edges of a plate of steel
+or iron by hammer blows (flanging), he does so in successive stages
+(heats), at each of which the plate has to be reheated, with inevitable
+cooling down during the time work is being done upon it. The result is
+that the plate becomes brittle over the parts which have been subjected
+to this treatment; and this brittleness is not uniformly distributed,
+but is localized, and is a source of weakness, inducing a liability to
+crack. If, however, the plate when finished is raised to a full red
+heat, and allowed to cool down away from access of cool air, as in a
+furnace, or underneath wood ashes, it resumes its old ductility. The
+plate has been annealed, and is as safe as it was before it was flanged.
+Again, when a sheet of thin metal is forced to assume a shape very
+widely different from its original plane aspect, as by hammering, or by
+drawing out in a press--a cartridge case being a familiar example--it is
+necessary to anneal it several times during the progress of the
+operation. Without such annealing it would never arrive at the final
+stage desired, but would become torn asunder by the extension of its
+metallic fibres. Cutting tools are made of steel having sufficient
+carbon to afford capacity for hardening. Before the process is
+performed, the condition in which the carbon is present renders the
+steel so hard and tough as to render the preliminary turning or shaping
+necessary in many cases (e.g. in milling cutters) a tedious operation.
+To lessen this labour, the steel is first annealed. In this case it is
+brought to a low red heat, and allowed to cool away from the air. It can
+then be machined with comparative ease and be subsequently hardened or
+tempered. When a metallic structure has endured long service a state of
+fatigue results. Annealing is, where practicable, resorted to in order
+to restore the original strength. A familiar illustration is that of
+chains which are specially liable to succumb to constant overstrain if
+continued for only a year or two. This is so well known that the
+practice is regularly adopted of annealing the chains at regular
+intervals. They are put into a clear hot furnace and raised to a low red
+heat, continued for a few hours, and then allowed to cool down in the
+furnace after the withdrawal of the source of heat. Before the annealing
+the fracture of a link would be more crystalline than afterwards.
+
+In these examples, and others of which these are typical, two conditions
+are essential, one being the grade of temperature, the other the
+cooling. The temperature must never be so high as to cause the metal to
+become overheated, with risk of burning, nor so low as to prevent the
+penetration of the substance with a good volume of heat. It must also be
+continued for sufficient time. More than this cannot be said. Each
+particular piece of work requires its own treatment and period, and
+nothing but experience of similar work will help the craftsman. The
+cooling must always be gradual, such as that which results from removing
+the source of heat, as by drawing a furnace fire, or covering with
+non-conducting substances.
+
+The chemical kind of annealing is specifically that employed in the
+manufacture of malleable cast iron. In this process, castings are made
+of white iron,--a brittle quality which has its carbon wholly in the
+combined state. These castings, when subjected to heat for a period of
+ten days or a fortnight, in closed boxes, in the presence of substances
+containing oxygen, become highly ductile. This change is due to the
+absorption of the carbon by the oxygen in the cementing material, a
+comparatively pure soft iron being left behind. The result is that the
+originally hard, brittle castings after this treatment may be cut with a
+knife, and be bent double and twisted into spirals without fracturing.
+
+The distinction between _hardening_ and _tempering_ is one of degree
+only, and both are of an opposite character to annealing. Hardening, in
+the shop sense, signifies the making of a piece of steel about as hard
+as it can be made--"glass hard"--while tempering indicates some stage in
+an infinite range between the fully hardened and the annealed or
+softened condition. As a matter of convenience only, hardening is
+usually a stage in the work of tempering. It is easier to harden first,
+and "let down" to the temper required, than to secure the exact heat for
+tempering by raising the material to it. This is partly due to the long
+established practice of estimating temperature by colour tints; but this
+is being rapidly invaded by new methods in which the temper heat is
+obtained in furnaces provided with pyrometers, by means of which exact
+heat regulation is readily secured, and in which the heating up is done
+gradually. Such furnaces are used for hardening balls for bearings,
+cams, small toothed wheels and similar work, as well as for tempering
+springs, milling cutters and other kinds of cutting tools. But for the
+cutting tools having single edges, as used in engineers' shops, the
+colour test is still generally retained.
+
+In the practice of hardening and tempering tools by colour, experience
+is the only safe guide. Colour tints vary with degrees of light; steels
+of different brands require different treatment in regard to temperature
+and quenching; and steels even of identical chemical composition do not
+always behave alike when tempered. Every fresh brand of steel has,
+therefore, to be treated at first in a tentative and experimental
+fashion in order to secure the best possible results. The larger the
+masses of steel, and the greater the disparity in dimensions of adjacent
+parts, the greater is the risk of cracking and distortion. Excessive
+length and the presence of keen angles increase the difficulties of
+hardening. The following points have to be observed in the work of
+hardening and tempering.
+
+A grade of steel must be selected of suitable quality for the purpose
+for which it has to be used. There are a number of such grades, ranging
+from about 1½ to ½% content of carbon, and each having its special
+utility. Overheating must be avoided, as that burns the steel and
+injures or ruins it. A safe rule is never to heat any grade of steel to
+a temperature higher than that at which experience proves it will take
+the temper required. Heating must be regular and thorough throughout,
+and must therefore be slowly done when dealing with thick masses.
+Contact with sulphurous fuel must be avoided. Baths of molten alloys of
+lead and tin are used when very exact temperatures are required, and
+when articles have thick and thin parts adjacent. But the gas furnaces
+have the same advantages in a more handy form. Quenching is done in
+water, oil, or in various hardening mixtures, and sometimes in solids.
+Rain water is the principal hardening agent, but various saline
+compounds are often added to intensify its action. Water that has been
+long in use is preferred to fresh. Water is generally used cold, but in
+many cases it is warmed to about 80° F., as for milling cutters and
+taps, warmed water being less liable to crack the cutters than cold. Oil
+is preferred to water for small springs, for guns and for many cutters.
+Mercury hardens most intensely, because it does not evaporate, and so
+does lead or wax for the same reason; water evaporates, and in the
+spheroidal state, as steam, leaves contact with the steel. This is the
+reason why long and large objects are moved vertically about in the
+water during quenching, to bring them into contact with fresh cold
+water.
+
+There is a good deal of mystery affected by many of the hardeners, who
+are very particular about the composition of their baths, various oils
+and salts being used in an infinity of combinations. Many of these are
+the result of long and successful experience, some are of the nature of
+"fads." A change of bath may involve injury to the steel. The most
+difficult articles to harden are springs, milling cutters, taps,
+reamers. It would be easy to give scores of hardening compositions.
+
+Hardening is performed the more efficiently the more rapidly the
+quenching is done. In the case of thick objects, however, especially
+milling cutters, there is risk of cracking, due to the difference of
+temperature on the outside and in the central body of metal. Rapid
+hardening is impracticable in such objects. This is the cause of the
+distortion of long taps and reamers, and of their cracking, and explains
+why their teeth are often protected with soft soap and other substances.
+
+The presence of the body of heat in a tool is taken advantage of in the
+work of tempering. The tool, say a chisel, is dipped, a length of 2 in.
+or more being thus hardened and blackened. It is then removed, and a
+small area rubbed rapidly with a bit of grindstone, observations being
+made of the changing tints which gradually appear as the heat is
+communicated from the hot shank to the cooled end. The heat becomes
+equalized, and at the same time the approximate temperature for
+quenching for temper is estimated by the appearance of a certain tint;
+at that instant the article is plunged and allowed to remain until quite
+cold. For every different class of tool a different tint is required.
+
+"Blazing off" is a particular method of hardening applied to small
+springs. The springs are heated and plunged in oils, fats, or tallow,
+which is burned off previous to cooling in air, or in the ashes of the
+forge, or in oil, or water usually. They are hardened, reheated and
+tempered, and the tempering by blazing off is repeated for heavy
+springs. The practice varies almost infinitely with dimensions, quality
+of steel, and purpose to which the springs have to be applied.
+
+The range of temper for most cutting tools lies between a pale straw or
+yellow, and a light purple or plum colour. The corresponding range of
+temperatures is about 430° F. to 530° F., respectively. "Spring temper"
+is higher, from dark purple to blue, or 550° F. to 630° F. In many fine
+tools the range of temperature possible between good and poor results
+lies within from 5° to 10° F.
+
+There is another kind of hardening which is of a superficial character
+only--"case hardening." It is employed in cases where toughness has to
+be combined with durability of surface. It is a cementation process,
+practised on wrought iron and mild steel, and applied to the link
+motions of engines, to many pins and studs, eyes of levers, &c. The
+articles are hermetically luted in an iron box, packed with nitrogenous
+and saline substances such as potash, bone dust, leather cuttings, and
+salt. The box is placed in a furnace, and allowed to remain for periods
+of from twelve to thirty-six hours, during which period the surface of
+the metal, to a depth of 1/32 to 1/16 in., is penetrated by the
+cementing materials, and converted into steel. The work is then thrown
+into water and quenched.
+
+[Illustration: FIG. 1.--Automatic Oil Muffle Furnace.]
+
+A muffle furnace, employed for annealing, hardening and tempering is
+shown in fig. 1; the heat being obtained by means of petroleum, which is
+contained in the tank A, and is kept under pressure by pumping at
+intervals with the wooden handle, so that when the valve B is opened the
+oil is vaporized by passing through a heating coil at the furnace
+entrance, and when ignited burns fiercely as a gas flame. This passes
+into the furnace through the two holes, C, C, and plays under and up
+around the muffle D, standing on a fireclay slab. The doorway is closed
+by two fireclay blocks at E. A temperature of over 2000° F. can be
+obtained in furnaces of this class, and the heat is of course under
+perfect control.
+
+[Illustration: FIG. 2.--Reverbatory Furnace.]
+
+A reverberatory type of gas furnace, shown in fig. 2, differs from the
+oil furnace in having the flames brought down through the roof, by pipes
+A, A, A, playing on work laid on the fireclay slab B, thence passing
+under this and out through the elbow-pipe C. The hinged doors, D, give a
+full opening to the interior of the furnace. It will be noticed in both
+these furnaces (by Messrs Fletcher, Russell & Co., Ltd.) that the iron
+casing is a mere shell, enclosing very thick firebrick linings, to
+retain the heat effectively. (J. G. H.)

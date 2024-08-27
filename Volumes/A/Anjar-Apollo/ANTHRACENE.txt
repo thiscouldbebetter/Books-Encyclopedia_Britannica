@@ -1,0 +1,80 @@
+ANTHRACENE (from the Greek [Greek: anthrax], coal), C14H10, a
+hydrocarbon obtained from the fraction of the coal-tar distillate
+boiling between 270° and 400° C. This high boiling fraction is allowed
+to stand for some days, when it partially solidifies. It is then
+separated in a centrifugal machine, the low melting-point impurities are
+removed by means of hot water, and the residue is finally hot-pressed.
+The crude anthracene cake is purified by treatment with the higher
+pyridine bases, the operation being carried out in large steam-jacketed
+boilers. The whole mass dissolves on heating, and the anthracene
+crystallizes out on cooling. The crystallized anthracene is then removed
+by a centrifugal separator and the process of solution in the pyridine
+bases is repeated. Finally the anthracene is purified by sublimation.
+
+Many synthetical processes for the preparation of anthracene and its
+derivatives are known. It is formed by the condensation of acetylene
+tetrabromide with benzene in the presence of aluminium chloride:--
+
+        Br·CH·Br                     /CH\
+  C6H6 +   |    + C6H6 = 4HBr + C6H4< |  >C6H4,
+        Br·CH·Br                     \CH/
+
+and similarly from methylene dibromide and benzene, and also when benzyl
+chloride is heated with aluminium chloride to 200° C. By condensing
+ortho-brombenzyl bromide with sodium, C.L. Jackson and J.F. White
+(_Ber_., 1879, 12, p. 1965) obtained dihydro-anthracene
+
+       /CH2Br           Br\                     /CH2\
+  C6H4<       + 4Na +      >C6H4 = 4NaBr + C6H4<     >C6H4.
+       \Br           BrCH2/                     \CH2/
+
+Anthracene has also been obtained by heating ortho-tolylphenyl ketone
+with zinc dust
+
+       /CH8                 /CH \
+  C6H4<        = H2O + C6H4<  |  >C6H4.
+       \COC6H5              \CH /
+
+Anthracene crystallizes in colourless monoclinic tables which show a
+fine blue fluorescence. It melts at 213° C. and boils at 351° C. It is
+insoluble in water, sparingly soluble in alcohol and ether, but readily
+soluble in hot benzene. It unites with picric acid to form a picrate,
+C14H10·C6H2(NO2)3·OH, which crystallizes in needles, melting at 138° C.
+On exposure to sunlight a solution of anthracene in benzene or xylene
+deposits para-anthracene (C14H10)2, which melts at 244° C. and passes
+back into the ordinary form. Chlorine and bromine form both addition and
+substitution products with anthracene; the addition product, anthracene
+dichloride, C14H10Cl2, being formed when chlorine is passed into a cold
+solution of anthracene in carbon bisulphide. On treatment with potash,
+it forms the substitution product, monochlor-anthracene, C14H9Cl.
+Nitro-anthracenes are not as yet known. The mono-oxyanthracenes
+(anthrols), C14H9OH or
+
+       /CH\
+  C6H4<  | >C6H3OH
+       \CH/
+
+([alpha]) and ([beta]) resemble the phenols, whilst
+
+       /C(OH)\
+  C6H4<  |    >C6H4
+       \CH   /
+
+([gamma]) (anthranol) is a reduction product of anthraquinone.
+[beta]-anthrol and anthranol give the corresponding amino compounds
+(anthramines) when heated with ammonia.
+
+Numerous sulphonic acids of anthracene are known, a monosulphonic acid
+being obtained with dilute sulphuric acid, whilst concentrated sulphuric
+acid produces mixtures of the anthracene disulphonic acids. By the
+action of sodium amalgam on an alcoholic solution of anthracene, an
+anthracene dihydride, C14H12, is obtained, whilst by the use of stronger
+reducing agents, such as hydriodic acid and amorphous phosphorus,
+hydrides of composition C14H16 and C14H24 are produced.
+
+Methyl and phenyl anthracenes are known; phenyl anthranol (phthalidin)
+being somewhat closely related to the phenolphthaleins (q.v.). Oxidizing
+agents convert anthracene into anthraquinone (q.v.); the production of
+this substance by oxidizing anthracene in glacial acetic acid solution,
+with chromic acid, is the usual method employed for the estimation of
+anthracene.

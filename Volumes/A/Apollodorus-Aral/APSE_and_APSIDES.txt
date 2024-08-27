@@ -1,0 +1,5 @@
+APSE and APSIDES, in mechanics, either of the two points of an orbit
+which are nearest to and farthest from the centre of motion. They are
+called the lower or nearer, and the higher or more distant apsides
+respectively. The "line of apsides" is that which joins them, forming
+the major axis of the orbit.

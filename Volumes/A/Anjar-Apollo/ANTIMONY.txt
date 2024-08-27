@@ -1,0 +1,333 @@
+ANTIMONY (symbol Sb, atomic weight 120.2), one of the metallic chemical
+elements, included in the same natural family of the elements as
+nitrogen, phosphorus, arsenic, and bismuth. Antimony, in the form of its
+sulphide, has been known from very early times, more especially in
+Eastern countries, reference to it being made in the Old Testament. The
+Arabic name for the naturally occurring stibnite is "kohl"; Dioscorides
+mentions it under the term [Greek: stimmi], Pliny as _stibium_; and
+Geber as _antimonium_. By the German writers it is called _Speissglanz_.
+Basil Valentine alludes to it in his _Triumphal Car of Antimony_ (circa
+1600), and at a later date describes the preparation of the metal.
+
+Native mineral antimony is occasionally found, and as such was first
+recognized in 1748. It usually occurs as lamellar or glanular masses,
+with a tin-white colour and metallic lustre, in limestone or in mineral
+veins often in association with ores of silver. Distinct crystals are
+rarely met with; these are rhombohedral and isomorphous with arsenic and
+bismuth; they have a perfect cleavage parallel to the basal plane, c
+(111), and are sometimes twinned on a rhombohedral plane, e (110).
+Hardness 3-3½ specific gravity 6.63-6.72. Sala in Sweden, Allemont in
+Dauphine, and Sarawak in Borneo may be mentioned as some of the
+localities for this mineral.
+
+Antimony, however, occurs chiefly as the sulphide, stibnite; to a much
+smaller extent it occurs in combination with other metallic sulphides in
+the minerals wolfsbergite, boulangerite, bournonite, pyrargyrite, &c.
+For the preparation of metallic antimony the crude stibnite is first
+liquated, to free it from earthy and siliceous matter, and is then
+roasted in order to convert it into oxide. After oxidation, the product
+is reduced by heating with carbon, care being taken to prevent any loss
+through volatilization, by covering the mass with a layer of some
+protective substance such as potash, soda or glauber salt, which also
+aids the refining. For rich ores the method of roasting the sulphide
+with metallic iron is sometimes employed; carbon and salt or sodium
+sulphate being used to slag the iron. Electrolytic methods, in which a
+solution of antimony sulphide in sodium sulphide is used as the
+electrolyte, have been proposed (see German Patent 67973, and also
+Borcher's _Electro-Metallurgie_), but do not yet appear to have been
+used on the large scale.
+
+Antimony combines readily with many other metals to form alloys, some of
+which find extensive application in the arts. Type-metal is an alloy of
+lead with antimony and tin, to which occasionally a small quantity of
+copper or zinc is added. The presence of the antimony in this alloy
+gives to it hardness, and the property of expanding on solidification,
+thus allowing a sharp cast of the letter to be taken. An alloy of tin
+and antimony forms the basis of Britannia-metal, small quantities of
+copper, lead, zinc or bismuth being added. It is a white metal of bluish
+tint and is malleable and ductile. For the linings of brasses, various
+white metals are used, these being alloys of copper, antimony and tin,
+and occasionally lead.
+
+Antimony is a silvery white, crystalline, brittle metal, and has a high
+lustre. Its specific gravity varies from 6.7 to 6.86; it melts at 432°
+C. (Dalton), and boils between 1090-1600° C. (T. Carnelley), or above
+1300° (V. Meyer). Its specific heat is 0.0523 (H. Kopp). The vapour
+density of antimony at 1572° C. is 10.74, and at 1640° C. 9.78 (V.
+Meyer, _Berichte_, 1889, 22, p. 725), so that the antimony molecule is
+less complex than the molecules of the elements phosphorus and arsenic.
+An amorphous modification of antimony can be prepared by heating the
+metal in a stream of nitrogen, when it condenses in the cool part of the
+apparatus as a grey powder of specific gravity 6.22, melting at 614° C.
+and containing 98-99% of antimony (F. Herard, _Comptes Rendus_, 1888,
+cvii. 420).
+
+Another form of the metal, known as explosive antimony, was discovered
+by G. Gore (_Phil. Trans._, 1858, p. 185; 1859, p. 797; 1862, p. 623),
+on electrolysing a solution of antimony trichloride in hydrochloric
+acid, using a positive pole of antimony and a negative pole of copper or
+platinum wire. It has a specific gravity of 5.78 and always contains
+some unaltered antimony trichloride (from 6 to 20%, G. Gore). It is very
+unstable, a scratch causing it instantaneously to pass into the stable
+form with explosive violence and the development of much heat. Similar
+phenomena are exhibited in the electrolysis of solutions of antimony
+tribromide and tri-iodide, the product obtained from the tribromide
+having a specific gravity of 5.4, and containing 18-20% of antimony
+tribromide, whilst that from the tri-iodide has a specific gravity of
+5.2-5.8 and contains about 22% of hydriodic acid and antimony
+tri-iodide.
+
+The atomic weight of antimony has been determined by the analysis of the
+chloride, bromide and iodide. J.P. Cooke (_Proc. Amer. Acad._, 1878,
+xiii. i) and J. Bongartz (_Berichte_, 1883, 16, p. 1942) obtained the
+value 120, whilst F. Pfeiffer (_Ann. Chim. et Phys._ ccix. 173) obtained
+the value 121 from the electrolysis of the chloride.
+
+Pure antimony is quite permanent in air at ordinary temperatures, but
+when heated in air or oxygen it burns, forming the trioxide. It
+decomposes steam at a red heat, and burns (especially when finely
+powdered) in chlorine. Dilute hydrochloric acid is without action on it,
+but on warming with the concentrated acid, antimony trichloride is
+formed; it dissolves in warm concentrated sulphuric acid, the sulphate
+Sb2(SO4)3 being formed. Nitric acid oxidizes antimony either to the
+trioxide Sb4O6 or the pentoxide Sb2O5, the product obtained depending on
+the temperature and concentration of the acid. It combines directly with
+sulphur and phosphorus, and is readily oxidized when heated with
+metallic oxides (such as litharge, mercuric oxide, manganese dioxide,
+&c.). Antimony and its salts may be readily detected by the orange
+precipitate of antimony sulphide which is produced when sulphuretted
+hydrogen is passed through their acid solutions, and also by the Marsh
+test (see ARSENIC); in this latter case the black stain produced is not
+soluble in bleaching powder solution. Antimony compounds when heated on
+charcoal with sodium carbonate in the reducing flame give brittle beads
+of metallic antimony, and a white incrustation of the oxide. The
+antimonious compounds are decomposed on addition of water, with
+formation of basic salts.
+
+Antimony may be estimated quantitatively by conversion into the
+sulphide; the precipitate obtained is dried at 100° C. and heated in a
+current of carbon dioxide, or it may be converted into the tetroxide by
+nitric acid.
+
+Antimony, like phosphorus and arsenic, combines directly with hydrogen.
+The compound formed, antimoniuretted hydrogen or stibine, SbH3, may also
+be prepared by the action of hydrochloric acid on an alloy of antimony
+and zinc, or by the action of nascent hydrogen on antimony compounds. As
+prepared by these methods it contains a relatively large amount of
+hydrogen, from which it can be freed by passing through a tube immersed
+in liquid air, when it condenses to a white solid. It is a poisonous
+colourless gas, with a characteristic offensive smell. In its general
+behaviour it resembles arsine, burning with a violet flame and being
+decomposed by heat into its constituent elements. When passed into
+silver nitrate solution it gives a black precipitate of silver
+antimonide, SbAg3. It is decomposed by the halogen elements and also by
+sulphuretted hydrogen. All three hydrogen atoms are replaceable by
+organic radicals and the resulting compounds combine with compounds of
+the type RCl, RBr and RI to form stibonium compounds.
+
+  There are three known oxides of antimony, the trioxide Sb4O6 which is
+  capable of combining with both acids and bases to form salts, the
+  tetroxide Sb2O4 and the pentoxide Sb2O5. Antimony trioxide occurs as
+  the minerals valentinite and senarmontite, and can be artificially
+  prepared by burning antimony in air; by heating the metal in steam to
+  a bright red heat; by oxidizing melted antimony with litharge; by
+  decomposing antimony trichloride with an aqueous solution of sodium
+  carbonate, or by the action of dilute nitric acid on the metal. It is
+  a white powder, almost insoluble in water, and when volatilized,
+  condenses in two crystalline forms, either octahedral or prismatic. It
+  is insoluble in sulphuric and nitric acids, but is readily soluble in
+  hydrochloric and tartaric acids and in solutions of the caustic
+  alkalies. On strongly heating in air it is converted into the
+  tetroxide. The corresponding hydroxide, orthoantimonious acid,
+  Sb(OH)3, can be obtained in a somewhat impure form by precipitating
+  tartar emetic with dilute sulphuric acid; or better by decomposing
+  antimonyl tartaric acid with sulphuric acid and drying the
+  precipitated white powder at 100° C. Antimony tetroxide is formed by
+  strongly heating either the trioxide or pentoxide. It is a nonvolatile
+  white powder, and has a specific gravity of 6.6952; it is insoluble in
+  water and almost so in acids--concentrated hydrochloric acid
+  dissolving a small quantity. It is decomposed by a hot solution of
+  potassium bitartrate. Antimony pentoxide is obtained by repeatedly
+  evaporating antimony with nitric acid and heating the resulting
+  antimonic acid to a temperature not above 275° C.; by heating antimony
+  with red mercuric oxide until the mass becomes yellow (J. Berzelius);
+  or by evaporating antimony trichloride to dryness with nitric acid. It
+  is a pale yellow powder (of specific gravity 6.5), which on being
+  heated strongly gives up oxygen and forms the tetroxide. It is
+  insoluble in water, but dissolves slowly in hydrochloric acid. It
+  possesses a feeble acid character, giving metantimoniates when heated
+  with alkaline carbonates.
+
+  Orthoantimonic acid, H3SbO4, is obtained by the decomposition of its
+  potassium salt with nitric acid (A. Geuther); or by the addition of
+  water to the pentachloride, the precipitate formed being dried over
+  sulphuric acid (P. Conrad, _Chem. News_, 1879, xl. 198). It is a white
+  powder almost insoluble in water and nitric acid, and when heated, is
+  first converted into metantimonic acid, HSbO3, and then into the
+  pentoxide Sb2O5. Pyroantimonic acid, H4Sb2O7 (the metantimonic acid of
+  E. Frémy), is obtained by decomposing antimony pentachloride with hot
+  water, and drying the precipitate so obtained at 100° C. It is a white
+  powder which is more soluble in water and acids than orthoantimonic
+  acid. It forms two series of salts, of the types M2H2Sb2O7 and
+  M4Sb2O7. Metantimonic acid, HSbO3, can be obtained by heating
+  orthoantimonic acid to 175° C., or by long fusion of antimony with
+  antimony sulphide and nitre. The fused mass is extracted with water,
+  nitric acid is added to the solution, and the precipitate obtained
+  washed with water (J. Berzelius). It is a white powder almost
+  insoluble in water. On standing with water for some time it is slowly
+  converted into the ortho-acid.
+
+  Compounds of antimony with all the halogen elements are known, one
+  atom of the metal combining with three or five atoms of the halogen,
+  except in the case of bromine, where only the tribromide is known. The
+  majority of these halide compounds are decomposed by water, with the
+  formation of basic salts. Antimony trichloride ("Butter of Antimony"),
+  SbCl3, is obtained by burning the metal in chlorine; by distilling
+  antimony with excess of mercuric chloride; and by fractional
+  distillation of antimony tetroxide or trisulphide in hydrochloric acid
+  solution. It is a colourless deliquescent solid of specific gravity
+  3.06; it melts at 73.2° C. (H. Kopp) to a colourless oil; and boils at
+  223° (H. Capitaine). It is soluble in alcohol and in carbon
+  bisulphide, and also in a small quantity of water; but with an excess
+  of water it gives a precipitate of various oxychlorides, known as
+  powder of algaroth (q.v.). These precipitated oxychlorides on
+  continued boiling with water lose all their chlorine and ultimately
+  give a residue of antimony trioxide. It combines with chlorides of the
+  alkali metals to form double salts, and also with barium, calcium,
+  strontium, and magnesium chlorides. Antimony pentachloride, SbCl5 is
+  prepared by heating the trichloride in a current of chlorine. It is a
+  nearly colourless fuming liquid of unpleasant smell, which can be
+  solidified to a mass of crystals melting at -6°C. It dissociates into
+  the trichloride and chlorine when heated. It combines with water,
+  forming the hydrates SbCl5·H2O and SbCl5·4H2O; it also combines with
+  phosphorus oxychloride, hydrocyanic acid, and cyanogen chloride. In
+  chloroform solution it combines with anhydrous oxalic acid to form a
+  compound, Sb2Cl8(C2O4), which is to be considered as
+  tetra-chlorstibonium oxalate
+
+    COOSbCl4
+    |
+    COOSbCl4
+
+  (R. Anschütz and Evans, _Annalen_, 1887, ccxxxix. 235). Antimonyl
+  chloride, SbOCl, is produced by the decomposition of one part of the
+  trichloride with four parts of water. Prepared in this way it contains
+  a small quantity of the unaltered chloride, which can be removed by
+  ether or carbon bisulphide. It is a white powder insoluble in water,
+  alcohol and ether. On heating, it is converted into the oxychloride
+  Sb4O5Cl2 (Sb2O3·SbOCl). Antimony oxychloride, SbOCl3, is formed by
+  addition of the calculated quantity of water to ice-cooled antimony
+  pentachloride, SbCl5 + H2O = SbOCl3 + 2HCl. It forms a yellowish
+  crystalline precipitate which in moist air goes to a thick liquid.
+  Compounds of composition, SbOCl3·2SbCl5 and SbO2Cl·2SbOCl3, have also
+  been described (W.C. Williams, _Chem. News_. 1871, xxiv. 234).
+
+  Antimony tribromide, SbBr3, and tri-iodide, SbI3, may be prepared by
+  the action of antimony on solutions of bromine or iodine in carbon
+  bisulphide. The tribromide is a colourless crystalline mass of
+  specific gravity 4.148 (23°), melting at 90° to 94° C. and boiling at
+  275.4° C. (H. Kopp). The tri-iodide forms red-coloured crystals of
+  specific gravity 4.848 (26°), melting at 165° to 167° C. and boiling
+  at 401° C. By the action of water they give oxybromides and oxyiodides
+  SbOBr, Sb4O5Br2, SbOI. Antimony penta-iodide, SbI5, is formed by
+  heating antimony with excess of iodine, in a sealed tube, to a
+  temperature not above 130°C. It forms a dark brown crystalline mass,
+  melting at 78° to 79° C., and is easily dissociated on heating.
+  Antimony trifluoride, SbF3, is obtained by dissolving the trioxide in
+  aqueous hydrofluoric acid or by distilling antimony with mercuric
+  fluoride. By rapid evaporation of its solution it may be obtained in
+  small prisms. The pentafluoride SbF5 results when metantimonic acid is
+  dissolved in hydrofluoric acid, and the solution is evaporated. It
+  forms an amorphous gummy mass, which is decomposed by heat.
+  Oxyfluorides of composition SbOF and SbOF3 are known.
+
+  Two sulphides of antimony are definitely known, the trisulphide Sb2S3
+  and the pentasulphide Sb2S5; a third, the tetrasulphide Sb2S4, has
+  also been described, but its existence is doubtful. Antimony
+  trisulphide, Sb2S3, occurs as the mineral antimonite or stibnite, from
+  which the commercial product is obtained by a process of liquation.
+  The amorphous variety may be obtained from the crystalline form by
+  dissolving it in caustic potash or soda or in solutions of alkaline
+  sulphides, and precipitating the hot solution by dilute sulphuric
+  acid. The precipitate is then washed with water and dried at 100° C.,
+  by which treatment it is obtained in the anhydrous form. On
+  precipitating antimony trichloride or tartar emetic in acid solution
+  with sulphuretted hydrogen, an orange-red precipitate of the hydrated
+  sulphide is obtained, which turns black on being heated to 200° C The
+  trisulphide heated in a current of hydrogen is reduced to the metallic
+  state; it burns in air forming the tetroxide, and is soluble in
+  concentrated hydrochloric acid, in solutions of the caustic alkalis,
+  and in alkaline sulphides. By the union of antimony trisulphide with
+  basic sulphides, livers of antimony are obtained. These substances are
+  usually prepared by fusing their components together, and are dark
+  powders which are less soluble in water the more antimony they
+  contain. These thioantimonites are used in the vulcanizing of rubber
+  and in the preparation of matches. Antimony pentasulphide, Sb2S5, is
+  prepared by precipitating a solution of the pentachloride with
+  sulphuretted hydrogen, by decomposing "Schlippe's salt" (q.v.) with an
+  acid, or by passing sulphuretted hydrogen into water containing
+  antimonic acid. It forms a fine dark orange powder, insoluble in
+  water, but readily soluble in aqueous solutions of the caustic alkalis
+  and alkaline carbonates. On heating in absence of air, it decomposes
+  into the trisulphide and sulphur.
+
+  An antimony phosphide and arsenide are known, as is also a
+  thiophosphate, SbPS4, which is prepared by heating together antimony
+  trichloride and phosphorus pentasulphide.
+
+  Many organic compounds containing antimony are known. By distilling an
+  alloy of antimony and sodium with mythyl iodide, mixed with sand,
+  trimethyl stibine, Sb(CH3)3, is obtained; this combines with excess of
+  methyl iodide to form tetramethyl stibonium iodide, Sb(CH3)4I. From
+  this iodide the trimethyl stibine may be obtained by distillation with
+  an alloy of potassium and antimony in a current of carbon dioxide. It
+  is a colourless liquid, slightly soluble in water, and is
+  spontaneously inflammable. The stibonium iodide on treatment with
+  moist silver oxide gives the corresponding tetramethyl stibonium
+  hydroxide, Sb(CH3)4OH, which forms deliquescent crystals, of alkaline
+  reaction, and absorbs carbon dioxide readily. On distilling trimethyl
+  stibine with zinc methyl, antimony tetra-methyl and penta-methyl are
+  formed. Corresponding antimony compounds containing the ethyl group
+  are known, as is also a tri-phenyl stibine, Sb(C6H5)3, which is
+  prepared from antimony trichloride, sodium and monochlorbenzene. See
+  Chung Yu Wang, _Antimony_ (1909).
+
+_Antimony in Medicine._--So far back as Basil Valentine and Paracelsus,
+antimonial preparations were in great vogue as medicinal agents, and
+came to be so much abused that a prohibition was placed upon their
+employment by the Paris parlement in 1566. Metallic antimony was
+utilized to make goblets in which wine was allowed to stand so as to
+acquire emetic properties, and "everlasting" pills of the metal,
+supposed to act by contact merely, were administered and recovered for
+future use after they had fulfilled their purpose. Antimony compounds
+act as irritants both externally and internally. Tartar emetic (antimony
+tartrate) when swallowed, acts directly on the wall of the stomach,
+producing vomiting, and after absorption continues this effect by its
+action on the medulla. It is a powerful cardiac depressant, diminishing
+both the force and frequency of the heart's beat. It depresses
+respiration, and in large doses lowers temperature. It depresses the
+nervous system, especially the spinal cord. It is excreted by all the
+secretions and excretions of the body. Thus as it passes out by the
+bronchial mucous membrane it increases the amount of secretion and so
+acts as an expectorant. On the skin its action is that of a diaphoretic,
+and being also excreted by the bile it acts slightly as a cholagogue.
+Summed up, its action is that of an irritant, and a cardiac and nervous
+depressant. But on account of this depressant action it is to be avoided
+for women and children and rarely used for men.
+
+_Toxicology._--Antimony is one of the "protoplasmic" poisons, directly
+lethal to all living matter. In acute poisoning by it the symptoms are
+almost identical with those of arsenical poisoning, which is much
+commoner (See ARSENIC). The post-mortem appearances are also very
+similar, but the gastro-intestinal irritation is much less marked and
+inflammation of the lungs is more commonly seen. If the patient is not
+already vomiting freely the treatment is to use the stomach-pump, or
+give sulphate of zinc (gr. 10-30) by the mouth or apomorphine (gr.
+1/20-1/10) subcutaneously. Frequent doses of a teaspoonful of tannin
+dissolved in water should be administered, together with strong tea and
+coffee and mucilaginous fluids. Stimulants may be given subcutaneously,
+and the patient should be placed in bed between warm blankets with
+hot-water bottles. Chronic poisoning by antimony is very rare, but
+resembles in essentials chronic poisoning by arsenic. In its
+medico-legal aspects antimonial poisoning is of little and lessening
+importance.

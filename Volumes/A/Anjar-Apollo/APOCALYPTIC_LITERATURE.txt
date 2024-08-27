@@ -1,0 +1,882 @@
+APOCALYPTIC LITERATURE. The Apocalyptic literature of Judaism and
+Christianity embraces a considerable period, from the centuries
+following the exile down to the close of the middle ages. In the present
+survey we shall limit ourselves to the great formative periods in this
+literature--in Judaism to 200 B.C. to A.D. 100, and in Christianity to
+A.D. 50 to 350 or thereabouts.
+
+The transition from prophecy to apocalyptic ([Greek: apokalyptein], to
+reveal something hidden) was gradual and already accomplished within the
+limits of the Old Testament. Beginning in the bosom of prophecy, and
+steadily differentiating itself from it in its successive developments,
+it never came to stand in absolute contrast to it. Apocalyptical
+elements disclose themselves in the prophetical books of Ezekiel, Joel,
+Zechariah, while in Isaiah xxiv.-xxvii. and xxxiii. we find
+well-developed apocalypses; but it is not until we come to Daniel that
+we have a fully matured and classical example of this class of
+literature. The way, however, had in an especial degree been prepared
+for the apocalyptic type of thought and literature by Ezekiel, for with
+him the word of God had become identical with a written book (ii. 9-iii.
+3) by the eating of which he learnt the will of God, just as primitive
+man conceived that the eating of the tree in Paradise imparted spiritual
+knowledge. When the divine word is thus conceived as a written message,
+the sole office of the prophet is to communicate what is written. Thus
+the human element is reduced to zero, and the conception of prophecy
+becomes mechanical. And as the personal element disappears in the
+conception of the prophetic calling, so it tends to disappear in the
+prophetic view of history, and the future comes to be conceived not as
+the organic result of the present under the divine guidance, but as
+mechanically determined from the beginning in the counsels of God, and
+arranged under artificial categories of time. This is essentially the
+apocalyptic conception of history, and Ezekiel may be justly represented
+as in certain essential aspects its founder in Israel.
+
+We shall now consider (I.) Apocalyptic, its origin and general
+characteristics; (II.) Old Testament Apocalyptic; (III.) New Testament
+Apocalyptic.
+
+I. APOCALYPTIC--ITS ORIGIN AND GENERAL CHARACTERISTICS
+
+i. _Sources of Apocalyptic._--The origin of Apocalyptic is to be sought
+in (a) unfulfilled prophecy and in (b) traditional elements drawn from
+various sources.
+
+(a) The origin of Apocalyptic is to be sought in _unfulfilled prophecy_.
+That certain prophecies relating to the coming kingdom of God had
+clearly not been fulfilled was a matter of religious difficulty to the
+returned exiles from Babylon. The judgments predicted by the pre-exilic
+prophets had indeed been executed to the letter, but where were the
+promised glories of the renewed kingdom and Israel's unquestioned
+sovereignty over the nations of the earth? One such unfulfilled prophecy
+Ezekiel takes up and reinterprets in such a way as to show that its
+fulfilment is still to come. The prophets Jeremiah (iv.-vi.) and
+Zephaniah had foretold the invasion of Judah by a mighty people from the
+north. But as this northern foe had failed to appear Ezekiel re-edited
+this prophecy in a new form as a final assault of Gog and his hosts on
+Jerusalem, and thus established a permanent dogma in Jewish apocalyptic,
+which in due course passed over into Christian.
+
+But the non-fulfilment of prophecies relating to this or that individual
+event or people served to popularize the methods of apocalyptic in a
+very slight degree in comparison with the non-fulfilment of the greatest
+of all prophecies--the advent of the Messianic kingdom. Thus, though
+Jeremiah had promised that after seventy years (xxv. 11., xxix. 10)
+Israel should be restored to their own land (xxiv. 5, 6), and then enjoy
+the blessings of the Messianic kingdom under the Messianic king (xxiii.
+5, 6), this period passed by and things remained as of old. Haggai and
+Zechariah explained the delay by the failure of Judah to rebuild the
+temple, and so generation after generation the hope of the kingdom
+persisted, sustained most probably by ever-fresh reinterpretations of
+ancient prophecy, till in the first half of the 2nd century the delay is
+explained in the Books of Daniel and Enoch as due not to man's
+shortcomings but to the counsels of God. The 70 years of Jeremiah are
+interpreted by the angel in Daniel (ix. 25-27) as 70 weeks of years, of
+which 69½ have already expired, while the writer of Enoch (lxxxv.-xc.)
+interprets the 70 years of Jeremiah as the 70 successive reigns of the
+70 angelic patrons of the nations, which are to come to a close in his
+own generation.
+
+But the above periods came and passed by, and again the expectations of
+the Jews were disappointed. Presently the Greek empire of the East was
+overthrown by Rome, and in due course this new phenomenon, so full of
+meaning for the Jews, called forth a new interpretation of Daniel. The
+fourth and last empire which, according to Daniel vii. 10-25, was to be
+Greek, was now declared to be Roman by the Apocalypse of Baruch
+(xxxvi.-xl.) and 4 Ezra (x. 60-xii. 35). Once more such ideas as those
+of "the day of Yahweh" and the "new heavens and a new earth" were
+constantly re-edited with fresh nuances in conformity with their new
+settings. Thus the inner development of Jewish apocalyptic was always
+conditioned by the historical experiences of the nation.
+
+(b) Another source of apocalyptic was _primitive mythological and
+cosmological traditions_, in which the eye of the seer could see the
+secrets of the future no less surely than those of the past. Thus the
+six days of the world's creation, followed by a seventh of rest, were
+regarded as at once a history of the past and a forecasting of the
+future. As the world was made in six days its history would be
+accomplished in six thousand years, since each day with God was as a
+thousand years and a thousand years as one day; and as the six days of
+creation were followed by one of rest, so the six thousand years of the
+world's history would be followed by a rest of a thousand years (2 Enoch
+xxxii. 2-xxxiii. 2). Of primitive mythological traditions we might
+mention the primeval serpent, leviathan, behemoth, while to ideas native
+to or familiar in apocalyptic belong those of the seven archangels, the
+angelic patrons of the nations (Deut. xxxii. 8, in LXX.; Isaiah xxiv.
+21; Dan. x. 13, 20, &c.), the mountain of God in the north (Isaiah xiv.
+13; Ezek. i. 4, &c.), the garden of Eden.
+
+ii. _Object and Contents of Apocalyptic._--The object of this literature
+in general was to solve the difficulties connected with the
+righteousness of God and the suffering condition of His righteous
+servants on earth. The righteousness of God postulated according to the
+law the temporal prosperity of the righteous and the _temporal_
+prosperity of necessity; for as yet there was no promise of life or
+recompense beyond the grave. But this connexion was not found to obtain
+as a rule in life, and the difficulties arising from this conflict
+between promise and experience centred round the lot of the righteous as
+a community and the lot of the righteous man as an individual. Old
+Testament prophecy had addressed itself to both these problems, though
+it was hardly conscious of the claims of the latter. It concerned itself
+essentially with the present, and with the future only as growing
+organically out of the present. It taught the absolute need of personal
+and national righteousness, and foretold the ultimate blessedness of the
+righteous nation on the present earth. But its views were not systematic
+and comprehensive in regard to the nations in general, while as regards
+the individual it held that God's service here was its own and adequate
+reward, and saw no need of postulating another world to set right the
+evils of this. But later, with the growing claims of the individual and
+the acknowledgment of these in the religious and intellectual life, both
+problems, and especially the latter, pressed themselves irresistibly on
+the notice of religious thinkers, and made it impossible for any
+conception of the divine rule and righteousness to gain acceptance,
+which did not render adequate satisfaction to the claims of both
+problems. To render such satisfaction was the task undertaken by
+apocalyptic, as well as to vindicate the righteousness of God alike in
+respect of the individual and of the nation. To justify their contention
+they sketched in outline the history of the world and mankind, the
+origin of evil and its course, and the final consummation of all things.
+Thus they presented in fact a theodicy, a rudimentary philosophy of
+religion. The righteous as a nation should yet possess the earth, even
+in this world the faithful community should attain its rights in an
+eternal Messianic kingdom on earth, or else in temporary blessedness
+here and eternal blessedness hereafter. So far as regards the righteous
+community. It was, however, in regard to the destiny of the individual
+that apocalyptic rendered its chief service. Though the individual might
+perish amid the disorders of this world, he would not fail, apocalyptic
+taught, to attain through resurrection the recompense that was his due
+in the Messianic kingdom or in heaven itself. Apocalyptic thus forms the
+indispensable preparation for the religion of the New Testament.
+
+iii. _Form of Apocalyptic._--The form of apocalyptic is a literary form;
+for we cannot suppose that the writers experienced the voluminous and
+detailed visions we find in their books. On the other hand the reality
+of the visions is to some extent guaranteed by the writer's intense
+earnestness and by his manifest belief in the divine origin of his
+message. But the difficulty of regarding the visions as actual
+experiences, or as in any sense actual, is intensified, when full
+account is taken of the artifices of the writer; for the major part of
+his visions consists of what is to him really past history dressed up in
+the guise of prediction. Moreover, the writer no doubt intended that his
+reader should take the accuracy of the prediction (?) already
+accomplished to be a guarantee for the accuracy of that which was still
+unrealized. How, then, it may well be asked, can this be consistent with
+reality of visionary experience? Are we not here obliged to assume that
+the visions are a literary invention and nothing more?
+
+However we may explain the inconsistency, we are precluded by the moral
+earnestness of the writer from assuming the visions to be pure
+inventions. But the inconsistency has in part been explained by Gunkel,
+who has rightly emphasized that the writer did not freely invent his
+materials but derived them in the main from tradition, as he held that
+these mysterious traditions of his people were, if rightly expounded,
+forecasts of the time to come. Furthermore, the visionary who is found
+at most periods of great spiritual excitement was forced by the
+prejudice of his time, which refused to acknowledge any inspiration in
+the present, to ascribe his visionary experiences and reinterpretations
+of the mysterious traditions of his people to some heroic figure of the
+past. Moreover, there will always be a difficulty in determining what
+belongs to his actual vision and what to the literary skill or free
+invention of the author, seeing that the visionary must be dependent on
+memory and past experience for the forms and much of the matter of the
+actual vision.
+
+iv. _Apocalyptic as distinguished from Prophecy._--We have already dwelt
+on certain notable differences between apocalyptic and prophecy; but
+there are certain others that call for attention.
+
+(a) _In the Nature of its Message._--The message of the prophets was
+primarily a preaching of repentance and righteousness if the nation
+would escape judgment; the message of the apocalyptic writers was of
+patience and trust for that deliverance and reward were sure to come.
+
+(b) _By its dualistic Theology._--Prophecy believes that this world is
+God's world and that in this world His goodness and truth will yet be
+vindicated. Hence the prophet prophesies of a definite future arising
+out of and organically connected with the present. The apocalyptic
+writer on the other hand despairs of the present, and directs his hopes
+absolutely to the future, to a new world standing in essential
+opposition to the present. (_Non fecit Altissimus unum saeculum sed
+duo_, 4 Ezra vii. 50.) Here we have essentially a dualistic principle,
+which, though it can largely be accounted for by the interaction of
+certain inner tendencies and outward sorrowful experience on the part of
+Judaism, may ultimately be derived from Mazdean influences. This
+principle, which shows itself clearly at first in the conception that
+the various nations are under angelic rulers, who are in a greater or
+less degree in rebellion against God, as in Daniel and Enoch, grows in
+strength with each succeeding age, till at last Satan is conceived as
+"the ruler of this world" (John xii. 31) or "the god of this age" (2
+Cor. iv. 4). Under the guidance of such a principle the writer naturally
+expected the world's culmination in evil to be the immediate precursor
+of God's intervention on behalf of the righteous, and every fresh growth
+in evil to be an additional sign that the time was at hand. The natural
+concomitant in conduct of such a belief is an uncompromising asceticism.
+He that would live to the next world must shun this. Visions are
+vouchsafed only to those who to prayer have added fasting.
+
+(c) _By pseudonymous Authorship._--We have already touched on this
+characteristic of apocalyptic. The prophet stood in direct relations
+with his people; his prophecy was first spoken and afterwards written.
+The apocalyptic writer could obtain no hearing from his contemporaries,
+who held that, though God spoke in the past, "there was no more any
+prophet." This pessimism and want of faith limited and defined the form
+in which religious enthusiasm should manifest itself, and prescribed as
+a condition of successful effort the adoption of pseudonymous
+authorship. The apocalyptic writer, therefore, professedly addressed his
+book to future generations. Generally directions as to the hiding and
+sealing of the book (Dan. xii. 4, 9; 1 Enoch i. 4; Ass. Mos. i. 16-18)
+were given in the text in order to explain its publication so long after
+the date of its professed period. Moreover, there was a sense in which
+such books were not wholly pseudonymous. Their writers were students of
+ancient prophecy and apocalyptical tradition, and, though they might
+recast and reinterpret them, they could not regard them as their own
+inventions. Each fresh apocalypse would in the eyes of its writer be in
+some degree but a fresh edition of the traditions naturally attaching
+themselves to great names in Israel's past, and thus the books named
+respectively Enoch, Noah, Ezra would to some slight extent be not
+pseudonymous.
+
+(d) _By its comprehensive and deterministic Conception of
+History._--Apocalyptic took an indefinitely wider view of the world's
+history than prophecy. Thus, whereas prophecy had to deal with temporary
+reverses at the hands of some heathen power, apocalyptic arose at a time
+when Israel had been subject for generations to the sway of one or other
+of the great world-powers. Hence to harmonize such difficulties with
+belief in God's righteousness, it had to take account of the rôle of
+such empires in the counsels of God, the rise, duration and downfall of
+each in turn, till finally the lordship of the world passed into the
+hands of Israel, or the final judgment arrived. These events belonged in
+the main to the past, but the writer represented them as still in the
+future, arranged under certain artificial categories of time definitely
+determined from the beginning in the counsels of God and revealed by Him
+to His servants the prophets. Determinism thus became a leading
+characteristic of Jewish apocalyptic, and its conception of history
+became severely mechanical.
+
+II. OLD TESTAMENT APOCALYPTIC
+
+i. Canonical:--
+
+  Isaiah xxiv.-xxvii.; xxxiii.; xxxiv.-xxxv.
+  (Jeremiah xxxiii. 14-26?)
+  Ezekiel ii. 8; xxxviii.-xxxix.
+  Joel iii. 9-17.
+  Zech. xii--xiv.
+  Daniel.
+
+We cannot enter here into a discussion of the above passages and
+books.[1] All are probably pseudepigraphic except the passages from
+Ezekiel and Joel. Of the remaining passages and books Daniel belongs
+unquestionably to the Maccabean period, and the rest possibly to the
+same period. Isaiah xxxiii. was probably written about 163 B.C. (Duhm
+and Marti); Zech. xii.-xiv. about 160 B.C., Isaiah xxiv.-xxvii. about
+128 B.C., and xxxiv.-xxxv. sometime in the reign of John Hyrcanus.
+Jeremiah xxxiii. 14-26 is assigned by Marti to Maccabean times, but this
+is highly questionable.
+
+ii. Extra-canonical:--
+
+(a) _Palestinian_:--
+
+    (200-100 B.C.)
+  Book of Noah.
+  1 Enoch vi.-xxxvi.; lxxii.-xc.
+  Testaments of the XII. Patriarchs.
+
+    (100 B.C. to 1 B.C.)
+  1 Enoch i.-v.; xxxvii.-lxxi.; xci.-civ.
+  Testaments of the XII. Patriarchs, i.e. T. Lev. x., xiv.-xvi., T. Jud.
+    xxi. 6-xxiii, T. Zeb. ix., T. Dan. v. 6, 7.
+  Psalms of Solomon.
+
+    (A.D. 1-100 and later.)
+  Assumption of Moses.
+  Apocalypse of Baruch.
+  4 Ezra.
+  Greek Apocalypse of Baruch.
+  Apocalypse of Zephaniah.
+  Apocalypse of Abraham.
+  Prayer of Joseph.
+  Book of Eldad and Modad.
+  Apocalypse of Elijah.
+
+(b) _Hellenistic_:--
+
+  2 Enoch.
+  Oracles of Hystaspes.
+  Testament of Job.
+  Testaments of the III. Patriarchs.
+  Sibylline Oracles (excluding Christian portions).
+
+_Book of Noah._--Though this book has not come down to us independently,
+it has in large measure been incorporated in the Ethiopic Book of Enoch,
+and can in part be reconstructed from it. The Book of Noah is mentioned
+in Jubilees x. 13, xxi. 10. Chapters lx., lxv.-lxix. 25 of the Ethiopic
+Enoch are without question derived from it. Thus lx. 1 runs: "In the
+year 500, in the seventh month ... in the life of Enoch." Here the
+editor simply changed the name Noah in the context before him into
+Enoch, for the statement is based on Gen. v. 32, and Enoch lived only
+365 years. Chapters vi.-xi. are clearly from the same source; for they
+make no reference to Enoch, but bring forward Noah (x. 1) and treat of
+the sin of the angels that led to the flood, and of their temporal and
+eternal punishment. This section is compounded of the Semjaza and Azazel
+myths, and in its present composite form is already presupposed by 1
+Enoch lxxxviii.-xc. Hence these chapters are earlier than 166 B.C.
+Chapters cvi.-cvii. of the same book are probably from the same source;
+likewise liv. 7-lv. 2, and Jubilees vii. 20-39, x. 1-15. In the former
+passage of Jubilees the subject-matter leads to this identification, as
+well as the fact that Noah is represented as speaking in the first
+person, although throughout Jubilees it is the angel that speaks.
+Possibly Eth. En. xli. 3-8, xliii.-xliv., lix. are from the same work.
+The book may have opened with Eth. En. cvi.-cvii. On these chapters may
+have followed Eth. En. vi.-xi., lxv.-lxix. 25, lx., xli. 3-8,
+xliii.-xliv., liv. 7-lv. 2; Jubilees vii. 26-39, x. 1-15.
+
+The Hebrew Book of Noah, a later work, is printed in Jellinek's _Bet
+ha-Midrasch_, iii. 155-156, and translated into German in Rönsch, _Das
+Buch der Jubiläen_, 385-387. It is based on the part of the above Book
+of Noah which is preserved in the _Book of Jubilees_. The portion of
+this Hebrew work which is derived from the older work is reprinted in
+Charles's _Ethiopic Version of the Hebrew Book of Jubilees_, p. 179.
+
+_1 Enoch, or the Ethiopic Book of Enoch._--This is the most important of
+all the apocryphal writings for the history of religious thought. Like
+the Pentateuch, the Psalms, the Megilloth and the Pirke Aboth, this work
+was divided into five parts, which, as we shall notice presently, spring
+from five different sources. Originally written partly in Aramaic (i.e.
+vi.-xxxvi.) and partly in Hebrew (i.-vi., xxxvii.-cviii.), it was
+translated into Greek, and from Greek into Ethiopic and possibly Latin.
+Only one-fifth of the Greek version in two forms survives. The various
+elements of the book were written by different authors at different
+dates, vi.-xxxvi. was written before 166 B.C., lxxii.-lxxxii. before the
+_Book of Jubilees_, i.e. before 120 B.C. or thereabouts, lxxxiii.-xc.
+about 166 B.C., i.-v., xci.-civ. before 95 B.C., and xxxvii.-lxxi.
+before 64 B.C. There are many interpolations drawn mainly from the Book
+of Noah.
+
+_Testaments of the XII. Patriarchs._--This book, in some respects the
+most important of Old Testament apocryphs, has only recently come into
+its own. Till a few years ago, owing to Christian interpolations, it was
+taken to be a Christian apocryph, written originally in Greek in the 2nd
+century A.D. Now it is acknowledged by Christian and Jewish scholars
+alike to have been written in Hebrew in the 2nd century B.C. From Hebrew
+it was translated into Greek and from Greek into Armenian and Slavonic.
+The versions have come down in their entirety, and small portions of the
+Hebrew text have been recovered from later Jewish writings. The
+Testaments were written about the same date as the _Book of Jubilees_.
+These two books form the only Apology in Jewish literature for the
+religious and civil hegemony of the Maccabees from the Pharisaic
+standpoint. To the Jewish interpolation of the 1st century B.C. (about
+60-40), i.e. T. Lev. x., xiv.-xvi.; T. Jud. xxii.-xxiii., &c., a large
+interest attaches; for these, like I Enoch xci.-civ. and the Psalms of
+Solomon, constitute an unmeasured attack on every office--prophetic,
+priestly and kingly--administered by the Maccabees. The ethical
+character of the book is of the highest type, and its profound influence
+on the writers of the New Testament is yet to be appreciated. (See
+TESTAMENTS OF THE XII. PATRIARCHS.)
+
+_Psalms of Solomon._--These psalms, in all eighteen, enjoyed but small
+consideration in early times, for only six direct references to them are
+found in early literature. Their ascription to Solomon is due solely to
+the copyists or translators, for no such claim is made in any of the
+psalms. On the whole, Ryle and James are no doubt right in assigning
+70-40 B.C. as the limits within which the psalms were written. The
+authors were Pharisees. They divide their countrymen into two
+classes--"the righteous," ii. 38-39, iii. 3-5, 7, 8, &c., and "the
+sinners," ii. 38, iii. 13, iv. 9, &c.; "the saints," iii. 10, &c., and
+"the transgressors," iv. II, &c. The former are the Pharisees; the
+latter the Sadducees. They protest against the Asmonaean house for
+usurping the throne of David, and laying violent hands on the high
+priesthood (xvii. 5, 6, 8), and proclaim the coming of the Messiah, the
+Son of David, who is to set all things right and establish the supremacy
+of Israel. Pss. xvii.-xviii. and i.-xvi. cannot be assigned to the same
+authorship. The hopes of the Messiah are confined to the former, and a
+somewhat different eschatology underlies the two works. Since the Psalms
+were written in Hebrew, and intended for public worship in the
+synagogues, it is most probable that they were composed in Palestine.
+(See SOLOMON, THE PSALMS OF.)
+
+_The Assumption of Moses_.--This book was lost for many centuries till a
+large fragment of it was discovered by Ceriani in 1861 (_Monumenta
+Sacra_, I. i. 55-64) from a palimpsest of the 6th century. Very little
+was known about the contents of this book prior to this discovery. The
+present book is possibly the long-lost [Greek: Diathêke Mouseos]
+mentioned in some ancient lists, for it never speaks of the assumption
+of Moses, but always of his natural death. About a half of the original
+Testament is preserved in the Latin version. The latter half probably
+dealt with questions about the creation. With this "Testament" the
+"Assumption," to which almost all the patristic references and that of
+Jude are made, was subsequently edited. The book was written between 4
+B.C. and A.D. 7. As for the author, he was no Essene, for he recognizes
+animal sacrifices and cherishes the Messianic hope; he was not a
+Sadducee, for he looks forward to the establishment of the Messianic
+kingdom (x.); nor a Zealot, for the quietistic ideal is upheld (ix.),
+and the kingdom is established by God Himself (x.). He is therefore a
+Chasid of the ancient type, and glorifies the ideals which were
+cherished by the old Pharisaic party, but which were now being fast
+disowned in favour of a more active role in the political life of the
+nation. He pours his most scathing invectives on the Sadducees, who are
+described in vii. in terms that recall the anti-Sadducean Psalms of
+Solomon. His object, therefore, is to protest against the growing
+secularization of the Pharisaic party through its adoption of popular
+Messianic beliefs and political ideals. (See also MOSES, ASSUMPTION OF.)
+
+_Apocalypse of Baruch--The Syriac._--This apocalypse has survived only
+in the Syriac version. The Syriac is a translation from the Greek, and
+the Greek in turn from the Hebrew. The book treats of the Messiah and
+the Messianic kingdom, the woes of Israel in the past and the
+destruction of Jerusalem in the present, as well as of theological
+questions relating to original sin, free will, works, &c. The views
+expressed on several of these subjects are often conflicting. We must,
+therefore, assume a number of independent sources put together by an
+editor or else that the book is on the whole the work of one author who
+made use of independent writings but failed to blend them into one
+harmonious whole. In its present form the book was written soon after
+A.D. 70. For fuller treatment see BARUCH.
+
+_4 Ezra._--This apocryph is variously named. In the first Arabic and
+Ethiopic versions it is called I Ezra; in some Latin MSS. and in the
+English authorized version it is 2 Ezra, and in the Armenian 3 Ezra.
+With the majority of the Latin MSS. we designate the book 4 Ezra. In its
+fullest form this apocryph consists of sixteen chapters, but i.-ii. and
+xv.-xvi. are of different authorship from each other and from the main
+work iii.-xiv. The book was written originally in Hebrew. There are
+Latin, Syriac, Ethiopic, Arabic (two), and Armenian versions. The Greek
+version is lost. This apocalypse is of very great importance, on account
+of its very full treatment of the theological questions rife in the
+latter half of the 1st century of the Christian era. The book, even if
+written by one author, was based on a variety of already existing works.
+It springs from the same school of thought as the _Apocalypse of
+Baruch_, and its affinities with the latter are so numerous and profound
+that scholars have not yet come to any consensus as to the relative
+priority of either. In its present form it was composed A.D. 80-100. For
+fuller treatment see EZRA.
+
+_Apocalypse of Baruch--The Greek._--This work is referred to by Origen
+(_de Princip._ II. iii. 6): "Denique etiam Baruch prophetae librum in
+assertionis hujus' testimonium vocant, quod ibi de septem mundis vel
+caelis evidentius indicatur." This book survives in two forms in
+Slavonic and Greek. The former was translated by Bonwetsch in 1896, in
+the _Nachrichten von der königl. Ges. der Wiss. zu, Gott_. pp. 91-101;
+the latter by James in 1897 in _Anecdota_, ii. 84-94, with an elaborate
+introduction (pp. li.-lxxi.). The Slavonic is only of secondary value,
+as it is merely an abbreviated form of the Greek. Even the Greek cannot
+claim to be the original work, but only to be a recension of it; for,
+whereas Origen states that this apocalypse contained an account of the
+seven heavens, the existing Greek work describes only five, and the
+Slavonic only two. As the original, work presupposes 2 Enoch and the
+Syriac _Apocalypse of Baruch_ and was known to Origen, it was written
+between A.D. 80 and 200, and nearer the earlier date than the later, as
+it would otherwise be hard to understand how it came to circulate among
+Christians. The superscription shows points of connexion with the _Rest
+of the Words of Baruch_, but little weight can be attached to the fact,
+since titles and superscriptions were so frequently transformed and
+expanded in ancient times. As James and Kohler have pointed out, part of
+section 4 on the Vine is a Christian addition. A German translation of
+the Greek appears in Kautzsch's _Apok. u. Pseud_, ii. 448-457, and a
+strong article by Kohler on the Jewish authorship of the book in the
+_Jewish Encyclopedia_, ii. 549-551. (See BARUCH.)
+
+_Apocalypse of Abraham._--This book is found only in the Slavonic
+(edited by Bonwetsch, _Studien zur Geschichte d. Theologie und Kirche_,
+1897), a translation from the Greek. It is of Jewish origin, but in part
+worked over by a Christian reviser. The first part treats of Abraham's
+conversion, and the second forms an apocalyptic expansion of Gen. xv.
+This book was possibly known to the author of the _Clem. Recognitions_,
+i. 32, a passage, however, which may refer to Jubilees. It is most
+probably distinct from the [Greek: Apokalepsis Abraam] used by the
+gnostic Sethites (Epiphanius, _Haer_. xxxix. 5), which was very
+heretical. On the other hand, it is probably identical with the
+apocryphal book [Greek: Abraam] mentioned in the Stichometry of
+Nicephorus, and the Synopsis Athanasii, together with the Apocalypses of
+Enoch, &c.
+
+_Lost Apocalypses: Prayer of Joseph._--The _Prayer of Joseph_ is quoted
+by Origen [_In Joann._ II. xxv, (Lommatzsch, i. 147, 148); _in Gen._
+III. ix. (Lommatzsch, viii. 30-31)]. The fragments in Origen represent
+Jacob as speaking and claiming to be "the first servant in God's
+presence," "the first-begotten of every creature animated by God," and
+declaring that the angel who wrestled with Jacob (and was identified by
+Christians with Christ) was only eighth in rank. The work was obviously
+anti-Christian. (See Schürer³, iii. 265-266.)
+
+_Book of Eldad and Modad._--This book was written in the name of the two
+prophets mentioned in Num. xi. 26-29. It consisted, according to the
+Targ. Jon. on Num. xi. 26-20, mainly of prophecies on Magog's last
+attack on Israel. The Shepherd of Hermas quotes it _Vis._ ii. 3. (See
+Marshall in Hastings' _Bible Dictionary_, i. 677.)
+
+_Apocalypse of Elijah._--This apocalypse is mentioned in two of the
+lists of books. Origen, Ambrosiaster, and Euthalius ascribe to it I Cor.
+ii. 9. If they are right, the apocalypse is pre-Pauline. The peculiar
+form in which I Cor. ii. 9 appears in Clemens Alex. _Protrept._ x. 94,
+and the _Const. Apost._ vii. 32, shows that both have the same source,
+probably this apocalypse. Epiphanius (_Haer._ xlii., ed. Oehler, vol.
+ii. 678) ascribes to this work Eph. v. 14. Isr. Lévi (_Revue des études
+juives_, 1880, i. 108 sqq.) argues for the existence of a Hebrew
+apocalypse of Elijah from two Talmudic passages. A late work of this
+name has been published by Jellinek, _Bet ha-Midrasch_, 1855, iii.
+65-68, and Buttenwieser in 1897. Zahn, _Gesch. des N.T. Kanons_, ii.
+801-810, assigns this apocalypse to the 2nd century A.D. (See Schürer³,
+iii. 267-271.)
+
+_Apocalypse of Zephaniah._--Apart from two of the lists this work is
+known to us in its original form only through a citation in Clem. Alex.
+_Strom._ v. II, 77. A Christian revision of it is probably preserved in
+the two dialects of Coptic. Of these the Akhmim text is the original of
+the Sahidic. These texts and their translations have been edited by
+Steindorff, _Die Apokalypse des Elias, eine unbekannte Apokalypse und
+Bruchstucke der Sophonias-Apokalypse_ (1809). As Schürer (_Theol.
+Literaturzeitung_, 1899, No. I. 4-8) has shown, these fragments belong
+most probably to the Zephaniah apocalypse. They give descriptions of
+heaven and hell, and predictions of the Antichrist. In their present
+form these Christianized fragments are not earlier than the 3rd century.
+(See Schürer, _Gesch. des jüd. Volkes³_, iii. 271-273.)
+
+2 _Enoch_, or the _Slavonic Enoch_, or the _Book of the Secrets of
+Enoch._--This new fragment of the Enochic literature was recently
+brought to light through five MSS. discovered in Russia and Servia. The
+book in its present form was written before A.D. 70 in Greek by an
+orthodox Hellenistic Jew, who lived in Egypt. For a fuller account see
+ENOCH.
+
+_Oracles of Hystaspes._--See under _N. T. Apocalypses_, below.
+
+_Testament of Job._--This book was first printed from one MS. by Mai,
+_Script. Vet. Nov. Coll._ (1833), VII. i. 180, and translated into
+French in Migne's _Dict. des Apocryphes_, ii. 403. An excellent edition
+from two MSS. is given by M.R. James, _Apocrypha Anecdota_, ii. pp.
+lxxii.-cii., 104-137, who holds that the book in its present form was
+written by a Christian Jew in Egypt on the basis of a Hebrew Midrash on
+Job in the 2nd or 3rd century A.D. Kohler (_Kohut Memorial Volume_,
+1897, pp. 264-338) has given good grounds for regarding the whole work,
+with the exception of some interpolations, as "one of the most
+remarkable productions of the pre-Christian era, explicable only when
+viewed in the light of Hasidean practice." See _Jewish Encycl._ vii.
+200-202.
+
+_Testaments of the III. Patriarchs._--For an account of these three
+Testaments (referred to in the _Apost. Const._ vi. 16), the first of
+which only is preserved in the Greek and is assigned by James to the 2nd
+century A.D., see that scholar's "Testament of Abraham," _Texts and
+Studies_, ii. 2 (1892), which appears in two recensions from six and
+three MSS. respectively, and Vassiliev's _Anecdota Graeco-Byzantina_,
+(1893), pp. 292-308, from one MS. already used by James. This work was
+written in Egypt, according to James, and survives also in Slavonic,
+Rumanian, Ethiopic, and Arabic versions. It deals with Abraham's
+reluctance to die and the means by which his death was brought about.
+James holds that this book is referred to by Origen (_Hom. in Luc._
+xxxv.), but this is denied by Schürer, who also questions its Jewish
+origin. With the exception of chaps. x.-xi., it is really a legend and
+not an apocalypse. An English translation of James's texts will be found
+in the _Ante-Nicene Christian Library_ (Clark, 1897), pp. 185-201. The
+Testaments of Isaac and Jacob are still preserved in Arabic and Ethiopic
+(see James, _op. cit._ 140-161). See TESTAMENTS OF THE III. PATRIARCHS.
+
+_Sibylline Oracles._--Of the books which have come down to us the main
+part is Jewish, and was written at various dates, iii. 97-829, iv.-v.
+are decidedly of Jewish authorship, and probably xi.-xii., xiv. and
+parts of i.-ii. The oldest portions are in iii., and belong to the 2nd
+century B.C.
+
+III. NEW TESTAMENT APOCALYPTIC
+
+When we pass from Jewish literature to that of the New Testament, we
+enter into a new and larger atmosphere at once recalling and
+transcending what had been best in the prophetic periods of the past.
+Again the heavens had opened and the divine teaching come to mankind, no
+longer merely in books bearing the names of ancient patriarchs, but on
+the lips of living men, who had taken courage to appear in person as
+God's messengers before His people. But though Christianity was in
+spirit the descendant of ancient Jewish prophecy, it was no less truly
+the child of that Judaism which had expressed its highest aspirations
+and ideals in pseudepigraphic and apocalyptic literature. Hence we shall
+not be surprised to find that the two tendencies are fully represented
+in primitive Christianity, and, still more strange as it may appear,
+that New Testament apocalyptic found a more ready hearing amid the
+stress and storm of the 1st century than the prophetic side of
+Christianity, and that the type of the forerunner on the side of its
+declared asceticism appealed more readily to primitive Christianity than
+that of Him who came "eating and drinking," declaring both worlds good
+and both God's.
+
+Early Christianity had thus naturally a special fondness for this class
+of literature. It was Christianity that preserved Jewish apocalyptic,
+when it was abandoned by Judaism as it sank into Rabbinism, and gave it
+a Christian character either by a forcible exegesis or by a systematic
+process of interpolation. Moreover, it cultivated this form of
+literature and made it the vehicle of its own ideas. Though apocalyptic
+served its purpose in the opening centuries of the Christian era, it
+must be confessed that in _many_ of its aspects its office is
+transitory, as they belong not to the essence of Christian thought. When
+once it had taught men that the next world was God's world, though it
+did so at the cost of relinquishing the present to Satan, it had
+achieved its real task, and the time had come for it to quit the stage
+of history, when Christianity appeared as the heir of this true
+spiritual achievement. But Christianity was no less assuredly the heir
+of ancient prophecy, and thus as spiritual representative of what was
+true in prophecy and apocalyptic; its essential teaching was as that of
+its Founder that both worlds were of God and that both should be made
+God's.
+
+(i.) Canonical:--
+  Apocalypse in Mark xiii. (Matthew xxiv., Luke xxi.).
+  2 Thessalonians ii.
+  Revelation.
+
+(ii.) Extra-Canonical:--
+  Apocalypse of Peter.
+  Testament of Hezekiah.
+  Testament of Abraham.
+  Oracles of Hystaspes.
+  Vision of Isaiah.
+  Shepherd of Hermas.
+  5 Ezra.
+  6 Ezra.
+  Christian Sibyllines.
+  Apocalypses of Paul, Thomas and Stephen.
+  Apocalypses of Esdras, Paul, John, Peter, The Virgin, Sedrach,  Daniel.
+  Revelations of Bartholomew.
+  Questions of Bartholomew.
+
+_Apocalypse in Mark xiii._--According to the teaching of the Gospels the
+second advent was to take the world by surprise. Only one passage (Mark
+xiii. = Matt. xxiv. = Luke xxi.) conflicts with this view, and is
+therefore suspicious. This represents the second advent as heralded by a
+succession of signs which are unmistakable precursors of its appearance,
+such as wars, earthquakes, famines, the destruction of Jerusalem and the
+like. Our suspicion is justified by a further examination of Mark xiii.
+For the words "let him that _readeth_ understand" (ver. 14) indicate
+that the prediction referred to appeared first not in a spoken address
+but in a written form, as was characteristic of apocalypses. Again, in
+ver. 30, it is declared that this generation shall not pass away until
+all these things be fulfilled, whereas in 32 we have an undoubted
+declaration of Christ "Of that day or of that hour knoweth no one, not
+even the angels in heaven, neither the Son, but the Father." On these
+and other grounds verses 7, 8, 14-20, 24-27, 30, 31 should be removed
+from their present context. Taken together they constitute a Christian
+adaptation of an originally Jewish work, written A.D. 67-68, during the
+troubles preceding the fall of Jerusalem. The apocalypse consists of
+three Acts: Act i. consisting of verses 7, 8, enumerating the woes
+heralding the parusia, Act ii. describing the actual tribulation, and
+Act iii. the parusia itself. (See Wendt, _Lehre Jesu_, i. 12-21;
+Charles, _Eschatology_, 325 sqq.; H.S. Holtzmann, _N. T. Theol._ 1-325
+sqq. with literature there given.)
+
+_2 Thessalonians ii._--The earliest form of Pauline eschatology is
+essentially Jewish. He starts from the fundamental thought of Jewish
+apocalyptic that the end of the world will be brought about by the
+direct intervention of God when evil has reached its climax. The
+manifestation of evil culminates in the Antichrist whose parusia (2
+Thess. ii. 9) is the Satanic counterfeit of that of the true Messiah.
+But the climax of evil is the immediate herald of its destruction; for
+thereupon Christ will descend from heaven and destroy the Antichrist
+(ii. 8). Nowhere in his later epistles does this forecast of the future
+reappear. Rather under the influence of the great formative Christian
+conceptions he parted gradually with the eschatology he had inherited
+from Judaism, and entered on a progressive development, in the course of
+which the heterogeneous elements were for the most part silently
+dropped.
+
+_Revelation._--Since this book is discussed separately we shall content
+ourselves here with indicating a few of the conclusions now generally
+accepted. The apocalypse was written about A.D. 96. Its object, like
+other Jewish apocalypses, was to encourage faith under persecution; its
+burden is not a call to repentance but a promise of deliverance. It is
+derived from one author, who has made free use of a variety of elements,
+some of which are Jewish and consort but ill with their new context. The
+question of the pseudonymity of the book is still an open one.
+
+_Apocalypse of Peter._--Till 1892 only some five or more fragments of
+this book were known to exist. These are preserved in Clem. Alex. and in
+Macarius Magnes (see Hilgenfeld, _N. T. extra Can._ iv. 74 sqq.; Zahn,
+_Gesch. Kanons_ ii. 818-819). It is mentioned in the Muratorian Canon,
+and according to Eusebius (_H.E._ vi. 14. i) was commented on by Clement
+of Alexandria. In the fragment found at Akhmim there is a prediction of
+the last things, and a vision of the abode and blessedness of the
+righteous, and of the abode and torments of the wicked.
+
+_Testament of Hezekiah._--This writing is fragmentary, and has been
+preserved merely as a constituent of the Ascension of Isaiah. To it
+belongs iii. 13b-iv. 18 of that book. It is found under the above name,
+[Greek: Diathêkê Ezekion], only in Cedrenus i. 120-121, who quotes
+partially iv. 12. 14 and refers to iv. 15-18. For a full account see
+ISAIAH, ASCENSION OF.
+
+_Testament of Abraham._--This work in two recensions was first published
+by James, _Texts and Studies_, ii. 2. Its editor is of opinion that it
+was written by a Jewish Christian in Egypt in the 2nd century A.D., but
+that it embodies legends of an earlier date, and that it received its
+present form in the 9th or 10th century. It treats of Michael being sent
+to announce to Abraham his death: of the tree speaking with a human
+voice (iii.), Michael's sojourn with Abraham (iv.-v.) and Sarah's
+recognition of him as one of the three angels, Abraham's refusal to die
+(vii.), and the vision of judgment (x.-xx.).
+
+_Oracles of Hystaspes._--This eschatological work ([Greek: Chrêseis
+Hystaspon]: so named by the anonymous 5th-century writer in Buresch,
+_Klaros_, 1889, p. 95) is mentioned in conjunction with the Sibyllines
+by Justin (_Apol._ i. 20), Clement of Alexandria (_Strom._ vi. 5), and
+Lactantius (_Inst._ VII. xv. 19; xviii. 2-3). According to Lactantius,
+it prophesied the overthrow of Rome and the advent of Zeus to help the
+godly and destroy the wicked, but omitted all reference to the sending
+of the Son of God. According to Justin, it prophesied the destruction of
+the world by fire. According to the _Apocryph of Paul_, cited by
+Clement, Hystaspes foretold the conflict of the Messiah with many kings
+and His advent. Finally, an unknown 5th-century writer (see Buresch,
+_Klaros_, 1889, pp. 87-126) says that the _Oracles of Hystaspes_ dealt
+with the incarnation of the Saviour. The work referred to in the last
+two writers has Christian elements, which were absent from it in
+Lactantius's copy. The lost oracles were therefore in all probability
+originally Jewish, and subsequently re-edited by a Christian.
+
+_Vision of Isaiah._--This writing has been preserved in its entirety in
+the _Ascension of Isaiah_, of which it constitutes chaps, vi.-xi. Before
+its incorporation in the latter work it circulated independently in
+Greek. There are independent versions of these chapters in Latin and
+Slavonic. (See ISAIAH, ASCENSION OF.)
+
+_Shepherd of Hermas._--In the latter half of the 2nd century this book
+enjoyed a respect bordering on that paid to the writings of the New
+Testament. Irenaeus, Clement of Alexandria and Origen quote it as
+Scripture, though in Africa it was not held in such high consideration,
+as Tertullian speaks slightingly of it. The writer belongs really to the
+prophetic and not to the apocalyptic school. His book is divided into
+three parts containing visions, commands, similitudes. In incidental
+allusions he lets us know that he had been engaged in trade, that his
+wife was a termagant, and that his children were ill brought up. Various
+views have been held as to the identity of the author. Thus some have
+made him out to be the Hermas to whom salutation is sent at the end of
+the Epistle to the Romans, others that he was the brother of Pius,
+bishop of Rome in the middle of the 2nd century, and others that he was
+a contemporary of Clement, bishop of Rome at the close of the ist
+century. Zahn fixes the date at 97, Salmon a few years later, Lipsius
+142. The literature of this book (see HERMAS, SHEPHERD OF) is very
+extensive. Among the chief editions are those of Zahn, _Der Hirt des
+Hermas_ (1868); Gebhardt and Harnack, _Patres Apostolici_ (1877, with
+full bibliographical material); Funk, _Patres Apost._ (1878). Further
+see Harnack, _Gesch. d. altchristl. Literatur_, i. 49-58; II. i.
+257-267, 437 f.
+
+_5 Ezra._--This book, which constitutes in the later MSS. the first two
+chapters to 4 Ezra, falls obviously into two parts. The first (i. 5-ii.
+9) contains a strong attack on the Jews whom it regards as the people of
+God; the second (ii. 10-47) addresses itself to the Christians as God's
+people and promises them the heavenly kingdom. It is not improbable that
+these chapters are based on an earlier Jewish writing. In its present
+form it may have been written before A.D. 200, though James and other
+scholars assign it to the 3rd century. Its tone is strongly anti-Jewish.
+The style is very vigorous and the materials of a strongly apocalyptic
+character. See Hilgenfeld, _Messias Judaeorum_ (1869); James in Bensly's
+edition of 4 Ezra, pp. xxxviii.-lxxx.; Weinel in Hennecke's _N.T.
+Apokryphen_, 331-336.
+
+_6 Ezra._--This work consists of chapters xv.-xvi. of 4 Ezra. It may
+have been written as an appendix to 4 Ezra, as it has no proper
+introduction. Its contents relate to the destruction of the world
+through war and natural catastrophes--for the heathen a source of menace
+and fear, but for the persecuted people of God one of admonition and
+comfort. There is nothing specifically Christian in the book, which
+represents a persecution which extends over the whole eastern part of
+the Empire. Moreover, the idiom is particularly Semitic. Thus we have
+xv. 8 _nec sustinebo in his quae inique exercent_, that is [Hebrew:
+nasa be]: in 9 _vindicans vindicabo_: in 22 _non parcet dextera mea
+super peccatores_ = [Greek: pheisetai] ... [Greek: epi] = [Hebrew: al]
+... [Hebrew: yahmol]. In verses 9, 19 the manifest corruptions may be
+explicable from a Semitic background. There are other Hebraisms in the
+text. It is true that these might have been due to the writer's
+borrowings from earlier Greek works ultimately of Hebrew origin. The
+date of the book is also quite uncertain, though several scholars have
+ascribed it to the 3rd century.
+
+_Christian Sibyllines._--Critics are still at variance as to the extent
+of the Christian Sibyllines. It is practically agreed that vi.-viii. are
+of Christian origin. As for i.-ii., xi.-xiv. most writers are in favour
+of Christian authorship; but not so Geffcken (ed. _Sibyll._, 1902), who
+strongly insists on the Jewish origin of large sections of these books.
+
+_Apocalypses of Paul, Thomas and Stephen._--These are mentioned in the
+Gelasian decree. The first may possibly be the [Greek: Anabagikon
+Paulou] mentioned by Epiphanius (_Haer_. xxxviii. 2) as current among
+the Cainites. It is not to be confounded with the apocalypse mentioned
+two sections later.
+
+_Apocalypse of Esdras._--This Greek production resembles the more
+ancient fourth book of Esdras in some respects. The prophet is perplexed
+about the mysteries of life, and questions God respecting them. The
+punishment of the wicked especially occupies his thoughts. Since they
+have sinned in consequence of Adam's fall, their fate is considered
+worse than that of the irrational creation. The description of the
+tortures suffered in the infernal regions is tolerably minute. At last
+the prophet consents to give up his spirit to God, who has prepared for
+him a crown of immortality. The book is a poor imitation of the ancient
+Jewish one. It may belong, however, to the 2nd or 3rd centuries of the
+Christian era. See Tischendorf, _Apocalypses Apocryphae_, pp. 24-33.
+
+_Apocalypse of Paul._--This work (referred to by Augustine, _Tractat. in
+Joan._ 98) contains a description of the things which the apostle saw in
+heaven and hell. The text, as first published in the original Greek by
+Tischendorf (_Apocalypses Apocr._ 34-69), consists of fifty-one
+chapters, but is imperfect. Internal evidence assigns it to the time of
+Theodosius, i.e. about A.D. 388. Where the author lived is uncertain. Dr
+Perkins found a Syriac MS. of this apocalypse, which he translated into
+English, and printed in the _Journal of the American Oriental Society_,
+1864, vol. viii. This was republished by Tischendorf below the Greek
+version in the above work. In 1893 the Latin version from one MS. was
+edited by M.R. James, _Texts and Studies_, ii. 1-42, who shows that the
+Latin version is the completest of the three, and that the Greek in its
+present form is abbreviated.
+
+_Apocalypse of John_ (Tischendorf, _Apocalypses Apocr._ 70 sqq.)
+contains a description of the future state, the general resurrection and
+judgment, with an account of the punishment of the wicked, as well as
+the bliss of the righteous. It appears to be the work of a Jewish
+Christian. The date is late, for the writer speaks of the "venerable and
+holy images," as well as "the glorious and precious crosses and the
+sacred things of the churches" (xiv.), which points to the 5th century,
+when such things were first introduced into churches. It is a feeble
+imitation of the canonical apocalypse.
+
+_Arabic Apocalypse of Peter_ contains a narrative of events from the
+foundation of the world till the second advent of Christ. The book is
+said to have been written by Clement, Peter's disciple. This Arabic work
+has not been printed, but a summary of the contents is given by Nicoll
+in his catalogue of the Oriental MSS. belonging to the Bodleian (p. 49,
+xlviii.). There are eighty-eight chapters. It is a late production; for
+Ishmaelites are spoken of, the Crusades, and the taking of Jerusalem.
+See Tischendorf, _Apocalypses Apocr._ pp. xx.-xxiv.
+
+_The Apocalypse of the Virgin_, containing her descent into hell, is not
+published entire, but only several portions of it from Greek MSS. in
+different libraries, by Tischendorf in his _Apocalypses Apocryphae_, pp.
+95 sqq.; James, _Texts and Studies_, ii. 3. 109-126.
+
+_Apocalypse of Sedrach._--This late apocalypse, which M.R. James assigns
+to the 10th or 11th century, deals with the subject of intercession for
+sinners and Sedrach's unwillingness to die. See James, _Texts and
+Studies_, ii. 3. 127-137.
+
+_Apocalypse of Daniel._--See Vassiliev's _Anecdota Graeco-Byzantina_
+(Moscow, 1893), pp. 38-44; _Uncanonical Books of the Old Testament_
+(Venice, 1901), pp. 237 sqq., 387 sqq.
+
+_The Revelations of Bartholomew._--Dulaurier published from a Parisian
+Sahidic MS., subjoining a French translation, what is termed a fragment
+of the apocryphal revelations of St Bartholomew (_Fragment des
+révélations apocryphes de Saint Barthélemy, &c._, Paris, 1835), and of
+the history of the religious communities founded by St Pachomius. After
+narrating the pardon obtained by Adam, it is said that the Son ascending
+from Olivet prays the Father on behalf of His apostles; who consequently
+receive consecration from the Father, together with the Son and Holy
+Spirit--Peter being made archbishop of the universe. The late date of
+the production is obvious.
+
+_Questions of St Bartholomew._--See Vassiliev, _Anec. Graeco-Byzantina_
+(1893), pp. 10-22. The introduction, which is wanting in the Greek MS.,
+has been supplied by a Latin translation from the Slavonic version (see
+pp. vii.-ix.). The book contains disclosures by Christ, the Virgin and
+Beliar and much of the subject-matter is ancient. (R. H. C.)
+
+FOOTNOTE:
+
+  [1] See the separate headings for the various apocalyptic books
+    mentioned in this article.

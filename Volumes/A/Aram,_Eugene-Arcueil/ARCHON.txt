@@ -1,0 +1,191 @@
+ARCHON ([Greek: archon], ruler), the title of the highest magistrate in
+many ancient Greek states. It is only in Athens that we have any
+detailed knowledge of the office, and even in this one case the evidence
+presents problems of the first importance which are incapable of
+decisive solution. There is no doubt that the archons represented the
+ancient kings, whose absolutism, under conditions which we can only
+infer, yielded in process of time to the power of the noble families,
+supported no doubt by the fighting force of the state. As to the process
+by which this change was effected there are two accounts. Traditionally,
+the monarchy after the death of Codrus (?1068 B.C.) gave place to the
+life archon whose tenure of office was limited afterwards to ten years
+and then to one year. Aristotle's _Constitution of Athens_ (q.v.) speaks
+of five stages: (1) the institution of the polemarch who took over the
+military duties of the king; (2) the institution of _the_ archon to
+relieve the king of his civil duties; (3) the tenure of office was
+reduced to ten years (?752 B.C.); (4) the office was taken from the
+"royal" clan and thrown open to all Eupatridae (?712 B.C.); (5) office
+was made annual, and to the existing three offices were added the six
+thesmothetae whose duty it was to record judicial decisions. The value
+of this latter account is, of course, debatable, but it is at least
+compatible with the general trend of development from hereditary
+absolutism, civil, military and religious, in the person of the "king,"
+to a constitutional oligarchy. The change was clearly effected by the
+devolution of the military and civil powers of the king to the polemarch
+and the archon, while the archon basileus (or king) retained control of
+state religion. It is equally clear that owing to the predominating
+importance of civil affairs, _the_ archon became the chief state
+official and gave his name to the year (hence archon eponymus). It
+should be noticed that the analogy which has often been suggested
+between the early history of the archonship at Athens, and such cases as
+the mayors of the palace in French history, or the tycoon (shogun) and
+mikado in Japanese history, is misleading. In these cases it is the old
+royal house that retains the royal title and the semblance of power,
+while the real authority passes into new hands. In Athens, the new civil
+office is vested in the old royal family, while the old title along with
+its religious functions is transferred. The early history of the
+thesmothetae is not clear, but this much is certain that there is no
+adequate reason for supposing, as many historians do, that in early
+times, they, with the three chief archons, constituted a collective or
+collegiate magistracy. It is true Thucydides (i. 126) states that, in
+the time of the Cylonian conspiracy (?632 B.C.), "the nine archons were
+(i.e. collectively) the principal officials," but at the same time the
+responsibility for the action then taken attached to the Alcmaeonidae
+alone, because one of their number, Megacles, was at that time _the_
+archon (i.e. responsibility was personal, not collective). Again, the
+_Constitution of Athens_ says that down to Solon's time the archons had
+no official residence, but that afterwards they used the Thesmotheteion.
+It is a reasonable inference from this statement that the thesmothetae
+had previously sat together apart from the superior archons and that it
+was only after Solon that collegiate responsibility began.
+
+_Evolution of the Office._--The history of the democratization of the
+archonship is beset with equal difficulty. In the early days, the
+importance of the office (confined as it was to the highest class) must
+have been immense; there was no audit, no written law, no executive
+council. The popular assembly was ill-organized and probably summoned by
+the archons themselves. The only control came from the Areopagus which
+elected them and would generally be favourably disposed, and from the
+fact that the military and civil powers were not vested in the same
+hands. Although the institution of the popular courts by Solon had
+within it the germ of democratic supremacy, it is clear that the
+immediate result was small; thus, in the next decade _anarchia_ was
+continuous and Damasias held the archonship for more than two years in
+defiance of the new constitution; the prolonged dissension in this
+matter shows that the office of archon still retained its supreme
+importance. Gradually, however, the archonship lost its power,
+especially in judicial matters, until it retained merely the right of
+holding the preliminary investigation and the formal direction of the
+popular courts. Its administrative powers, save those wielded by the
+polemarch (see below and cf. STRATEGUS), dwindled away into matters of
+routine. We know that Peisistratus ruled by controlling the archonship,
+which was always held by members of his family, and the archonship of
+Isagoras was clearly an important party victory; we know further the
+names of three important men who held the office between Cleisthenes'
+reform and the Persian War (Hipparchus, Themistocles (q.v.), Aristides)
+from which we infer that the office was still the prize of party
+competition. On the other hand, after 487 B.C. the list of archons
+contains no name of importance. Presumably this is due to the growing
+importance of the Strategus and to the institution of sortition (see
+below), which, whether as cause or effect, is presumably by the 5th
+century indicative of diminished importance. There can, on these
+assumptions, be no doubt that, from the early years of the 5th century
+B.C., the archonship was of practically no importance. Furthermore we
+find that (probably after the Persian War) the office is thrown open to
+the second class, and finally in 457 B.C. we meet an archon,
+Mnesitheides, of the third, or Zeugite, class. Plutarch (_Aristides_,
+22) says that after the great struggle of the Persian War Aristides
+threw open the office to all the citizens. But in fact the members of
+the fourth class were not formally admitted even in the 4th century
+(though by a fiction they were allowed to pose for the time as
+Zeugites). Furthermore it is not till 457 that even a Zeugite archon is
+known, according to the _Constitution of Athens_ (_c_. 26), which dates
+the change as five years after the death of Ephialtes and does not
+connect it with Aristides.
+
+_Sortition._--The next question constitutes perhaps the most important
+problem in Greek political development. At what date was election by
+lot, or sortition, introduced for the archonship? From the _Constitution
+of Athens_ (_c_. 22) we gather that from the fall of the Tyranny to 487
+B.C. the archons were [Greek: airetoi], not [Greek: klaerotoi] (i.e.
+chosen by vote, not by lot), and that in 487, limited sortition was
+introduced, whereby fifty candidates were elected by each tribe, and
+from these the archons and their "secretary" were chosen by lot. But
+against this must be set the statement by the same authority that this
+double method was part of the Solonian reform. The solution of the
+dilemma is a matter of inference. Three indications favour the former
+view: (1) the "anarchia" which occurred so often between Solon and
+Peisistratus shows that the office was at that time a question of party
+(i.e. elective); (2) the statement that Solon invented sortition for the
+office is put as the basis of a comparison ([Greek: othen, saemeion])
+and, therefore, may fairly be regarded as a hypothesis; (3) there is no
+indication that the change made in 487 B.C. was a return to an obsolete
+method, and on the same argument it is odd that Solon's alleged system
+should not have been revived at the end of the Tyranny. On the other
+hand Herodotus (vi. 109) states that, in 490, before the battle of
+Marathon, the polemarch was chosen by lot. If this be true, it follows
+that the office of polemarch must have lost its military importance,
+which was not the case, inasmuch as the polemarch at Marathon gave the
+casting vote in favour of immediate battle. Whether, therefore, Solon or
+Aristides was the first to introduce sortition, it is perfectly clear
+that the lot was not used between the Tyranny and 487 B.C. and that
+after 487 the lot was always used (see J.E. Sandys, _Constitution of
+Athens_ c. 8 note 1, c. 22 § 5, note); in fact, at a date not known the
+mixed system of Aristides gave place to double sortition, in which the
+first nomination also was by lot. To enter here into the theory of the
+lot is impossible. It should, however, be observed that in the somewhat
+material atmosphere of constitutional Athens the religious significance
+of the lot had vanished; no important office in the 5th and 4th
+centuries was entrusted to its decision. The real effect of sortition
+was to equalize the chances of rich and poor without civil strife. Now
+it is perfectly clear that it could not have been this object which
+impelled Solon to introduce sortition; for in his time the archonship
+was not open to the lower classes, and, therefore, election was more
+democratic than sortition, whereas later the case was reversed. It
+should further be mentioned that, before the discovery of the
+Aristotelian _Constitution_ in 1891, Grote, C.F. Hermann, Busolt and
+others had maintained that the lot was not used in Athens before the
+time of Cleisthenes; and in spite of the treatise, it must be admitted
+that there is no satisfactory evidence, historical or inferential, that
+their theory was unsound.
+
+_Qualifications and Functions._--It remains to give a brief analysis of
+the qualifications and functions of the archons after the year 487 B.C.
+After election (in the time of Aristotle in the month Anthesterion; in
+the 3rd century in Munychion) a short time had to elapse before entering
+on office to allow of the _dokimasia_ (examination of fitness). In this
+the whole life of the nominee was investigated, and each had to prove
+that he was physically without flaw. Failure to pass the scrutiny
+involved a certain loss of civic rights (e.g. that of addressing the
+people). The successful candidate had to take an oath to the people
+(that he would not take bribes, &c.) and to go through certain
+preliminary rites. Any citizen could bring an impeachment (_eisangelia_)
+against the archons. Any delinquency involved a trial before the
+Heliaea. Finally an examination took place at the end of the year of
+office, when each archon had to answer for his actions with person and
+possessions; till then he could not leave the country, be adopted into
+another family, dispose of his property, nor receive any "crown of
+honour." A similar investigation took place with regard to the assessors
+(_paredri_) whom the three senior archons chose to assist them. The
+archons at the end of their year of office (some say on entering upon
+office) became members of the Areopagus, which was, therefore, a body
+composed of ex-archons of tried probity and wisdom. The archons as a
+body retained some duties such as the appointment of jurymen, the
+sortition of the _athlothetae_, &c. (but see Gilbert's _Antiquities_,
+Eng. trans., p. 251, n. 1). On entering upon office the archon (_archon
+eponymus_) made proclamation by his herald that he would not interfere
+with private property. His official residence was the Prytaneum where he
+presided over all questions of family, e.g. the protection of parents
+against children and _vice versa_, protection of widows, wardship of
+heiresses and orphans, divorce; in religious matters he superintended
+the Dionysia, the Thargelia, the processions in honour of Zeus the
+Saviour and Asclepius. The archon basileus superintended the holy
+places, the mysteries, the Lampadephoria (Torch race), &c., questions of
+national religion and certain cases of bloodguiltiness. His official
+residence was the Stoa Basileios, and his wife, as officially
+representing the wife of Dionysus, was called Basilinna. The polemarch,
+who was at any rate titular commander down to about 487 B.C. (see above;
+and Herod, vi. 109, [Greek: hendekatos psaephidophoros]), became in the
+5th century a sort of consul who watched over the rights of resident
+aliens (_metoeci_) in their family and legal affairs. He offered
+sacrifices to Artemis Agrotera and Enyalios, superintended _epitaphia_
+and arranged for the annual honours paid to the tyrannicides. His
+official residence was the Epilyceum (formerly called the
+Polemarcheion).
+
+  BIBLIOGRAPHY.-G. Gilbert, _Constitutional Antiquities_ (Eng. trans.,
+  1895); Eduard Meyer's _Geschichte des Alterthums_, ii. sect. 228;
+  A.H.J. Greenidge, _Handbook of Greek Constitutional Hist._ (1895);
+  J.W. Headlam, _Election by Lot in Athens_ (Camb., 1891); and
+  authorities quoted under GREECE: _History, ancient_, and ATHENS:
+  _History_.     (J. M. M.)

@@ -1,0 +1,65 @@
+ANTHROPOMETRY (Gr. [Greek: anthropos], man, and [Greek: metron],
+measure), the name given by the French savant, Alphonse Bertillon (b.
+1853), to a system of identification (q.v.) depending on the unchanging
+character of certain measurements of parts of the human frame. He found
+by patient inquiry that several physical features and the dimensions of
+certain bones or bony structures in the body remain practically constant
+during adult life. He concluded from this that when these measurements
+were made and recorded systematically every single individual would be
+found to be perfectly distinguishable from others. The system was soon
+adapted to police methods, as the immense value of being able to fix a
+person's identity was fully realized, both in preventing false
+personation and in bringing home to any one charged with an offence his
+responsibility for previous wrongdoing. "Bertillonage," as it was
+called, became widely popular, and after its introduction into France in
+1883, where it was soon credited with highly gratifying results, was
+applied to the administration of justice in most civilized countries.
+England followed tardily, and it was not until 1894 that an
+investigation of the methods used and results obtained was made by a
+special committee sent to Paris for the purpose. It reported favourably,
+especially on the use of the measurements for primary classification,
+but recommended also the adoption in part of a system of "finger prints"
+as suggested by Francis Galton, and already practised in Bengal.
+
+M. Bertillon selected the following five measurements as the basis of
+his system: (1) head length; (2) head breadth; (3) length of middle
+finger; (4) of left foot, and (5) of cubit or forearm from the elbow to
+the extremity of the middle finger. Each principal heading was further
+subdivided into three classes of "small," "medium" and "large," and as
+an increased guarantee height, length of little finger, and the colour
+of the eye were also recorded. From this great mass of details, soon
+represented in Paris by the collection of some 100,000 cards, it was
+possible, proceeding by exhaustion, to sift and sort down the cards till
+a small bundle of half a dozen produced the combined facts of the
+measurements of the individual last sought. The whole of the information
+is easily contained in one cabinet of very ordinary dimensions, and most
+ingeniously contrived so as to make the most of the space and facilitate
+the search. The whole of the record is independent of names, and the
+final identification is by means of the photograph which lies with the
+individual's card of measurements.
+
+Anthropometry, however, gradually fell into disfavour, and it has been
+generally supplanted by the superior system of finger prints (q.v.).
+Bertillonage exhibited certain defects which were first brought to light
+in Bengal. The objections raised were (1) the costliness of the
+instruments employed and their liability to get out of order; (2) the
+need for specially instructed measurers, men of superior education; (3)
+the errors that frequently crept in when carrying out the processes and
+were all but irremediable. Measures inaccurately taken, or wrongly read
+off, could seldom, if ever, be corrected, and these persistent errors
+defeated all chance of successful search. The process was slow, as it
+was necessary to repeat it three times so as to arrive at a mean result.
+In Bengal measurements were already abandoned by 1897, when the finger
+print system was adopted throughout British India. Three years later
+England followed suit; and as the result of a fresh inquiry ordered by
+the Home Office, finger prints were alone relied upon for
+identification.
+
+  AUTHORITIES.--Lombroso, _Antropometria di 400 delinquenti_ (1872);
+  Roberts, _Manual of Anthropometry_ (1878); Ferri, _Studi comparati di
+  antropometria_ (2 vols., 1881-1882); Lombroso, _Rughe anomale speciali
+  ai criminali_ (1890); Bertillon, _Instructions signalétiques pour
+  l'identification anthropométrique_ (1893); Livi, _Anthropometria_
+  (Milan, 1900); Fürst, _Indextabellen zum anthropometrischen Gebrauch_
+  (Jena, 1902); _Report of Home Office Committee on the Best Means of
+  Identifying Habitual Criminals_ (1893-1894).     (A. G.)

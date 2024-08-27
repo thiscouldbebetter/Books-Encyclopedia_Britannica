@@ -1,0 +1,47 @@
+APPORTIONMENT BILL, an act passed by the Congress of the United States
+after each decennial census to determine the number of members which
+each state shall send to the House of Representatives. The ratio of
+representation fixed by the original constitution was 1 to 30,000 of the
+free population, and the number of the members of the first House was
+65. As the House would, at this ratio, have become unmanageably large,
+the ratio, which is first settled by Congress before apportionment, has
+been raised after each census, as will be seen from the accompanying
+table.
+
+  +-----------------+-------------------+------+---------+-----------+
+  |                 |       Census      |  Apportionment |   Whole   |
+  |     Under       +------+------------+------+---------+ Number of |
+  |                 | Year | Population | Year |   Ratio | Represe-  |
+  |                 |      |            |      |         | ntatives  |
+  +-----------------+------+------------+------+---------+-----------+
+  | Constitution    |  ··  |     ··     | 1789 |  30,000 |     65    |
+  | First Census    | 1790 |  3,929,214 | 1793 |  33,000 |    105    |
+  | Second Census   | 1800 |  5,308,483 | 1803 |  33,000 |    141    |
+  | Third Census    | 1810 |  7,239,881 | 1813 |  35,000 |    181    |
+  | Fourth Census   | 1820 |  9,633,822 | 1823 |  40,000 |    213    |
+  | Fifth Census    | 1830 | 12,866,020 | 1833 |  47,700 |    240    |
+  | Sixth Census    | 1840 | 17,069,453 | 1843 |  70,680 |    223    |
+  | Seventh Census  | 1850 | 23,191,876 | 1853 |  93,423 |    234    |
+  | Eighth Census   | 1860 | 31,443,321 | 1863 | 127,381 |    241    |
+  | Ninth Census    | 1870 | 38,558,371 | 1873 | 131,425 |    292    |
+  | Tenth Census    | 1880 | 50,155,783 | 1883 | 151,911 |    325    |
+  | Eleventh Census | 1890 | 62,622,250 | 1893 | 173,901 |    356    |
+  | Twelfth Census  | 1900 | 75,568,686 | 1903 | 194,182 |    386    |
+  +-----------------+------+------------+------+---------+-----------+
+
+The same term is applied to the acts passed by the state legislatures
+for correcting and redistributing the representation of the counties.
+Such acts are usually passed at decennial intervals, more often after
+the federal census, but the dates may vary in different states. The
+state representatives are usually apportioned among the several counties
+according to population and not by geographical position. The electoral
+districts so formed are expected to be equal in proportion to the number
+of inhabitants; but this method has led to much abuse in the past,
+through the making of unequal districts for partisan purposes. (See
+GERRYMANDER.)
+
+If a state has received an increase in the number of its representatives
+and its legislature does not pass an apportionment bill before the next
+congressional election, the votes of the whole state elect the
+additional members on a general ticket and they are called
+"congressmen-at-large."
