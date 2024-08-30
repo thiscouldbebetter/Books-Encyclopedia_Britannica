@@ -1,0 +1,1401 @@
+ARTHROPODA, a name, denoting the possession by certain animals of
+jointed limbs, now applied to one of the three sub-phyla into which one
+of the great phyla (or primary branches) of coelomocoelous animals--the
+Appendiculata-is divided; the other two being respectively the
+Chaetopoda and the Rotifera. The word "Arthropoda" was first used in
+classification by Siebold and Stannius (_Lehrbuch der vergleich.
+Anatomie_, Berlin, 1845) as that of a primary division of animals, the
+others recognized in that treatise being Protozoa, Zoophyta, Vermes,
+Mollusca and Vertebrata. The names Condylopoda and Gnathopoda have been
+subsequently proposed for the same group. The word refers to the
+jointing of the chitinized exo-skeleton of the limbs or lateral
+appendages of the animals included, which are, roughly speaking, the
+Crustacea, Arachnida, Hexapoda (so-called "true insects"), Centipedes
+and Millipedes. This primary group was set up to indicate the residuum
+of Cuvier's Articulata when his class Annelides (the modern Chaetopoda)
+was removed from that _embranchement_. At the same time C.T.E. von
+Siebold and H. Stannius renovated the group Vermes of Linnaeus, and
+placed in it the Chaetopods and the parasitic worms of Cuvier, besides
+the Rotifers and Turbellarian worms.[1]
+
+The result of the knowledge gained in the last quarter of the 19th
+century has been to discredit altogether the group Vermes (see WORM),
+thus set up and so largely accepted by German writers even at the
+present day. We have, in fact, returned very nearly to Cuvier's
+conception of a great division or branch, which he called Articulata,
+including the Arthropoda and the Chaetopoda (Annelides of Lamarck, a
+name adopted by Cuvier), and differing from it only by the inclusion of
+the Rotifera. The name Articulata, introduced by Cuvier, has not been
+retained by subsequent writers. The same, or nearly the same, assemblage
+of animals has been called Entomozoaria by de Blainville (1822),
+Arthrozoa by Burmeister (1843), Entomozoa or Annellata by H.
+Milne-Edwards (1855), and Annulosa by Alexander M'Leay (1819), who was
+followed by Huxley (1856). The character pointed to by all these terms
+is that of a ring-like segmentation of the body. This, however, is not
+the character to which we now ascribe the chief weight as evidence of
+the genetic affinity and monophyletic (uni-ancestral) origin of the
+Chaetopods, Rotifers and Arthropods. It is the existence in each ring of
+the body of a pair of hollow _lateral appendages_ or _parapodia_, moved
+by intrinsic muscles and penetrated by blood-spaces, which is the
+leading fact indicating the affinities of these great sub-phyla, and
+uniting them as blood-relations. The parapodia (fig. 8) of the marine
+branchiate worms are the same things genetically as the "legs" of
+Crustacea and Insects (figs. 10 and 11). Hence the term Appendiculata
+was introduced by Lankester (preface to the English edition of
+Gegenbaur's _Comparative Anatomy_, 1878) to indicate the group. The
+relationships of the Arthropoda thus stated are shown in the subjoined
+
+table:--
+
+                          / Sub-phylum 1. Rotifera.
+  Phylum--APPENDICULATA  <      "      2. Chaetopoda.
+                          \     "      3. Arthropoda.
+
+The ROTIFERA are characterized by the retention of what appears in
+Molluscs and Chaetopods as an embryonic organ, the velum or ciliated
+prae-oral girdle, as a locomotor and food-seizing apparatus, and by the
+reduction of the muscular parapodia to a rudimentary or non-existent
+condition in all present surviving forms except _Pedalion_. In many
+important respects they are degenerate--reduced both in size and
+elaboration of structure.
+
+The CHAETOPODA are characterized by the possession of horny epidermic
+chaetae embedded in the integument and moved by muscles. Probably the
+chaetae preceded the development of parapodia, and by their
+concentration and that of the muscular bundles connected with them at
+the sides of each segment, led directly to the evolution of the
+parapodia. The parapodia of Chaetopoda are never coated with dense
+chitin, and are, therefore, never converted into jaws; the primitive
+"head-lobe" or prostomium persists, and frequently carries eyes and
+sensory tentacles. Further, in all members of the sub-phylum Chaetopoda
+the relative position of the prostomium, mouth and peristomium or first
+ring of the body, retains its primitive character. We do not find in
+Chaetopoda that parapodia, belonging to primitively post-oral rings or
+body-segments (called "somites," as proposed by H. Milne-Edwards), pass
+in front of the mouth by adaptational shifting of the oral aperture.
+(See, however, 8.)
+
+The ARTHROPODA might be better called the "Gnathopoda," since their
+distinctive character is, that one or more pairs of appendages behind
+the mouth are densely chitinized and turned (fellow to fellow on
+opposite sides) towards one another so as to act as jaws. This is
+facilitated by an important general change in the position of the
+parapodia; their basal attachments are all more ventral in position than
+in the Chaetopoda, and tend to approach from the two sides towards the
+mid-ventral line. Very usually (but not in the Onychophora =
+_Peripatus_) all the parapodia are plated with chitin secreted by the
+epidermis, and divided into a series of joints--giving the
+"arthropodous" or hinged character.
+
+There are other remarkable and distinctive features of structure which
+hold the Arthropoda together, and render it impossible to conceive of
+them as having a polyphyletic origin, that is to say, as having
+originated separately by two or three distinct lines of descent from
+lower animals; and, on the contrary, establish the view that they have
+been developed from a single line of primitive Gnathopods which arose by
+modification of parapodiate annulate worms not very unlike some of the
+existing Chaetopods. These additional features are the following--(1)
+All existing Arthropoda have an ostiate heart and have undergone
+"phleboedesis," that is to say, the peripheral portions of the
+blood-vascular system are not fine tubes as they are in the Chaetopoda
+and as they were in the hypothetical ancestors of Arthropoda, but are
+swollen so as to obliterate to a large extent the coelom, whilst the
+separate veins entering the dorsal vessel or heart have coalesced,
+leaving valvate ostia (see fig. 1) by which the blood passes from a
+pericardial blood-sinus formed by the fused veins into the dorsal vessel
+or heart (see Lankester's _Zoology_, part ii., introductory chapter,
+1900). The only exception to this is in the case of minute degenerate
+forms where the heart has disappeared altogether. The rigidity of the
+integument caused by the deposition of dense chitin upon it is
+intimately connected with the physiological activity and form of all the
+internal organs, and is undoubtedly correlated with the total
+disappearance of the circular muscular layer of the body-wall present in
+Chaetopods. (2) In all existing Arthropoda the region in front of the
+mouth is no longer formed by the primitive prostomium or head-lobe, but
+one or more segments, originally post-oral, with their appendages have
+passed in front of the mouth (prosthomeres). At the same time the
+prostomium and its appendages cease to be recognizable as distinct
+elements of the head. The brain no longer consists solely of the
+nerve-ganglion-mass proper to the prostomial lobe, as in Chaetopoda, but
+is a composite (syncerebrum) produced by the fusion of this and the
+nerve-ganglion-masses proper to the prosthomeres or segments which pass
+forwards, whilst their parapodia (= appendages) become converted into
+eye-stalks, and antennae, or more rarely grasping organs. (3) As in
+Chaetopoda, coelomic funnels (coelomoducts) _may_ occur right and left
+as pairs in each ring-like segment or somite of the body, and some of
+these are in all cases retained as gonoducts and often as renal
+excretory organs (green glands, coxal glands of Arachnida, _not_ crural
+glands, which are epidermal in origin); but true nephridia, genetically
+identical with the nephridia of earthworms, do not occur (on the subject
+of coelom, coelomoducts and nephridia, see the introductory chapter of
+part ii. of Lankester's _Treatise on Zoology_).
+
+[Illustration: After Lankester, _Q. J. Mic. Sci._ vol. xxxiv., 1893.
+
+FIG. 1.--Diagram to show the gradual formation of the Arthropod
+pericardial blood-sinus and "ostiate" heart by the swelling up
+(phleboedesis) of the veins entering the dorsal vessel or heart of a
+Chaetopod-like ancestor. The figure on the left represents the condition
+in a Chaetopod, that on the right the condition in an Arthropod, the
+other two are hypothetical intermediate forms.]
+
+_Tabular Statement of the Grades, Classes and Sub-classes of the
+Arthropoda._--It will be convenient now to give in the clearest form a
+statement of the larger subdivisions of the Arthropoda which it seems
+necessary to recognize at the present day. The justification of the
+arrangement adopted will form the substance of the rest of the present
+article. The orders included in the various classes are not discussed
+here, but are treated of under the following titles:--PERIPATUS
+(Onychophora), CENTIPEDE and MILLIPEDE (Myriapoda), HEXAPODA (Insecta),
+ARACHNIDA and CRUSTACEA.
+
+  SUB-PHYLUM ARTHROPODA (of the Phylum Appendiculata).
+
+  Grade A. HYPARTHROPODA (hypothetical forms connecting ancestors of
+    Chaetopoda with those of Arthropoda).
+
+  Grade B. PROTARTHROPODA.
+    Class ONYCHOPHORA.
+      Ex.--_Peripatus._
+
+  Grade C. EUARTHROPODA.
+    Class 1. DIPLOPODA.
+      Ex.--_Julus._
+    Class 2. ARACHNIDA.
+      Grade a. Anomomeristica.
+        Ex.--_Phacops._
+      Grade b. Nomomeristica.
+        (a) Pantopoda.
+          Ex.--_Pycnogonum._
+        (b) Euarachnida.
+          Ex.--_Limulus, Scorpio, Mygale, Acarus._
+    Class 3. CRUSTACEA.
+      Grade a. Entomostraca.
+        Ex.--_Apus, Branchipus, Cyclops, Balanus._
+      Grade b. Malacostraca.
+        Ex.--_Nebalia, Astacus, Oniscus, Gammarus._
+    Class 4. CHILOPODA.
+      Ex.--_Scolopendra._
+    Class 5. HEXAPODA (syn. Insecta Pterygota).
+      Ex.--_Locusta, Phryganea, Papilio, Apis, Mnsca, Cimex, Lucanus,
+        Machilis._
+
+  _Incertae sedis_--Tardigrada, Pentastomidae (degenerate forms).
+
+  _The Segmentation of the Body of Arthropoda._--The body of the
+  Arthropoda is more or less clearly divided into a series of rings,
+  segments, or somites which can be shown to be repetitions one of
+  another, possessing identical parts and organs which may be larger or
+  smaller, modified in shape or altogether suppressed in one somite as
+  compared with another. A similar constitution of the body is more
+  clearly seen in the Chaetopod worms. In the Vertebrata also a
+  repetition of units of structure (myotomes, vertebrae, &c.)--which is
+  essentially of the same nature as the repetition in Arthropods and
+  Chaetopods, but in many respects subject to peculiar developments--is
+  observed. The name "metamerism" has been given to this structural
+  phenomenon because the "meres," or repeated units, follow one another
+  in line. Each such "mere" is often called a "metamere." A satisfactory
+  consideration of the structure of the Arthropods demands a knowledge
+  of what may be called the laws of metamerism, and reference should be
+  made to the article under that head.
+
+  [Illustration: From Goodrich, _Q. J. Micr. Sci._ vol. xi p. 247.
+
+  FIG. 2.--Diagram of the head and adjacent region of an Ohgochaet
+  Chaetopod.
+
+    Pr, The prostomium.
+    m, The mouth.
+    A, The prostomial ganglion-mass or archi-cerebrum.
+    I, II, III, coelom of the first, second and third somites.]
+
+  _The Theory of the Arthropod Head._--The Arthropod head is a tagma or
+  group of somites which differ in number and in their relative position
+  in regard to the mouth, in different classes. In a simple Chaetopod
+  (fig. 2) the head consists of the first somite only; that somite is
+  perforated by the mouth, and is provided with a prostomium or
+  prae-oral lobe. The prostomium is essentially a part or outgrowth of
+  the first somite, and cannot be regarded as itself a somite. It gives
+  rise to a nerve-ganglion mass, the prostomial ganglion. In the marine
+  Chaetopods (the Polychaeta) (fig. 3), we find the same essential
+  structure, but the prostomium may give rise to two or more tactile
+  tentacles, and to the vesicular eyes. The somites have well-marked
+  parapodia, and the second and third, as well as the first, may give
+  rise to tentacles which are directed forward, and thus contribute to
+  form "the head." But the mouth remains as an inpushing of the wall of
+  the first somite.
+
+  [Illustration: FIG. 3.--Diagram of the head and adjacent region of a
+  Polychaet Chaetopod Letters as in fig. 1, with the addition of T,
+  prostomial tentacle; _Pa_, parapodium. (From Goodrich.)]
+
+  The Arthropoda are all distinguished from the Chaetopoda by the fact
+  that the head consists of one or more somites which lie _in front of
+  the mouth_ (now called prosthomeres), as well as of one or more
+  somites behind it (opisthomeres). The first of the post-oral somites
+  invariably has its parapodia modified so as to form a pair of
+  hemignaths (mandibles). About 1870 the question arose for discussion
+  whether the somites in front of the mouth are to be considered as
+  derived from the prostomium of a Chaetopod-like ancestor.
+  Milne-Edwards and Huxley had satisfied themselves with discussing and
+  establishing, according to the data at their command, the number of
+  somites in the Arthropod head, but had not considered the question of
+  the _nature_ of the prae-oral somites. Lankester (2) was the first to
+  suggest that (as is actually the fact in the Nauplius larva of the
+  Crustacea) the prae-oral somites or prosthomeres and their appendages
+  were ancestrally post-oral, but have become prae-oral "by adaptational
+  shifting of the oral aperture." This has proved to be a sound
+  hypothesis and is now accepted as the basis upon which the Arthropod
+  head must be interpreted (see Korschelt and Heider (3)). Further, the
+  morphologists of the 'fifties appear, with few exceptions, to have
+  accepted a preliminary scheme with regard to the Arthropod head and
+  Arthropod segmentation generally, which was misleading and caused them
+  to adopt forced conclusions and interpretations. It was conceived by
+  Huxley, among others, that the same number of cephalic somites would
+  be found to be characteristic of all the diverse classes of
+  Arthropoda, and that the somites, not only of the head but of the
+  various regions of the body, could be closely compared in their
+  numerical sequence in classes so distinct as the Hexapods, Crustaceans
+  and Arachnids.
+
+  The view which it now appears necessary to take is, on the contrary,
+  this--viz that all the Arthropoda are to be traced to a common
+  ancestor resembling a Chaetopod worm, but differing from it in having
+  lost its chaetae and in having a prosthomere in front of the mouth
+  (instead of prostomium only) and a pair of hemignaths (mandibles) on
+  the parapodia of the buccal somite. From this ancestor Arthropods with
+  heads of varying degrees of complexity have been developed
+  characteristic of the different classes, whilst the parapodia and
+  somites of the body have become variously modified and grouped in
+  these different classes. The resemblances which the members of one
+  class often present to the members of another class in regard to the
+  form of the limb-branches (rami) of the parapodia and the formation of
+  tagmata (regions) are not hastily to be ascribed to common
+  inheritance, but we must consider whether they are not due to
+  homoplasy--that is, to the moulding of natural selection acting in the
+  different classes upon fairly similar elements under like exigencies.
+
+  [Illustration: FIG. 4.--Diagram of the head and adjacent region of
+  _Peripatus_. Monoprosthomerous.
+
+    m, Mouth.
+    I, Coelom of the first somite which carries the antennae and is in
+      front of the mouth.
+    II, Coelom of the second somite which carries the mandibles (hence
+      deuterognathous).
+    III and IV, Coelom of the third and fourth somites.
+    FP, Rudimentary frontal processes perhaps representing the
+      prostomial tentacles of Polychaeta.
+    Ant, Antenna or tactile tentacle.
+    Md, Mandible.
+    Op, Oral-papilla.
+    P, Protocerebrum or foremost cerebral mass belonging to the first
+      somite.
+    D, Deuterocerebrum, consisting of ganglion cells belonging to the
+      second or mandibular somite. (After Goodrich.)]
+
+  The structure of the head in Arthropods presents _three_ profoundly
+  separated grades of structure dependent upon the number of
+  prosthomeres which have been assimilated by the prae-oral region. The
+  classes presenting these distinct plans of head-structure cannot be
+  closely associated in any scheme of classification professing to be
+  natural. Penpatus, the type-genus of the class Onychophora, stands at
+  the base of the series with only a single prosthomere (fig. 4). In
+  Peripatus the prostomium of the Chaetopod-like ancestor is atrophied,
+  but it is possible that two processes on the front of the head (FP)
+  represent in the embryo the dwindled prostomial tentacles. The single
+  prosthomere carries the retractile tentacles as its "parapodia." The
+  second somite is the buccal somite (II, fig. 4); its parapodia have
+  horny jaws on their ends, like the claws on the following legs (fig.
+  9), and act as hemignaths (mandibles). The study of sections of the
+  embryo establishes these facts beyond doubt. It also shows us that the
+  neuromeres, no less than the embryonic coelomic cavities, point to the
+  existence of one, and only one, prosthomerp in Peripatus, of which the
+  "protocerebrum," P, is the neuromere, whilst the deuterocerebrum, D,
+  is the neuromere of the second or buccal somite. A brief indication of
+  these facts is given by saying that the Onychophora are
+  "deuterognathous"--that is to say, that the buccal somite carrying the
+  mandibular hemignaths is the second of the whole series.
+
+  What has become of the nerve-ganglion of the prostomial lobe of the
+  Chaetopod in Peripatus is not clearly ascertained, nor is its fate
+  indicated by the study of the embryonic head of other Arthropods so
+  far. Probably it is fused with the protocerebrum, and may also be
+  concerned in the history of the very peculiar paired eyes of
+  Peripatus, which are like those of Chaetopods in structure--viz
+  vesicles with an intravesicular lens, whereas the eyes of all other
+  Arthropods have essentially another structure, being "cups" of the
+  epidermis, in which a knob-like or rod-like thickening of the cuticle
+  is fitted as refractive medium.
+
+  In Diplopoda (_Julus_, &c.) the results of embryological study point
+  to a composition of the front part of the head exactly similar to that
+  which we find in Onychophora. They are deuterognathous.
+
+  [Illustration: FIG. 5.--Diagram of the head and adjacent region of an
+  Arachnid. Diprosthomerous in the adult condition, though
+  embryologically the appendages of somite II and the somite itself are,
+  as here drawn, not actually in front of the mouth.
+
+    E, Lateral eye.
+    Ch, Chelicera.
+    m, Mouth.
+    P, Protocerebrum,
+    D, Deuterocerebrum.
+    I, II, III, IV. Coelom of the first, second, third and fourth
+      somites. (After Goodrich.)]
+
+  The Arachnida present the first stage of progress. Here embryology
+  shows that there are two prosthomeres (fig. 5), and that the
+  gnathobases of the chelae which act as the first pair of hemignaths
+  are carried by the third somite. The Arachnida are therefore
+  tritognathous. The two prosthomeres are indicated by their coelomic
+  cavities in the embryo (I and II, fig. 5), and by two neuromeres, the
+  protocerebrum and the deuterocerebrum. The appendages of the first
+  prosthomere are not present as tentacles, as in Peripatus and
+  Diplopods, but are possibly represented by the eyes or possibly
+  altogether aborted. The appendages of the second prosthomere are the
+  well-known chelicerae of the Arachnids, rarely, if ever, antenniform,
+  but modified as "retroverts" or clasp-knife tangs in spiders.
+
+  The Crustacea (fig. 6) and the Hexapoda (fig. 7) agree in having three
+  somites in front of the mouth, and it is probable, though not
+  ascertained, that the Chilopoda (Scolopendra, &c.) are in the same
+  case. The three prosthomeres or prae-oral somites of Crustacea due to
+  the sinking back of the mouth one somite farther than in Arachnida are
+  not clearly indicated by coelomic cavities in the embryo, but their
+  existence is clearly established by the development and position of
+  the appendages and by the neuromeres.
+
+  The eyes in some Crustacea are mounted on articulated stalks, and from
+  the fact that they can after injury be replaced by antenna-like
+  appendages it is inferred that they represent the parapodia of the
+  most anterior prosthomere. The second prosthomere carries the first
+  pair of antennae and the third the second pair of antennae. Sometimes
+  the pair of appendages has not a merely tactile jointed ramus, but is
+  converted into a claw or clasper. Three neuromeres--a proto-,
+  deutero-, and trito-cerebrum--corresponding to those three
+  prosthomeres are sharply marked in the embryo. The fourth somite is
+  that in which the mouth now opens, and which accordingly has its
+  appendages converted into hemignathous mandibles. The Crustacea are
+  tetartognathous.
+
+  [Illustration: FIG. 6.--Diagram of the head of a Crustacean.
+  Tri-prosthomerous.
+
+    FP, Frontal processes (observed in Cirrhiped nauplius-larvae)
+      probably representing the prostomial tentacles of Chaetopods.
+    e, Eye.
+    Ant^1, First pair of antennae.
+    Ant^2, Second pair of antennae.
+    md, Mandible.
+    mx^1, mx^2, First and second pairs of maxillae.
+    m, Mouth.
+    I, II, and III, The three prosthomeres.
+    IV, V, VI, The three somites following the mouth.
+    P, Protocerebrum.
+    D, Deuterocerebrum.
+    T, Tritocerebrum.
+
+  (After Goodrich.)]
+
+  [Illustration: FIG. 7.--Diagram of the head of a Hexapod insect.
+
+    e, Eye.
+    ant, Antenna.
+    md, Mandible.
+    mx^1, First maxilla.
+    mx^2, Second maxilla.
+    m, Mouth.
+    I, Region of the first or eye-bearing prosthomere.
+    II, Coelom of the second antenna-bearing prosthomere.
+    III, Coelom of the third prosthomere devoid of appendages.
+    IV, V, and VI, Coelom of the fourth, fifth and sixth somites.
+    P, Protocerebrum belonging to the first prosthomere.
+    D, Deuterocerebrum belonging to the second prosthomere.
+    T, Tritocerebrum belonging to the third prosthomere.
+
+  (After Goodrich.)]
+
+  The history of the development of the head has been carefully worked
+  out in the Hexapod insects. As in Crustacea and Arachnida, a first
+  prosthomere is indicated by the paired eyes and the protocerebrum; the
+  second prosthomere has a well-marked coelomic cavity, carries the
+  antennae, and has the deuterocerebrum for its neuromere. The third
+  prosthomere is represented by a well-marked pair of coelomic cavities
+  and the tritocerebrum (III, fig. 7), but has no appendages. They
+  appear to have aborted. The existence of this third prosthomere
+  corresponding to the third prosthomere of the Crustacea is a strong
+  argument for the derivation of the Hexapoda, and with them the
+  Chilopoda, from some offshoot of the Crustacean stem or class. The
+  buccal somite, with its mandibles, is in Hexapoda, as in Crustacea,
+  the fourth: they are tetartognathous.
+
+  The adhesion of a greater or less number of somites to the buccal
+  somite posteriorly (opisthomeres) is a matter of importance, but of
+  minor importance, in the theory and history of the Arthropod head. In
+  Peripatus no such adhesion or fusion occurs. In Diplopoda two
+  opisthomeres--that is to say, one in addition to the buccal
+  somite--are united by a fusion of their terga with the terga of the
+  prosthomeres. Their appendages are respectively the mandibles and the
+  gnathochilarium.
+
+  In Arachnida the highest forms exhibit a fusion of the tergites of
+  five post-oral somites to form one continuous carapace united with the
+  terga of the two prosthomeres. The five pairs of appendages of the
+  post-oral somites of the head or prosoma thus constituted all
+  primitively carry gnathobasic projections on their coxal joints, which
+  act as hemignaths: in the more specialized forms the mandibular
+  gnathobases cease to develop.
+
+  In Crustacea the fourth or mandibular somite never has less than the
+  two following somites associated with it by the adaptation of their
+  appendages as jaws, and the ankylosis of their terga with that of the
+  prosthomeres. But in higher Crustacea the cephalic "tagma" is
+  extended, and more somites are added to the fusion, and their
+  appendages adapted as jaws of a kind.
+
+  The Hexapoda are not known to us in their earlier or more primitive
+  manifestations; we only know them as possessed of a definite number of
+  somites arranged in definite numbers in three great tagmata. The head
+  shows two jaw-bearing somites besides the mandibular somite (V, VI, in
+  fig. 7)--thus six in all (as in some Crustacea), including
+  prosthomeres, all ankylosed by their terga to form a cephalic shield.
+  There is, however, good embryological evidence in some Hexapods of the
+  existence of a seventh somite, the supra-lingual, occurring between
+  the somite of the mandibles and the somite of the first maxillae (4).
+  This segment is indicated embryologically by its paired coelomic
+  cavities. It is practically an excalated somite, having no existence
+  in the adult. It is probably not a mere coincidence that the Hexapod,
+  with its two rudimentary somites devoid of appendages, is thus found
+  to possess twenty-one somites, including that which carries the anus,
+  and that this is also the number present in the Malacostracous
+  Crustacea.
+
+  [Illustration: FIG. 8.--Diagram of the somite-appendage or parapodium
+  of a Polychaet Chaetopod. The chaetae are omitted.
+
+    Ax, The axis.
+    nr.c, Neuropodial cirrhus.
+    nr.l^1, nr.l^2, Neuropodial lobes or endites.
+    nt.c. Notopodial cirrhus.
+    nt.l^1, nt.l^2, Notopodial lobes or exites.
+
+  The parapodium is represented with its neural or ventral surface
+  uppermost. (Original).]
+
+  _The Segmented Lateral Appendages or Limbs of Arthropoda._--It has
+  taken some time to obtain any general acceptance of the view that the
+  parapodia of the Chaetopoda and the limbs of Arthropoda are
+  genetically identical structures; yet if we compare the parapodium of
+  Tomopteris or of Phyllodoce with one of the foliaceous limbs of
+  Branchipus or Apus, the correspondences of the two are striking. An
+  erroneous view of the fundamental morphology of the Crustacean limb,
+  and consequently of that of other Arthropoda, came into favour owing
+  to the acceptance of the highly modified limbs of Astacus as typical.
+  Protopodite, endopodite, exopodite, and epipodite were considered to
+  be the morphological units of the crustacean limb. Lankester (5) has
+  shown (and his views have been accepted by Professors Korschelt and
+  Heider in their treatise on _Embryology_) that the limb of the lowest
+  Crustacea, such as Apus, consists of a corm or axis which may be
+  jointed, and gives rise to outgrowths, either leaf-like or filiform,
+  on its inner and outer margins (endites and exites). Such a corm (see
+  figs. 10 and 11), with its outgrowths, may be compared to the simple
+  parapodia of Chaetopoda with cirrhi and branchial lobe (fig. 8). It is
+  by the specialization of two "endites" that the endopodite and
+  exopodite of higher Crustacea are formed, whilst a flabelliform exite
+  is the homogen or genetic equivalent of the epipodite (see Lankester,
+  "Observations and Reflections on Apus Cancriformis," _Q. J. Micr.
+  Sci._). The reduction of the outgrowth-bearing "corm" of the
+  parapodium of either a Chaetopod or an Arthropod to a simple
+  cylindrical stump, devoid of outgrowths, is brought about when
+  mechanical conditions favour such a shape. We see it in certain
+  Chaetopods (e.g. Hesione) and in the Arthropod Peripatus (fig. 9). The
+  conversion of the Arthropod's limb into a jaw, as a rule, is effected
+  by the development of an endite near its base into a hard, chitinized,
+  and often toothed gnathobase (see figs. 10 and 11, _en^1_). It is not
+  true that all the biting processes of the Arthropod limb are thus
+  produced--for instance, the jaws of Peripatus are formed by the axis
+  or corm itself, whilst the poison-jaws of Chilopods, as also their
+  maxillae, appear to be formed rather by the apex or terminal region of
+  the ramus of the limb; but the opposing jaws (= hemignaths) of
+  Crustacea, Arachnida and Hexapoda are gnathobases, and not the axis or
+  corm. The endopodite (corresponding to the fifth endite of the limb of
+  Apus, see fig. 10) becomes in Crustacea the "walking leg" of the
+  mid-region of the body; it becomes the palp or jointed process of
+  anterior segments. A second ramus, the "exopodite," often is also
+  retained in the form of a palp or feeler. In Apus, as the figure
+  shows, there are four of these "antenna-like" palps or filaments on
+  the first thoracic limb. A common modification of the chief ramus of
+  the Arthropod parapodium is the chela or nipper formed by the
+  elongation of the penultimate joint of the ramus, so that the last
+  joint works on it--as, for instance, in the lobster's claw. Such
+  chelate rami or limb-branches are independently developed in Crustacea
+  and in Arachnida, and are carried by somites of the body which do not
+  correspond in position in the two groups. The range of modification of
+  which the rami or limb-branches of the limbs of Arthropoda are capable
+  is very large, and in allied orders or even families or genera we
+  often find what is certainly the palp of the same appendage (as
+  determined by numerical position of the segments)--in one case
+  antenniform, in another chelate, in another pediform, and in another
+  reduced to a mere stump or absent altogether. Very probably the power
+  which the appendage of a given segment has of assuming the perfected
+  form and proportions previously attained by the appendage of another
+  segment must be classed as an instance of "homoeosis," not only where
+  such a change is obviously due to abnormal development or injury, but
+  also where it constitutes a difference permanently established between
+  allied orders or smaller groups, or between the two sexes.
+
+  [Illustration: FIG. 9.--Three somite-appendages or parapodia of
+  _Peripatus._
+
+    A, A walking leg; p^1 to p^4, the characteristic "pads"; f, the
+      foot; cl^1, cl^2, the two claws.
+    B, An oral papilla, one of the second pair of post-oral appendages.
+    C, One of the first post-oral pair of appendages or mandibles; cl^1,
+      cl^2, the greatly enlarged claws. (Compare A.)
+
+  The appendages are represented with the neural or ventral surface
+  uppermost.]
+
+  The most extreme disguise assumed by the Arthropod parapodium or
+  appendage is that of becoming a mere stalk supporting an eye--a fact
+  which did not obtain general credence until the experiments of Herbst
+  in 1895, who found, on cutting off the eye-stalk of Palaemon, that a
+  jointed antenna-like appendage was regenerated in its place. Since the
+  eye-stalks of Podophthalmate Crustacea represent appendages, we are
+  forced to the conclusion that the sessile eyes of other Crustacea, and
+  of other Arthropoda generally, indicate the position of appendages
+  which have atrophied.[2]
+
+  From what has been said, it is apparent that we cannot, in attempting
+  to discover the affinities and divergences of the various forms of
+  Arthropoda, attach a very high phylogenetic value to the coincidence
+  or divergence in form of the appendages belonging to the somites
+  compared with one another.
+
+  [Illustration: After Lankester, _Q. J. Mic. Sci._ vol. xxi., 1881.
+
+  FIG. 10.--The second thoracic (fifth post-oral) appendage of the left
+  side of _Apus cancriformis_, placed with its ventral or neural surface
+  uppermost to compare with figs. 8 and 9.
+
+    1, 2, The two segments of the axis.
+    en^1, The gnathobase.
+    en^2 to en^6, The five following "endites."
+    fl, The flabellum or anterior exite.
+    br, The bract or posterior exite.]
+
+  The principal forms assumed by the Arthropod parapodium and its rami
+  may be thus enumerated:--
+
+  (1) Axial corm well developed, unsegmented or with two to four
+  segments; lateral endites and exites (rami) numerous and of various
+  lengths (certain limbs of lower Crustacea).
+
+  (2) Corm, with short unsegmented rami, forming a flattened foliaceous
+  appendage, adapted to swimming and respiration (trunk-limbs of
+  Phyllopods).
+
+  (3) Corm alone developed; with no endites or exites, but provided with
+  terminal chitinous claws (ordinary leg of Peripatus), with terminal
+  jaw teeth (jaw of Peripatus), or with blunt extremity (oral papilla of
+  same) (see fig. 9).
+
+  (4) Three of the rami of the primitive limb (endites 5 and 6, and
+  exite 1) specially developed as endopodite, exopodite, and
+  epipodite--the first two often as firm and strongly chitinized,
+  segmented, leg-like structures; the original axis or corm reduced to a
+  basal piece, with or without a distinct gnathobase (endite 1)--typical
+  tri-ramose limb of higher Crustacea.
+
+  (5) One ramus (the endopodite) alone developed--the original axis or
+  corm serving as its basal joint with or without gnathobase. This is
+  the usual uni-ramose limb found in the various classes of Arthropoda.
+  It varies as to the presence or absence of the jaw-process and as to
+  the stoutness of the segments of the ramus, their number (frequently
+  six, plus the basal corm), and the modification of the free end. This
+  may be filiform or brush-like or lamellate when it is an antenna or
+  palp; a simple spike (walking leg of Crustacea, of other aquatic
+  forms, and of Chilopods and Diplopods); the terminal joint flattened
+  (swimming leg of Crustacea and Gigantostraca); the terminal joint
+  provided with two or with three recurved claws (walking leg of many
+  terrestrial forms--e.g. Hexapoda and Arachnida); the penultimate joint
+  with a process equal in length to the last joint, so as to form a
+  nipping organ (chelae of Crustaceans and Arachnids); the last joint
+  reflected and movable on the penultimate, as the blade of a
+  clasp-knife on its handle (the retrovert, toothed so as to act as a
+  biting jaw in the Hexapod _Mantis_, the Crustacean _Squilla_ and
+  others); with the last joint produced into a needle-like stabbing
+  process in spiders.
+
+  [Illustration: After Lankester, _Q. J. Mic. Sci._ vol. xxi., 1881.
+
+  FIG. 11.--The first thoracic (fourth post-oral) appendage of _Apus
+  cancriformis_ (right side).
+
+    Ax^1 to Ax^4, the four segments of the axis with muscular bands.
+    En^1, Gnathobase.
+    En^2 to En^5, The elongated jointed endites (rami).
+    En^6, The rudimentary sixth endite (exopodite of higher Crustacea).
+    Fl, The flabellum which becomes the epipodite of higher forms.
+    Br, The bract devoid of muscles and respiratory in function.]
+
+  (6) Two rami developed (usually, but perhaps not always, the
+  equivalents of the endopodite and exopodite) supported on the somewhat
+  elongated corm (basal segment). This is the typical "bi-ramose limb"
+  often found in Crustacea. The rami may be flattened for swimming, when
+  it is "a bi-ramose swimmeret," or both or only one may be filiform and
+  finely annulate; this is the form often presented by the antennae of
+  Crustacea, and rarely by prae-oral appendages in other Arthropods.
+
+  (7) The endopoditic ramus is greatly enlarged and flattened, without
+  or with only one jointing, the corm (basal segment) is evanescent;
+  often the plate-like endopodites of a pair of such appendages unite in
+  the middle line with one another or by the intermediary of a sternal
+  up-growth and form a single broad plate. These are the plate-like
+  swimmerets and opercula of Gigantostraca and Limulus among Arachnids
+  and of Isopod Crustaceans. They may have rudimentary exopodites, and
+  may or may not have branchial filaments or lamellae developed on their
+  posterior faces. The simplest form to which they may be reduced is
+  seen in the genital operculum of the scorpion.
+
+  (8) The gnathobase becomes greatly enlarged and not separated by a
+  joint from the corm; it acts as a hemignath or half jaw working
+  against its fellow of the opposite side. The endopodite may be
+  retained as a small segmented palp at the side of the gnathobase or
+  disappear (mandible of Crustacea, Chilopoda and Hexapoda).
+
+  (9) The corm becomes the seat of a development of a special visual
+  organ, the Arthropod eye (as opposed to the Chaetopod eye). Its
+  jointing (segmentation) may be retained, but its rami disappear
+  (Podophthalmous Crustacea). Usually it becomes atrophied, leaving the
+  eye as a sessile organ upon the prae-oral region of the body (the
+  eye-stalk and sessile lateral eyes of Arthropoda generally, exclusive
+  of Peripatus).
+
+  (10) The forms assumed by special modification of the elements of the
+  parapodium in the maxillae, labium, &c., of Hexapods, Chilopods,
+  Diplopods, and of various Crustacea, deserve special enumeration, but
+  cannot be dealt with without ample space and illustration.
+
+  It may be pointed out that the most radical difference presented in
+  this list is that between appendages consisting of the corm alone
+  without rami (Onychophora) and those with more or less developed rami
+  (the rest of the Arthropoda). In the latter class we should
+  distinguish three phases: (a) those with numerous and comparatively
+  undeveloped rami; (b) those with three, or two highly developed rami,
+  or with only one--the corm being reduced to the dimensions of a mere
+  basal segment; (c) those reduced to a secondary simplicity
+  (degeneration) by overwhelming development of one segment (e.g. the
+  isolated gnathobase often seen as "mandible" and the genital
+  operculum).
+
+  There is no reason to suppose that any of the forms of limb observed
+  in Arthropoda may not have been independently developed in two or more
+  separate diverging lines of descent.
+
+  _Branchiae._--In connexion with the discussion of the limbs of
+  Arthropods, a few words should be devoted to the gill-processes. It
+  seems probable that there are branchial plumes or filaments in some
+  Arthropoda (some Crustacea) which can be identified with the distinct
+  branchial organs of Chaetopoda, which lie dorsal of the parapodia and
+  are not part of the parapodium. On the other hand, we cannot refuse to
+  admit that any of the processes of an Arthropod parapodium may become
+  modified as branchial organs, and that, as a rule, branchial
+  out-growths are easily developed, _de novo_, in all the higher groups
+  of animals. Therefore, it seems to be, with our present knowledge, a
+  hopeless task to analyse the branchial organs of Arthropoda and to
+  identify them genetically in groups.
+
+  A brief notice must suffice of the structure and history of the
+  _Eyes_, the _Tracheae_ and the so-called _Malpighian tubes_ of
+  Arthropoda, though special importance attaches to each in regard to
+  the determination of the affinities of the various animals included in
+  this great sub-phylum.
+
+  _The Eyes._--The Arthropod eye appears to be an organ of special
+  character developed in the common ancestor of the Euarthropoda, and
+  distinct from the Chaetopod eye, which is found only in the
+  Onychophora where the true Arthropod eye is absent. The essential
+  difference between these two kinds of eye appears to be that the
+  Chaetopod eye (in its higher developments) is a vesicle enclosing the
+  lens, whereas the Arthropod eye is a pit or series of pits into which
+  the heavy chitinous cuticle dips and enlarges knobwise as a lens. Two
+  distinct forms of the Arthropod eye are observed--the monomeniscous
+  (simple) and the polymeniscous (compound). The nerve-end-cells, which
+  lie below the lens, are part of the general epidermis. They show in
+  the monomeniscous eye (see article ARACHNIDA, fig. 26) a tendency to
+  group themselves into "retinulae," consisting of five to twelve cells
+  united by vertical deposits of chitin (rhabdoms). In the case of the
+  polymeniscous eye (fig. 23, article ARACHNIDA) a single retinula or
+  group of nerve-end-cells is grouped beneath each associated lens. A
+  further complication occurs in each of these two classes of eye. The
+  monomeniscous eye is rarely provided with a single layer of cells
+  beneath its lens; when it is so, it is called monostichous (simple
+  lateral eye of Scorpion, fig. 22, article ARACHNIDA). More usually, by
+  an infolding of the layer of cells in development, we get three layers
+  under the lens; the front layer is the corneagen layer, and is
+  separated by a membrane from the other two which, more or less, fuse
+  and contain the nerve-end-cells (retinal layer). These eyes are called
+  diplostichous, and occur in Arachnida and Hexapoda (fig. 24, article
+  ARACHNIDA).
+
+  On the other hand, the polymeniscous eye undergoes special elaboration
+  on its lines. The retinulae become elongated as deep and very narrow
+  pits (fig. 12 and explanation), and develop additional cells near the
+  mouth of the narrow pit. Those nearest to the lens are the corneagen
+  cells of this more elaborated eye, and those between the original
+  retinula cells and the corneagen cells become firm and transparent.
+  They are the crystalline cells or vitrella (see Watase, 7). Each such
+  complex of cells underlying the lenticle of a compound eye is called
+  an "ommatidium"; the entire mass of cells underlying a monomeniscous
+  eye is an "ommataeum." The ommataeum, as already stated, tends to
+  segregate into retinulae which correspond potentially each to an
+  ommatidium of the compound eye. The ommatidium is from the first
+  segregate and consists of few cells. The compound eye of the king-crab
+  (Limulus) is the only recognized instance of ommatidia in their
+  simplest state. Each can be readily compared with the single-layered
+  lateral eye of the scorpion. In Crustacea and Hexapoda of all grades
+  we find compound eyes with the more complicated ommatidia described
+  above. We do not find them in any Arachnida.
+
+  It is difficult in the absence of more detailed knowledge as to the
+  eyes of Chilopoda and Diplopoda to give full value to these facts in
+  tracing the affinities of the various classes of Arthropods. But they
+  seem to point to a community of origin of Hexapods and Crustacea in
+  regard to the complicated ommatidia of the compound eye, and to a
+  certain isolation of the Arachnida, which are, however, traceable, so
+  far as the eyes are concerned, to a distant common origin with
+  Crustacea and Hexapoda through the very simple compound eyes
+  (monostichous, polymeniscous) of Limulus.
+
+  [Illustration: FIG. 12.--Diagram to show the derivation of the unit or
+  "ommatidium" of the compound eye of Crustacea and Hexapoda, C, from a
+  simple monomeniscous monostichous eye resembling the lateral eye of a
+  scorpion, A, or the unit of the compound lateral eye of Limulus (see
+  article ARACHNIDA, figs. 22 and 23). B represents an intermediate
+  hypothetical form in which the cells beneath the lens are beginning to
+  be superimposed as corneagen, vitrella and retinula, instead of
+  standing side by side in horizontal series. The black represents the
+  cuticular product of the epidermal cells of the ocular area, taking
+  the form either of lens, _cl_, of crystalline body, _cry_, or of
+  rhabdom, _rhab_; _hy_, hypodermis or epidermal cells; _corn^1_,
+  laterally-placed cells in the simpler stage, A, which like the
+  nerve-end cells, _vit^1_ and _ret^1_, are corneagens or
+  lens-producing; _corn_, specialized corneagen or lens-producing cells;
+  _vit^1_, potential vitrella cells with _cry^1_, potential crystalline
+  body now indistinguishable from retinula cells and rhabdomeres; _vit_,
+  vitrella cell with _cry_, its contained cuticular product, the
+  crystalline cone or body; _ret^1_, _rhab^1_, retinula cells and
+  rhabdom of scorpion undifferentiated from adjacent cells, _vit^1;
+  ret_, retinula cell; _rhab_, rhabdom; _nf_, optic nerve-fibres.
+  (Modified from Watase.)]
+
+  _The Tracheae._--In regard to tracheae the very natural tendency of
+  zoologists has been until lately to consider them as having once
+  developed and once only, and therefore to hold that a group
+  "Tracheata" should be recognized, including all tracheate Arthropods.
+  We are driven by the conclusions arrived at as to the derivation of
+  the Arachnida from branchiate ancestors, independently of the other
+  tracheate Arthropods, to formulate the conclusion that tracheae have
+  been independently developed in the Arachnidan class. We are also, by
+  the isolation of Peripatus and the impossibility of tracing to it all
+  other tracheate Arthropoda, or of regarding it as a degenerate offset
+  from some one of the tracheate classes, forced to the conclusion that
+  the tracheae of the Onychophora have been independently acquired.
+  Having accepted these two conclusions, we formulate the generalization
+  that tracheae can be independently acquired by various branches of
+  Arthropod descent in adaptation to a terrestrial as opposed to an
+  aquatic mode of life. A great point of interest therefore exists in
+  the knowledge of the structure and embryology of tracheae in the
+  different groups. It must be confessed that we have not such full
+  knowledge on this head as could be wished for. Tracheae are
+  essentially tubes like blood-vessels--apparently formed from the same
+  tissue elements as blood-vessels--which contain air in place of blood,
+  and usually communicate by definite orifices, the tracheal stigmata,
+  with the atmosphere. They are lined internally by a cuticular deposit
+  of chitin. In Peripatus and the Diplopods they consist of bunches of
+  fine tubes which do not branch but diverge from one another; the
+  chitinous lining is smooth. In the Hexapods and Chilopods, and the
+  Arachnids (usually), they form tree-like branching structures, and
+  their finest branches are finer than any blood-capillary, actually in
+  some cases penetrating a single cell and supplying it with gaseous
+  oxygen. In these forms the chitinous lining of the tubes is thickened
+  by a close-set spiral ridge similar to the spiral thickening of the
+  cellulose wall of the spiral vessels of plants. It is a noteworthy
+  fact that other tubes in these same terrestrial Arthropoda--namely,
+  the ducts of glands--are similarly strengthened by a chitinous
+  cuticle, and that a spiral or annular thickening of the cuticle is
+  developed in them also. Chitin is _not_ exclusively an ectodermal
+  product, but occurs also in cartilaginous skeletal plates of
+  mesoblastic origin (connective tissue). The immediate cavities or pits
+  into which the tracheal stigmata open appear to be in many cases
+  ectodermic in sinkings, but there seems to be no reason (based on
+  embryological observation) for regarding the tracheae as an ingrowth
+  of the ectoderm. They appear, in fact, to be an air-holding
+  modification of the vasifactive connective tissue. Tracheae are
+  abundant just in proportion as blood-vessels become suppressed. They
+  are reciprocally exclusive. It seems not improbable that they are two
+  modifications of the same tissue-elements. In Peripatus the stigmatic
+  pits at which the tracheae communicate with the atmosphere are
+  scattered and not definite in their position. In other cases the
+  stigmata are definitely paired and placed in a few segments or in
+  several. It seems that we have to suppose that the vasifactive tissue
+  of Arthropoda can readily take the form of air-holding instead of
+  blood-holding tubes, and that this somewhat startling change in its
+  character has taken place independently in several instances--viz. in
+  the Onychophora, in more than one group of Arachnida, in Diplopoda,
+  and again in the Hexapoda and Chilopoda.
+
+  _The Malpighian Tubes._--This name is applied to the numerous fine
+  caecal tubes of noticeable length developed from the proctodaeal
+  invert of ectodermal origin in Hexapods. These tubes are shown to
+  excrete nitrogenous waste products similar to uric acid. Tubes of
+  renal excretory function in a like position occur in most terrestrial
+  Arthropoda--viz. in Chilopoda, Diplopoda and Arachnida. They are also
+  found in some of the semi-terrestrial and purely aquatic Amphipod
+  Crustaceans. But the conclusion that all such tubes are identical in
+  essential character seems to be without foundation. The Malpighian
+  tubes of Hexapods are outgrowths of the proctodaeum, but those of
+  Scorpion and the Amphipod Crustacea are part of the metenteron or
+  endodermal gut, though originating near its junction with the
+  proctodaeum. Hence the presence or absence of such tubes cannot be
+  used as an argument as to affinity without some discrimination. The
+  Scorpion's so-called Malpighian tubes are _not_ the same organs as
+  those so named in the other Tracheata. Such renal caecal tubes seem to
+  be readily evolved from either metenteron or proctodaeum when the
+  conditions of the out-wash of nitrogenous waste-products are changed
+  by the transference from aquatic to terrestrial life. The absence of
+  such renal caeca in Limulus and their presence in the terrestrial
+  Arachnida is precisely on a parallel with their absence in aquatic
+  Crustacea and their presence in the feebly branchiate Amphipoda.
+
+  _Group Characters._--We shall now pass the groups of the Arthropoda in
+  review, attempting to characterize them in such a way as will indicate
+  their probable affinities and genetic history.
+
+  SUB-PHYLUM ARTHROPODA.--The characters of the sub-phylum and those of
+  the associated sub-phyla Chaetopoda and Rotifera have been given
+  above, as well as the general characters of the phylum Appendiculata
+  which comprises these great sub-phyla.
+
+    Grade A.--Hyparthropoda.
+
+    Hypothetical forms.
+
+    Grade B.--Protarthropoda.
+
+  (a) The integument is covered by a delicate soft cuticle (not firm or
+  plated) which allows the body and its appendages great range of
+  extension and contraction.
+
+  (b) The paired claws on the ends of the parapodia and the fang-like
+  modifications of these on the first post-oral appendages (mandibles)
+  are the only hard chitinous portions of the integument.
+
+  (c) The head is deuterognathous--that is to say, there is only one
+  prosthomere, and accordingly the first and only pair of hemignaths is
+  developed by adaptation of the appendages of the second somite.
+
+  (d) The appendages of the third somite (second post-oral) are clawless
+  oral papillae.
+
+  (e) The rest of the somites carry equi-formal simple appendages,
+  consisting of a corm or axis tipped with two chitinous claws and
+  devoid of rami.
+
+  (f) The segmentation of the body is anomomeristic, there being no
+  fixed number of somites characterizing all the forms included.
+
+  (g) The pair of eyes situated on the prosthomere are not of the
+  Euarthropod type, but resemble those of Chaetopods (hence
+  Nereid-ophthalmous).
+
+  (h) The muscles of the body-wall and gut do not consist of
+  transversely-striped muscular fibre, but of the unstriped tissue
+  observed also in Chaetopoda.
+
+  (i) A pair of coelomoducts is developed in every somite including the
+  prosthomere, in which alone it atrophies in later development.
+
+  (j) The ventral nerve-cords are widely separated--in fact, lateral in
+  position.
+
+  (k) There are no masses of nerve-cells forming a ganglion (neuromere)
+  in each somite. (In this respect the Protarthropoda are at a lower
+  stage than most of the existing Chaetopoda.)
+
+  (l) The genital ducts are formed by the enlargement of the
+  coelomoducts of the penultimate somite.
+
+    Class (Unica).--ONYCHOPHORA.
+
+  With the characters of the grade: add the presence within the body of
+  fine unbranched tracheal tubes, devoid of spiral thickening, opening
+  to the exterior by numerous irregularly scattered tracheal pits.
+
+  Genera--Eoperipatus, Peripatopsis, Opisthopatus, &c. (See PERIPATUS.)
+
+    Grade C (of the Arthropoda).--Euarthropoda.
+
+  (a) Integument heavily plated with firm chitinous cuticle, allowing no
+  expansion and retraction of regions of the body nor change of
+  dimensions, except, in some cases, a dorso-ventral bellows movement.
+  The separation of the heavier plates of chitin by grooves of delicate
+  cuticle results in the hinging or jointing of the body and its
+  appendages, and the consequent flexing and extending of the jointed
+  pieces.
+
+  (b) Claws and fangs are developed on the branches or rami of the
+  parapodia, not on the end of the axis or corm.
+
+  (c) The head is either deuterognathous, tritognathous, or
+  tetartognathous.
+
+  (d) Rarely only one, and usually at least two, of the somites
+  following the mandibular somite carry appendages modified as jaws
+  (with exceptions of a secondary origin).
+
+  (e) The rest of the somites may all carry appendages, or only a
+  limited number may carry appendages. In all cases the appendages
+  primarily develop rami or branches which form the limbs, the primitive
+  axis or corm being reduced and of insignificant size. In the most
+  primitive stock all the post-oral appendages had gnathobasic
+  outgrowths.
+
+  (f) The segmentation of the body is anomomeristic in the more archaic
+  members of each class, nomomeristic in the higher members.
+
+  (g) The two eyes of Chaetopod structure have disappeared, and are
+  replaced by the Euarthropod eyes.
+
+  (h) The muscles in all parts of the body consist of striped muscular
+  fibre, never of unstriped muscular tissue.
+
+  (i) The coelomoducts are suppressed in most somites, and retained only
+  as the single pair of genital ducts (very rarely more numerous) and in
+  some also as the excretory glands (one or two pairs).
+
+  (j) The ventral nerve-cords approach one another in the mid-ventral
+  line behind the mouth.
+
+  (k) The nerve-cells of the ventral nerve cords are segregated as
+  paired ganglia in each somite, often united by meristic dislocation
+  into composite ganglia.
+
+  (l) The genital ducts may be the coelomoducts of the penultimate or
+  ante-penultimate or adjacent somite, or of a somite placed near the
+  middle of the series, or of a somite far forward in the series.
+
+    Class 1 (of the Euarthropoda).--DIPLOPODA.
+
+  The head has but one prosthomere (monoprosthomerous), and is
+  accordingly deuterognathous. This carries short-jointed antennae (in
+  one case bi-ramose) and eyes, the structure and development of which
+  require further elucidation. Only one somite following the first
+  post-oral or mandibular segment has its appendages modified as jaws.
+
+  The somites of the body, except in Pauropus, either fuse after early
+  development and form double somites with two pairs of appendages
+  (Julus, &c.), or present legless and leg-bearing somites alternating.
+
+  Somites, anomomeristic, from 12 to 150 in the post-cephalic series.
+
+  The genital ducts open in the fourth, or between the fourth and fifth
+  post-oral somite.
+
+  Terrestrial forms with small-jointed legs formed by adaptation of a
+  single ramus of the appendage. Tracheae are present.
+
+  _Note._--The Diplopoda include the Juliformia, the Symphyla
+  (Scolopendrella), and Pauropoda (Pauropus). They were until recently
+  classified with the Chilopoda (Centipedes), with which they have no
+  close affinity, but only a superficial resemblance. (Compare the
+  definition of the class Chilopoda.)
+
+  The movement of the legs in Diplopoda is like that of those of
+  Peripatus, of the Phyllopod Crustacea, and of the parapodia of
+  Chaetopoda, symmetrical and identical on the two sides of the body.
+  The legs of Chilopoda move in alternating groups on the two sides of
+  the body. This implies a very much higher development of nerves and
+  muscles in the latter. (See MILLIPEDE.)
+
+    Class 2 (of the Euarthropoda).--ARACHNIDA.
+
+  Head tritognathous and diprosthomerous--that is to say, with two
+  prosthomeres, the first bearing typical eyes, the second a pair of
+  appendages reduced to a single ramus, which is in more primitive forms
+  antenniform, in higher forms chelate or retrovert. The ancestral stock
+  was pantognathobasic--i.e. had a gnathobase or jaw process on every
+  parapodium. As many as six pairs of appendages following the mouth may
+  have an enlarged gnathobase actually functional as a jaw or hemignath,
+  but a ramus is well developed on each of these appendages either as a
+  simple walking leg, a palp or a chela. In the more primitive forms the
+  appendage of every post-oral somite has a gnathobase and two rami; in
+  higher specialized forms the gnathobases may be atrophied in every
+  appendage, even in the first post-oral.
+
+  The more primitive forms are anomomeristic; the higher forms
+  nomomeristic, showing typically three groups or tagmata of six somites
+  each.
+
+  The genital apertures are placed on the first somite of the second
+  tagma or mesosoma. Their position is unknown in the more primitive
+  forms. The more primitive forms have branchial respiratory processes
+  developed on a ramus of each of the post-oral appendages. In higher
+  specialized forms these branchial processes become first of all
+  limited to five segments of the mesosoma, then sunk beneath the
+  surface as pulmonary organs, and finally atrophied, their place being
+  taken by a well-developed tracheal system.
+
+  A character of great diagnostic value in the more primitive Arachnida
+  is the tendency of the chitinous investment of the tergal surface of
+  the telson to unite during growth with that of the free somites in
+  front of it, so as to form a pygidial shield or posterior carapace,
+  often comprising as many as fifteen somites (Trilobites, Limulus).
+
+  A pair of central monomeniscous diplostichous eyes is often present on
+  the head. Lateral eyes also are often present which are monostichous
+  with aggregated lenses (_Limulus_) or with isolated lenses (Scorpio),
+  or are diplostichous with simple lens (_Pedipalpi_, Araneae, &c.).
+
+    Class 3 (of the Euarthropoda).--CRUSTACEA.
+
+  Head tetartognathous and triprosthomerous--that is to say, with three
+  prosthomeres; the first bearing typical eyes, the second a pair of
+  antenniform appendages (often bi-ramose), the third a pair of
+  appendages usually antenniform, sometimes claw-like. The ancestral
+  stock was (as in the Arachnida) pantognathobasic, that is to say, had
+  a gnathobase or jaw-process on the base of every post-oral appendage.
+
+  Besides the first post-oral or mandibular pair, at least two
+  succeeding pairs of appendages are modified as jaws. These have small
+  and insignificant rami, or none at all, a feature in which the
+  Arachnida differ from them. The appendages of four or more additional
+  following somites may be turned upwards towards the mouth and assist
+  in the taking of food.
+
+  The more primitive forms (Entomostraca) are anomomeristic, presenting
+  great variety as to number of somites, form of appendages, and
+  tagmatic grouping; the higher forms (Malacostraca) are nomomeristic,
+  showing in front of the telson twenty somites, of which the six hinder
+  carry swimmerets and the five next in front ambulatory limbs. The
+  genital apertures are neither far forward nor far backward in the
+  series of somites, e.g. on the fourteenth post-oral in Apus, on the
+  ninth post-oral in female Astacus and in Cyclops.
+
+  With rare exceptions, branchial plates are developed either by
+  modification of a ramus of the limbs or as processes on a ramus, or
+  upon the sides of the body. No tracheate Crustacea are known, but some
+  terrestrial Isopoda develop pulmonary in-sinkings of the integument. A
+  characteristic, comparable in value to that presented by the pygidial
+  shield of Arachnida, is the frequent development of a pair of long
+  appendages by the penultimate somite, which with the telson form a
+  trifid, or, when that is small, a bifid termination to the body.
+
+  The lateral eyes of Crustacea are polymeniscous, with highly
+  specialized retinulae like those of Hexapoda, and unlike the simpler
+  compound lateral eyes of lower Arachnida. Monomeniscous eyes are
+  rarely present, and when present, single, minute, and central in
+  position.
+
+  _Note._--The Crustacea exhibit a longer and more complete series of
+  forms than any other class of Arthropoda, and may be regarded as
+  preserving the most completely represented line of descent.
+
+    Class 4.--CHILOPODA.
+
+  Head triprosthomerous[3] and tetartognathous. The two somites
+  following the mandibular or first post-oral or buccal somite carry
+  appendages modified as maxillae. The fourth post-oral somite has its
+  appendages converted into very large and powerful hemignaths, which
+  are provided with poison-glands. The remaining somites carry
+  single-clawed walking legs, a single pair to each somite. The body is
+  anomomeristic, showing in different genera from 17 (inclusive of the
+  anal and genital) to 175 somites behind that which bears the poison
+  jaws. No tagmata are developed. The genital ducts open on the
+  penultimate somite.
+
+  Tracheae are developed which are dendriform and with spiral thickening
+  of their lining. Their trunks open at paired stigmata placed laterally
+  in each somite of the trunk or in alternate somites. Usually the
+  tracheae open by paired stigmata placed upon the sides of a greater or
+  less number of the somites, but never quite regularly on alternating
+  somites. At most they are present on all the pedigerous somites
+  excepting the first and the last. In _Scutigera_ there are seven
+  unpaired dorsal stigmata, each leading into a sac whence a number of
+  air-holding tubes project into the pencardial blood-sinus.
+
+  Renal caecal tubes (Malpighian tubes) open into the proctodaeum. (See
+  CENTIPEDE.)
+
+    Class 5.--HEXAPODA.
+
+  Head shown by its early development to be triprosthomerous and
+  consequently tetartognathous. The first prosthomere has its appendages
+  represented by the compound eyes and a protocerebrum, the second has
+  the antennae for its appendages and a deutocerebral neuromere, the
+  third has suffered suppression of its appendages (which corresponded
+  to the second pair of antennae of Crustacea), but has a tritocerebrum
+  and coelomic chamber. The mandibular somite bears a pair of
+  gnathobasic hemignaths without rami or palps, and is followed by two
+  jaw-bearing somites (maxillary and labial). This enumeration would
+  give six somites in all to the head--three prosthomeres and three
+  opisthomeres. Recent investigations (Folsom, 4) show the existence in
+  the embryo of a prae-maxillary or supra-lingual somite which is
+  suppressed during development. This gives seven somites to the
+  Hexapod's head, the tergites of which are fused to form a cephalic
+  carapace or box. The number is significant, since it agrees with that
+  found in Edriophthalmous Crustacea, and assigns the labium of the
+  Hexapod to the same somite numerically as that which carries the
+  labium-like maxillipedes of those Crustacea.
+
+  The somites following the head are strictly nomomeristic and
+  nomotagmic. The first three form the thorax, the appendages of which
+  are the walking legs, tipped with paired claws or ungues (compare the
+  homoplastic claws of Scorpio and Peripatus). Eleven somites follow
+  these, forming the abdominal "tagma," giving thus twenty-one somites
+  in all (as in the higher Crustacea). The somites of the abdomen all
+  may carry rudimentary appendages in the embryo, and some of the hinder
+  somites may retain their appendages in a modified form in adult life.
+  Terminal telescoping of the abdominal somites and excalation may occur
+  in the adult, reducing the obvious abdominal somites to as few as
+  eight. The genital apertures are median and placed far back in the
+  series of somites, viz. the female on the seventh abdominal
+  (seventeenth of the whole series) and the male on the ninth or
+  ante-penultimate abdominal (nineteenth of the whole series). The
+  appendages of the eighth and tenth abdominal somites are modified as
+  gonapophyses. The eleventh abdominal segment is the telson, usually
+  small and soft; it carries the anus.
+
+  The Hexapoda are not only all confined to a very definite disposition
+  of the somites, appendages and apertures, as thus indicated, but in
+  other characters also they present the specialization of a
+  narrowly-limited highly-developed order of such a class as the
+  Crustacea rather than a range from lower more generalized to higher
+  more specialized forms such as that group and also the Arachnida
+  present. It seems to be a legitimate conclusion that the most
+  primitive Hexapoda were provided with wings, and that the term
+  Pterygota might be used as a synonym of Hexapoda. Many Hexapoda have
+  lost either one pair or both pairs of wings; cases are common of
+  wingless genera allied to ordinary Pterygote genera. Sdme Hexapods
+  which are very primitive in other respects happen to be also Apterous,
+  but this cannot be held to prove that the possession of wings is not a
+  primitive character of Hexapods (compare the case of the Struthious
+  Birds). The wings of Hexapoda are lateral expansions of the terga of
+  the second and third thoracic somites. They appear to be serial
+  equivalents (homogenous meromes) of the tracheal gills, which develop
+  in a like position on the abdominal segments of some aquatic Hexapods.
+
+  The Hexapoda are all provided with a highly developed tracheal system,
+  which presents considerable variation in regard to its stigmata or
+  orifices of communication with the exterior. In some a serial
+  arrangement of stigmata comparable to that observed in Chilopoda is
+  found. In other cases (some larvae) stigmata are absent; in other
+  cases again a single stigma is developed, as in the smaller Arachnida
+  and Chilopoda, in the median dorsal line or other unexpected position.
+  When the facile tendency of Arthropoda to develop tracheal air-tubes
+  is admitted, it becomes probable that the tracheae of Hexapods do not
+  all belong to one original system, but may be accounted for by new
+  developments within the group. Whether the primitive tracheal system
+  of Hexapoda was a closed one or open by serial stigmata in every
+  somite remains at present doubtful, but the intimate relation of the
+  system to the wings and tracheal gills cannot be overlooked.
+
+  The lateral eyes of Hexapoda, like those of Crustacea, belong to the
+  most specialized type of "compound eye," found only in these two
+  classes. Simple monomeniscous eyes are also present in many Hexapods.
+
+  Renal excretory caeca (Malpighian tubes) are developed from the
+  proctodaeum (not from mesenteron as in scorpion and Amphipoda).
+
+  _Concluding Remarks on the Relationships to one another of the
+  Classes of the Arthropoda._--Our general conclusion from a survey of
+  the Arthropoda amounts to this, that whilst Peripatus, the Diplopoda,
+  and the Arachnida represent terrestrial offshoots from successive
+  lower grades of primitive aquatic Arthropoda which are extinct, the
+  Crustacea alone present a fairly full series of representatives
+  leading upwards from unspecialized forms. The latter were not very far
+  removed from the aquatic ancestors (Trilobites) of the Arachnida, but
+  differed essentially from them by the higher specialization of the
+  head. We can gather no indication of the forefathers of the Hexapoda
+  or of the Chilopoda less specialized than they are, whilst possessing
+  the essential characteristics of these classes. Neither embryology nor
+  palaeontology assists us in this direction. On the other hand, the
+  facts that the Hexapoda and the Chilopoda have triprosthomerous heads,
+  that the Hexapoda have the same total number of somites as the
+  nomomeristic Crustacea, and the same number of opisthomeres in the
+  head as the more terrestrial Crustacea, together with the same
+  adaptation of the form of important appendages in corresponding
+  somites, and that the compound eyes of both Crustacea and Hexapoda are
+  extremely specialized and elaborate in structure and identical in that
+  structure, all lead to the suggestion that the Hexapoda, and with
+  them, at no distant point, the Chilopoda, have branched off from the
+  Crustacean main stem as specialized terrestrial lines of descent. And
+  it seems probable that in the case of the Hexapoda, at any rate, the
+  point of departure was subsequent to the attainment of the
+  nomomeristic character presented by the higher grade of Crustacea. It
+  is on the whole desirable to recognize such affinities in our schemes
+  of classification.
+
+  We may tabulate the facts as to head-structure in Chaetopoda and
+  Arthropoda as follows:--
+
+    Grade x (below the Arthropoda).--AGNATHA, APROSTHOMERA.
+
+  Without parapodial jaws; without the addition of originally post-oral
+  somites to the prae-oral region, which is a simple prostomial lobe of
+  the first somite; the first somite is perforated by the mouth and its
+  parapodia are not modified as jaws.
+
+    = CHARTOPODA.
+
+    Grade 1 (of the Arthropoda).--MONOGNATHA, MONOPROSTHOMERA.
+
+  With a single pair of parapodial jaws carried by the somite which is
+  perforated by the mouth; this is not the first somite, but the second.
+  The first somite has become a prosthomere, and carries a pair of
+  extensile antennae.
+
+    = ONYCHOPHORA (_Peripatus, &c._).
+
+    Grade 2 (of the Arthropoda).--DIGNATHA, MONOPROSTHOMERA.
+
+  The third somite as well as the second develops a pair of parapodial
+  jaws; the first somite is a prosthomere carrying jointed antennae.
+
+    = DIPLOPODA.
+
+    Grade 3 (of the Arthropoda).--PANTOGNATHA, DIPROSTHOMERA.
+
+  A gnathobase is developed (in the primitive stock) on every pair of
+  post-oral appendages; two prosthomeres present, the second somite as
+  well as the first having passed in front of the mouth, but only the
+  second has appendages.
+
+    = ARACHNIDA.
+
+    Grade 4 (of the Arthropoda).--PANTOGNATHA, TRIPROSTHOMERA.
+
+  The original stock, like that of the last grade, has a gnathobase on
+  every post-oral appendage, but three prosthomeres are now present, in
+  consequence of the movement of the oral aperture from the third to the
+  fourth somite. The later eyes are polymeniscous, with specialized
+  vitrellae and retinulae of a definite type peculiar to this grade.
+
+    = CRUSTACEA, CHILOPODA, HEXAPODA.
+
+  According to older views the increase of the number of somites in
+  front of the mouth would have been regarded as a case of intercalation
+  by new somite-budding of new prae-oral somites in the series. We are
+  prohibited by a general consideration of metamerism in the Arthropoda
+  from adopting the hypothesis of intercalation of somites. However
+  strange it may seem, we have to suppose that one by one in the course
+  of long historical evolution somites have passed forwards and the
+  mouth has passed backwards. In fact, we have to suppose that the
+  actual somite which in grades 1 and 2 bore the mandibles lost those
+  mandibles, developed their rami as tactile organs, and came to occupy
+  a position in front of the mouth, whilst its previous jaw-bearing
+  function was taken up by the next somite in order, into which the oral
+  aperture had passed. A similar history must have been slowly brought
+  about when this second mandibulate somite in its turn became agnathous
+  and passed in front of the mouth. The mandibular parapodia may be
+  supposed during the successive stages of this history to have had,
+  from the first, well-developed rami (one or two) of a palp-like form,
+  so that the change required when the mouth passed away from them would
+  merely consist in the suppression of the gnathobase. The solid
+  palpless mandible such as we now see in some Arthropoda is,
+  necessarily, a late specialization. Moreover, it appears probable that
+  the first somite never had its parapodia modified as jaws, but became
+  a prosthomere with tactile appendages before parapodial jaws were
+  developed at all, or rather _pari passu_ with their development on the
+  second somite. It is worth while bearing in mind a second possibility
+  as to the history of the prosthomeres, viz. that the buccal
+  gnathobasic parapodia (the mandibles) were in each of the three grades
+  of prosthomerism only developed after the recession of the mouth and
+  the addition of one, of two, or of three post-oral somites to the
+  prae-oral region had taken place. In fact, we may imagine that the
+  characteristic adaptation of one or more pairs of post-oral parapodia
+  to the purposes of the mouth as jaws did not occur until after
+  ancestral forms with one, with two, and with three prosthomeres had
+  come into existence. On the whole the facts seem to be against this
+  supposition, though we need not suppose that the gnathobase was very
+  large or the rami undeveloped in the buccal parapodia which were
+  destined to lose their mandibular features and pass in front of the
+  mouth.
+
+  REFERENCES.--1. Bateson, _Materials for the Study of Variation_
+  (Macmillan, 1894), p. 85; 2. Lankester, "Primitive Cell-layers of the
+  Embryo." _Annals and Mag. Nat. Hist._ (1873), p. 336; 3. Korschelt and
+  Heider, _Entwickelungsgeschichte_ (Jena, 1892), cap. xv. p. 389; 4.
+  Folsom, "Development of the Mouth Parts of Anurida," _Bulletin Mus.
+  Comp. Zool. Harvard College_, vol. xxxvi. No. 5 (1900), pp. 142-146;
+  5. Lankester, "Observations and Reflections on the Appendages and
+  Nervous System of Apus Cancriformis," _Quart. Journ. Micr. Sci._ vol.
+  xxi. (1881); 6. Hofer, "Ein Krebs mit einer Extremität statt eines
+  Stielauges," _Verhandl. d. deutschen zool. Gesellsch._ (1894); 7.
+  Watase, "On the Morphology of the Compound Eyes of Arthropods,"
+  _Studies from the Biol. Lab. of the Johns Hopkins University_, vol.
+  iv. pp. 287-334; 8. Benham describes backward shifting of the oral
+  aperture in certain Chaetopods, _Proc. Zoolog. Soc. London_ (1900),
+  No. lxiv. p. 976. N.B.--References to the early literature concerning
+  the group Arthropoda will be found in Carus, _Geschichte der
+  Zoologie_. The more important literature up to 1892 is given in the
+  admirable treatise on Embryology by Professors Korschelt and Heider.
+  Detailed references will be found under the articles on the separate
+  groups of Arthropoda.     (E. R. L.)
+
+FOOTNOTES:
+
+  [1] The group Arthropoda itself, thus constituted, was precisely
+    identical in its area with the Insecta of Linnaeus, the Entoma of
+    Aristotle. But the word "Insect" had become limited since the days of
+    Linnaeus to the Hexapod Pterygote forms, to the exclusion of his
+    Aptera. Lamarck's penetrating genius is chiefly responsible for the
+    shrinkage of the word Insecta, since it was he who, forty years after
+    Linnaeus's death, set up and named the two great classes Crustacea
+    and Arachnida (included by Linnaeus under Insecta as the order
+    "Aptera"), assigning to them equal rank with the remaining Insecta of
+    Linnaeus, for which he proposed the very appropriate class-name
+    "Hexapoda." Lamarck, however, appears not to have insisted on this
+    name Hexapoda, and so the class of Pterygote Hexapods came to retain
+    the group-name Insecta, which is, historically or etymologically, no
+    more appropriate to them than it is to the classes Crustacea and
+    Arachnida. The tendency to retain the original name of an old and
+    comprehensive group for one of the fragments into which such group
+    becomes divided by the advance of knowledge--instead of keeping the
+    name for its logical use as a comprehensive term, including the new
+    divisions, each duly provided with a new name--is most curiously
+    illustrated in the history of the word physiology. Cicero says,
+    "Physiologia naturae ratio," and such was the meaning of the name
+    _Physiologus_, given to a cyclopaedia of what was known and imagined
+    about earth, sea, sky, birds, beasts and fishes, which for a thousand
+    years was the authoritative source of information on these matters,
+    and was translated into every European tongue. With the revival of
+    learning, however, first one and then another special study became
+    recognized--anatomy, botany, zoology, mineralogy, until at last the
+    great comprehensive term physiology was bereft of all its
+    once-included subject-matter, excepting the study of vital processes
+    pursued by the more learned members of the medical profession.
+    Professional tradition and an astute perception on their part of the
+    omniscience suggested by the terms, have left the medical men in
+    English-speaking lands in undisturbed but illogical possession of the
+    words physiology, physic and physician.
+
+  [2] H. Milne-Edwards, who was followed by Huxley, long ago formulated
+    the conclusion that the eye-stalks of Crustacea are modified
+    appendages, basing his argument on a specimen of Palinurus (figured
+    in Bateson's book (1), in which the eye-stalk of one side is replaced
+    by an antenniform palp. Hofer (6) in 1894 described a similar case in
+    Astacus.
+
+  [3] Embryological evidence of this is still wanting. In the other
+    classes of Arthropoda we have more or less complete embryological
+    evidence on the subject. It appears from observation of the embryo
+    that whilst the first prosthomere of Centipedes has its appendages
+    reduced and represented only by eye-patches (as in Arachnida,
+    Crustacea and Hexapoda). the second has a rudimentary antenna, which
+    disappears, whilst the third carries the permanent antennae, which
+    accordingly correspond to the second antennae of Crustacea, and are
+    absent in Hexapoda.

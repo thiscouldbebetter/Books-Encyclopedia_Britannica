@@ -1,0 +1,369 @@
+ASSAYING. To "assay" (or "essay"; Fr. _essayer_) is in general to try,
+or attempt, so to make trial or test. In a restricted sense the term
+assaying is applied in metallurgy to the determination of the amount of
+gold or silver in ores or alloys; in this article, however, it will be
+used in a wider technical signification, and will include a description
+of the methods for the quantitative determination of those elements in
+ores which affect their value in metallurgical operations. It would be
+impossible to give in detail here all the precautions necessary for the
+successful use of the methods, and the descriptions will therefore be
+confined to the principles involved and the general manner in which they
+are applied to secure the desired results.
+
+_Gold and Silver._--Ores containing gold or silver are almost invariably
+assayed in the dry way; that is, by fusion with appropriate fluxes and
+ultimate separation of the elements in the metallic form. One of the
+customs which has grown out of our peculiar system of weights is the
+form of statement of the results of such an assay. Instead of expressing
+the amounts of gold and silver in percentages of the weight of ore, they
+are expressed in ounces to the ton, the ounce being the troy ounce and
+the ton that of 2000 avoirdupois pounds. To simplify calculation and to
+enable the assayer to use the metric system of weights employed in all
+chemical calculations, the "assay ton" ("A.T." = 29.166 grammes) has
+been devised, which bears the same relation to the ton of 2000 lb.
+avoirdupois that one milligram does to the troy ounce; when one assay
+ton of ore is used, each milligram of gold or silver found represents
+one ounce to the ton.
+
+The assay of an ore for gold or silver consists of two operations. In
+the first the gold or silver is made to combine or alloy with metallic
+lead, the other constituents of the ore being separated from the lead as
+slag. In the second, the lead button containing the gold or silver is
+cupelled and the resulting gold or silver button is weighed. The first
+is conducted in one of two ways, known respectively as the crucible
+method and the scorification method. The crucible method is generally
+used for ores containing gold in small amounts and for certain classes
+of silver ores. The amount of ore taken for assay is generally one-half
+"A.T.," but in very low-grade ores one, two, and sometimes even four
+"A.T.s" are used. In the scorification method one-tenth of an "A.T." is
+the amount commonly taken. While in both methods the same result is
+sought, the means employed are quite different. In the scorification
+method the ore is mixed in the scorifier (a shallow dish of burned clay)
+with from ten to twenty times its weight of granulated metallic lead
+(test lead) and a little borax glass, and heated in a muffle, the front
+of which is at first closed. When the lead melts and begins to oxidize,
+the lead oxide, or so-called litharge, combines with or dissolves the
+non-metallic and readily oxidizable constituents of the ore, while the
+gold and silver alloy with the lead. As the slag thus formed flows off
+to the sides of the scorifier, the assay clears and the melted metallic
+lead forms an "eye" in the middle. The door of the muffle is then opened
+and the current of air which is drawn over the scorifier rapidly
+oxidizes the lead, while the melted litharge gradually closes over the
+metal. When the "eye" has quite disappeared the door is closed and the
+temperature raised to make the slag very liquid. The scorifier is taken
+from the muffle in a pair of tongs and the contents poured into a mould,
+the lead forming a button in the bottom while the slag floats on top.
+When cold, the contents of the mould are taken out and the lead button
+hammered into the form of a cube, the slag, which is glassy and brittle,
+separating readily from the metal, which is then ready for cupellation.
+In the crucible method the ore is mixed with from once to twice its
+weight of flux, which varies in composition, but of which the following
+may be taken as a type:--
+
+  Sodium bicarbonate  . . . 8 parts.
+  Potassium carbonate . . . 3   "
+  Powdered borax  . . . . . 4   "
+  Flour . . . . . . . . . . 1   "
+  Litharge  . . . . . . . . 9   "
+
+The mixture is charged into a round clay crucible from 100 mm. to 125
+mm. high, and heated either in a muffle or in a crucible furnace at a
+gradually increasing heat for forty or fifty minutes. At the expiration
+of this time, when the charge should be perfectly liquid and in a
+tranquil state of fusion, the crucible is removed from the furnace and
+the contents are poured into a mould. The resulting lead button hammered
+into shape and carefully cleansed from slag is ready for the cupel. If
+the button is too large for cupellation, or if it is hard, it may be
+scorified either alone or mixed with test lead before cupellation. The
+character and amount of the flux necessarily depend upon the character
+of the ore, the object being to concentrate in the lead button all the
+gold and silver while dissolving and carrying off in the slag the other
+constituents of the ore. Under the most favourable conditions there is a
+slight loss of gold and silver in the fusion, the scorification and the
+cupellation, both by absorption in the slag and by actual volatilization
+and absorption in the cupel. In ores containing much copper, this metal
+is largely concentrated in the lead button, making it hard, and
+necessitating repeated scorifications and, in some cases, a preliminary
+removal of the copper by solution of the ore in nitric acid. This leaves
+the gold in the insoluble residue, which is filtered off, and the silver
+in the solution is thrown down by hydrochloric acid. The resulting
+precipitate of silver chloride is filtered, and the residue and the
+precipitate are scorified together. Ores containing much arsenic or
+sulphur are generally roasted at a low heat and the assay is made on the
+roasted material.
+
+The process of cupellation is briefly as follows:--The gold alloy is
+fused with a quantity of lead, and a little silver if silver is already
+present. The resulting alloy, which is called the _lead button_, is then
+submitted to fusion on a very porous support, made of bone-ash, and
+called a _cupel_. The fusion being effected in a current of air, the
+lead oxidizes. The heat is sufficient to keep the resulting lead oxide
+fused, and the porous cupel has the property of absorbing melted lead
+oxide without taking up any of the metallic globule, exactly in the same
+way that blotting-paper will absorb water whilst it will not touch a
+globule of mercury. The heat being continued, and the current of air
+always passing over the surface of the melted lead button, and the lead
+oxide being sucked up by the cupel as fast as it is formed, the metallic
+globule rapidly diminishes in size until at last all the lead has been
+got rid of. Now, if this were the only action, little good would have
+been gained, for we should simply have put lead into the gold alloy, and
+then taken it out again; but another action goes on whilst the lead is
+oxidizing in the current of air. Other metals, except the silver and
+gold, also oxidize, and are carried by the melted litharge into the
+cupel. If the lead is therefore rightly proportioned to the standard of
+alloy, the resulting button will consist of only gold and silver, and
+these are separated by the operation of _parting_, which consists in
+boiling the alloy (after rolling it to a thin plate) in strong nitric
+acid, which dissolves the silver and leaves the gold as a coherent
+sponge. To effect this parting properly, the proportion of silver to
+gold should be as 3 to 1. The operation by which the alloy is brought to
+this standard is termed _quartation_ or _inquartation_, and consists in
+fusing the alloy in a cupel with lead and the quantity of fine silver or
+fine gold necessary to bring it to the desired composition.
+
+_Lead._--The "dry" or fire assay for lead is largely used for the
+valuation of lead ores, although it is being gradually replaced by
+volumetric methods. One part of the ore is mixed with from three to five
+parts of a flux of the following composition:--
+
+  Potassium carbonate .  .  .  .  . 40.6 %
+  Sodium bicarbonate  .  .  .  .  . 31.3 "
+  Borax   .  .  .  .  .  .  .  .  . 15.6 "
+  Flour   .  .  .  .  .  .  .  .  . 12.5 "
+
+The mixture is charged into a clay crucible and heated for twenty
+minutes at a good red heat. When the mixture has been in a tranquil
+state of fusion for a few minutes it is poured into a mould. When cold,
+the button is hammered, cleaned carefully from slag, and weighed. The
+proportion is calculated from the amount of ore used, and the result is
+expressed in parts in a hundred or percentage of the ore. Various
+impurities, such as copper, antimony and sulphur, go into the lead
+button, so that the result is generally too high. The most accurate
+method for the determination of lead in ores is the gravimetric method,
+in which it is weighed as lead sulphate after the various impurities
+have been separated. Nearly all lead ores contain more or less sulphur;
+and as in the process of solution in nitric acid this is oxidized to
+sulphuric acid which unites with the lead to form the very insoluble
+lead sulphate, it is simpler to add sulphuric acid to convert all the
+lead into sulphate and then evaporate until the nitric acid is expelled.
+The salts of iron, copper, &c., are then dissolved in water and filtered
+from the insoluble silica, lead sulphate, and calcium sulphate, which
+are washed with dilute sulphuric acid. The insoluble matter is treated
+with a hot solution of alkaline ammonium acetate, which dissolves the
+lead sulphate, the other materials being separated by filtration. The
+lead sulphate, re-precipitated in the filtrate by an excess of sulphuric
+acid and alcohol, is then filtered on an asbestos felt in a Gooch
+crucible, washed with dilute sulphuric acid and alcohol, ignited, and
+weighed. Lead sulphate contains 68.30% of metallic lead.
+
+There are several volumetric methods for assaying lead ores, but the
+best known is that based on the precipitation of lead by ammonium
+molybdate in an acetic acid solution. The lead sulphate, obtained as
+described above and dissolved in ammonium acetate, is acidulated with
+acetic acid diluted with hot water and heated to boiling-point. A
+standardized solution of ammonium molybdate is then added from a
+burette. As long as the solution contains lead, the addition of the
+molybdate solution causes a precipitation of white lead molybdate. An
+excess of the precipitant is shown by a drop of the solution imparting a
+yellow colour to a solution of tannin, prepared by dissolving one part
+of tannin in 300 of water; drops of this solution are placed on a white
+porcelain plate, and as the precipitant is added to the lead solution a
+drop of the latter is removed from time to time on a glass stirring-rod
+and added to one of the drops on the porcelain plate. The appearance of
+a yellow colour shows that all the lead has been precipitated and that
+the solution contains an excess of molybdate. From the reading of the
+burette the lead is calculated. The molybdate solution should be of such
+a strength that 1 cc. will precipitate 0.01 gramme of lead. It is
+standardized by dissolving a weighed amount of lead sulphate in ammonium
+acetate and proceeding as described above.
+
+_Zinc._--Chemically the ores of zinc consist of the silicates,
+carbonates, oxides, and sulphides of zinc associated with other metals,
+some of which complicate the methods of assay. The most modern and the
+most generally accepted method is volumetric, and is based on the
+reaction between zinc chloride and potassium ferrocyanide, by which
+insoluble zinc ferrocyanide and soluble potassium chloride are formed;
+the presence of the slightest excess of potassium ferrocyanide is shown
+by a brownish tint being imparted by the solution to a drop of uranium
+nitrate. The ore (0.5 gramme) is digested with a mixture of potassium
+nitrate and nitric acid. A saturated solution of potassium chlorate in
+strong nitric acid is added, and the mass evaporated to dryness. It is
+then heated with a mixture of ammonium chloride and ammonia, filtered
+and washed with a hot dilute solution of the same mixture. The filtrate
+diluted to 200 cc. is carefully neutralized with hydrochloric acid, and
+excess of 6 cc. of the strong acid is added, and the solution saturated
+with hydrogen sulphide, which precipitates the copper and cadmium,
+metals which would otherwise interfere. Without filtering, the standard
+solution is added from a burette, and from time to time a drop of the
+solution is removed on the glass stirring-rod and added to a drop or two
+of a strong solution of uranium nitrate, previously placed on a white
+porcelain plate. The appearance of a brown tint in one of these tests
+shows the end of the reaction. When cadmium is not present the copper
+may be precipitated by boiling the acidulated ammoniacal solution with
+test lead and titrating, as before described, without removing the lead
+and copper from the solution. The ferrocyanide solution is standardized
+by dissolving 1 gramme of pure zinc in 6 cc. of hydrochloric acid,
+adding ammonium chloride, and titrating as before. This method is
+modified in practice by the character of the ores, carbonates and
+silicates free from sulphides being decomposed by hydrochloric acid,
+with the addition of a little nitric acid.
+
+_Copper._--The fire assay for copper ores was abandoned years ago and
+the electrolytic method took its place; this in turn is now largely
+replaced by volumetric methods. In the electrolytic method from 0.5 to 5
+grammes of ore are treated in a flask or beaker, with a mixture of 10
+cc. of nitric and 10 cc. of sulphuric acid, until thoroughly decomposed.
+When this liquid is cold it is diluted with cold water, heated until all
+the soluble salts are dissolved, transferred to a tall, narrow beaker,
+and diluted to about 150 cc. The electrodes are attached to a frame
+connected with the battery and the beaker is placed on a stool, which
+can be raised so that the electrodes are immersed in the liquid and
+reach the bottom of the beaker. The electrodes consist of two cylinders
+of platinum (placed one inside the other) about 75 mm. high, the smaller
+of the two 37 mm. and the larger 50 mm. in diameter, both pierced with
+10 to 12 holes 5 mm. in diameter, evenly distributed over the surfaces
+to facilitate diffusion of the liquids. The surfaces of the cylinders
+are roughened with a sand blast to increase the areas and make the
+deposited metals adhere more firmly. Each cylinder has a platinum wire
+fused to the upper circumference to connect with a clamp from which a
+wire leads to the proper pole of the battery. The smaller cylinder is
+generally the negative electrode on which the copper is deposited. The
+framework carrying the clamps is arranged so that a number of
+determinations may be made at one time, the wires from the clamps
+running from a rheostat, so arranged that currents of any strength may
+be used simultaneously. The cylinder, having been carefully weighed, is
+placed in position, the beaker containing the solution is adjusted, and
+the current passed until all the copper is precipitated. This generally
+requires from two to twelve hours. The cylinders are then removed from
+the solution and washed with distilled water, the one holding the
+deposited copper being washed with alcohol, dried and weighed; the
+increase in weight represents the copper contents of the ore. The
+deposited copper should be firmly adherent and bright rosy red in
+colour. Silver, arsenic and cadmium, if present, are precipitated with
+the copper and affect the accuracy of the results; they should be
+removed by special methods.
+
+Volumetric methods are more expeditious and require less apparatus. The
+potassium cyanide method is based on the fact that, when potassium
+cyanide is added to an ammoniacal solution of a salt of copper, the
+insoluble copper cyanide is formed, the end of the reaction being
+indicated by the disappearance of the blue colour of the solution. One
+gramme of the ore is treated in a flask with a mixture of nitric and
+sulphuric acids and evaporated until all the nitric acid is expelled.
+After cooling a little, water is added, and then a few grammes of
+aluminium foil free from copper. On this foil the copper in the solution
+is all precipitated by electrolytic action in a few minutes, and the
+aluminium is dissolved by the addition of an excess of sulphuric acid.
+Water is added, and as soon as the gangue and copper particles have
+settled the clear solution is decanted, and the residue washed several
+times in the same way. The copper is then dissolved in 5 cc. of nitric
+acid; if silver is present a drop or two of hydrochloric acid is added,
+the solution diluted to about 50 cc., and filtered. To the filtrate (or,
+if no silver is present, to the diluted nitric acid solution) 10 cc. of
+ammonia are added, and a standard solution of potassium cyanide is run
+in from a burette until the blue colour has nearly disappeared. The
+solution is filtered to get rid of the precipitate, and the titration is
+finished in the nearly clear nitrate, which should be always about 200
+cc. in volume. The titration is complete when the blue colour is so
+faint that it is almost imperceptible after the flask has been
+vigorously shaken. The potassium cyanide solution is standardized by
+dissolving 0.5 gramme of pure copper in 5 cc. of nitric acid, diluting,
+adding 10 cc. of ammonia, and titrating exactly as described above.
+
+When potassium iodide is added to a solution of cupric acetate, the
+reaction Cu(C2H3O2)2 + 2KI = CuI + 2K(C2H3O2) + I takes place; that is,
+for each atom of copper one atom of iodine is liberated. If a solution
+of sodium thiosulphate (hyposulphite) is added to this solution,
+hydriodic acid, sodium iodide and tetrathionate are formed; and if a
+little starch solution has been added, the end of the reaction is
+indicated by the disappearance of the blue colour, due to the iodide of
+starch. The amount of iodine liberated is therefore a measure of the
+copper in the solution, and when the sodium thiosulphate has been
+carefully standardized the method is extremely accurate. The ore is
+treated as described in the cyanide method until the copper precipitated
+by the aluminium foil has been washed and dissolved in 5 cc. of nitric
+acid; then 0.25 gramme of potassium chlorate is added, and the solution
+boiled nearly dry to oxidize any arsenic present to arsenic acid. The
+solution is cooled, 50 cc. water added, then 5 cc. ammonia, and the
+solution is boiled for five minutes. Next 5 cc. of glacial acetic acid
+are added, the solution cooled, and 5 cc. of a solution of potassium
+iodide (300 grammes to the litre) and the standard solution of sodium
+thiosulphate run in from a burette until the brown colour has nearly
+disappeared. A few drops of starch solution are then added, and when the
+blue colour has nearly vanished a drop or two of methyl orange makes the
+end reaction very sharp. The thiosulphate solution is standardized by
+dissolving 0.3 to 0.5 gramme of pure copper in 3 cc. of nitric acid,
+adding 50 cc. of water and 5 cc. of ammonia, and titrating as above
+after the addition of 5 cc. of glacial acetic acid and 5 cc. of the
+potassium iodide solution.
+
+_Iron._--The methods used in the assay for iron are volumetric, and are
+all based on the property possessed by certain reagents of oxidizing
+iron from the ferrous to the ferric state. Two salts are in common use
+for this purpose, potassium permanganate and potassium bichromate. It is
+necessary in the first place, after the ore is in solution, to reduce
+all the iron to the ferrous condition; then the carefully standardized
+solution of the oxidizing reagent is added until all the iron is in the
+ferric state, the volume of the standard solution used being the measure
+of the iron contained in the ore. The end of the reaction when potassium
+permanganate is employed is known by the change in colour of the
+solution. As the solution of potassium permanganate, which is deep red
+in colour, is dropped into the colourless iron solution, it is quickly
+decolorized while the iron solution gradually assumes a yellowish tinge,
+the first drop of the permanganate solution in excess giving it a pink
+tint. With potassium bichromate solution, which is yellow, the iron
+solution becomes green from the chromium chloride or sulphate formed,
+and the end of the reaction is determined by removing a drop of the
+solution on the stirring-rod and adding it to a drop of a dilute
+solution of potassium ferricyanide on a white tile. So long as the
+solution contains a ferrous salt, the drop on the tile changes to blue;
+hence the absence of a blue coloration indicates the complete oxidation
+of all the ferrous salt and the end of the reaction. One gramme of ore
+is usually taken for assay and treated in a small flask or beaker with
+10 cc. of hydrochloric acid. All the iron in the ore generally dissolves
+upon heating, and a white residue is left. Occasionally this residue
+contains a small amount of iron in a difficultly soluble form; in that
+case the solution is slightly diluted with water and filtered into a
+larger flask. The residue in the filter is ignited and fused with a
+little sodium carbonate and nitrate, or with sodium peroxide. The
+product is treated with water, filtered, and the residue dissolved in
+hydrochloric acid and added to the main solution. This solution, which
+should not exceed 50 cc. or 75 cc. in volume, contains the iron in the
+ferric state and is ready for reduction.
+
+In the reduction by metallic zinc, about 3 grammes of granulated or
+foliated zinc are placed in the flask, which is closed with a small
+funnel; when the iron is reduced, add 10 cc. of sulphuric acid, and as
+soon as all the zinc is dissolved the solution is ready for titration.
+In the reduction by stannous chloride the solution of the ore in the
+flask is heated to boiling, and a strong solution of stannous chloride
+is added until the solution is completely decolorized; then 60 cc. of a
+solution of mercuric chloride (50 grammes to the litre) are run in and
+the contents of the flask poured into a dish containing 600 cc. of water
+and 60 cc. of a solution containing 200 grammes of manganous sulphate, 1
+litre of phosphoric acid (1.3 sp. gr.), 400 cc. of sulphuric acid, and
+1600 cc. of water. The solution is then ready for titration with the
+standard permanganate solution.
+
+The permanganate or bichromate solution is standardized by dissolving
+0.5 of a gramme of pure iron wire in a flask, in hydrochloric acid,
+oxidizing it with a little potassium chlorate, boiling off all traces of
+chlorine, deoxidizing by one of the methods described above, and
+titrating with the solution. As the wire always contains impurities, the
+absolute amount of iron in the wire must be determined and the
+correction made accordingly. Pure oxalic acid may also be used, which,
+in the presence of sulphuric acid, is oxidized by the standard solution
+according to the reaction:--
+
+  5(H2C2O42H2O) + 3H2SO4 + 2KMnO4 = 10CO2 + 2MnSO4 + K2SO4 + 18H2O.
+
+The reaction in case of ferrous sulphate is:--
+
+  10FeSO4 + 2KMnO4 + 8H2SO4 = 5Fe2(SO4)3 + K2SO4 + 2MnSO4 + 8H2O;
+
+that is, the same amount of potassium permanganate is required to
+oxidize 5 molecules of oxalic acid that is necessary to oxidize 10
+molecules of iron in the form of ferrous sulphate to ferric sulphate, or
+63 parts by weight of oxalic acid equal 56 parts by weight of metallic
+iron. Ammonium ferrous sulphate may also be used; it contains
+one-seventh of its weight of iron.     (A. A. B.)

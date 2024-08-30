@@ -1,0 +1,119 @@
+ASTROPHYSICS, the branch of astronomical science which treats of the
+physical constitution of the heavenly bodies. So long as these bodies
+could be known to men only as points or disks of light in the sky, no
+such science was possible. Even later, when the telescope was the only
+instrument of research, knowledge on this subject was confined to the
+appearances presented by the planets, supplemented by more or less
+probable inferences as to the nature of their surfaces. When, in the
+third quarter of the 19th century, spectrum analysis was applied to the
+light coming to us from the heavenly bodies, a new era in astronomical
+science was opened up of such importance that the body of knowledge
+revealed by this method has sometimes been termed the "new astronomy."
+The development of the method has been greatly assisted by photography,
+while the application of photometric measurements has been a powerful
+auxiliary in the work. It has thus come about that astrophysics owes its
+recent development, and its recognition as a distinct branch of
+astronomical science, to the combination of the processes involved in
+the three arts of spectroscopy, photography and photometry. The most
+general conclusions reached by this combination may be summed up as
+follows:--
+
+1. The heavenly bodies are composed of like matter with that which we
+find to make up our globe. The sun and stars are found to contain the
+more important elements with which chemistry has made us acquainted.
+Iron, calcium and hydrogen may be especially mentioned as three familiar
+chemical elements which enter largely into the constitution of all the
+matter of the heavens. It would be going too far to say that all the
+elements known to us exist in the sun or the stars; nor is the question
+whether the rarer ones can or cannot be found there of prime importance.
+The general fact of identity in the main constituents is the one of most
+fundamental importance. It would be going too far in the other direction
+to claim that all the elements which compose the heavenly bodies are
+found on the earth. There are many lines in the spectra of the stars, as
+well as of the nebulae, which are not certainly identified with those
+belonging to any elements known to our chemistry. The recent discoveries
+growing out of the investigation of newly discovered forms of radiation
+lead to the conclusion that the question of the forms of matter in the
+stars has far wider range than the simple question whether any given
+element is or is not found outside our earth. The question is rather
+that of the infinity of forms that matter may assume, including that
+most attenuated form found in the nebulae, which seem to be composed of
+matter more refined than even the atoms supposed to make up the matter
+around us.
+
+2. The second conclusion is that, as a general rule, the incandescent
+heavenly bodies are not masses of solid or liquid matter as formerly
+assumed, but mainly masses either of gas, or of substances gaseous in
+their nature, so compressed by the gravitation of their superincumbent
+parts toward a common centre that their properties combine those of the
+three forms of matter known to us. We have strong reason to believe that
+even the sun, though much denser than the general average of the stars,
+may possibly be characterized as gaseous rather than solid.
+Probabilities also seem to favour the view that this may, to a certain
+extent, be true of the four great planets of our system. The case of
+bodies like our earth and Mars, which are solid either superficially or
+throughout, is probably confined to the smaller bodies of the universe.
+
+3. A third characteristic which seems to belong to the great bodies of
+the universe is the very high temperature of their interior. With a
+modification to be mentioned presently, we may regard them as intensely
+hot bodies, probably at a temperature higher than any we can produce by
+artificial means, of which the superficial portions have cooled off by
+radiation into space. A modification in this proposition which may
+hereafter be accepted involves an extension of our ideas of temperature,
+and leads us to regard the interior heat of the heavenly bodies as due
+to a form of molecular activity similar to that of which radium affords
+so remarkable an instance. This modification certainly avoids many
+difficulties connected with the question of the interior heat of the
+earth, sun, Jupiter and probably all the larger heavenly bodies.
+
+A limit is placed on our knowledge of astrophysics which, up to the
+present time, we have found no means of overstepping. This is imposed
+upon us by the fact that it is only when matter is in a gaseous form
+that the spectroscope can give us certain knowledge as to its physical
+condition. So long as bodies are in the solid state the light which they
+emit, though different in different substances, has no characteristic so
+precisely marked that detailed conclusions can be drawn as to the nature
+of the substance emitting it. Even in a liquid form, the spectrum of any
+kind of matter is less characteristic than that of gas. Moreover, a
+gaseous body of uniform temperature, and so dense as to be
+non-transparent, does not radiate the characteristic spectrum of the gas
+of which it is composed. Precise conclusions are possible only when a
+gaseous body is transparent through and through, so that the gas emits
+its characteristic rays--or when the rays from an incandescent body of
+any kind pass through a gaseous envelope at a temperature lower than
+that of the body itself. In this case the revelations of the
+spectroscope relate only to the constitution of the gaseous envelope,
+and not to the body below the envelope, from which the light emanates.
+The outcome of this drawback is that our knowledge of the chemical
+constitution of the stars and planets is still confined to their
+atmospheres, and that conclusions as to the constitution of the interior
+masses which form them must be drawn by other methods than the
+spectroscopic one.
+
+When the spectroscope was first applied in astronomy, it was hoped that
+the light reflected from living matter might be found to possess some
+property different from that found in light reflected from non-living
+matter, and that we might thus detect the presence of life on the
+surface of a planet by a study of its spectrum; but no hope of this kind
+has so far been realized.
+
+We have, in this brief view of the subject, referred mainly to the
+results of spectrum analysis. Growing out of, but beyond this method is
+the beginning of a great branch of research which may ultimately explain
+many heretofore enigmatical phenomena of nature. The discovery of
+radio-activity may, by explaining the interior heat of the great bodies
+of the universe, solve a difficulty which since the middle of the 19th
+century has been discussed by physicists and geologists--that of
+reconciling the long duration which geologists claim for the crust of
+the earth with the period during which physicists have deemed it
+possible that the sun should have radiated heat. Evidence is also
+accumulating to show that the sun and stars are radio-active bodies, and
+that emanations proceeding from the sun, and reaching the earth, have
+important relations to the phenomena of Terrestrial Magnetism and the
+Aurora.
+
+The subject of Astrophysics does not admit of so definite a subdivision
+as that of Astrometry. The conclusions which researches relating to it
+have so far reached are treated in the articles STAR; SUN; COMET;
+NEBULA; AURORA POLARIS, &c.     (S. N.)

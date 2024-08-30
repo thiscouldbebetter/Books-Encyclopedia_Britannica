@@ -1,0 +1,2 @@
+ASTERID, a group of starfish. They are the starfish proper, and have the
+typical genus _Asterias_ (see STARFISH).

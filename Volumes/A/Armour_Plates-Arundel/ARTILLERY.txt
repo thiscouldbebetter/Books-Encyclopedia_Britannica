@@ -1,0 +1,1618 @@
+ARTILLERY (the O. Fr. _artiller_, to equip with engines of war, probably
+comes from Late Lat. _articulum_, dim. of _ars_, art, cf. "engine" from
+_ingenium_, or of _artus_, joint), a term originally applied to all
+engines for discharging missiles, and in this sense used in English in
+the early 17th century. In a more restricted sense, artillery has come
+to mean all firearms not carried and used by hand, and also the
+_personnel_ and organization by which the power of such weapons is
+wielded. It is, however, not usual to class _machine guns_ (q.v.) as
+artillery. The present article deals with the development and
+contemporary state of the artillery arm in land warfare, in respect of
+its organization, personnel and special or "formal" employment. For the
+_matériel_--the guns, their carriages and their ammunition--see ORDNANCE
+and AMMUNITION. For _ballistics_, see that heading, and for the work of
+artillery in combination with the other arms, see TACTICS.
+
+Artillery, as distinct from ordnance, is usually classified in
+accordance with the functions it has to perform. The simplest division
+is that into _mobile_ and _immobile_ artillery, the former being
+concerned with the handling of all weapons so mounted as to be capable
+of more or less easy movement from place to place, the latter with that
+of weapons which are installed in fixed positions. Mobile artillery is
+subdivided, again chiefly in respect of its employment, into _horse_ and
+_field_ batteries, _heavy field_ or _position_ artillery, _field
+howitzers, mountain artillery_ and _siege trains_, adapted to every kind
+of terrain in which field troops may be employed, and work they may have
+to do. Immobile artillery is used in fixed positions of all kinds, and
+above all in permanent fortifications; it cannot, therefore, be
+classified as above, inasmuch as the _raison d'être_, and consequently
+the armament of one fort or battery may be totally distinct from that of
+another. "Fortress," "Garrison" and "Foot" artillery are the usual names
+for this branch. The dividing line, indeed, in the case of the heavier
+weapons, varies with circumstances; guns of position may remain on their
+ground while elaborate fortifications grow up around them, or the
+deficiencies of a field army in artillery may be made good from the
+_matériel_, more frequently still from the _personnel_, of the fortress
+artillery. Thus it may happen that mobile artillery becomes immobile and
+vice versa. But under normal circumstances the principle of
+classification indicated is maintained in all organized military forces.
+
+HISTORICAL SKETCH
+
+1. _Early Artillery._--Mechanical appliances for throwing projectiles
+were produced early in the history of organized warfare, and "engines
+invented by cunning men to shoot arrows and great stones" are mentioned
+in the Old Testament. These were continually improved, and, under the
+various names of _catapulta, balista, onager, trébuchet_, &c., were
+employed throughout the ancient and medieval periods of warfare. The
+machines finally produced were very powerful, and, even when a
+propelling agent so strong as gunpowder was discovered and applied, the
+supersession of the older weapons was not effected suddenly nor without
+considerable opposition. The date of the first employment of cannon
+cannot be established with any certainty, but there is good evidence to
+show that the Germans used guns at the siege of Cividale in Italy
+(1331). The terms of a commission given (1414) by Henry V. to his
+_magister operationum, ingeniarum, et gunnarum ac aliarum ordinationum_,
+one Nicholas Merbury, show that the organization of artillery
+establishments was grafted upon that which was already in existence for
+the service of the old-fashioned machines. Previously to this it is
+recorded that of some 340 men forming the ordnance establishment of
+Edward III. in 1344 only 12 were artillerymen and gunners. Two years
+later, at Creçy, it is said, the English brought guns into the open
+field for the first time. At the siege of Harfleur (1415) the ordnance
+establishment included 25 "master gunners" and 50 "servitour gunners."
+The "gunner" appears to have been the captain of the gun, with general
+charge of the guns and stores, and the special duty of laying and firing
+the piece in action.
+
+2. _The Beginnings of Field Artillery._--It is clear, from such evidence
+as we possess, that the chief and almost the only use of guns at this
+time was to batter the walls of fortifications, and it is not until
+later in the 15th century that their employment in the field became
+general (see also CAVALRY). The introduction of field artillery may be
+attributed to John Zizka, and it was in his Hussite wars (1419-1424)
+that the _Wagenburg_, a term of more general application, but taken here
+as denoting a cart or vehicle armed with several small guns, came into
+prominence. This device allowed a relatively high manoeuvring power to
+be attained, and it is found occasionally in European wars two centuries
+later, as for instance at Wimpfen in 1622 and Cropredy Bridge in 1644.
+In an act of attainder passed by the Lancastrian party against the
+Yorkists (1459), it is stated that the latter were "traiterously ranged
+in bataill ... their cartes with gonnes set before their batailles"
+(Rot. Parl. 38 Henry VI., v. 348). In the London fighting of 1460, small
+guns were used to clear the streets, heavy ordnance to batter the walls
+of the Tower. The battle of Lose Coat Field (1469) was decided almost
+entirely by Edward IV.'s field guns, while at Blackheath (1497) "some
+cornets of horse, and bandes of foot, and good store of artillery
+wheeling about" were sent to "put themselves beyond" the rebel camp
+(Bacon, _Henry VII._). The greatest example of artillery work in the
+15th century was the siege of Constantinople in 1453, at which the Turks
+used a large force of artillery, and in particular some monster pieces,
+some of which survived to engage a British squadron in 1807, when a
+stone shot weighing some 700 lb. cut the mainmast of Admiral (Sir) J.T.
+Duckworth's flagship in two, and another killed and wounded sixty men.
+For siege purposes the new weapon was indeed highly effective, and the
+castles of rebellious barons were easily knocked to pieces by the prince
+who owned, or succeeded in borrowing, a few pieces of ordnance (cf.
+Carlyle, _Frederick the Great_, book iii. chap. i.).
+
+3. _The 16th Century._--In the Italian wars waged by Charles VIII.,
+Louis XII. and Francis I. of France, artillery played a most conspicuous
+part, both in siege and field warfare. Indeed, cannon did excellent
+service in the field before hand firearms attained any considerable
+importance. At Ravenna (1512) and Marignan (1515) field artillery did
+great execution, and at the latter battle "the French artillery played a
+new and distinguished part, not only by protecting the centre of the
+army from the charges of the Swiss phalanxes, and causing them excessive
+loss, but also by rapidly taking up such positions from time to time ...
+as enabled the guns to play upon the flanks of the attacking columns"
+(Chesney, _Observations on Firearms_, 1852). In this connexion it must,
+however, be observed that, when the arquebus and other small arms became
+really efficient (about 1525), less is heard of this small and handy
+field artillery, which had hitherto been the only means of breaking up
+the heavy masses of the hostile pikemen. We have seen that artillery was
+not ignored in England; but, in view of the splendid and unique
+efficiency of the archers, there was no great opportunity of developing
+the new arm. In the time of Henry VIII., the ordnance in use in the
+field consisted in the main of heavy _culverins_ and other guns of
+position, and of lighter field pieces, termed _sakers, falcons_, &c. It
+is to be noticed that already the lightest pieces had disappeared, the
+smallest of the above being a 2-pounder. In the earlier days of field
+artillery, the artillery train was a miscellaneous congeries of pontoon,
+supply, baggage and tool wagons, heavy ordnance and light guns in carts.
+With the development of infantry fire the use of the last-named weapons
+died out, and it is largely due to this fact that "artillery" came to
+imply cumbrous and immobile guns of position. Little is, therefore,
+heard of smart manoeuvring, such as that at Marignan, during the latter
+part of the 16th century. The guns now usually come into action in
+advance of the troops, but, from their want of mobility, could neither
+accompany a farther advance nor protect a retreat, and they were
+generally captured and recaptured with every changing phase of the
+fight. Great progress was in the meanwhile made in the adaptation of
+ordnance to the attack and defence of fortresses and, in particular,
+vertical fire came into vogue. A great Turkish gun, carrying a 600-lb.
+stone shot, was used in the siege of Constantinople, apparently in this
+way, since Gibbon records that at the range of a mile the shot buried
+itself a fathom deep in earth, a fact which implies that a high angle of
+elevation was given. In the celebrated siege of Malta in 1565 artillery
+played a conspicuous part.
+
+4. _The Thirty Years' War._--Such, in its broadest outlines, is the
+history of artillery work during the first three centuries of its
+existence. Whilst the material had undergone a very considerable
+improvement, the organization remained almost unchanged, and the
+tactical employment of guns had become restricted, owing to their
+slowness and difficulty of movement on the march and immobility in
+action. In wars of the type of the War of Dutch Independence and the
+earlier part of the Thirty Years' War, this heavy artillery naturally
+remained useful enough, and the _Wagenburg_ had given place to the
+musketry initiated by the Spaniards at Bicocca and Pavia, which since
+1525 had steadily improved and developed. It is not, therefore, until
+the appearance of a captain whose secret of success was vigour and
+mobility that the first serious attempt was made to produce field
+artillery in the proper sense of the word, that is, a gun of good power,
+and at the same time so mounted as to be capable of rapid movement. The
+"carte with gonnes" had been, as is the modern machine gun, a mechanical
+concentration of musketry rather than a piece of artillery. Maurice of
+Nassau, indeed, helped to develop the field gun, and the French had
+invented the limber, but Gustavus Adolphus was the first to give
+artillery its true position on the battlefield. At the first battle of
+Breitenfeld (1631) Gustavus had twelve heavy and forty-two light guns
+engaged, as against Tilly's heavy 24-pounders, which were naturally far
+too cumbrous for field work. At the Lech (1632) Gustavus seems to have
+obtained a local superiority over his opponent owing to the handiness of
+his field artillery even more than by its fire-power. At Lützen (1632)
+he had sixty guns to Wallenstein's twenty-one. His field pieces were not
+the celebrated "leather" guns (which were indeed a mere makeshift used
+in Gustavus' Polish wars) but iron 4-pounders. These were distributed
+amongst the infantry units, and thus began the system of "battalion
+guns" which survived in the armies of Europe long after the conditions
+requiring it had vanished. The object of thus dispersing the guns was
+doubtless to ensure in the first place more certain co-operation between
+the two arms, and in the second to exercise a military supervision over
+the lighter and more useful field pieces which it was as yet impossible
+to exercise over the _personnel_ of the heavy artillery.
+
+5. _Personnel and Classification._--More than 300 years after the first
+employment of ordnance, the men working the guns and the transport
+drivers were still civilians. The actual commander of the artillery was
+indeed, both in Germany and in England, usually a soldier, and Lennart
+Torstensson, the commander of Gustavus' artillery, became a brilliant
+and successful general. But the transport and the drivers were still
+hired, and even the gunners were chiefly concerned for the safety of
+their pieces, the latter being often the property, not of the king
+waging war, but of some "master gunner" whose services he had secured,
+and the latter's apprentices were usually in entire charge of the
+material. These civilian "artists," as they were termed, owed no more
+duty to the prince than any other employés, and even Gustavus, it would
+appear, made no great improvement in the matter of the reorganization of
+artillery trains. Soldiers as drivers do not appear until 150 years
+later, and in the meanwhile companies of "firelocks" and "fusiliers"
+(q.v.) came into existence, as much to prevent the gunners and drivers
+from running away as to protect them from the enemy. A further cause of
+difficulties, in England at any rate, was the age of the "gunners." In
+the reign of Elizabeth, some of the Tower gunners were over ninety years
+of age. Complaints as to the inefficiency of these men are frequent in
+the years preceding the English Civil War. Gustavus, however, has the
+merit of being the first to make the broad classification of artillery,
+as mobile or non-mobile, which has since been almost universally in
+force. In his time the 12-pounder was the heaviest gun classed as
+mobile, and the "feildpeece" _par excellence_ was the 9-pounder or
+_demi-culverin_. After the death of Gustavus at Lützen (1632), his
+principles came universally into practice, and amongst them were those
+of the employment of field artillery.
+
+6. _The English Civil War._--Even in the English Civil War (Great
+Rebellion), in which artillery was hampered by the previous neglect of a
+century, its field work was not often contemptible, and on occasion the
+arm did excellent service. But in the campaigns of this war, fought out
+by men whose most ardent desire was to decide the quarrel swiftly, the
+marching and manoeuvring were unusually rapid. The consequence of this
+was that the guns were sometimes either late in arriving, as at
+Edgehill, or absent altogether, as at Preston. The _rôle_ of guns was
+further reduced by the fact that there were few fortresses to be
+reduced, and country houses, however strong, rarely required to be
+battered by a siege train. The New Model army usually sent for siege
+guns only when they were needed for particular service. On such
+occasions, indeed, the heavy ordnance did its work so quickly and
+effectually that the assault often took place one or two days after the
+guns had opened fire. Cromwell in his sieges made great use of shells,
+12-inch and even larger mortars being employed. The castle of Devizes,
+which had successfully resisted the Parliamentary battering guns,
+succumbed at once to vertical fire. It does not, however, appear certain
+that there was any separation of field from siege ordnance, although the
+Swedish system was followed in almost all military matters.
+
+7. _Artillery Progress, 1660-1740._--Cromwell's practice of relegating
+heavy guns to the rear, except when a serious siege operation was in
+view, and in very rapid movements leaving even the field pieces far
+behind, was followed to some extent in the campaigns of the age of Louis
+XIV. The number of ammunition wagons, and above all of horses, required
+for each gun was four or five times as great as that required even for a
+modern quick-firer. In the days of Turenne heavy guns were much
+employed, as the campaigns of the French were directed as a rule to the
+methodical conquest of territory and fortified towns. Similarly,
+Marlborough, working amidst the fortresses of the Netherlands in 1706,
+had over 100 pieces of artillery (of which 60 were mortars) to a force
+of some 11,000 men, or about 9 pieces per 1000 men. On the other hand,
+in his celebrated march to the Danube in 1704, he had but few guns, and
+the allied armies at Blenheim brought into the field only 1 piece per
+1000 men. At Oudenarde "from the _rapidity of the march_ ... the battle
+was fought with little aid from artillery on either side" (Coxe,
+_Marlborough_). There was less need now than ever before for rapid
+manoeuvres of mobile artillery, since the pike finally disappeared from
+the scene about 1700, and infantry fire-power had become the decisive
+factor in battles. In the meantime, artillery was gradually ceasing to
+be the province of the skilled workman, and assuming its position as an
+arm of the military service. In the 17th century, when armies were as a
+rule raised only "for the war" and disbanded at the conclusion of
+hostilities, there had been no very pressing need for the maintenance in
+peace of an expensive _personnel_ and material. Gunners therefore
+remained, as civilians, outside the regular administration of the
+forces, until the general adoption of the "standing army" principle in
+the last years of the century (see ARMY). From this time steps were
+taken, in all countries, to organize the artillery as a military force.
+After various attempts had been made, the "Royal Regiment of Artillery"
+came into existence in England in 1716. It is, however, stated that the
+English artillery did not "begin to assume a military appearance until
+the Flanders campaigns" of the War of the Austrian Succession. Even in
+the War of American Independence a dispute arose as to whether a general
+officer, whose regimental service had been in the Royal Artillery, was
+entitled to command troops of all arms, and the artillery drivers were
+not actually soldiers until 1793 at the earliest. French artillery
+officers received military rank only in 1732.
+
+8. _Artillery in the Wars of Frederick the Great._--By the time of
+Frederick the Great's first wars, artillery had thus been divided into
+(a) those guns moving with an army in the field, and (b) those which
+were either wholly stationary or were called upon only when a siege was
+expected. The _personnel_ was gradually becoming more efficient and more
+amenable to discipline; the transport arrangements, however, remained in
+a backward state. Siege and fortress artillery was now organized and
+employed in accordance with the system of the "formal attack" as finally
+developed by Vauban. For details of this, as involving the tactical
+procedure of artillery in the attack and defence of fortresses, the
+reader is referred to FORTIFICATION AND SIEGECRAFT. We are concerned
+here more especially with the progress of field artillery. The part
+played by this arm began now to vary according to the circumstances of
+each action, and the "moral" support of guns was calculated as a factor
+in the dispositions. In the early Silesian wars, heavy or reserve guns
+protected the deployment of the army and endeavoured to prepare for the
+subsequent advance by firing upon the hostile troops; the battalion guns
+remained close to the infantry, accompanied its movements and assisted
+in the fire fight. Their support was not without value, and the heavy
+guns often provoked the enemy into a premature advance, as at Mollwitz.
+But the infantry or the cavalry forced the decision. It has been
+mentioned that with the final disappearance of the pike, about 1700,
+infantry fire-power ruled the battlefield. Throughout the 18th century,
+it will be found, when the infantry is equal to its work the guns have
+only a subordinate part in the fighting of pitched battles. At
+Kunersdorf (1759) the first dashing charge of the Prussian grenadiers
+captured 72 guns from the Russian army. Later the total of captured
+ordnance reached 180, yet the Russians, then almost wholly in flight,
+were not cut to pieces, for only a few light guns of the Prussian army
+could get to the front; their heavy pieces, though twelve horses were
+harnessed to each, never came into action. This example will serve to
+illustrate the difference between the artillery of 1760 and that of
+fifty years later. According to Tempelhof, who was present, Kunersdorf
+was the finest opportunity for field artillery that he had ever seen.
+Yet the field artillery of the 18th century was, if anything, more
+powerful than that of Napoleon's time; it was the want of mobility alone
+which prevented the Prussians from turning to good account an
+opportunity fully as favourable as that of the German artillery at
+Sedan. That Frederick made more use of his guns in the later campaigns
+of the Seven Years' War is accounted for by the fact that his infantry
+and cavalry were no longer capable of forcing a decision, and also by
+changes in the general character of the operations. These were fought in
+and about broken country and entrenched positions, and the mobility of
+the other arms sank to that of the artillery. Thus power came to the
+front again, and the heavier weapons regained their former supremacy. In
+a _bataille rangée_ in the open field the proportion of guns to men had
+been, in 1741, 2 per 1000. At Leuthen (1757) heavy fortress guns were
+brought to the front for a special purpose. At Kunersdorf the proportion
+was 4 and 5 per 1000 men, with what degree of effectiveness we have
+seen. In the later campaigns the Austrian artillery, which was,
+throughout the Seven Years' War, the best in Europe, placed its numerous
+and powerful ordnance (an "amphitheatre of 400 guns," as Frederick said)
+in long lines of field works. The combination of guns and obstacles was
+almost invariably too formidable to offer the slightest chance of a
+successful assault. It was at this stage that Frederick, in 1759,
+introduced horse artillery to keep pace with the movements of cavalry, a
+proof, if proof were needed, of the inability of the field artillery to
+manoeuvre. The field howitzer, the weapon _par excellence_ for the
+attack of field works, has never perhaps been more extensively employed
+than it was by the Prussians at that time. At Burkersdorf (1762)
+Frederick placed 45 howitzers in one battery. In those days the mobile
+artillery was always formed in groups or "batteries" of from 10 to 20
+pieces. England too was certainly abreast of other countries in the
+organization of the field artillery arm. About the middle of the 18th
+century the guns in use consisted of 24-pounders, 12-pounders,
+6-pounders and 3-pounders. The guns were divided into "brigades" of
+four, five and six guns respectively, and began to be separated into
+"heavy" and "light" brigades. Each field gun was drawn by four horses,
+the two leaders being ridden by artillerymen, and had 100 rounds of shot
+and 30 rounds of grape. The British artillery distinguished itself in
+the latter part of the Seven Years' War. Foreign critics praised its
+lightness, its elegance and the good quality of its materials. At
+Marburg (1760) "the English artillery could not have been better served;
+it followed the enemy with such vivacity, and maintained its fire so
+well, that it was impossible for the latter to re-form," says Tempelhof,
+the Prussian artillery officer who records the lost opportunity of
+Kunersdorf. The merits and the faults of the artillery had been made
+clear, and nowhere was the lesson taken to heart more than in France,
+where General Gribeauval, a French officer who had served in the war
+with the Austrian artillery, initiated reforms which in the end led to
+the artillery triumphs of the Napoleonic era. While Frederick had
+endeavoured to employ, as profitably as possible, the existing heavy
+equipments, Gribeauval sought improvement in other directions.
+
+9. _Gribeauval's Reforms._--At the commencement of the 18th century,
+French artillery had made but little progress. The carriages and wagons
+were driven by wagoners on foot, and on the field of battle the guns
+were dragged about by ropes or remained stationary. Towards the middle
+of the century some improvements were made. Field guns and carriages
+were lightened, and the guns separated into brigades. Siege carriages
+were introduced. From 1765 onwards, however, Gribeauval strove to build
+up a complete system both of _personnel_ and _matériel_, creating a
+distinct _matériel_ for field, siege, garrison and coast artillery.
+Alive to the vital importance of mobility for field artillery, he
+dismissed to other branches all pieces of greater calibre than
+12-pounders, and reduced the weight of those retained. His reforms were
+resisted, and for a time successfully; but in 1776 he became first
+inspector-general of artillery, and was able to put his ideas into
+force. The field artillery of the new system included 4-pounder
+regimental guns, and for the reserve 8- and 12-pounders, with 6-inch
+howitzers. For siege and garrison service Gribeauval adopted the
+16-pounder and 12-pounder guns, 8-inch howitzer and 10-inch mortar, 12-,
+10- and 8-inch mortars being introduced in 1785.
+
+The carriages were constructed on a uniform model and technically
+improved. The horses were harnessed in pairs, instead of in file as
+formerly, but the manner in which the teams were driven remained much
+the same. The _prolong_ (a sort of tow-rope) was introduced, to unite
+the trail of the gun and the limber in slow retiring movements. Siege
+carriages differed from those of field artillery only in details.
+Gribeauval also introduced new carriages for garrison and coast service.
+The great step made was in a uniform construction being adopted for all
+_matériel_, and in making the parts interchangeable so far as possible.
+In 1765 the _personnel_ of the French artillery was reorganized. The
+corps or reserve artillery was organized in divisions of eight guns. The
+battery or division was thus made a unit, with guns, munitions and
+gunners complete, the horses and drivers being added at a later date.
+Horse artillery was introduced into the French army in 1791. The last
+step was made in 1800, when the establishment of a driver corps of
+soldiers put an end to the old system of horsing by contract.
+
+10. _British Artillery, 1793-1815._--Meanwhile the numbers of the
+English artillery had increased to nearly 4000 men. For some five
+centuries the word "artillery" in England meant entirely garrison
+artillery; the field artillery only existed in time of war. When war
+broke out, a train of artillery was organized, consisting of a certain
+number of field (or siege) guns, manned by garrison gunners; and when
+peace was proclaimed the train was disbanded, the _matériel_ being
+returned into store, and the gunners reverting to some fort or
+stronghold. In 1793 the British artillery was anything but efficient.
+Guns were still dispersed among the infantry, mobility had declined
+again since the Seven Years' War, and the American war had been fought
+out by the other arms. The drivers were mere carters on foot with long
+whips, and the whole field equipment was scarcely able to break from a
+foot-pace. Prior to the Peninsular War, however, the exertions of an
+able officer, Major Spearman, had done much to bring about improvement.
+Horse artillery had been introduced in 1793, and the driver corps
+established in 1794. Battalion guns were abolished in 1802, and field
+"brigades of six guns" were formed, horse artillery batteries being
+styled "troops." Military drivers were introduced, and the horses teamed
+in pairs. The drivers were mounted on the near horses, the gunners
+either rode the off horses or were carried on the limbers and wagons.
+The equipment was lightened, and a new system of manoeuvres introduced.
+A troop of horse artillery and a field brigade each had five guns and
+one howitzer. The "driver corps," raised in 1794, was divided into
+troops, the addition of one of which to a company of foot artillery
+converted it into a field brigade. The horse artillery possessed both
+drivers and horses, and required very limited assistance from the driver
+corps.
+
+11. _French Revolutionary Wars._--During the long wars of the French
+Revolution and Empire the artillery of the field army by degrees became
+field artillery as we know it to-day. The development of musketry in the
+16th century had taken the work of preparing an assault out of the hands
+of the gunners. _Per contra_, the decadence of infantry fire-power in
+the latter part of the Seven Years' War had reinstated the artillery
+arm. A similar decadence of the infantry arm was destined to produce, in
+1807, artillery predominance, but this time with an important
+difference, viz. _mobility_, and when mobility is thus achieved we have
+the first modern field artillery. The new tactics of the French in the
+Revolutionary wars, forced upon them by circumstances, involved an
+almost complete abandonment of the fire-tactics of Frederick's day, and
+the need for artillery was, from the first fight at Valmy onwards, so
+obvious that its moral support was demanded even in the outpost line of
+the new French armies. St Cyr (_Armies of the Rhine_, p. 112) quotes a
+case in which "right in the very farthest outpost line" the original
+4-pounder guns were replaced by 8-, 16-, and in the end by 24-pounders.
+The cardinal principle of massing batteries was not, indeed, forgotten,
+notwithstanding the weakness of raw levies. But though, as we have seen,
+the _matériel_ had already been greatly improved, and the artillery was
+less affected by the Revolution than other arms of the service,
+circumstances were against it, and we rarely find examples of artillery
+work in the Revolutionary wars which show any great improvement upon
+older methods. The field guns were however, at last organized in
+batteries each complete in itself, as mentioned above. The battalion gun
+disappeared; it was a relic of days in which it was thought advisable,
+both for other reasons and also because the short range of guns forbade
+any attempt at concentration of fire from several positions at one
+target, to have some force of artillery at any point that might be
+threatened. Though it was officially retained in the regulations of the
+French army, "officers and men combined to reject it" (Rouquerol, _Q.F.
+Field Artillery_, p. 121), and its last appearances, in 1809 and in
+1813, were due merely to an endeavour on the part of Napoleon to give
+cohesion thereby to the battalions of raw soldiers which then
+constituted his army. But, with the development of mobility, it was
+probably found that sufficient guns could be taken to any threatened
+point, and no one had ever denied the principle of massed batteries,
+although, in practice, dispersion had been thought to be unavoidable.
+
+12. _Napoleon's Artillery Tactics._--During the war the French artillery
+steadily improved in manoeuvring power. But many years elapsed before
+perfection was attained. Meanwhile, the infantry, handled without regard
+to losses in every fight, had in consequence deteriorated. The final
+production of the field artillery battle, usually dated as from the
+battle of Friedland (June 14, 1807), therefore saved the situation for
+the French. Henceforward Napoleon's battles depend for their success on
+an "artillery preparation," the like of which had never been seen.
+Napoleon's own maxim illustrates the typical tactics of 1807-1815. "When
+once the _melée_ has begun," he says, "the man who is clever enough to
+bring up an unexpected force of artillery, without the enemy knowing it,
+is sure to carry the day." The guns no longer "prepared" the infantry
+advance by slowly disintegrating the hostile forces. Still less was it
+their business merely to cover a deployment. On the contrary, they now
+went in to the closest ranges and, by actually _annihilating_ a portion
+of the enemy's line with case-shot fire, "covered" the assault so
+effectively that columns of cavalry and infantry reached the gap thus
+created without striking a blow. It is unnecessary to give examples.
+Every one of Napoleon's later battles illustrates the principle. The
+most famous case is that of the great battery of 100 guns at Wagram
+(q.v.) which preceded the final attack of the centre. When Napoleon at
+Leipzig saw the allied guns forming up in long lines to prepare the
+assault, he exclaimed, "At last they have learned something." This
+"case-shot preparation," of course, involved a high degree of efficiency
+in manoeuvre, as the guns had to gallop forward far in front of the
+infantry. The want of this quality had retarded the development of field
+artillery for 300 years, during which it had only been important
+relatively to the occasional inferiority of other troops. After
+Napoleon's time the art of tactics became the art of _combining the
+three arms_.
+
+[Illustration: PLATE I.
+
+  FIGS. 1 and 2.--15th Century Field Artillery (Napoleon III).
+
+  FIG. 3.--Field Artillery. 1525 (Napoleon III).
+
+  FIG. 4.--French Artillery 1735 (_Journal d'Armée_,1835).
+
+  FIG. 5.--French Field Artillery,1835 (_Journal d'Armée_,1835).
+
+  FIG. 6.--Artillery in Action, Roveredo, 1796 (C. Vernet).]
+
+[Illustration: PLATE II.
+
+  BREACH LOADING FIELD BATTERY (15-PR. B.L.).
+  _Photo, Gale & Polden._
+
+  QUICK-FIRING HORSE ARTILLERY (ROYAL HORSE ARTILLERY, 13-PR. Q.F.).
+  _Photo, Gale & Polden._
+
+  Q.F. FIELD ARTILLERY (18-PR. Q.F., R.F.A.).
+  _Photo, Gale & Polden._
+
+  FRENCH (75-MM. Q.F.) FIELD ARTILLERY MANOEUVRING.
+  _Photo, Topical Press._]
+
+13. _Artillery, 1815-1865._--Henceforward, therefore, the history of
+artillery becomes the history of its technical effectiveness,
+particularly in relation to infantry fire, and of improvements or
+modifications in the method of putting well-recognized principles into
+action. Infantry fire, however, being more variable in its effectiveness
+than that of artillery, the period 1815-1870 saw many changes in the
+relations of the two arms. In the time of Napoleon, infantry fire never
+equalled that of the Seven Years' War, and after the period of the great
+wars the musket was less and less effectively used. Economy was,
+however, practised to excess in every army of Europe during the period
+1815-1850, and even if there had been great battles at this time, the
+artillery, which was maintained on a minimum strength of guns, men and
+horses, would not have repeated the exploits of Sénarmont and Drouot in
+the Napoleonic wars. The principle was well understood, but under such
+conditions the practice was impossible. It was at this stage that the
+general introduction of the rifled musket put an end, once for all,
+to the artillery tactics of the smooth-bore days. Infantry, armed with a
+far-ranging rifle, as in the American Civil War, kept the guns beyond
+case-shot range, compelling them to use only round shot or common shell.
+In that war, therefore, attacking infantry met, on reaching close
+quarters, not regiments already broken by a _feu d'enfer_, but the full
+force of the defenders' artillery and infantry, both arms fresh and
+unshaken, and the full volume of their case shot and musketry. At
+Fredericksburg the Federal infantry attacked, unsupported by a single
+field piece; at Gettysburg the Federal artillery general Hunt was able
+to reserve his ammunition to meet Lee's assault, although the infantry
+of his own side was meanwhile subjected to the fire of 137 Confederate
+guns. Thus, in both these cases the assault became one of infantry
+against unshaken infantry and artillery. On many occasions, indeed, the
+batteries on either side went into close ranges, as the traditions of
+the old United States army dictated, but their losses were then totally
+out of proportion to their effectiveness. Indeed, the increased range at
+which battles were now fought, and the ineffectiveness of the
+projectiles necessarily used by the artillery at these ranges, so far
+neutralized even rifled guns that artillery generals could speak of
+"idle cannonades" as the "besetting sin" of some commanders.
+
+14. _The Franco-German War, 1870-71._--In the next great war, that of
+1866 (Bohemia), guns were present on both sides in great numbers, the
+average for both sides being three guns per 1000 men. Artillery,
+however, played but a small part in the Prussian attacks, this being due
+to the inadequate training then afforded, and also to the mixture of
+rifled guns and smooth-bores in their armament. In Prussia, however, the
+exertions of General v. Hindersin, the improvement of the _matériel_,
+and above all the better tactical training of the batteries, were
+rewarded four years later by success on the battlefield almost as
+decisive as Napoleon's. In 1870 the French artillery was invariably
+defeated by that of the Germans, who were then free to turn their
+attention to the hostile infantry. At first, indeed, the German infantry
+was too impatient to wait until the victorious artillery had prepared
+the way for them by disintegrating the opposing line of riflemen. Thus
+the attack of the Prussian Guards at St Privat (August 18, 1870) melted
+away before the unbroken fire-power of the French, as had that of the
+Federals at Fredericksburg and that of the Confederates at Gettysburg.
+But such experiences taught the German infantry commanders the necessity
+of patience, and at Sedan the French army was enveloped by the fire of
+nearly 600 guns, which did their work so thoroughly that the Germans
+annihilated the Imperial army at the cost of only 5% of casualties.
+
+15. _Results of the War._--The tactical lessons of the war, so far as
+field artillery is concerned, may be briefly summarized as (a)
+employment of great masses of guns; (b) forward position of guns in the
+order of march, in order to bring them into action as quickly as
+possible; (c) the so-called "artillery duel," in which the assailant
+subdues the enemy's artillery fire; and (d) when this is achieved, and
+not before, the thorough preparation of all infantry attacks by
+artillery bombardment. This theory of field artillery action has not,
+even with the almost revolutionary improvements of the present period,
+entirely lost its value, and it may be studied in detail in the
+well-known work of von Schell, _Taktik der Feldartillerie_ (1877), later
+translated into English by Major-General Sir A.E. Turner (_Tactics of
+Field Artillery_, 1900). In one important matter, however, the precepts
+of Schell and his contemporaries no longer hold good. "It is absolutely
+necessary that the object of the infantry's attack should be cannonaded
+before it advances. To accomplish this, sufficient time should be given
+to the artillery, and on no account should the infantry be ordered to
+advance until the fire of the guns has produced the desired effect."
+This, the direct outcome of the slaughter at St Privat, represents the
+best possibilities of breech-loading guns with common shell--no more
+than a slow disintegration of the enemy's power of resistance by a
+thorough and lengthy "artillery preparation." Against troops sheltered
+behind works (as in the Russo-Turkish War of 1877-78) the common shell
+usually failed to give satisfactory results, if for no other reason,
+because the "preparation" consumed an inordinate time, and in any case
+the hostile artillery had first of all to be subdued in the artillery
+duel.
+
+16. _Quick-firing Field Guns._--In 1891, a work by General Wille of the
+German army (_The Field Gun of the Future_) and in 1892 another by
+Colonel Langlois of the French service (_Field Artillery with the other
+Arms_) foreshadowed many revolutionary changes in _matériel_ and tactics
+which have now taken place. The new ideas spread rapidly, and the
+quick-firing gun came by degrees to be used in every army. The original
+designs have been greatly improved upon (see ORDNANCE: _Field artillery
+equipments_), but the principles of these designs have not undergone
+serious modification. These are, briefly, the mechanical absorption of
+the recoil, by means of brakes or buffers, and the development of "time
+shrapnel" as the projectile of field artillery. The absorption of recoil
+of itself permits of a higher rate of fire, since the gun does not
+require to be run up and relaid after every shot. Formerly such an
+advantage was illusory (since aim could not be taken through the thick
+bank of smoke produced by rapid fire), but the introduction of smokeless
+powder removed this objection. Artillerists, no longer handicapped, at
+once turned their attention to the increase of the rate of fire. At the
+same time a shield was applied to the gun, for the protection of the
+detachment. This advantage is solely the result of the non-recoiling
+carriage. The gunners had formerly to stand clear of the recoiling gun,
+and a shield was therefore of but slight value.
+
+17. _Time Shrapnel._--The power of modern artillery owes even more to
+the improvement of the projectile than to that of the gun (see
+AMMUNITION). The French, always in the forefront of artillery progress,
+were the first nation to realize the new significance of the time-fuze
+and the shrapnel shell. These had been in existence for many years; to
+the British army are due both the invention and the development of the
+shrapnel, which made its first appearance in European warfare at Vimeira
+in 1808. But, up to the introduction of rifled pieces, the Napoleonic
+case-shot attack was universally and justly considered the best method
+of fighting, and in the transition stage of the _matériel_ many soldiers
+continued to put faith in the old method,--hence the Prussian artillery
+in 1866 had many smooth-bore batteries in the field,--and between 1860
+and 1870 gunners, now convinced of the superiority of the new
+equipments, undoubtedly sought to turn to account the minute accuracy of
+the rifled weapons in unnecessarily fine shooting. Thus, in 1870 the
+French time-fuze was only graduated for two ranges, and the Germans used
+percussion fuzes only. But this phase has passed, and General Langlois
+has summarized the tactics of the newest field artillery in one phrase:
+"It results in transferring to 3000 yds. the point-blank and case-shot
+fire of the smooth-bore." The meaning of this will be discussed later;
+here it will be sufficient to say that it is claimed for the modern gun
+and the modern shell that the Napoleonic method[1] of annihilating by a
+rain of bullets has been revived, with the distinction that the shell,
+and not the gun, fires the bullets close up to the enemy. In the Boer
+War, Pieter's Hill furnished a notable example of this "covering," as
+distinct from "preparation," of an assault by artillery fire.
+
+18. _Heavy Field, Siege and Garrison Artillery._--Amongst other results
+of this war was a recrudescence of the idea of "dispersion." This will
+be noticed later; the more material result of the Boer War, and of the
+generally increasing specialization in the various functions of the
+artillery arm, has been the reintroduction of heavy ordnance into field
+armies. The field howitzer reappeared some time before the outbreak of
+that war, and the British howitzers had illustrated their shell-power in
+the Sudan campaign of 1898. During the latter part of the 19th century,
+siege and fortress artillery underwent a development hardly less
+remarkable than that of field artillery in the same time. Rifled guns,
+"long" and "short" for direct and curved fire, formed the siege
+artillery of the Germans in 1870-71, and with the reduction of the
+old-fashioned fortresses of France began a new era in siegecraft (see
+FORTIFICATION AND SIEGECRAFT). At the present time howitzers[2] (B.L.
+rifled) are the principal siege weapons, while heavy direct-fire guns
+(see ORDNANCE _passim_) still retain a part of the work formerly
+assigned to the artillery of the attack. For an account of a siege with
+modern artillery see Macalik and Länger, _Kampf um eine Festung_, which
+describes an imaginary siege of Königgrätz. On the whole, it may be said
+that modern artillery has caused a revolution in methods of
+fortification and siegecraft, which is little less far-reaching than the
+original change from the trébuchet to the bombard.
+
+ORGANIZATION
+
+19. _Field Artillery Organization._--A _battery_ of field artillery
+comprises three elements, viz. _matériel_,--guns, carriages, ammunition
+and stores; _personnel_,--officers, non-commissioned officers, gunners,
+drivers and artificers; and _transport_,--almost invariably horses,
+though other animals, and also motor and mechanical transport, are used
+under special circumstances. As for the _matériel_, the guns used by
+field artillery in almost all countries are quick-firers, throwing
+shells of 13 to 18 pounds; details of these will be found in the article
+ORDNANCE. The number of guns in a battery varies in different countries
+between four and eight; by far the most usual number is six. With the
+introduction of the quick-firing gun, the tendency towards small
+batteries (of four guns) has become very pronounced, the ruling motives
+being (a) better control of fire in action, and (b) more horses
+available to draw the increased number of ammunition wagons required.
+"Mixed" batteries of guns and howitzers were formerly employed on
+occasion, and were supposed to be adapted to every kind of work.
+However, the difference between the gun and the howitzer was so great
+that at all times one part of the armament was idle, while the general
+increase in the artillery arm has permitted batteries and brigades of
+howitzers to be formed, separately, as required. Machine guns (q.v.) are
+not treated in Great Britain as being artillery weapons, though abroad
+they are often organized in batteries. During, and subsequent to the
+Boer War, heavier machine guns, called pompoms, came into use. The
+rocket (q.v.), formerly a common weapon of the artillery, is now used,
+if at all, only for mountain and forest warfare against savages.
+
+20. _Ammunition._--The vehicles of a battery include (besides guns and
+limbers) ammunition wagons, store and provision carts or wagons and
+forage wagons. On the amount of ammunition that should be carried with a
+field battery there was formerly a considerable diversity of opinion.
+The greater the amount a battery carries with it, the more independent
+it is; on the other hand, every additional wagon makes the battery more
+cumbrous and, by lengthening out the column, keeps back the combatant
+troops marching in rear. But since the introduction of the Q.F. gun it
+has been universally recognized that the gun must have a very liberal
+supply of ammunition present with it in action, and the old standard
+allowance of one wagon per gun has been increased to that of two and
+even three. Formerly batteries were further hampered by having to carry
+the reserve of small-arm ammunition for infantry and cavalry. But the
+greater distances of modern warfare accentuate the difficulties of such
+a system, and the reserve ammunition for all arms is now carried in
+special "ammunition columns" (see AMMUNITION), the _personnel_ and
+transport of which is furnished by the artillery.
+
+21. _Interior Economy._--The organization and interior economy of a
+battery is much the same in all field artillery. In England the command
+is held by a major, the second in command is a captain. The battery is
+divided into three "sections" of two guns each, each under a subaltern
+officer, who is responsible for everything connected with his
+section--men, horses, guns, carriages, ammunition and stores. Each
+section again consists of two sub-sections, each comprising one gun and
+its wagons, men and horses, and at the head of each is the "No. 1" of
+the gun detachment--usually a sergeant--who is immediately responsible
+to the section commander for his sub-section.
+
+The No. 1 rides with the gun, there is also another mounted
+non-commissioned officer who rides with the first wagon, and the gunners
+are seated on the gun-carriage, wagon and limbers. The increased number
+of wagons now accompanying the gun has, however, given more seating
+accommodation to the detachment, and this distribution has in some cases
+been altered. The three drivers ride the near horses of their respective
+pairs, each gun and each wagon being drawn by six horses. On the march,
+the gun is attached to the limber, a two-wheeled carriage drawn by the
+gun team; the wagon consists likewise of a "body" and a limber. A
+battery has also a number of non-combatant carriages, such as forge and
+baggage wagons. In addition to the gunners and drivers, there are men
+specially trained in range-taking, signalling, &c., in all batteries.
+
+22. _Special Natures of Field Artillery._--_Horse Artillery_ differs
+from field in that the whole gun detachment is mounted, and the gun and
+wagon therefore are freed from the load of men and their equipment. The
+organization of a battery of horse artillery differs but slightly from
+that of a field battery; it is somewhat stronger in rank and file, as
+horse-holders have to be provided for the gunners in action. Horse
+artillery is often lightened, moreover, by sacrificing power (see
+ORDNANCE). The essential feature of _Mountain Artillery_ in general is
+the carrying of the whole equipment on the backs of mules or other
+animals. The total weight is usually distributed in four or five
+mule-loads. For action the loads are lifted off the saddles and
+"assembled," and the time required to do this is, in well-trained
+batteries, only one minute. For the technical questions connected with
+the gun and its carriage, see ORDNANCE. The weight of a shell in a
+mountain gun rarely exceeds 12 lb., and is usually less. In most armies
+the _field howitzer_ has, after an eclipse of many years, reasserted its
+place. The weapons used are B.L. or Q.F. howitzers on field carriages;
+the calibre varies from about 4 to 5 in. In Great Britain the field
+howitzer batteries are organized as, and form part of, the Royal Field
+Artillery, two batteries of six howitzers each forming a brigade.
+
+23. _Heavy Ordnance._--_Heavy Field Artillery_, officially defined as
+"all artillery equipped with mobile guns of 4-in. calibre and upwards,"
+is usually composed, in Great Britain, of 5-in. or 4.7-in. Q.F. guns on
+field carriages. 6-in. Q.F. guns have also been used. A battery (4 guns)
+is attached to the divisional artillery of each division, a company of
+the Royal Garrison Artillery furnishing the _personnel_. The four guns
+are divided into two sections, each section under an officer and each
+subsection under a non-commissioned officer, as in the horse and field
+batteries. _Siege_ and _garrison artillery_ have not usually the
+complete and permanent organization that distinguishes field artillery.
+For siege trains the _matériel_ is usually kept in store, and the
+_personnel_ and transport are supplied from other sources according to
+requirement. In garrison artillery, the guns mounted in fortresses and
+batteries, or stored in arsenals for the purpose, furnish the
+_matériel_, and the companies of garrison artillery the _personnel_. In
+Great Britain, the Royal Garrison Artillery finds the mountain batteries
+and the heavy field artillery in addition to its own units. The siege
+trains are, as has been said, organized _ad hoc_ on each particular
+occasion (see FORTIFICATION AND SIEGECRAFT). In Great Britain, the guns
+and howitzers manned by the R.G.A. would be 6-in. and 8-in. howitzers,
+4.7-in. and 6-in. guns, and still heavier howitzers, as well as the
+field and heavy batteries belonging to the divisions making the siege.
+
+24. _Higher Organization of Artillery._--The higher units, in almost
+every country except Great Britain, are the regiment, and, sometimes,
+the brigade of two or more regiments. These units are distributed to
+army corps, divisions and districts, in the same way as units of other
+arms (see ARMY). In Great Britain the Royal Regiment of Artillery still
+comprises the whole _personnel_ of the arm, being divided into the Royal
+Horse, Royal Field and Royal Garrison Artillery; to each branch Special
+Reserve and Territorial artillery are affiliated. Over and above the
+military command of these higher units, provision is usually made for
+technical control of the _matériel_, and a variety of training and
+experimental establishments, such as schools of gunnery, are maintained
+in all countries. The more special unit of organization in mobile
+artillery is the _brigade_, formerly called brigade-division (German,
+_Abteilung_; French _groupe_). The brigade is in Great Britain the
+administrative and tactical unit. Mountain artillery is not organized in
+brigades in the British empire. The unit consists, in the case of guns,
+of three batteries (18 guns, heavy artillery 12), in the case of field
+howitzers of two batteries (12 howitzers), and in the horse artillery of
+two batteries (12 guns), and is commanded by a lieutenant-colonel. To
+each brigade is allotted an ammunition column. The necessity for such a
+grouping of batteries will be apparent if the reader notes that 54 field
+guns, 12 howitzers and 4 heavy field guns form the artillery of a single
+British division of about 15,000 combatants.
+
+25. _Grouping of the Artillery._--The "corps artillery" (formerly the
+"reserve artillery") now consists only of the howitzer and heavy
+brigades, with a brigade of horse artillery. The latter is held at the
+disposal of the corps commander for the swift reinforcement of a
+threatened point; the howitzers and the heavy guns have, of course,
+functions widely different from those of the mass of guns. As the field
+artillery is required to come into action at the earliest possible
+moment, it has now been distributed amongst the infantry divisions, and
+marches almost at the head of the various combatant columns, instead of
+being relegated perhaps to the tail of the centre column. The
+redistribution of the British army (1907) on a divisional basis is a
+remarkable example of this; even the special natures of artillery
+(except horse artillery) are distributed amongst the divisions. In
+Germany two "regiments" (each of 2 _Abteilungen_ = 6 batteries) form a
+brigade, under an artillery general in each division who thus disposes
+of 72 field guns, and the howitzers, with such horse artillery batteries
+as remain over after the cavalry has been supplied, still form a corps
+or reserve artillery. In 1903 the French, after long hesitation,
+assigned the whole of the field artillery to the various divisions, but
+later (for reasons stated in the article TACTICS) arranged to
+reconstitute the old-fashioned corps artillery in war. (See also ARMY, §
+49).
+
+TACTICAL WORK
+
+26. _General Characteristics of Field Artillery Action._--The duty of
+field artillery in action is to fire with the greatest effect on the
+target which is for the moment of the greatest tactical importance. This
+definition of field artillery tactics brings the student at once to
+questions of combined tactics, for which consult the article TACTICS.
+The purpose of the present article is to indicate the methods employed
+by the gunners to give effect to their fire at the targets mentioned.
+For this purpose the artillery has at its disposal two types of
+projectile, common (or rather, high explosive) shell and shrapnel, and
+two fuzes, "time" and "percussion" (see AMMUNITION). The actual process
+of coming into action may be described in a few words. The gun is, at or
+near its position in action, "unlimbered" and the gun limber and team
+sent back under cover. Ammunition for the gun is first taken from the
+wagon that accompanies it, as it is very desirable to keep the limbers
+full as long as possible, in case of emergencies such as that of a
+temporary separation from the wagon. Limber supply is, however, allowed
+in certain circumstances. The wagon is now placed as a rule by the side
+of the gun, an arrangement which immensely simplifies the supply of
+ammunition, this being done under cover of the armour on the wagon and
+of the gun-shield and also without fatigue to the men. The older method
+of placing the wagon at some distance behind the gun is still
+occasionally used, especially in the case of unshielded equipments. No
+horses are allowed, in any case, to be actually with the line of guns.
+According to the British _Field Artillery Training_ of 1906, a battery
+in action would be thus distributed: first, the "fighting battery"
+consisting of the six guns, each with its wagon alongside, and the
+limbers of the two flank guns; then, under cover in rear, the "first
+line of wagons" comprising the teams of the fighting battery, the four
+remaining gun limbers, and six more wagons. The non-combatant vehicles
+form the "second line of wagons."
+
+27. _Occupation of a Position._--This depends primarily upon
+considerations of tactics, for the accurate co-operation of the guns is
+the first essential to success in the general task. In details, however,
+the choice of position varies to some extent with the nature of the
+equipment: for instance, an elevated position is better adapted than a
+low one for high velocity guns firing over the heads of their own
+infantry, and again, the "spade" with which nearly all equipments are
+furnished (see ORDNANCE) should have soil in which it can find a hold.
+Cover for the gun and its detachment cannot well be obtained from the
+configuration of the ground, because, if the gun can shoot over the
+covering mass of earth, the hostile shells can of course do likewise.
+Sufficient protection is given by the shield, and thus "cover" for
+field-guns simply means concealment. Cover for the "first line of
+wagons" is, however, a very serious consideration. As to concealment, it
+is stated that "the broad white flash from a gun firing smokeless powder
+is visible" to an enemy "unless the muzzle is at least 10 ft. below the
+covering crest" (Bethell, _Modern Guns and Gunnery_, 1907, p. 147).
+Concealment therefore, means only the skilful use of ground in such a
+way as to make the enemy's ranging difficult. This frequently involves
+the use of retired positions, on reverse slopes, in low ground, &c., and
+in all modern artillery the greatest stress is laid on practice in
+firing by indirect means. Controversy has, however, arisen as to whether
+inability to see the foreground is not a drawback so serious that direct
+fire from a crest position, in spite of its exposure, must be taken as
+the normal method. The latter is of course immensely facilitated by the
+introduction of the shield. A great advantage of retired positions is
+that, provided unity of direction is kept, an overwhelming artillery
+surprise (see _F.A. Training_, 1906, p. 225) is carried out more easily
+than from a visible position. The extent of _front_ of a battery in
+action is governed by the rule that no two gun detachments should be
+exposed to being hit by the bullets of one shell, and also by the
+necessity of having as many guns as possible at work. These two
+conditions are met by the adoption of a 20-yards interval between the
+muzzles of the guns. At the present time the gun and its wagon are
+placed as close together as possible, to obtain the full advantage of
+the armoured equipment. The _shield_, behind which the detachments
+remain at all times covered from rifle (except at very short range) and
+shrapnel bullets,[3] enables the artillery commander to handle his
+batteries far more boldly than formerly was the case. General Langlois
+says "the shield-protected carriage is the corollary to the quick-firing
+gun." Armour on the wagon, enabling ammunition supply as well as the
+service of the gun, to be carried on under cover, soon followed the
+introduction of the shield. The disadvantage of extra weight and
+consequently increased difficulty of "man-handling" the equipment is
+held to be of far less importance than the advantages obtained by the
+use of armour.
+
+28. _Laying._--"Elevation" may be defined as the vertical inclination of
+the gun, "direction" as the horizontal inclination to the right or left,
+necessary to direct the path of the projectile to the object aimed at.
+"Laying" the gun, in the case of most modern equipments, is divided, by
+means of the device called the independent line of sight (see ORDNANCE),
+into two processes, performed simultaneously by different men, the
+adjustment of the sights and that of the gun. The first is the act of
+finding the "line of sight," or line joining the sights and the point
+aimed at; for this the equipment has to be "traversed" right or left so
+as to point in the proper direction, and also adjusted in the vertical
+plane. The simplest form of laying for direction, or "line," is called
+the "direct" method. If the point aimed at is the target, and it can be
+seen by the layer, he has merely to look over the "open" sights. But the
+point aimed at is rarely the target itself. In war, the target, even if
+visible, is often indistinct, and in this case, as also when the guns
+are under cover or engaging a target under cover, an "aiming point" or
+"auxiliary mark," a conspicuous point quite apart and distinct from the
+target, has to be employed ("indirect" method). In the Russo-Japanese
+War the sun was sometimes used as an aiming point. When the guns are
+behind cover and the foreground cannot be seen, an artificial aiming
+point is often made by placing a line of "aiming posts" in the ground.
+If an aiming point can be found which is in line with the target, as
+would be the case when aiming posts are laid out, the laying is simple,
+but it is as often as not out of the line. Finding the "line" in this
+case involves the calculation, from a distant observing point, of the
+angle at which the guns must be laid in order that, when the sights are
+directed upon the aiming point, the shell will strike the target. It is
+further necessary to find the "angle of sight" or inclination of the
+line of sight to the horizontal plane. If aim be taken over the open
+sights at the target, the line of sight naturally passes through the
+target, but in any other case it may be above or below it. Then the
+point where the projectile will meet the line of sight, which should
+coincide with the target, is beyond it if the line of sight is below or
+angle of sight is too small, and short of it if the line of sight is too
+high--that is, range and fuze will be wrong. The process of indirect
+laying for elevation therefore is, first, the measurement of the angle
+of sight, and secondly, the setting of the sights to that angle by means
+of a clinometer; this is called clinometer laying. In all cases the
+actual elevation of the gun to enable the shell to strike the target is
+a purely mechanical adjustment, performed independently; the gun is
+moved relatively to the sights, which have been previously set as
+described. Frequently the battery commander directs the guns from a
+point at some distance, communication being maintained by signallers or
+by field telephone. This is the normal procedure when the guns are
+firing from cover. Instruments of precision and careful calculations
+are, of course, required to fight a battery in this manner, many
+allowances having to be made for the differences in height, distance and
+angle between the position of the battery commander and that of the
+guns.
+
+29. _Ranging_[4] (except on the French system alluded to below) is,
+first, finding the range (i.e. elevation required), and secondly,
+correcting the standard length of fuze for that range in accordance with
+the circumstances of each case. To find the elevation required, it is
+necessary to observe the bursts of shells "on graze" with reference to
+the target. The battery commander orders two elevations differing by 300
+yds., e.g. "2500, 2800," and tells off a "ranging section" of two guns.
+These proceed to fire percussion shrapnel at the two different
+elevations, in order to obtain bursts "over" (+) and "short" (-). When
+it is certain that this "long bracket" is obtained, the "100 yds.
+bracket" is found, the elevations in the given case being, perhaps, 2600
+and 2700 yds. "Verifying" rounds are then fired, to make certain of the
+100 yds. bracket. The old "short bracket" (50 yds.) is not now required
+except at standing targets. Circumstances may, of course, shorten the
+process; for instance, a hit upon the target itself could be "verified"
+at once. The determination of the fuze (by time shrapnel) follows. The
+fuze has a standard length for the ascertained range, but the proper
+correction of this standard length to suit the atmospheric conditions
+has to be made. The commander has therefore already given out a series
+of corrector[5] lengths, his object being to secure bursts both in air
+and on graze. When he is finally satisfied he opens fire "for effect."
+
+30. An example of the ordinary method of ranging, adapted from _Field
+Artillery Training_, 1906, is given below.
+
+  Battery commander gives target, &c., and orders: "Right section
+  ranging section; remainder corrector 150 increase 10, 4400-4700," for
+  the long bracket.
+
+  No. 1 gun fires, elevation 4400 yds., P.S., round observed -
+  No. 2  "    "        "     4700  "      "     "       "    +
+                B.C. orders "4500-4600."
+  No. 1 gun fires, elevation 4500 yds., P.S., round observed -
+  No. 2  "    "        "     4600  "      "     "       "    +
+
+  The 100 yds. bracket appears to be 4500-4600. B.C. orders: "Remainder
+  4500 time shrapnel," and gives the ranging section 4500-4600 to
+  "verify." Guns 3, 4, 5, 6 set fuzes for 4500 with correctors 150, 160,
+  170, 180.
+
+  No. 1 gun fires, elevation 4500 yds., P.S., round observed -
+  No. 2  "    "        "     4600  "      "     "       "    +
+     B.C. orders: "Remainder 4500, one round gun fire, 3 seconds."
+             No. 3 elevation 4500 yds. T.S. corrector 150 air
+             No. 4     "      "    "    "       "     160 air
+             No. 5     "      "    "    "       "     160 graze
+             No. 6     "      "    "    "       "     180   "
+
+  B.C. selects corrector 160 and goes to "section fire."
+
+  The battery now begins to fire "for effect."
+
+             No. 1 elevation 4500 yds. T.S. corrector 160 air
+             No. 3     "      "         "      "       "   "
+
+  followed by Nos. 5, 2, 4 and 6.
+
+There is another method of ranging, viz. with time shrapnel only. In
+this the principle is that several shells, fired with the same corrector
+setting, but at different elevations, will burst in air at different
+points along one line. Bursts high in the air cannot be judged, and it
+is therefore necessary to bring down the line of bursts to the target,
+so that the bursts in air appear directly in front or directly in rear
+of it. Rounds are therefore fired (in pairs owing to possible
+imperfections in the fuzes) to ascertain the corrector which gives the
+best line of observation. This found, the target is bracketed by bursts
+low in the air observed + and -, as in the ordinary method with
+percussion shrapnel.
+
+The operations of finding the "line of fire" and the proper elevation
+may be combined, as the shells in ranging can be made to "bracket" for
+direction as well as for elevation. The line can be changed towards a
+new target in any kind of direct and indirect laying, in the latter case
+by observing the angle made with it by the original line of fire and
+giving deflection to the guns accordingly. Further, the fire of several
+dispersed batteries may be concentrated, distributed, or "switched" from
+one target to another on a wide front, at the will of the commander.
+
+31. _Observation of Fire_, on the accuracy of which depends the success
+of ranging, may be done either by the battery commander himself or by a
+special "observing" party. In either case the shooting is carefully
+observed throughout, and corrections ordered at any time, whether during
+the process of ranging or during fire for effect. The difficulties of
+observation vary considerably with the ground, &c., for instance, the
+light may be so bad that the target can hardly be seen, or again, if
+there be a hollow in front of the target, a shell may burst in it so far
+below that the smoke appears thin, the round being then judged "over"
+instead of "short." On the other hand, a hollow behind the target may
+cause a round to be lost altogether. Ranging with time shrapnel has the
+merit of avoiding most of these "traps." The "French system of fire
+discipline," referred to below, has this method as the usual procedure.
+
+32. _Fire._--Field Artillery ranges are classed in the British service
+as: "distant," 6000 to 4500 yds.; "long," 4500 to 3500; "effective,"
+3500 to 2000: and "decisive," 2000 and under. The actual methods of
+fire employed are matters of detail; it will be sufficient to say that
+"section fire," in which the two guns of a section are fired alternately
+at a named interval, usually 30 seconds, and "rapid fire," in which two,
+three or more rounds as ordered are fired by each gun as quickly as
+possible, are the normal methods. Each battery usually engages a portion
+of the objective equal in length to its own front, owing to the spread
+of the cone of shrapnel bullets (see below). The fire is, of course,
+almost always frontal, though enfilade and oblique fire, when
+opportunities occur for their employment, are more deadly than ever,
+because of the depth of the cone. As for the general conduct of an
+artillery action, accurate fire for effect, at a medium rate, is used in
+most armies, but in the French and, since 1906, in the British services
+a new method has arisen, in consequence of the introduction of the
+modern quick-firer and the perfection of the time shrapnel. The French
+battery (1900 Q.F. equipment) consists of four guns and twelve wagons.
+The gun is shielded, as also are the wagons; the high velocity and flat
+trajectory give a maximum depth to the cone of shrapnel bullets. In the
+hope of obtaining a rapid and overwhelming fire, the French artillery
+ranges only for a long bracket, and once this bracket is found, the
+ground within its limits is swept from end to end in a burst of rapid
+fire. This is termed a _rafale_ (squall or gust), and technically
+signifies "a series of eight rounds per gun, each two rounds being laid
+with 100 metres more elevation than the last pair, the whole fired off
+as rapidly as possible." The cone of time shrapnel being assumed as 300
+yds. (or metres), it is clear that four pairs of rounds, bursting, say,
+at 1000, 1100, 1200 and 1300 yds. (adding, for the last, 300 yds. for
+its forward effect), sweep the whole ground between 1000 and 1600 yds.
+from the guns. The maximum depth would, of course, be obtained with four
+elevations differing by the depth of the cone; in such a case the space
+from 1000 to 2200 yds. would be covered, though much less effectively,
+since the same number of bullets are distributed over a larger area. On
+the other hand, the _rafale_, at a minimum, covers 300 yds., all the
+guns in this case being laid at the same elevation throughout. Here the
+maximum number of bullets is obtained for every square yard attacked.
+Between these extremes, a skilful artillery officer can vary the
+_rafale_ to the needs of each several case almost indefinitely.
+"Sweeping" fire is a series of three rounds per gun, one in the original
+line, one to the right and one to the left of it; this is significantly
+called "mowing" (_tir fauchant_). A further refinement in both services
+is the combined "search and sweep." Forty-eight rounds, constituting in
+the French army a series of this last kind, can, it is said, be fired in
+1 minute and 15 seconds, without setting fuzes beforehand, to cover an
+area of 600 × 200 metres. The result of such a series, worked out
+mathematically, is that 19% of all men and 75% of all horses, in the
+area and not under cover, should be hit by separate bullets (Bethell,
+_Modern Guns and Gunnery_, 1907). Even allowing a liberal deduction for
+imperfect distribution of bullets, we may feel certain that nothing but
+shielded guns could live long in the fire-swept zone. This is, of
+course, a rate of fire which could not be kept up for any length of time
+by the same battery. A French battery, firing at the maximum rate, would
+expend every available round in 13 minutes.
+
+33. _Projectiles Employed._--"Time shrapnel," say the German Field
+Artillery regulations, "is the projectile _par excellence_ ... against
+all animate targets which are not under cover." It achieves its purpose,
+as has been said, by sending a shower of bullets over an area of ground
+in such quantity that this is swept from end to end. These bullets are
+propelled, in a cone, forward from the point of burst of the shell, and
+the effective depth of this cone at medium ranges with a fairly high
+velocity gun may be taken at 300 yds. Further, the corrector enables the
+artillery commander to burst his shells at any desired point; for
+example, a long fuze may be given, to burst them close up when firing
+upon a deep target (such as troops in several lines, one behind the
+other), and thereby to obtain the maximum searching effect, or to obtain
+direct hits on shielded guns, while a short corrector, bursting the
+shell well in front of the enemy, allows the maximum lateral spread of
+the bullets, and therefore sweeps the greatest front. The number of
+bullets in the shell is such that troops in the open under effective
+shrapnel fire must suffer very heavily, and may be almost annihilated.
+If the enemy is close behind good cover, the bullets, indeed, pass
+harmlessly overhead. This, however, leads to a very important fact, viz.
+that artillery can keep down the fire of hostile infantry, "blind" the
+enemy, in Langlois' phrase, by _pinning it down_ to cover. Under cover
+the men are safe, but if they raise their heads to take careful aim,
+they will almost certainly be hit. Their fire under such conditions is
+therefore unaimed and wild at the best, and may be wholly ineffective.
+_Common_ shell and _high-explosive_ shell (see AMMUNITION) belong to
+another class of projectile. The former is now not often used, but a
+certain proportion of H.E. shell is carried by the field artillery in
+many armies (see table in ORDNANCE: _Field Equipments_). This has a very
+violent local effect within a radius of 20 to 25 yds. of the point of
+burst (see AMMUNITION, fig. 10). It therefore covers far less ground
+than shrapnel, and is naturally used either (a) against troops under
+substantial cover or (b) to wreck cover and buildings. In the former
+case the shell is supposed to send a rain of splinters vertically
+downwards. This it will do, provided the fuze is minutely accurate, and
+a burst is thus obtained exactly over the heads of the enemy, but this
+is now generally held to be unlikely, and in so far as effect against
+_personnel_ is concerned the H.E. shell is not thought to be of much
+value. Indeed, in the British and several other services, no H.E. shells
+at all are carried by field batteries, reliance being placed upon
+percussion shrapnel in attacking localities, buildings, &c., and for
+ranging. Experiments have been made towards producing a "H.E. shrapnel,"
+which combines the characteristics of both types (see, for a
+description, AMMUNITION). For the projectiles used in attacking shielded
+guns, see section on "field howitzers" below. _Case shot_ is now rarely
+employed. In the war of 1870-71 Prince Kraft von Hohenlohe-Ingelfingen,
+who commanded the Prussian Guard artillery, reported the expenditure of
+only one round of case, and even that was merely "broken in transport."
+The close-quarters projectile of to-day is more usually shrapnel with
+the fuze set at zero. Langlois, however, calls case shot "the true
+projectile for critical moments, which nothing can replace."
+
+34. _Tactics of Field Artillery._--On the march, the position and
+movement of the guns are regulated by the necessity of coming quickly
+into action; the usual place for the arm is at or near the heads of the
+combatant columns, i.e. as far forward as is consistent with safety.
+Safety is further provided for by an "escort," or, if such be not
+detailed, by the nearest infantry or cavalry. In attack, the role of the
+field artillery is usually (1) to assist if necessary the advanced guard
+in the preliminary fighting--for this purpose a battery is usually
+assigned to that corps of troops, other batteries also being sent up to
+the front as required, (2) to prepare, and (3) to support or cover the
+infantry attack. "Preparation" consists chiefly in engaging and subduing
+the hostile artillery. This is often spoken of as the "artillery duel,"
+and is not a meaningless bombardment, but an essential preliminary to
+the advance. Massed guns with modern shrapnel would, if allowed to play
+freely upon the attack, infallibly stop, and probably annihilate, the
+troops making it. The task of the guns, then, is to destroy the opposing
+guns and artillerymen, a task which will engage almost all the resources
+of the assailant's artillery in the struggle for artillery superiority.
+Shielded guns, enhanced rate of fire, perfection in indirect laying
+apparatus, and many other factors, have modified the lessons of 1870,
+and complicated the work of achieving victory in the artillery duel so
+far that the simple "hard pounding" of former days has given way to a
+variety of expedients for inflicting the desired loss and damage, as to
+which opinions differ in and within every army. One point is, however,
+clear and meets with universal acceptance. "The whole object of the duel
+is to enable the artillery subsequently to devote all available
+resources to its principal task, which is the material and moral support
+of the infantry during each succeeding stage of the fight" (French
+regulations). One side must be victorious in the end, and when, and not
+until, the hostile artillery is beaten out of action, the victor has
+acquired the power of pressing home the attack. The British regulations
+(1906), indeed, deal with the steps to be taken when, though the
+artillery of the attack is beaten, the infantry advance is continued,
+but only so as to order the guns to "reopen at all costs," in other
+words, as a forlorn hope. The second part of the preparation, the
+gradual disintegration of the opposing line of infantry, has practically
+disappeared from the drill books. The next task of the guns, and that in
+which modern artillery asserts its power to the utmost, is the _support_
+of the infantry attack. The artillery and infantry co-operate, "the
+former by firing rapidly when they see their own infantry ... press
+forward, and the latter by making full use of the periods of intense
+artillery fire to gain ground" (British _F.A. Training_, 1906). Thus
+aided, the infantry closes in to decisive ranges, and as it gains ground
+to the front, every gun "must be at once turned upon the points selected
+... the most effective support afforded to the attacking infantry by the
+concentrated fire of guns and field howitzers. The former tie the
+defenders to their entrenchments (for retreat is practically impossible
+over ground swept by shrapnel bullets), distract their attention and
+tend to make them keep their heads down, while the shell from the field
+howitzers searches out the interior of the trenches, the reverse slopes
+of the position, and checks the movement of reinforcements towards the
+threatened point." In these words the British Field Artillery drill-book
+of 1902 summarizes the act of "covering" the infantry advance.
+Unofficial publications are still more emphatic. The advance of the
+infantry to decisive range would often be covered by a mass of one
+hundred or more field guns, firing shrapnel at the rate of ten rounds
+per gun per minute at the critical moment. Against such a storm of fire
+the defending infantry, even supposing that its own guns had refitted
+and were again in action, would be powerless. It is in recognition of
+the appalling power of field artillery (which has increased in a ratio
+out of all proportion to the improvements of modern rifles) that the
+French system has been elaborated to the perfection which it has now
+attained.
+
+With modern guns and modern tactics artillery almost invariably fires
+over the heads of its own infantry. The German regulations indeed say
+that it should be avoided as far as possible, but, as a matter of fact,
+if the numerous guns of a modern army (at Königgrätz there were 1550
+guns on the field, at Gravelotte 1252, at Mukden 3000) were to be given
+a clear front, there would be no room for deploying the infantry.
+Consequently the French regulations, in which the power of the artillery
+is given the greatest possible scope, say that "it almost always fires
+over the heads of its own infantry." With field guns and on level ground
+it is considered dangerous that infantry in front of the guns should be
+less than 600 yds. distant--not for fear of the shells striking the
+infantry, but because the fragments resulting from a "premature" burst
+are dangerous up to that distance. The question of distance is more
+important in connexion with the "covering" of the assault. Up to a
+point, the artillery enables the attacking infantry to advance with a
+minimum of loss and exhaustion, and thus to close with the enemy at
+least on equal terms, if not with a serious advantage, for the fire of
+the guns may shake, perhaps almost destroy the enemy's power of
+resistance. But when the infantry approaches the enemy the guns can no
+longer fire upon the latter's front line without risk of injuring their
+friends. All that they can do, when the opposing infantries can see the
+whites of each other's eyes, is to lengthen the fuze, raise the
+trajectory and sweep the ground where the enemy's supports are posted.
+Under these circumstances it is practically agreed that the risk should
+be taken without hesitation at so critical a moment as that of a
+decisive infantry assault which must be pushed home at whatever cost.
+"It will be better for the infantry to chance a few friendly shells than
+to be received at short range with a fresh outburst of hostile rifle
+fire" (Rouquerol, _Tactical Employment of Quick-firing Field
+Artillery_). Thus, the distance at which direct support ceases, formerly
+600 yds., has been diminished to 100, and even to 50 yds. Howitzers can,
+of course, maintain their fire almost up to the very last stage, and, in
+general, high-explosive shell, owing to its purely local effect, may be
+employed for some time after it has become unsafe to use shrapnel.
+
+35. Field artillery in _defence_, which would presumably be inferior to
+that of the attack, must, of course, act according to circumstances. We
+are here concerned not with the absolute strength or weakness of the
+passive defensive, which is a matter of tactics (q.v.), but with the
+tactical procedure of artillery, which, relatively to other methods, is
+held to offer the best chance of success, so far as success is
+attainable. On the defensive in a prepared position, which in European
+warfare at any rate will be an unusually favourable case for the
+defender--the guns have two functions, that of engaging and holding the
+hostile artillery, and that of meeting the infantry assault. The dilemma
+is this, that on the one hand a position in rear of the line of battle,
+with modern improvements in communicating and indirect laying apparatus,
+is well suited for engaging the hostile guns, but not for meeting the
+assault; and on the other, guns on the forward slope of the defender's
+ridge or hill can fire direct, but are quickly located and overwhelmed,
+for they can hardly remain silent while their own infantry bears the
+fire of the assailant's shrapnel. Thus the defender's guns would, as a
+rule, have to be divided. One portion would seek to fight from rearward
+concealed positions, and use every device to delay the victory of the
+enemy's guns and the development of the battle until it is too late in
+the day for a serious infantry attack. Further, the enemy's mistakes and
+the "fortune of war" may give opportunities of inflicting severe losses;
+such opportunities have always occurred and will do so again. In the
+possible (though very far from probable) case of the defender not merely
+baffling, but crushing his opponent in the artillery duel, he may, if he
+so desires, himself assume the role of assailant, and at any rate he
+places a veto on the enemy's attack.
+
+The portion told off to meet the infantry assault would be entrenched on
+the forward slope and would take no part in the artillery duel. Very
+exceptionally, this advanced artillery might fire upon favourable
+targets, but its paramount duty is to remain intact for the decisive
+moment. Here again the defender is confronted with grave difficulties.
+It is true that his advanced batteries may be of the greatest possible
+assistance at the crisis of the infantry assault, yet even so the
+covering fire of the hostile guns, as soon as the hostile infantry had
+found them their target, may be absolutely overwhelming; moreover, once
+the fight has begun, the guns cannot be withdrawn, nor can their
+positions easily be modified to meet unexpected developments. The
+proportion of the whole artillery force which should be committed to the
+forward position is disputed. Colonel Bethell (_Journal Royal
+Artillery_, vol. xxxiii. p. 67) holds that all the mountain guns, and
+two-thirds of the field guns, should be in the forward, all the
+howitzers and heavy guns and one-third of the field guns in the retired
+position. But in view of the facts that if once the advanced guns are
+submerged in the tide of the enemy's assault, they will be
+irrecoverable, and that a modern Q.F. gun, with plenty of ammunition at
+hand, may use "rapid fire" freely, artillery opinion, as a whole, is in
+favour of having fewer guns and an abnormal ammunition supply in the
+forward entrenchments, and the bulk of the artillery (with the
+ammunition columns at hand) in rear. But the purely passive defensive is
+usually but a preliminary to an active counter-stroke. This
+counter-attack would naturally be supported to the utmost by the
+offensive tactics of the artillery, which might thus at the end of a
+battle achieve far greater results than it could have done at the
+beginning of the day. In _pursuit_, it is universally agreed that the
+action of the artillery may be bold to the verge of rashness. The
+employment of field artillery in _advanced_ and _rear guard actions_
+varies almost indefinitely according to circumstances; with _outposts_,
+guns would only be employed exceptionally.
+
+36. _Marches._--The importance of having the artillery well up at the
+front of a marching column is perhaps best expressed in the phrase of
+Prince Kraft von Hohenlohe-Ingelfingen, "save hours and not minutes."
+The Germans in 1870 so far acted up to the principle that Prince
+Hohenlohe, when asked, at the beginning of the battle of Sedan, for a
+couple of guns, was able to reply, "You shall have ninety" (see, for
+details of the march of the Guard artillery, his _Letters on Artillery_,
+6th letter). The German regulations for field service say, very plainly,
+"the horses have not done their work until they have got the guns into
+action, even at the cost of utter exhaustion." A notable march was made
+by the 62nd battery, R.F.A., in the South African War. On the day of the
+battle of Modder River, the battery marched 32 m. (mostly through deep
+sand) arriving in time to take part in the action. Such forced marches,
+if rare, are nowadays expected to be within the power of field artillery
+to accomplish. Horse artillery is capable of more than this, and as to
+pace, manoeuvring at the cavalry rate. Heavy guns are the least mobile,
+and would rarely be able to keep pace with infantry in a forced march.
+Field artillery walks 4, trots 9, and gallops at the rate of 15 m. an
+hour. A fair marching pace (trot and walk) is 4 m. an hour for field, 5
+for horse batteries. A march of 14 m. would, according to the German
+regulations, be performed by
+
+  a field battery in 5 hours,
+  a horse battery in 4 hours,
+
+under favourable circumstances (Bronsart von Schellendorf).
+
+37. _Power and Mobility._--It will have been made clear that every gun
+represents a compromise between these two requirements, and that each
+type of artillery has been evolved in accordance with the relative
+requirements of these conditions in respect of the work to be performed.
+The classification which has been followed in this article represents
+the practically unanimous decision of every important military state.
+Still, there has always been controversy between the individual
+adherents of each side, and the Boer War experiences raised the question
+as to whether field artillery, as the term is usually understood, should
+not be abolished, with a view to having only heavy guns and horse
+artillery with a field army.
+
+38. _Concentration and Dispersion._--The use of their artillery made by
+the Boers in the South African War led to the revival of the idea of
+"dispersing" guns instead of "concentrating" them. It would be more
+accurate to say that military thinkers had, after the introduction of
+the quick-firing gun, challenged every received principle, and amongst
+others the employment of artillery in masses, which, as a result of the
+war of 1870, "had become almost an article of faith." The idea was to
+make use of the increased power of the guns to gain equally great
+results with the employment of less material than formerly. Thus the
+dispersion of guns is bound up with the passive defensive. The first
+editions of the British _Field Artillery Training_ and _Combined
+Training_, strongly influenced as they were by South African experience,
+did not legislate, even in dealing with defence, for "dispersion" in the
+Boer manner, but only for adaptability (see _Field Artillery Training_,
+1902, p. 15). In the Boer War, whilst the Boers nearly always scattered
+their guns, almost the only occasion upon which their artillery played a
+decisive part was at Spion Kop, where its fire was concentrated upon the
+point of assault. At Pieter's Hill, the fire of seventy guns covered the
+British infantry assault in the Napoleonic manner. On the whole it may
+be accepted as a general truth that guns are safe, and may be locally
+effective, when dispersed, but that they cannot produce decisive effect
+except when used in masses. It must, however, be clearly understood that
+a "mass" in this sense means a large number of guns, under one command,
+and susceptible of being handled as a unit, so far as the direction and
+effectiveness of their fire is concerned. _This being secured_, and on
+that condition only, it does not matter whether the actual gun positions
+are scattered over a few square miles, or are closed in one long line
+and using direct fire--they are still a mass, and capable of acting
+effectively as such. While there are undoubtedly grave dangers in using
+the indirect method too freely, technical improvements in laying,
+telephones, &c., have had much to do with the possibility, at any rate
+under favourable circumstances, of a concentration which may be
+described as one of shells rather than of guns, and the reader is
+reminded in this connexion that the work formerly done by the gun is now
+performed by the shell.
+
+39. _Horse Artillery_ is to be regarded as field artillery of great
+mobility and manoeuvring power. Its value may be said, in general terms,
+to lie in augmenting the weak fire-power of the mounted troops, and in
+facilitating their work as much as possible. Thus, when cavalry meets
+serious opposition in reconnoitring, the guns may be able to break down
+the enemy's resistance without calling for assistance from the main body
+of the cavalry, and, in the action of cavalry _versus_ cavalry, the
+"paramount duty of the horse artillery is to shatter the enemy's
+cavalry" (_Field Artillery Training_, 1906), i.e. to "prepare" the
+success of the cavalry charge by breaking up as far as possible the
+enemy's power of meeting it. In the cavalry battle, covering fire is
+practically impossible, owing both to the short distances separating the
+combatants and to the rapidity of their movements, but steps are taken
+"to enable all the guns to bear on the enemy's cavalry at the points of
+collision." The ideal position for the horse artillery is out to a
+flank, the cavalry manoeuvring so as to draw the enemy's cavalry under
+enfilade fire, and at the same time to force them to mask the fire of
+their own horse artillery. Another and a most important function of the
+horse batteries is to reinforce, with the greatest possible speed, any
+point in the general line of battle which is in need of artillery
+support. For this reason the corps artillery generally includes horse
+batteries.
+
+40. _Field Howitzers_ are somewhat less mobile than field guns; they
+have, however, far greater shell power. The special features of the
+weapon are, of course, the product of the special requirements which
+have called it into existence. These are, briefly (a) the necessity of
+being able to "search" the interior of earthworks, a task which, as has
+been said, is beyond the power of high-velocity field guns, and (b)
+demolition work, which is equally beyond the power of even a H.E. shell
+of field-gun calibre. The first of these conditions implies a steep
+"angle of descent," which again implies a high angle of elevation. The
+second requires great shell power but does not call for high velocity.
+The howitzer, therefore, is a short gun, firing a heavy shell at high
+angles of elevation. Howitzers almost always are laid by the indirect
+method of fire from under cover, since it is clear that, with high
+angles of elevation, the gun may be brought close up to the covering
+mass, and still fire over it. Ranging must be done very accurately and
+yet economically, as but few of their heavy shells can be carried in the
+wagons and limbers, and the shells descending upon an enemy almost
+vertically lose the long sweeping effect of the field shrapnel which
+neutralizes minor errors of ranging. The projectiles employed are high
+explosive and shrapnel, the latter for use against _personnel_ under
+cover, the former for demolition of field works, casemates or buildings.
+It is very generally held that howitzer time shrapnel is the best form
+of projectile for the attack of shielded guns. Here it may be said that
+no completely satisfactory method of dealing with these has yet been
+discovered. The best procedure with field guns is said to be lengthening
+the fuze to obtain a high percentage of bursts on graze. A shell
+striking the face of the shield will penetrate it, and should kill some
+at least of the gun detachment behind. The high-explosive shrapnel
+alluded to above is designed primarily for the attack of shielded guns.
+
+41. _Heavy Field Artillery_, alternatively called _Artillery of
+Position_, as has been said, includes all guns of 4-in. calibre and
+upwards, mounted on travelling carriages. In South Africa, where firm
+soil was usually to be found, 6-in. guns were employed as heavy field
+guns, but in Europe even the 5-in. (British Service) is liable to sink
+into the ground. In Great Britain, guns only are used by this branch;
+abroad, the "heavy artillery of the field army," the "light siege
+train," &c., as it is variously called, is as a rule composed of
+howitzers of a heavier calibre than the field howitzer, the 15-cm.
+(6-in.) howitzer being most commonly met with. This artillery has,
+however, a different tactical rôle from the heavy field artillery of the
+British service; and it is always with a view to the attack of permanent
+or semi-permanent fortifications that the _matériel_ is organized. In
+Great Britain, heavy batteries armed with the 5-in. gun are considered
+as "an auxiliary to the horse and field artillery" (_Heavy Artillery
+Training_). Ranging is conducted with greater deliberation than ranging
+with the lighter guns, though upon the same general lines. Parts of the
+process may, however, be omitted in certain circumstances. Heavy guns
+use high-explosive (lyddite) shells and time shrapnel, the former for
+ranging and for demolishing cover, the latter against _personnel_.
+Laying is usually indirect. The tactical principles upon which heavy
+artillery does its work are based, in the main, on the long range (up to
+10,000 yds.) and great shell-power of the guns. This power enables the
+artillery to reach with effect targets which are beyond the range of
+lighter ordnance, and it is, therefore, considered possible to disperse
+the guns in batteries, and even in sections of two guns, along the front
+of the army, without forfeiting the power of concentrating their fire on
+any point--a power which otherwise they would not possess owing to their
+want of mobility. At the same time it is not forbidden to bring them
+into line with the rest of the artillery, in order to achieve a decisive
+result. In the _attack_, beside the general task of supplementing the
+effect of other natures of ordnance, heavy artillery may demolish cover,
+buildings, &c., held by the enemy, and during the infantry assault they
+may do excellent service in sweeping a great depth of ground, their
+smaller angle of descent, and the greater remaining velocity and heavier
+driving charge of their shrapnel, as compared with field guns, enabling
+them to do this effectively. In the _defence_, long-range fire has great
+value, especially in sweeping approaches which the enemy must use. In
+_pursuit_, the heavy artillery may be able to shell the main body of the
+enemy during its retreat, even if it has left a rearguard. In _retreat_,
+the want of mobility of these guns militates against their employment in
+exposed positions, such as rearguards usually have to take up.
+
+  BIBLIOGRAPHY.[6]--Amongst general historical works may be mentioned
+  Napoleon III. and Col. Favé, _Études sur le passé et l'avenir de
+  l'artillerie_ (Paris. 1846-1871); C. von Decker, _Geschichte des
+  Geschützwesens_ (Berlin, 1822); H.W.L. Hime, _Stray Military Papers_
+  (London, 1901); _Die Beziehung Friedrichs des Grossen zu seiner
+  Artillerie_ (Berlin, 1865); H. von Müller, _Die Entwickelung der
+  Feldartillerie, 1815-1892_ (Berlin, 1893-1894); J. Campana,
+  _L'Artillerie de campagne, 1792-1901_ (Paris, 1901); v. Reitzenstein,
+  _Das Geschützwesen, &c. in Hannover und Braunschweig 1365 bis zur
+  Gegenwart_ (Leipzig, 1900); Kretschmar, _Gesch. d. sächsischen
+  Feldart. 1620-1878_ (1879); Schöning, _Gesch. des brandenbg.-preuss.
+  Art._ (1844-1845); Schneller, _Litteratur d. Artillerie_ (1768); v.
+  Tempelhof, _Gesch. d. Artillerie_ (1797); Duncan, _Hist. of the Royal
+  Artillery_. A complete bibliography and criticism of the artillery
+  works of the 14th, 15th and 16th centuries will be found in Max Jähns,
+  _Geschichte der Kriegswissenschaften_, pp. 221-236, 382-424, 621, 658
+  and 747-752. For the early 17th century, Diego Ufano, _Tratado de la
+  Artilleria_ (1613) is a standard treatise of the time, but the mystery
+  preserved by artillerists in regard to their arm is responsible for an
+  astonishing dearth of artillery literature even in the time of the
+  Thirty Years' War. In 1650 appeared Casimir Simienowicz' _Ars magnae
+  artilleriae_, an English translation of which was published in London
+  in 1729, and in 1683 Michael Mieth published _Artilleriae Recentior
+  Praxis_. The first edition of Surirey de S. Remy, _Mémoires
+  d'Artillerie_, appeared in Paris in 1697. With the reorganization of
+  the arm in the early 18th century came many manuals and other works
+  (see Jähns, _op. cit._ pp. 1607-1621 and 1692-1698), amongst which may
+  be mentioned the marquis de Quincy's _Art de la guerre_ (1726). From
+  1740 onwards numerous manuals appeared, mostly official
+  _règlements_--see French General Staff, _L'Artillerie française au
+  XVIII^e siècle_ (1908); and the tactical handling of the arm is
+  treated in general works, such as Guibert's, on war. See also de
+  Morla, _Tratado de la Artilleria_ (1784), translated into German by
+  Hoyer (_Lehrbuch der Art.-Wissenschaft_, Leipzig, 1821-1826); _Du
+  Service de l'artillerie à la guerre_ (Paris, 1780, German translation,
+  Dresden, 1782, and English, by Capt. Thomson, R.A., London, 1789),
+  Bardet de Villeneuve's _Traité de l'artillerie_ (Hague, 1741), and
+  Hennébert, _Gribeauval, Lieut.-Général des armées du Roy_ (Paris,
+  1896). Important works of the period 1800-1850 are Scharnhorst,
+  _Handbuch der Artillerie_ (Hanover, 1804-1806, French translation by
+  Fourcy, _Traité sur l'artillerie_, Paris, 1840-1841); Rouvroy,
+  _Vorlesungen über die Artillerie_ (Dresden, 1821-1825); Timmerhans,
+  _Essai d'un traité d'artillerie_ (Brussels, 1839-1846); C. v. Decker,
+  _Die Artillerie für alle Waffen_ (1826); Griffiths, _The Artillerist's
+  Manual_ (Woolwich, 1840); Piobert, _Traité d'artillerie_ (Paris,
+  1845-1847); Taubert (translated by Maxwell), _Use of Field Artillery
+  on Service_ (London, 1856); Capt. Simmonds, R.A., _Application of
+  Artillery in the Field_ (London, 1819); Gassendi, _Aide-mémoire à
+  l'usage des officiers d'artillerie_ (Paris, 1819). See also Girod de
+  l'Ain, _Grands artilleurs, Drouot, Sénarmont, Éblé_ (Paris, 1894).
+  Among the numerous works on modern field artillery may be mentioned
+  Prince Hohenlohe-Ingelfingen, _Briefe über Artillerie_ (Berlin, 1887,
+  2nd ed., English translation by Col. Walford, _Letters on Artillery_,
+  Woolwich, 1887); Hoffbauer, _Taktik der Feldartillerie, 1866 und
+  1870-1871_ (Berlin, 1876), and _Applikatorische Studie über Verwendung
+  der Artillerie_ (Berlin, 1884); Erb, _L'Artillerie dans les batailles
+  de Metz_ (Paris, 1906); Leurs, _L'Art. de campagne prussienne
+  1864-1870_ (Brussels, 1874); v. Schell, _Studie über Taktik der
+  Feldartillerie_ (quoted above); Hennébert, _Artillerie moderne_
+  (Paris, 1889); and for quick-firing artillery, Langlois, _Artillerie
+  de campagne en liaison avec les autres armes_ (Paris, 1892 and 1907);
+  Wille, _Feldgeschütz der Zukunft_ (Berlin, 1891); _Waffenlehre_ (2nd
+  ed., 1901); and _Zur Feldgeschützfrage_ (Berlin, 1896); Rohne, _Die
+  Taktik der Feldartillerie_ (Berlin, 1900), _Studie über d.
+  Schnellfeuergeschütze in Rohrrücklauflafette_ (Berlin, 1901), _Die
+  französische Feldartillerie_ (Berlin, 1902); _Entwicklung des
+  Massengebrauchs der Feldartillerie_ (Berlin, 1900); and articles in
+  _Jahrbücher f. d. Deutsche Armee und Marine_ (October 1901 and January
+  1905); Hoffbauer, _Die Frage des Schnellfeuerfeldgeschützes_ (Berlin,
+  1902), and _Verwendung der Feldhaubitzen_ (Berlin, 1901); Wangemann,
+  _Für die leichte Feldhaubitze_ (Berlin, 1904); von Reichenau, _Studie
+  über ... Ausbildung der Feldart_. (Berlin, 1896), _Einfluss der
+  Schilde auf die Entwicklung des F.-A. Materials_, and _Neue Studien
+  über die Entwicklung der Feldart._ (Berlin, 1902 and 1903); Smekal,
+  _Führung und Verwendung der Divisions-Artillerie_ (Vienna, 1901);
+  Korzen and Kühn, _Waffenlehre_ (Vienna, 1906); G. Rouquerol, _Emploi
+  de l'artillerie de campagne à tir rapide_ (Paris, 1901), and
+  _Organisation de l'artillerie de campagne_ (Paris, 1903);
+  Girardon-Lagabbe, _Organisation du matériel de l'artillerie de
+  campagne_ (Paris, 1903); and in English, Capt. P. de B. Radcliffe's
+  translation of Rouquerol's work (_The Tactical Employment of
+  Quick-firing Field Artillery_, London, 1903), and especially Lt.-Col.
+  H.A. Bethell, _Modern Guns and Gunnery_ (Woolwich, 1907). See also the
+  current drill manuals of the British, French and German artillery.
+       (C. F. A.)
+
+FOOTNOTES:
+
+  [1] Napoleon's maxim, quoted above, reappears in spirit in the
+    British F.A. Training of 1906 (p. 225).
+
+  [2] The old smooth-bore mortar for high-angle fire has of course
+    disappeared, but the name "mortar" is still applied in some countries
+    to short rifled howitzers.
+
+  [3] Though not of course against the direct impact of shrapnel or
+    H.E. shells.
+
+  [4] Finding the line is also an integral part of ranging. When an
+    aiming point is used, the angle at which the guns must be laid with
+    reference to it is calculated and given out by the battery commander.
+    The modern goniometric sight permits of a wide angle (in England 180°
+    right or left) being given. "Deflection" is a small angular
+    correction applied to individual guns.
+
+  [5] The "corrector" is an adjustment on the sights of the gun used to
+    determine the correct fuze. In the British Q.F. equipment, a
+    graduated dial or drum shows the elevation of the gun above the line
+    of sight. The fuze lengths are marked on a movable scale opposite the
+    range graduations to which they apply, and the "corrector" moves this
+    fuze scale so as to bring different fuze lengths opposite the range
+    graduation. For example, a certain corrector setting gives 11½ on the
+    fuze scale opposite 4000 yds. on the range scale, and if the shells
+    set to 11½ burst too high, a new corrector setting is taken, the fuze
+    length 12 is now opposite to the 4000 range graduation, and this
+    length gives bursts closer up and lower. In the German service a
+    corrector (_Aufsatzschieber_) alters the real elevation given to the
+    gun, so that while throughout the battery all guns have the same
+    (nominal or ordered) elevation shown on the sights, the real
+    elevations of individual guns vary according to the different
+    corrector settings. Thus bursts at different heights and distances
+    from the target are obtained by shifting the trajectory of the shell.
+    The fuze, being set for the nominal elevation common to all the guns,
+    burns for the same time in each case, and thus the burst will be
+    lower and closer to the target with a less (real) elevation, and
+    higher and farther from it with a greater.
+
+  [6] Most of the works named deal with technical questions of
+    equipment, ammunition, ballistics, &c.

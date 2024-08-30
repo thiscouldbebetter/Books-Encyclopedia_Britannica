@@ -1,0 +1,531 @@
+ARMOUR PLATES.
+
+  Defence for ships.
+
+  History.
+
+The earliest recorded proposal to employ armour for ships of war (for
+body armour, &c., see ARMS AND ARMOUR) appears to have been made in
+England by Sir William Congreve in 1805. In _The Times_ of the 20th of
+February of that year reference is made to Congreve's designs for an
+armoured, floating mortar battery which the inventor considered would be
+proof against artillery fire. Among Congreve's unpublished papers there
+is also a suggestion for armour-plating the embrasures of casemates.
+Nothing, however, seems to have come of these proposals, and a similar
+lack of appreciation befell the next advocate of armour, John Stevens of
+New Jersey, U.S.A., who submitted the plans of an armoured vessel to
+Congress in 1812. The Stevens family, however, continued to work at the
+subject, and by 1841 had determined by actual experiment the thickness
+of wrought-iron armour which was proof against the projectiles then in
+use. The necessity for armouring ships as a protection against shell
+fire was again pointed out by General Paixhans in 1841, and in 1845
+Dupuy de Lôme had prepared the designs of an armoured frigate for the
+French government. During the period between 1827 and 1854, experiments
+in connexion with the proposed application of armour to both ships and
+forts were carried out in England, the United States and France, but the
+question did not get beyond the experimental stage until the latter
+year, when armoured floating batteries were laid down in all three
+countries, probably as the immediate outcome of the destruction of the
+Turkish fleet by shell fire at Sinope on the 30th of November 1853.
+
+Three of the French floating batteries were in action at the bombardment
+of Kinburn in 1855, where they achieved a conspicuous success, silencing
+the Russian forts after a four hours' engagement, during which they
+themselves, although frequently struck, were practically uninjured,
+their loss in personnel being but trifling. To quote Very: "This
+comparatively insignificant action, which had little if any effect upon
+the course of the Crimean War, changed the whole condition of armour for
+naval use from one of speculation to one of actual and constant
+necessity." The military application of armour for the protection of
+guns mounted in permanent fortifications followed. Its development,
+however, took rather a different course, and the question of armour
+generally is of less importance for the military engineer than for the
+naval constructor. For the employment of armour in ship construction and
+in permanent works on land, see the articles SHIPBUILDING; FORTIFICATION
+AND SIEGECRAFT; the present article is concerned solely with the actual
+armour itself.
+
+  Construction and testing.
+
+The earliest armour, both for ships and forts, was made of wrought iron,
+and was disposed either in a single thickness or in successive layers
+sandwiched with wood or concrete. Such armour is now wholly obsolete,
+though examples of it may still be found in a few forts of early date.
+The chief application of armour in modern land defences is in the form
+of shields for the protection of guns mounted _en barbette_. Examples of
+such shields are shown in figs. 1 and 2. Fig. 1 shows a 4.5-in. steel
+shield for the U.S.A. government, face-hardened by the Harvey process,
+to which reference is made below. It was attacked by 5-in. and 6-in.
+armour-piercing shot, and proved capable of keeping out the 5-in. up to
+a striking velocity of nearly 1800 ft. per second, but was defeated by a
+6-in. capped A.P. shot with a striking velocity of 1842 ft. per second.
+The mounting was not seriously damaged by the firing, but could be
+operated after the impact of one 3.2-in., five 5-in. and three 6-in.
+projectiles. Fig. 2 shows a gun-shield, manufactured by Messrs Hadfield
+of Sheffield, after attack by 4.1-in., 4.7-in. and 6-in. armour-piercing
+and other projectiles. The limit of the shield's resistance was just
+reached by an uncapped 4.7-in. A.P. shell with a striking velocity of
+2128 ft. per second. The shield (the average maximum thickness of which
+was 5.8 in.) showed great toughness, and although subjected to a severe
+battering, and occasionally outmatched by the attacking projectiles,
+developed no visible crack. It is chiefly remarkable for the fact that
+it was cast and not forged. As is evident from the fringing around the
+hole made by the 6-in. A.P. shell, the shield was not face-hardened. A
+more highly developed form of the gun-shield is to be found in the
+armoured cupola, which has been employed to a very considerable extent
+in permanent fortifications, and whose use is still strongly advocated
+by continental European military engineers. The majority of the cupolas
+to be found in continental forts are not, however, of very recent date,
+those erected in 1894 at Molsheim near Strassburg being comparatively
+modern instances. Any cupolas constructed nowadays would be of steel,
+either forged or cast, and would probably be face-hardened, but a large
+number of those extant are of compound or even of iron armour. Many of
+those on sea-fronts are made of chilled cast iron. Such armour, which
+was introduced by Gruson of Magdeburg in 1868, is extremely hard, and
+cannot be perforated, but must be destroyed by fracture. It is thus the
+antithesis of wrought iron, which, when of good quality, does not break
+up under the impact of the shot but yields by perforation. Armour of the
+Gruson type is well adapted for curved surfaces such as cupolas, which
+on account of their shape are scarcely liable to receive a direct hit,
+except at distant ranges, and its extreme hardness would greatly assist
+it to throw off shot striking obliquely, which have naturally a tendency
+to glance. Chilled iron, on account of its liability to break up when
+subjected to a continuous bombardment by the armour-piercing steel
+projectiles of guns of even medium calibre, was usually considered
+unsuitable for employment in inland forts, where wrought iron, mild
+steel or compound armour was preferred. On the other hand, as pointed
+out by the late Captain C. Orde Browne, R.A., it was admirably adapted
+to resist the few rounds that the heavy guns of battleships might be
+expected to deliver during an attack of comparatively limited duration.
+
+Chilled iron was never employed for naval purposes, and warship armour
+continued to be made exclusively of wrought iron until 1876 when steel
+was introduced by Schneider. In an important trial at Spezzia in that
+year the superiority in resisting power of steel to wrought iron was
+conclusively proved, but, on the other hand, steel showed a great
+tendency to through-cracking, a defect which led Messrs Cammell of
+Sheffield in 1877 to introduce compound armour consisting of a steel
+surface in intimate union with a wrought-iron foundation plate. In
+Cammell plates, which were made by the Wilson process, the steel face
+was formed by running molten steel on to a white-hot foundation plate of
+iron, while in the compound plates, made by Messrs John Brown & Co.
+according to the patent of J.D. Ellis, a thin steel surface plate was
+cemented on to the wrought-iron foundation by running in molten steel
+between. Compound armour possessed the advantages of a harder face than
+was then possible in a homogeneous steel plate, while, on the other
+hand, the back was softer and less liable to crack. Its weak point was
+the liability of the surface plate to crack through under fire and
+become detached from its iron backing. The manufacture of steel,
+however, continued to improve, so that in 1890 we find steel plates
+being made which were comparatively free from liability to
+through-cracking, while their power to resist perforation was somewhat
+greater than that of the best compound. The difference, however, was at
+no time very marked, and between 1880 and 1890 the resistance to
+perforation of either steel or compound as compared with wrought iron
+may be taken as about 1.3 to 1.
+
+Compound armour required to be well backed to bring out its best
+qualities, and there is a case on record in 1883 when a 12-in. Cammell
+plate weighing 10½ tons, backed by granite, stopped a 16-in. Palliser
+shot with a striking energy of nearly 30,000 foot tons and a calculated
+perforation of 25 inches of wrought iron. As steel improved, efforts
+were made to impart an even greater hardness to the actual surface or
+skin of compound armour, and, with this object in view, Captain T.J.
+Tresidder, C.M.G., patented in 1887 a method of chilling the heated
+surface of a plate by means of jets of water under pressure. By this
+method it was found possible to obtain a degree of hardness which was
+prevented in ordinary plunging by the formation of a layer of steam
+between the water and the heated surface of the plate. Compound plates
+face-hardened on this system gave excellent results, and forged-steel
+armour-piercing projectiles were in some cases broken up on their
+surfaces as if they had been merely chilled iron. Attempts were also
+made to increase the toughness of the back by the substitution of mild
+nickel steel for wrought iron. The inherent defect of compound armour,
+however--its want of homogeneity,--remained, and in the year 1891 H.A.
+Harvey of Newark, N.J., introduced a process whereby an all steel plate
+could be face-hardened in such a way that the advantages of the compound
+principle were obtained in a homogeneous plate. The process in question
+consisted in carburizing or cementing the surface of a steel plate by
+keeping it for a fortnight or so at a high temperature in contact with
+finely divided charcoal, so that the heated surface absorbed a certain
+amount of carbon, which penetrated to a considerable depth, thus causing
+a difference in chemical composition between the front and back of the
+plate. After it had been left a sufficient time in the cementation
+furnace, the plate was withdrawn and allowed to cool slowly until it
+reached a dull red heat, when it was suddenly chilled by the application
+of water, but by a less perfect method than that employed by Tresidder.
+Steel plates treated by the Harvey and Tresidder processes, which
+shortly became combined, possessed about twice the resisting power of
+wrought iron. The figure of merit, or resistance to penetration as
+compared with wrought iron, varied with the thickness of the plate,
+being rather more than 2 with plates from 6 to 8 in. thick and rather
+less for the thicker plates. In 1889 Schneider introduced the use of
+nickel in steel for armour plates, and in 1891 or 1892 the St Chamond
+works employed a nickel steel to which was added a small percentage of
+chromium.
+
+All modern armour contains nickel in percentages varying from 3 to 5,
+and from 1.0 to 2.0% of chromium is also employed as a general rule.
+Nickel in the above quantities adds greatly to the toughness as well as
+to the hardness of steel, while chromium enables it to absorb carbon to
+a greater depth during cementation, and increases its susceptibility to
+tempering, besides conducing to a tough fibrous condition in the body of
+a plate. Alloy steels of this nature appear to be very susceptible to
+thermal treatment, by suitable variation of which, with or without oil
+quenching, the physical condition of the same steel may be made to vary
+to an extraordinary extent, a peculiarity which is turned to good
+account in the manufacture of the modern armour plate.
+
+The principal modern process is that introduced by Krupp in 1893.
+Although it is stated that a few firms both in Great Britain and in
+other countries use special processes of their own, it is probable that
+they differ only in detail from the Krupp process, which has been
+adopted by the great majority of makers. Krupp plates are made of
+nickel-chrome steel and undergo a special heat treatment during
+manufacture which is briefly described below. They can either be
+cemented or, as was usual in England until about 1902 in the case of the
+thinner plates (4 in. and under) and those used for curved structures
+such as casemates, non-cemented. They are in either case face-hardened
+by chilling. Messrs Krupp have, however, cemented plates of 3 in. and
+upward since 1895. Although the full process is now applied to plates of
+as little as 2 in. in thickness, there is some difference of opinion
+between manufacturers as to the value of cementing these very thin
+plates. The simple Harvey process is still employed to some extent in
+the case of plates between 5 and 3 in. in thickness, and excellent
+results are also stated to have been obtained with plates from 2 to 4
+in. in thickness, manufactured from a special steel by the process
+patented by M. Charpy of the St Jacques steel works at Montluçon. A
+Krupp cemented (K.C.) plate is not perhaps harder as regards surface
+than a good Harveyed plate, but the depth of hard face is greater, and
+the plate is very much tougher in the back, a quality which is of
+particular importance in the thicker plates. The figure of merit varies,
+as in Harveyed plates, with the thickness of the armour, being about 2.7
+in the case of good 6-in. plates while for the thicker plates the value
+gradually falls off to about 2.3 in the case of 12-in. armour. This
+figure of merit is as against uncapped armour-piercing shot of
+approximately the same calibre as the thickness of the plate. The
+resisting power of the non-cemented Krupp plates is usually regarded as
+being considerably less than that of the cemented plates, and may be
+taken on an average to be 2.25 times that of wrought iron.
+
+Figs. 3, 4 and 5 are illustrations of good cemented plates of the Krupp
+type. Fig. 3 shows an 11.8-in. plate, tried by Messrs Krupp in 1895,
+after attack by three 12-in. steel armour-piercing projectiles of from
+712.7 to 716.1 lb. in weight. In the third round the striking velocity
+of the projectile was 1993 ft. per second, the calculated perforation of
+wrought iron by Tresidder's formula being 25.9 in. The attack was
+successfully resisted, all the projectiles being broken up without
+effecting perforation, while there were no serious cracks. The figure of
+merit of the plate was thus well in excess of 2.2. The great toughness
+of the plate is perhaps even more remarkable than its hardness; its
+width was only 6.28 ft., so that each shot head formed a wedge of
+approximately one-sixth of its width. The excellence of the metal which
+is capable of withstanding such a strain is apparent.
+
+Fig. 4 is of a 9-in. K.C. plate, made by Messrs Armstrong, Whitworth &
+Co. for the Japanese government, after undergoing an unusually severe
+official test. The fourth round was capable of perforating 22 in. of
+wrought iron, so that the figure of merit of the plate must have been
+considerably in excess of 2.45, as there were no through-cracks, and the
+limit of resistance was far from being reached.
+
+Fig. 5 shows the front of an excellent 6-in. cemented plate of Messrs
+Beardmore's manufacture, tried at Eskmeals on the 11th of October 1901.
+It withstood the attack of four armour-piercing 6-in. shot of 100 lb.
+weight, with striking velocities varying from 1996 to 2177 ft. per
+second. Its limit of resistance was just passed by the fifth round in
+which the striking velocity was no less than 2261 ft. per second. The
+projectile, which broke up in passing through the plate, did not get
+through the skin plate behind the wood backing, and evidently had no
+surplus energy left. The figure of merit of this plate was between 2.6
+and 2.8, but was evidently much closer to the latter than to the former
+figure. A sixth round fired with a Johnson capped shot weighing 105.9
+lb. easily perforated both plate and backing with a striking velocity of
+1945 ft. per second, thus reducing the figure of merit of the plate to
+below 2.2 and illustrating very clearly the advantage given by capping
+the point of an armour-piercing projectile. There were no through-cracks
+in the plate after this severe trial, the back being evidently as tough
+as the face was hard.
+
+Fig. 6 shows a 3-in. K.N.C. plate of Messrs Vickers, Sons & Maxim's
+manufacture, tested privately by the firm in November 1905. It proved to
+be of unusual excellence, its limit of resistance being just reached by
+a 12½-lb. armour-piercing shell of 3 in. calibre with a striking
+velocity of 2558 ft. per second, a result which, even if the projectiles
+used were not relatively of the same perforating power as those used in
+the proof of 6-in. and thicker plates, shows that its resisting power
+was very great. At a low estimate its figure of merit against 3-in. A.P.
+_shot_ may be taken as about 2.6, which is exceptionally high for a
+non-cemented, or indeed for any but the best K.C. plates.
+
+The plate also withstood the attack of a 4.7-in. service pattern steel
+armour-piercing shell of 45 lb. weight striking the unbacked portion
+with a velocity of 1599 ft. per second, and was only just beaten by a
+similar shell with a velocity of 1630 ft. per second. The effect of all
+the above-mentioned rounds is shown in the photograph. The same plate
+subsequently kept out two 6-in. common shell filled up to weight with
+salt and plugged, with striking velocities of 1412 and 1739 ft. per
+second respectively, the former being against the unbacked and the
+latter against the backed half of the plate,--the only effect on the
+plate being that round 6 caused a fragment of the right-hand top corner
+of the plate to break off, and round 7 started a few surface cracks
+between the points of impact of rounds 1, 2 and 3.
+
+Within the limitations referred to below, the resisting power of all
+hard-faced plates is very much reduced when the armour-piercing
+projectiles used in the attack are capped, the average figure of merit
+of Krupp cemented plates not being more than 2 against capped shot as
+compared with about 2.5 against uncapped. So long ago as 1878 it was
+suggested by Lt.-Col. (then Captain) T. English, R.E., that
+armour-piercing projectiles would be assisted in attacking compound
+plates if caps of wrought iron could be fitted to their points.
+Experiments at Shoeburyness, however, did not show that any advantage
+was gained by this device, and nothing further was heard of the cap
+until 1894, when experiments carried out in Russia with so-called
+"magnetic" shot against plates of Harveyed steel showed that the
+perforating power of an armour-piercing projectile was considerably
+augmented where hard-faced plates were concerned, if its point were
+protected by a cap of wrought iron or mild steel. The conditions of the
+Russian results (and of subsequent trials in various parts of the world
+which have confirmed them) differed considerably from the earlier
+English ones. The material of both projectiles and plates differed, as
+did also the velocities employed--the low velocities in the earlier
+trials probably contributing in large measure to the non-success of the
+cap. The cap, as now used, consists of a thimble of comparatively soft
+steel of from 3 to 5% of the weight of the projectile, attached to the
+point of the latter either by solder or by being pressed hydraulically
+or otherwise into grooves or indentations in the head. Its function
+appears to be to support the point on impact, and so to enable it to get
+unbroken through the hard face layers of the plate. Once through the
+cemented portion with its point intact, a projectile which is strong
+enough to remain undeformed, will usually perforate the plate by a true
+boring action if its striking velocity be high enough. In the case of
+the uncapped projectile, on the other hand, the point is almost
+invariably crushed against the hard face and driven back as a wedge into
+the body of the projectile, which is thus set up so that, instead of
+boring, it acts as a punch and dislodges or tends to dislodge a coned
+plug or disk of metal, the greatest diameter of which may be as much as
+four times the calibre of the projectile. The disproportion between the
+maximum diameter of the disk and that of the projectile is particularly
+marked when the calibre of the latter is much in excess of the thickness
+of the plate. When plate and projectile are equally matched, e.g. 6"
+versus 6", the plug of metal dislodged may be roughly cylindrical in
+shape, and its diameter not greatly in excess of that of the projectile.
+In all cases the greatest width of the plug or disk is at the back of
+the plate.
+
+A stout and rigid backing evidently assists a plate very much more
+against this class of attack than against the perforating attack of a
+capped shot. Fig. 7 shows the back of a 6-in. plate attacked in 1898,
+and affords an excellent illustration of the difference in action of
+capped and uncapped projectiles. In round 7 the star-shaped opening made
+by the point of a capped shot boring its way through is seen, while
+rounds 2, 3, 4 and 5 show disks of plate partially dislodged by uncapped
+projectiles. The perforating action of capped armour-piercing
+projectiles is even better shown in fig. 8, which shows a 250-mm. (9.8
+in.) Krupp plate after attack by 150-mm. (5.9 in.) capped A.P. shot. In
+rounds 5 and 6 the projectiles, with striking velocities of 2302 and
+2281 ft. per second, perforated. Round 7, with a striking velocity of
+2244 ft. per second, just got its point through and rebounded, while
+round 8, with a striking velocity of 2232, lodged in the plate. In many
+cases a capped projectile punches out a plug, usually more or less
+cylindrical in shape and of about the same diameter as the projectile,
+from a plate, and does not defeat it by a true boring action. In such
+cases it will probably be found that the projectile has been broken up,
+and that only the head, set up and in a more or less crushed condition,
+has got through the plate. This peculiarity of action can best be
+accounted for by attributing either abnormal excellence to the plate or
+to that portion of it concerned--for plates sometimes vary considerably
+and are not of uniform hardness throughout,--or comparative inferiority
+to the projectile. Whichever way it may be, what has happened appears to
+be that after the cap has given the point sufficient support to get it
+through the very hard surface layers, the point has been flattened in
+the region of extreme hardness and toughness combined, which exists
+immediately behind the deeply carburized surface. The action from this
+point becomes a punching one, and the extra strain tends to break up the
+projectile, so that the latter gets through wholly or partially, in a
+broken condition, driving a plug of plate in front of it. At low
+striking velocities, probably in the neighbourhood of 1700 ft. per
+second, the cap fails to act, and no advantage is given by it to the
+shot. This is probably because the velocity is sufficiently low to give
+the cap time to expand and so fail to grip the point as the latter is
+forced into it. The cap also fails as a rule to benefit the projectile
+when the angle of incidence is more than 30° to the normal.
+
+[Illustrstion: PLATE I.
+
+  FIG. 1.--HARVEYIZED SHIELD, 4.5 INCHES THICK, ON 6-INCH PEDESTAL
+  MOUNT, AFTER ATTACK BY 5-INCH AND 6-INCH CAPPED ARMOUR-PIERCING SHOT.
+
+  FIG. 2.--GUN SHIELD, 6 INCHES THICK, AFTER ATTACK. (HADFIELD.)
+
+  FIG. 3.--KRUPP-CEMENTED PLATE, 11.8 INCHES THICK, AFTER ATTACK.
+  (KRUPP, MEPPEN.)
+
+  FIG. 4.--KRUPP-CEMENTED PLATE, 9 INCHES THICK, AFTER ATTACK.
+  (ARMSTRONG, WHITWORTH & CO.)]
+
+[Illustrstion: PLATE II.
+
+  FIG. 5.--BEARDMORE CEMENTED PLATE, 6-INCHES THICK, AFTER ATTACK BY
+  6-INCH SHOT. (From Brassey's Naval Annual, 1902 by permission)
+
+  FIG 6.--KRUPP-CEMENTED PLATE, 3 INCHES THICK, AFTER ATTACK. (VICKERS,
+  SONS & MAXIM)
+
+  FIG. 7.--BACK OF A 6-INCH PLATE SHOWING ACTION OF CAPPED AND UNCAPPED
+  PROJECTILES.
+
+  FIG. 8.--BACK OF KRUPP PLATE 9.8 INCHES THICK, AFTER ATTACK, WITH
+  CAPPED PROJECTILE. (KRUPP, MEPPEN.)
+
+  (From Brassey's Naval Annual, by permission.)]
+
+  Laws of Resistance.
+
+The laws governing the resistance of armour to perforation have been the
+subject of investigation for many years, and a considerable number of
+formulae have been put by means of which the thickness of armour
+perforable by any given projectile at any given striking velocity may be
+calculated. Although in some cases based on very different theoretical
+considerations, there is a general agreement among them as far as
+perforation proper is concerned, and Tresidder's formula for the
+perforation of wrought iron, t² = wv³/dA, may be taken as typical.
+Here t represents the thickness perforable in inches, w the weight of
+the projectile in pounds, v its velocity in foot seconds, d its diameter
+in inches and A the constant given by log A = 8.8410.
+
+For the perforation of Harveyed or Krupp cemented armour by capped
+armour-piercing shot, this formula may be employed in conjunction with a
+suitable constant according to the nature of armour attacked. In the
+case of K. C. armour the formula becomes t² = wv^(3)/4dA. A useful rough
+rule is t/d = v/1900.
+
+Hard armour, such as chilled cast iron, cannot be perforated but must be
+destroyed by fracture, and its destruction is apparently dependent
+solely upon the striking energy of the projectile and independent of its
+diameter. The punching of hard-faced armour by uncapped projectiles is
+intermediate in character between perforation and cracking, but
+approaches the former more nearly than the latter. The formula most used
+in England in this case is Krupp's formula for K.C., viz. t² =
+wv²/dA¹, where t, w, v and d are the same as before, and log A¹ =
+6.3532. This, if we assume the sectional density (w/d³) of projectiles
+to be constant and equal to 0.46, reduces to the very handy rule of
+thumb t/d = v/2200, which, within the limits of striking velocity
+obtainable under service conditions, is sufficiently accurate for
+practical purposes. For oblique attack up to an angle of 30° to the
+normal, the same formula may be employed, t sec [theta] being
+substituted for t, where [theta] is the angle of incidence and t the
+normal thickness of the plate attacked. More exact results would be
+obtained, however, by the use of Tresidder's W.I. formula, given above,
+in conjunction with a suitable figure of merit, according to the nature
+and thickness of the plate. It should be remembered in this connexion
+that the figure of merit of a plate against a punching attack falls off
+very much when the thickness of the plate is considerably less than the
+calibre of the attacking projectile. For example, the F.M. of a 6-in.
+plate may be 2.6 against 6-in. uncapped A.P. projectiles, but only 2.2
+against 9.2-in. projectiles of the same character. In the case of the
+perforating action of capped projectiles, on the other hand, the ratio
+of d and t does not appear to affect the F.M. to any great extent,
+though according to Tresidder, the latter is inclined to fall when d is
+considerably less than t, which is the exact opposite of what happens
+with punching.
+
+Another method of measuring the quality of armour, which is largely
+employed upon the continent of Europe, is by the ratio, r, between the
+velocity requisite to perforate any given plate and that needed to
+pierce a plate of mild steel of the same thickness, according to the
+formula of Commandant Jacob de Marre, viz. v = Ae^(0.7)·a^(0.75)/p^(0.5)
+where e = the thickness of the plate in centimetres, a = the calibre of
+the projectile in centimetres, p = the weight of the projectile in
+kilogrammes, v = the striking velocity of the projectile in metres per
+second, and log A = 1.7347. Converted into the usual English units and
+notation, this formula becomes v = A¹t^(0.7)·d^(0.75)/w^(0.5), in
+which log A¹ = 3.0094; in this form it constitutes the basis of the
+ballistic tests for the acceptance of armour plates for the U.S. navy.
+
+Common shell, which are not strong enough to remain undeformed on
+impact, derive little benefit from the cap and usually defeat a plate by
+punching rather than by perforation. Their punching power may be taken
+roughly as about 2/3 that of an uncapped armour-piercing shot. Shells
+filled with high explosives, unless special arrangements are made to
+deaden the bursting charge and so obviate detonation upon impact, are
+only effective against the thinnest armour.
+
+  Manufacture.
+
+With regard to manufacture, a brief account of the Krupp process as
+applied in one of the great English armour plate works (omitting
+confidential details of temperature, &c.) will illustrate the great
+complexity of treatment which the modern armour plate has to undergo
+before its remarkable qualities of combined hardness and toughness can
+be developed. The composition of the steel probably differs slightly
+with the manufacturer, and also with the thickness of the armour, but it
+will usually contain from 3 to 4% of nickel, from 1.0 to 2.0% of
+chromium and about 0.25 to 0.35% of carbon, together with from 0.3 to
+0.7% of manganese. After being cast, the ingot is first heated to a
+uniform degree of temperature throughout its mass and then generally
+forged under the hydraulic forging press. It is then reheated and passed
+through the rolls. After rolling, the plate is allowed to cool, and is
+then subjected to a thermal treatment preparatory to surfacing and
+cutting. Its surface is then freed from scale and planed. After planing,
+the plate is passed into the cementation furnace, where its face remains
+for some weeks in contact with specially prepared carbon, the
+temperature being gradually raised to that required for cementation and
+as gradually lowered after that is effected. After cementation the plate
+is heated to a certain temperature and is then plunged into an oil bath
+in order to toughen it. After withdrawal from the oil bath, the plate is
+cooled, reheated to a lower temperature, quenched again in water,
+reheated and passed to the bending press, where it is bent to shape
+while hot, proper allowance being made for the slight change of curve
+which takes place on the final chilling. After bending it is again
+heated and then allowed to get cold, when the final machining, drilling
+and cutting are carried out. The plate is now placed in a furnace and
+differentially heated so that the face is raised to a higher temperature
+than the back. After being thus heated for a certain period the plate is
+withdrawn, and both back and face are douched simultaneously with jets
+of cold water under pressure, the result being that the face is left
+glass-hard while the back is in the toughest condition possible for such
+hard steel.
+
+The cast-steel armour made by Hadfield has already been alluded to. That
+made by Krupp (the only other maker at present of this class of armour)
+is of face-hardened nickel steel. A 5.9-in. plate of this material tried
+in 1902 had a figure of merit of more than 2.2 against uncapped 5.9-in.
+armour-piercing projectiles of 112 lb. in weight. The main advantage of
+cast armour is that it is well adapted to armoured structures of
+complicated design and of varying thickness, which it would be difficult
+or impossible to forge in one piece. It should also be cheaper than
+forged armour, and, should time be a consideration, could probably be
+turned out more quickly; on the other hand, it is improbable that heavy
+castings such as would be required could be as regular in quality and as
+free from flaws as is possible when forged material is used, and it is
+unlikely that the average resistance to attack of cast-steel armour will
+ever be equal to that of the best forged steel.
+
+  Defence against small-arms.
+
+Of recent years there has been a considerable demand for thin steel
+plating proof against small-arm bullets at close ranges. This class of
+steel is used for field-gun shields and for sap shields, to afford cover
+for men in field-works, for armoured trains, motor-cars and ambulances,
+and also very largely for armouring shallow-draught river-gunboats.
+Holtzer made chrome steel breastplates in 1890, 0.158 in. of which was
+proof against the 0.43-in. hard lead bullet of the Gras rifle at 10
+metres range, while 0.236 in. was proof against the 0.32 in. 231-grain
+Lebel bullet at the same distance, the striking velocities being
+approximately 1490 and 2070 ft. per second respectively. The
+bullet-proof steel made by Messrs Cammell, Laird & Co. in Great Britain
+may be taken as typical of that produced by the best modern
+manufacturers. It is proof against the 215-grain Lee-Enfield bullet of
+0.303 in. calibre striking directly, as under:
+
+   Range.      Thickness of Plate.     Striking Velocity.
+   10 yards        0.187 inch              2050 f.s.
+  100   "          0.167   "               1865  "
+  560   "          0.080   "               1080  "
+
+The weight of the 0.08 in. plating is only 3.2 lb. per sq. ft. The
+material is stated to be readily adaptable to the ordinary operation of
+bending, machining, drilling, &c., and is thus very suitable for the
+purposes indicated above.     (W. E. E.)

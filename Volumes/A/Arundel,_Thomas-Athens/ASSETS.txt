@@ -1,0 +1,103 @@
+ASSETS (from the O. Nor. Fr. _assetz_, mod. Fr. _assez_, "enough"), in
+English law, strictly the property of a debtor in the hands of his
+representative sufficient for the satisfaction of his creditors or
+legatees. Thus the property of a bankrupt is termed his assets and is
+the fund out of which his liabilities must be paid. All property of the
+debtor is assets, and it is not necessary that it should have been
+reduced into possession by him.
+
+The creditors of a debtor are either secured or unsecured. A secured
+creditor, e.g. a mortgagee, has a prior claim to be paid his debt out of
+his security. If on realization of the security there is a balance after
+paying the debt, such balance becomes assets for the unsecured
+creditors; if there is a deficit, then the creditor becomes an unsecured
+creditor for such deficit. The unsecured creditors were formerly divided
+into creditors by specialty and by simple contract, the first being
+creditors secured by instrument under seal who ranked in priority to
+simple contract creditors. But by Hinde Palmer's Act [the Executors Act]
+1869 all unsecured creditors rank alike.
+
+Assets are divisible into legal assets and equitable assets, and the
+former class is again divisible into assets real and personal. These
+distinctions, though formerly of great importance, have now lost most of
+their meaning, but it is necessary briefly to describe the nature of
+these divisions and their consequences. The distinction between assets
+legal and equitable depends entirely upon the remedy open to the
+creditor to recover his debt and in no way upon the nature of the
+property from which the debt is sought to be recovered. If the creditor
+had to sue the executor of a debtor at law to obtain payment out of the
+property, that property was legal assets; but if the only remedy open to
+the creditor to get at the property was to bring an action in chancery
+for the administration of the estate, then the assets were equitable.
+
+Legal assets, as has been said, were divided into real and personal
+assets. The personal assets were those which devolved _virtute officii_
+on the executor or administrator; such assets are since Hinde Palmer's
+Act available equally for specialty and simple contract creditors. The
+real assets consisted of those descending to the heir or devised to a
+devisee, and were at law only liable for specialty debts. However, by
+the Land Transfer Act 1897 it is provided that the real estate of a
+deceased shall devolve upon the executor and "shall be administered in
+the same manner ... and with the same incidents as if it were personal
+estate." The distinction, therefore, between assets real and personal
+has practically ceased to exist, and only continues in regard to such
+property as is not included in the act, the most important of which is
+land held in copyhold.
+
+The equitable assets were treated otherwise. In the eyes of equity all
+unsecured creditors stand upon the same footing, and a creditor suing
+for administration of the estate sued on behalf of himself and all other
+creditors of the estate, and the distinction between specialty and
+simple contract creditors was ignored. Land was not at law liable to
+satisfy simple contract creditors; but if a testator expressly charged
+it with payment of his debts or devised it to his executors upon trust
+to pay his debts, equity treated it as equitable assets and so made it
+available to satisfy simple contract creditors; and finally by an act of
+1833 it was provided that real estate should in all cases be assets to
+be administered by equity for the benefit of simple contract creditors
+as well as creditors by specialty. It will be seen therefore that,
+generally speaking, all creditors have now the same remedies against the
+executors either at law or in equity. The only property as to which
+these distinctions at all survive is that not touched by the Land
+Transfer Act 1897.
+
+The act of 1833 just mentioned does not, however, deal with legacies,
+which continue to be payable only out of personalty unless they are
+expressly charged upon the realty by the testator; it has been contended
+that the effect of the Land Transfer Act 1897 has been to alter this and
+make the realty assets for the purpose of paying legacies, but this view
+is believed to be unsound.
+
+It is necessary for the representative so to distribute the assets that
+any fund primarily liable shall bear its proper burden, and that as far
+as possible all debts and legacies may be paid; this is said to be
+"marshalling the assets," and a few examples of the principal cases of
+marshalling will make this clear. If the personalty is exhausted in
+satisfying the creditors the legatees are left without a fund from which
+to be paid. But inasmuch as the creditor could have got paid out of the
+realty, as well as the personalty, it is not fair that the legatee
+should suffer by the creditor's choice, and he will therefore get
+payment from the real estate. So again if one legacy is charged upon the
+real estate and another is not, then if the former be paid out of the
+personalty the latter will stand in its place and be paid from the real
+estate.
+
+Finally it shall be noticed that an insolvent estate may be administered
+in bankruptcy. In such a case the law of bankruptcy regulates the order
+in which the assets are divided among the creditors (see BANKRUPTCY),
+but by the Judicature Act 1875, it is provided that an insolvent estate
+may be administered in the chancery division, and in such a case "the
+same rules shall prevail and be observed as to the respective rights of
+secured and unsecured creditors and as to the debts and liabilities
+provable and as to the valuation of annuities and future and contingent
+liabilities respectively as may be in force for the time being under the
+law of bankruptcy." This clause must be construed strictly, and it is
+only in the three cases specifically mentioned that the rules of
+bankruptcy will be imported into the administration of an insolvent
+estate by the chancery division.
+
+In a less strict sense, the term "assets," or "an asset," is used
+derivatively as a synonym for any property, or as opposed to
+"liabilities." Cecil Rhodes once spoke of the British flag as a "great
+commercial asset" in South Africa, meaning merely that the imperial
+connexion was a source of strength and credit.
