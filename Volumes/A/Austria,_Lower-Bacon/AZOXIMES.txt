@@ -1,0 +1,26 @@
+AZOXIMES (furo [a.b.] diazoles), a class of organic compounds which contain
+the ring system
+
+<math>HC = N  N = CH[|]\/[|]O.<math>
+
+They may be prepared by converting nitriles into amidoximes by the action
+of hydroxylamine, the amidoximes so formed being then acylated by acid
+chlorides or anhydrides. From these acyl derivatives the elements of water
+are removed, either by simple heating or by boiling their aqueous solution;
+this elimination is accompanied by the formation of the azoxime ring. Thus
+
+            NH_2OH            // N·OH   boil with
+  C_6H_5CN --------> C_6H_5·C           -------->
+                              \  NH_2   propionic anhydride
+
+    [         //N·O·COC_2H_5 ]             // N·O \
+    [ C_6H_5C                ] --> C_6H_5·C        C·C_2H_5.
+    [         \ NH_2         ]             \  N   //
+
+[v.03 p.0086] Azoximes can also be produced from [alpha]-benzil dioxime by
+the "Beckmann" change. Most of the azoximes are very volatile substances,
+sublime readily, and are easily soluble in water, alcohol and benzene.
+
+For detailed descriptions, see F. Tiemann (_Ber._, 1885, 18, p. 1059), O.
+Schulz (_Ber._, 1885, 18, pp. 1084, 2459), and G. Müller (_Ber._, 1886, 19,
+p. 1492); also _Annual Reports_ of the Chemical Society).

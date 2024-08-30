@@ -1,0 +1,32 @@
+ATMOSPHERIC RAILWAY. About 1840-1845 great interest was excited by a
+method of propelling railway trains through the agency of atmospheric
+pressure. Various inventors worked at the realization of this idea. On
+the system worked out in England by Jacob Samuda and S. Clegg, a
+continuous pipe or main was laid between the rails, and in it a partial
+vacuum was maintained by means of air pumps. A piston fitting closely in
+it was connected to the leading vehicle of the train by an iron plate
+which passed through a longitudinal groove or aperture running the whole
+length of the pipe. This aperture was covered by a valve consisting of a
+continuous strip of leather, strengthened on each side with iron plates;
+one edge was fastened, while the other was free to rise, and was closed
+against a composition of beeswax and tallow placed in the groove, the
+surface of which was slightly melted by a heater, carried on each train,
+in order to secure an air-tight joint. Connected behind the piston was a
+frame carrying four wheels which lifted and sustained the continuous
+valve for a distance of about 15 ft. Thus the piston having atmospheric
+pressure on one side of it and a vacuum equal to 15 or 16 in. of mercury
+on the other, was forced along the tube, taking the train with it.
+Various advantages were claimed by the advocates of the system,
+including cheapness of operation as compared with steam locomotives, and
+safety from collision, because the main was divided into sections by
+separating valves and only one train could be in each section at a given
+time. It was installed on about 2 m. of line between Kingstown and
+Dalkey (Ireland) in 1843 and worked till 1855; it was also tried on the
+London and Croydon and on the South Devon lines, but was soon abandoned.
+The same principle is applied in the system of pneumatic despatch (q.v.)
+to the transmission of small parcels in connexion with postal and
+telegraph work.
+
+  For further particulars see three papers by J. Samuda, P.W. Barlow and
+  G. Berkeley, with reports of the discussions upon them, in _Proc.
+  Inst. C.E._, 1844 and 1845.

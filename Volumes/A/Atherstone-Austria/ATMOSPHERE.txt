@@ -1,0 +1,95 @@
+ATMOSPHERE (Gr. [Greek: atmos], vapour; [Greek: sphaira], a sphere), the
+aeriform envelope encircling the earth; also the envelope of a
+particular gas or gases about any solid or liquid. Meteorological
+phenomena seated more directly in the atmosphere obtained early
+recognition; thus Hesiod, in his _Works and Days_, speculated on the
+origin of winds, ascribing them to the heating effects of the sun on the
+air. Ctesibius of Alexandria, Hero and others, founded the science of
+pneumatics on observations on the physical properties of air. Anaximenes
+made air the primordial substance, and it was one of the Aristotelian
+elements. A direct proof of its material nature was given by Galileo,
+who weighed a copper ball containing compressed air.
+
+Before the development of pneumatic chemistry, air was regarded as a
+distinct chemical unit or element. The study of calcination and
+combustion during the 17th and 18th centuries culminated in the
+discovery that air consists chiefly of a mixture of two gases, oxygen
+and nitrogen. Cavendish, Priestley, Lavoisier and others contributed to
+this result. Cavendish made many analyses: from more than 500
+determinations of air in winter and summer, in wet and clear weather,
+and in town and country, he discerned the mean composition of the
+atmosphere to be, oxygen 20.833% and nitrogen 79.167% The same
+experimenter noticed the presence of an inert gas, in very minute
+amount; this gas, afterwards investigated by Rayleigh and Ramsay, is now
+named argon (q.v.).
+
+The constancy of composition shown by repeated analyses of atmospheric
+air led to the view that it was a chemical compound of nitrogen and
+oxygen; but there was no experimental confirmation of this idea, and all
+observations tended to the view that it is simply a mechanical mixture.
+Thus, the gases are not present in simple multiples of their combining
+weights; atmospheric air results when oxygen and nitrogen are mixed in
+the prescribed ratio, the mixing being unattended by any manifestation
+of energy, such as is invariably associated with a chemical action; the
+gases may be mechanically separated by atmolysis, i.e. by taking
+advantage of the different rates of diffusion of the two gases; the
+solubility of air in water corresponds with the "law of partial
+pressures," each gas being absorbed in amount proportional to its
+pressure and coefficient of absorption, and oxygen being much more
+soluble than nitrogen (in the ratio of .04114 to .02035 at 0°); air
+expelled from water by boiling is always richer in oxygen.
+
+Various agencies are at work tending to modify the composition of the
+atmosphere, but these so neutralize each other as to leave it
+practically unaltered. Minute variations, however, do occur. Bunsen
+analysed fifteen examples of air collected at the same place at
+different times, and found the extreme range in the percentage of oxygen
+to be from 20.97 to 20.84. Regnault, from analyses of the air of Paris,
+obtained a variation of 20.999 to 20.913; country air varied from 20.903
+to 21.000; while air taken from over the sea showed an extreme variation
+of 20.940 to 20.850. Angus Smith determined London air to vary in oxygen
+content from 20.857 to 20.95, the air in parks and open spaces showing
+the higher percentage; Glasgow air showed similar results, varying from
+20.887 in the streets to 20.929 in open spaces.
+
+In addition to nitrogen and oxygen, there are a number of other gases
+and vapours generally present in the atmosphere. Of these, argon and its
+allies were the last to be definitely isolated. Carbon dioxide is
+invariably present, as was inferred by Dr David Macbride (1726-1778) of
+Dublin in 1764, but in a proportion which is not absolutely constant; it
+tends to increase at night, and during dry winds and fogs, and it is
+greater in towns than in the country and on land than on the sea. Water
+vapour is always present; the amount is determined by instruments termed
+hygrometers (q.v.). Ozone (q.v.) occurs, in an amount supposed to be
+associated with the development of atmospheric electricity (lightning,
+&c.); this amount varies with the seasons, being a maximum in spring,
+and decreasing through summer and autumn to a minimum in winter.
+Hydrogen dioxide occurs in a manner closely resembling ozone. Nitric
+acid and lower nitrogen oxides are present, being formed by electrical
+discharges, and by the oxidation of atmospheric ammonia by ozone. The
+amount of nitric acid varies from place to place; rain-water, collected
+in the country, has been found to contain an average of 0.5 parts in a
+million, but town rain-water contains more, the greater amounts being
+present in the more densely populated districts. Ammonia is also
+present, but in very varying amounts, ranging from 135 to 0.1 parts
+(calculated as carbonate) in a million parts of air. Ammonia is carried
+back to the soil by means of rain, and there plays an important part in
+providing nitrogenous matter which is afterwards assimilated by
+vegetable life.
+
+The average volume composition of the gases of the atmosphere may be
+represented (in parts per 10,000) as follows:--
+
+  Oxygen          2065.94      Ozone             0.015
+  Nitrogen        7711.60      Aqueous vapour  140.00
+  Argon (about)     79.00      Nitric acid       0.08
+  Carbon dioxide     3.36      Ammonia           0.005
+
+In addition to these gases, there are always present in the atmosphere
+many micro-organisms or bacteria (see BACTERIOLOGY); another invariable
+constituent is dust (q.v.), which plays an important part in
+meteorological phenomena.
+
+Reference should be made to the articles BAROMETER, CLIMATE and
+METEOROLOGY for the measurement and variation of the pressure of the
+atmosphere, and the discussion of other properties.

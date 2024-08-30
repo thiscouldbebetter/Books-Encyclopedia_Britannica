@@ -1,0 +1,1593 @@
+ATMOSPHERIC ELECTRICITY. 1. It was not until the middle of the 18th
+century that experiments due to Benjamin Franklin showed that the
+electric phenomena of the atmosphere are not fundamentally different
+from those produced in the laboratory. For the next century the rate of
+progress was slow, though the ideas of Volta in Italy and the
+instrumental devices of Sir Francis Ronalds in England merit
+recognition. The invention of the portable electrometer and the
+water-dropping electrograph by Lord Kelvin in the middle of the 19th
+century, and the greater definiteness thus introduced into observational
+results, were notable events. Towards the end of the 19th century came
+the discovery made by W. Linss (6)[1] and by J. Elster and H. Geitel (7)
+that even the most perfectly insulated conductors lose their charge, and
+that this loss depends on atmospheric conditions. Hard on this came the
+recognition of the fact that freely charged positive and negative ions
+are always present in the atmosphere, and that a radioactive emanation
+can be collected. Whilst no small amount of observational work has been
+done in these new branches of atmospheric electricity, the science has
+still not developed to a considerable extent beyond preliminary stages.
+Observations have usually been limited to a portion of the year, or to a
+few hours of the day, whilst the results from different stations differ
+much in details. It is thus difficult to form a judgment as to what has
+most claim to acceptance as the general law, and what may be regarded as
+local or exceptional.
+
+2. _Potential Gradient._--In dry weather the electric potential in the
+atmosphere is normally positive relative to the earth, and increases
+with the height. The existence of _earth currents_ (q.v.) shows that the
+earth, strictly speaking, is not all at one potential, but the natural
+differences of potential between points on the earth's surface a mile
+apart are insignificant compared to the normal potential difference
+between the earth and a point one foot above it. What is aimed at in
+ordinary observations of atmospheric potential is the measurement of the
+difference of potential between the earth and a point a given distance
+above it, or of the difference of potential between two points in the
+same vertical line a given distance apart. Let a conductor, say a
+metallic sphere, be supported by a metal rod of negligible electric
+capacity whose other end is earthed. As the whole conductor must be at
+zero (i.e. the earth's) potential, there must be an induced charge on
+the sphere, producing at its centre a potential equal but of opposite
+sign to what would exist at the same spot in free air. This neglects any
+charge in the air displaced by the sphere, and assumes a statical state
+of conditions and that the conductor itself exerts no disturbing
+influence. Suppose now that the sphere's earth connexion is broken and
+that it is carried without loss of charge inside a building at zero
+potential. If its potential as observed there is -V (volts), then the
+potential of the air at the spot occupied by the sphere was +V. This
+method in one shape or another has been often employed. Suppose next
+that a fixed insulated conductor is somehow kept at the potential of the
+air at a given point, then the measurement of its potential is
+equivalent to a measurement of that of the air. This is the basis of a
+variety of methods. In the earliest the conductor was represented by
+long metal wires, supported by silk or other insulating material, and
+left to pick up the air's potential. The addition of sharp points was a
+step in advance; but the method hardly became a quantitative one until
+the sharp points were replaced by a flame (fuse, gas, lamp), or by a
+liquid jet breaking into drops. The matter leaving the conductor,
+whether the products of combustion or the drops of a liquid, supplies
+the means of securing equality of potential between the conductor and
+the air at the spot where the matter quits electrical connexion with the
+conductor. Of late years the function of the collector is discharged in
+some forms of apparatus by a salt of radium. Of flame collectors the two
+best known are Lord Kelvin's portable electrometer with a fuse, or F.
+Exner's gold leaf electroscope in conjunction with an oil lamp or gas
+flame. Of liquid collectors the representative is Lord Kelvin's
+water-dropping electrograph; while Benndorf's is the form of radium
+collector that has been most used. It cannot be said that any one form
+of collector is superior all round. Flame collectors blow out in high
+winds, whilst water-droppers are apt to get frozen in winter. At first
+sight the balance of advantages seems to lie with radium. But while
+gaseous products and even falling water are capable of modifying
+electrical conditions in their immediate neighbourhood, the "infection"
+produced by radium is more insidious, and other drawbacks present
+themselves in practice. It requires a radium salt of high radioactivity
+to be at all comparable in effectiveness with a good water-dropper.
+Experiments by F. Linke (8) indicated that a water-dropper having a
+number of fine holes, or having a fine jet under a considerable
+pressure, picks up the potential in about a tenth of the time required
+by the ordinary radium preparation protected by a glass tube. These fine
+jet droppers with a mixture of alcohol and water have proved very
+effective for balloon observations.
+
+  TABLE I.--_Annual Variation Potential Gradient._
+
+  +---------------------------------+-----+-----+-----+-----+-----+-----+----+----+-----+-----+-----+-----+
+  | Place and Period.               | Jan.| Feb.|March|April| May | June|July|Aug.|Sept.| Oct.| Nov.| Dec.|
+  +---------------------------------+-----+-----+-----+-----+-----+-----+----+----+-----+-----+-----+-----+
+  | Karasjok (10), 1903-1904        | 143 | 150 | 137 |  94 |  74 |  65 | 70 | 67 |  67 |  87 | 120 | 126 |
+  | Sodankylä (31), 1882-1883       |  94 | 133 | 148 | 155 | 186 |  93 | 53 | 77 |  47 |  72 |  71 |  71 |
+  | Potsdam (9), 1904               | 167 |  95 | 118 |  88 |  93 |  72 | 73 | 65 |  97 | 101 | 108 | 123 |
+  | Kew (12), 1898-1904             | 127 | 141 | 113 |  87 |  77 |  70 | 61 | 72 |  76 |  96 | 126 | 153 |
+  | Greenwich (13), 1893-1894, 1896 | 110 | 112 | 127 | 107 |  83 |  71 | 76 | 84 |  83 | 104 | 104 | 139 |
+  | Florence (14), 1883-1886        | 132 | 110 |  98 |  84 |  86 |  81 | 77 | 90 |  89 |  99 | 129 | 125 |
+  | Perpignan (15), 1886-1888       | 121 | 112 | 108 |  89 |  91 |  92 | 89 | 82 |  74 |  99 | 122 | 121 |
+  | Lisbon (16), 1884-1886          | 104 | 105 | 104 |  92 |  91 |  93 | 87 | 92 | 100 |  99 | 115 | 117 |
+  | Tokyo (17), 1897-1898, 1900-1901| 165 | 145 | 117 |  86 |  62 |  58 | 41 | 59 |  59 |  97 | 134 | 176 |
+  | Batavia (18)(2 m.), 1887-1890   |  97 | 115 | 155 | 127 | 129 | 105 | 79 | 62 |  69 |  79 |  90 |  93 |
+  |     "     (7.8 m.)  1890-1895   | 100 |  89 | 103 | 120 |  98 | 103 | 85 | 99 |  73 | 101 | 117 | 112 |
+  +---------------------------------+-----+-----+-----+-----+-----+-----+----+----+-----+-----+-----+-----+
+
+3. Before considering observational data, it is expedient to mention
+various sources of uncertainty. Above the level plain of absolutely
+smooth surface, devoid of houses or vegetation, the equipotential
+surfaces under normal conditions would be strictly horizontal, and if we
+could determine the potential at one metre above the ground we should
+have a definite measure of the potential gradient at the earth's
+surface. The presence, however, of apparatus or observers upsets the
+conditions, while above uneven ground or near a tree or a building the
+equipotential surfaces cease to be horizontal. In an ordinary climate a
+building seems to be practically at the earth's potential; near its
+walls the equipotential surfaces are highly inclined, and near the
+ridges they may lie very close together. The height of the walls in the
+various observatories, the height of the collectors, and the distance
+they project from the wall vary largely, and sometimes there are
+external buildings or trees sufficiently near to influence the
+potential. It is thus futile to compare the absolute voltages met with
+at two stations, unless allowance can be made for the influence of the
+environment. With a view to this, it has become increasingly common of
+late years to publish not the voltages actually observed, but values
+deduced from them for the potential gradient in the open in volts per
+metre. Observations are made at a given height over level open ground
+near the observatory, and a comparison with the simultaneous results
+from the self-recording electrograph enables the records from the latter
+to be expressed as potential gradients in the open. In the case,
+however, of many observatories, especially as regards the older records,
+no data for reduction exist; further, the reduction to the open is at
+best only an approximation, the success attending which probably varies
+considerably at different stations. This is one of the reasons why in
+the figures for the annual and diurnal variations in Tables I., II. and
+III., the potential has been expressed as percentages of its mean value
+for the year or the day. In most cases the environment of a collector is
+not absolutely invariable. If the shape of the equipotential surfaces
+near it is influenced by trees, shrubs or grass, their influence will
+vary throughout the year. In winter the varying depth of snow may exert
+an appreciable effect. There are sources of uncertainty in the
+instrument itself. Unless the insulation is perfect, the potential
+recorded falls short of that at the spot where the radium is placed or
+the water jet breaks. The action of the collector is opposed by the
+leakage through imperfect insulation, or natural dissipation, and this
+may introduce a fictitious element into the apparent annual or diurnal
+variation. The potentials that have to be dealt with are often hundreds
+and sometimes thousands of volts, and insulation troubles are more
+serious than is generally appreciated. When a water jet serves as
+collector, the pressure under which it issues should be practically
+constant. If the pressure alters as the water tank empties, a
+discontinuity occurs in the trace when the tank is refilled, and a
+fictitious element may be introduced into the diurnal variation. When
+rain or snow is falling, the potential frequently changes rapidly. These
+changes are often too rapid to be satisfactorily dealt with by an
+ordinary electrometer, and they sometimes leave hardly a trace on the
+photographic paper. Again rain dripping from exposed parts of the
+apparatus may materially affect the record. It is thus customary in
+calculating diurnal inequalities either to take no account of days on
+which there is an appreciable rainfall, or else to form separate tables
+for "dry" or "fine" days and for "all" days. Speaking generally, the
+exclusion of days of rain and of negative potential comes pretty much to
+the same thing, and the presence or absence of negative potential is not
+infrequently the criterion by reference to which days are rejected or
+are accepted as normal.
+
+  4. The potential gradient near the ground varies with the season of
+  the year and the hour of the day, and is largely dependent on the
+  weather conditions. It is thus difficult to form even a rough estimate
+  of the mean value at any place unless hourly readings exist, extending
+  over the whole or the greater part of a year. It is even somewhat
+  precipitate to assume that a mean value deduced from a single year is
+  fairly representative of average conditions. At Potsdam, G. Lüdeling
+  (9) found for the mean value for 1904 in volts per metre 242. At
+  Karasjok in the extreme north of Norway G.C. Simpson (10) in 1903-1904
+  obtained 139. At Kremsmünster for 1902 P.B. Zölss(11) gives 98. At Kew
+  (12) the mean for individual years from 1898 to 1904 varied from 141
+  in 1900 to 179 in 1899, the mean from the seven years combined being
+  159. The large difference between the means obtained at Potsdam and
+  Kremsmünster, as compared to the comparative similarity between the
+  results for Kew and Karasjok, suggests that the mean value of the
+  potential gradient may be much more dependent on local conditions than
+  on difference of latitude.
+
+  At any single station potential gradient has a wide range of values.
+  The largest positive and negative values recorded are met with during
+  disturbed weather. During thunderstorms the record from an
+  electrograph shows large sudden excursions, the trace usually going
+  off the sheet with every flash of lightning when the thunder is near.
+  Exactly what the potential changes amount to under such circumstances
+  it is impossible to say; what the trace shows depends largely on the
+  type of electrometer. Large rapid changes are also met with in the
+  absence of thunder during heavy rain or snow fall. In England the
+  largest values of a sufficiently steady character to be shown
+  correctly by an ordinary electrograph occur during winter fogs. At
+  such times gradients of +400 or +500 volts per metre are by no means
+  unusual at Kew, and voltages of 700 or 800 are occasionally met with.
+
+  5. Annual Variation.--Table I. gives the annual variation of the
+  potential gradient at a number of stations arranged according to
+  latitude, the mean value for the whole year being taken in each case
+  as 100. Karasjok as already mentioned is in the extreme north of
+  Norway (69° 17' N.); Sodankylä was the Finnish station of the
+  international polar year 1882-1883. At Batavia, which is near the
+  equator (6° 11' S.) the annual variation seems somewhat irregular.
+  Further, the results obtained with the water-dropper at two
+  heights--viz. 2 and 7.8 metres--differ notably. At all the other
+  stalions the difference between summer and winter months is
+  conspicuous. From the European data one would be disposed to conclude
+  that the variation throughout the year diminishes as one approaches
+  the equator. It is decidedly less at Perpignan and Lisbon than at
+  Potsdam, Kew and Greenwich, but nowhere is the seasonal difference
+  more conspicuous than at Tokyo, which is south of Lisbon.
+
+    TABLE II.--_Diurnal Variation Potential Gradient_.
+
+    +-------+--------+---------+-------------+---------+--------+---------+--------+-------+-------------+---------+
+    |Station|Karasjok|Sodankylä| Kew(19, 12).|Greenwich|Florence|Perpignan| Lisbon.| Tokyo.|   Batavia.  |  Cape   |
+    |       |        |         |             |         |        |         |        |       |             |Horn(20).|
+    +-------+--------+---------+------+------+---------+--------+---------+--------+-------+------+------+---------+
+    |Period | 1903-4.| 1882-83 | 1862-| 1898-| 1893-96.|1883-85.| 1886-88.|1884-86.|1897-98| 1887-| 1890-| 1882-83.|
+    |       |        |         | 1864.| 1904.|         |        |         |        |1900-1.| 1890.| 1895.|         |
+    +-------+--------+---------+------+------+---------+--------+---------+--------+-------+------+------+---------+
+    | Days. |        |   All.  | All. |Quiet.|   All.  |  All.  |  Fine.  |  All.  |  All. | Dry. | Dry. |   Pos.  |
+    +-------+--------+---------+------+------+---------+--------+---------+--------+-------+------+------+---------+
+    |   h   |  5.5   |   3.0   | 3.5  | 3.35 |   3.0   |        |   8.4   |   3.0  |  1.7  |   2  |  7.8 |   3.5   |
+    |   l   |        |   2.5   | 1.0  | 1.3  |   1.8   |        |   1.5   |   0.5  |  2.0  |      |  7.8 |   2.0   |
+    +-------+--------+---------+------+------+---------+--------+---------+--------+-------+------+------+---------+
+    |  Hour |        |         |      |      |         |        |         |        |       |      |      |         |
+    |   1   |   83   |    91   |   87 |   93 |    97   |    92  |    78   |    84  |  101  |  147 |  125 |    82   |
+    |   2   |   73   |    85   |   79 |   88 |    89   |    83  |    72   |    80  |   98  |  141 |  114 |    73   |
+    |   3   |   66   |    82   |   74 |   84 |    87   |    77  |    71   |    78  |   97  |  135 |  109 |    85   |
+    |   4   |   63   |    84   |   72 |   83 |    86   |    75  |    72   |    81  |   99  |  128 |  102 |    81   |
+    |   5   |   60   |    89   |   71 |   85 |    86   |    74  |    77   |    83  |  121  |  127 |  101 |    85   |
+    |   6   |   68   |    91   |   77 |   93 |    92   |    82  |    92   |    92  |  154  |  137 |  117 |    95   |
+    |   7   |   81   |    97   |   92 |  103 |   100   |   100  |   107   |   101  |  167  |  158 |  147 |   106   |
+    |   8   |   87   |   100   |  106 |  112 |   102   |   112  |   114   |   105  |  149  |  104 |  119 |   118   |
+    |   9   |   94   |    98   |  107 |  115 |   100   |   113  |   111   |   104  |  117  |   67 |   82 |   119   |
+    |  10   |  101   |   102   |  100 |  112 |   101   |   107  |   100   |   104  |   87  |   42 |   55 |   123   |
+    |  11   |   99   |    98   |   90 |  101 |    96   |   100  |    96   |   102  |   70  |   35 |   46 |   123   |
+    | Noon. |  103   |   102   |   92 |   94 |    97   |    95  |    99   |   108  |   61  |   30 |   43 |   115   |
+    |   1   |  106   |   105   |   90 |   89 |    96   |    92  |    99   |   111  |   54  |   30 |   42 |   112   |
+    |   2   |  108   |   107   |   91 |   87 |    94   |    90  |    97   |   114  |   49  |   30 |   43 |    94   |
+    |   3   |  108   |   108   |   92 |   88 |    95   |    89  |    99   |   109  |   53  |   33 |   46 |    89   |
+    |   4   |  109   |   108   |   98 |   93 |    97   |    89  |   105   |   108  |   61  |   41 |   53 |    88   |
+    |   5   |  110   |   108   |  108 |   99 |   102   |    94  |   113   |   108  |   76  |   67 |   73 |    84   |
+    |   6   |  119   |   110   |  121 |  108 |   108   |   113  |   126   |   111  |   95  |   91 |  108 |   110   |
+    |   7   |  129   |   102   |  134 |  115 |   111   |   121  |   131   |   116  |  107  |  120 |  145 |   107   |
+    |   8   |  136   |   111   |  139 |  118 |   115   |   129  |   129   |   114  |  114  |  137 |  155 |   123   |
+    |   9   |  139   |   111   |  138 |  119 |   117   |   132  |   120   |   109  |  119  |  146 |  155 |   112   |
+    |  10   |  133   |   104   |  128 |  115 |   117   |   127  |   109   |   102  |  120  |  148 |  147 |    99   |
+    |  11   |  121   |   108   |  113 |  108 |   111   |   114  |    97   |    92  |  119  |  151 |  143 |    85   |
+    |  12   |  102   |    93   |   99 |   99 |   104   |   100  |    86   |    85  |  112  |  147 |  130 |    98   |
+    +-------+--------+---------+------+------+---------+--------+---------+--------+-------+------+------+---------+
+
+    TABLE III.--_Diurnal Variation Potential Gradient_.
+
+    +--------+-----------+-----------+-----------------+-----------+-----------+---------+-----------+-----------+
+    |Station.| Karasjok. | Sodankylä.|       Kew.      | Greenwich.|  Bureau   | Eiffel  | Perpignan |  Batavia  |
+    |        |           |           |                 |           |Central(21)|Tower(21)|   (21).   |  (2 m.)   |
+    +--------+-----------+-----------+-----------------+-----------+-----------+---------+-----------+-----------+
+    | Period.|  1903-4.  |  1882-83. |    1898-1904.   |1894, 1896.|  1894-99. | 1896-98.|  1885-95. |  1887-90. |
+    +--------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+---------+-----+-----+-----+-----+
+    |        | Win-| Sum-| Win-| Sum-| Win-|Equi-| Sum-| Win-| Sum-| Win-| Sum-| Summer. | Win-| Sum-| Win | Sum-|
+    |        | ter.| mer.| ter.| mer.| ter.| nox.| mer.| ter.| mer.| ter.| mer.|         | ter.| mer.| ter.| mer.|
+    +--------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+---------+-----+-----+-----+-----+
+    |  Hour. |     |     |     |     |     |     |     |     |     |     |     |         |     |     |     |     |
+    |    1   |  76 | 104 |  90 |  99 |  91 |  93 |  96 |  87 | 110 |  79 | 102 |    90   |  72 |  88 | 145 | 149 |
+    |    2   |  66 |  96 |  79 |  84 |  86 |  88 |  90 |  84 | 101 |  71 |  92 |    83   |  67 |  83 | 139 | 142 |
+    |    3   |  57 |  89 |  78 |  90 |  82 |  85 |  85 |  76 |  98 |  70 |  88 |    79   |  66 |  81 | 137 | 135 |
+    |    4   |  55 |  83 |  74 |  99 |  81 |  84 |  84 |  77 |  96 |  69 |  84 |    76   |  67 |  83 | 131 | 127 |
+    |    5   |  50 |  79 |  74 | 111 |  82 |  87 |  90 |  78 |  94 |  75 |  94 |    78   |  72 |  92 | 132 | 123 |
+    |    6   |  61 |  83 |  80 | 114 |  86 |  97 | 101 |  82 | 101 |  83 | 106 |    87   |  84 | 107 | 138 | 136 |
+    |    7   |  78 |  89 |  86 | 117 |  95 | 109 | 113 |  94 | 107 |  98 | 118 |    97   | 104 | 114 | 166 | 153 |
+    |    8   |  82 |  93 |  95 | 122 | 104 | 118 | 120 |  97 | 111 | 111 | 120 |   103   | 122 | 108 | 118 |  92 |
+    |    9   |  90 |  93 |  91 | 109 | 111 | 119 | 119 |  98 | 102 | 113 | 106 |   110   | 126 | 100 |  74 |  64 |
+    |   10   | 104 |  93 | 106 | 101 | 114 | 110 | 110 | 102 |  98 | 111 |  94 |   109   | 114 |  93 |  43 |  40 |
+    |   11   | 102 |  92 |  98 |  97 | 107 |  95 |  97 | 103 |  86 | 108 |  84 |   107   |  98 |  90 |  35 |  36 |
+    |  Noon. | 119 |  90 |  98 | 100 | 102 |  86 |  87 | 107 |  94 | 106 |  77 |   104   |  99 |  95 |  31 |  30 |
+    |    1   | 116 |  94 | 116 |  97 |  99 |  81 |  80 | 107 |  85 | 112 |  79 |   107   |  96 |  93 |  29 |  33 |
+    |    2   | 118 |  97 | 113 |  97 |  97 |  80 |  76 | 109 |  82 | 112 |  81 |   110   |  94 |  90 |  28 |  32 |
+    |    3   | 119 | 100 | 121 |  93 |  99 |  82 |  76 | 111 |  78 | 111 |  78 |   107   |  95 |  88 |  24 |  41 |
+    |    4   | 115 |  99 | 111 |  96 | 103 |  88 |  80 | 116 |  81 | 113 |  80 |   105   | 102 |  92 |  30 |  49 |
+    |    5   | 120 | 106 | 105 | 106 | 108 |  96 |  87 | 112 |  93 | 120 |  85 |   106   | 115 |  98 |  60 |  74 |
+    |    6   | 131 | 104 | 115 |  92 | 111 | 109 |  98 | 114 |  98 | 124 |  97 |   109   | 128 | 110 |  88 |  94 |
+    |    7   | 136 | 110 | 118 | 102 | 114 | 120 | 111 | 117 |  99 | 124 | 123 |   113   | 133 | 122 | 119 | 122 |
+    |    8   | 134 | 113 | 117 | 106 | 112 | 124 | 123 | 113 | 108 | 116 | 134 |   110   | 131 | 127 | 138 | 135 |
+    |    9   | 137 | 125 | 115 |  90 | 111 | 123 | 129 | 111 | 118 | 104 | 130 |   109   | 124 | 125 | 145 | 147 |
+    |   10   | 125 | 135 | 112 |  90 | 108 | 118 | 125 | 110 | 124 |  97 | 122 |   105   | 111 | 117 | 148 | 148 |
+    |   11   | 114 | 126 | 113 | 103 | 103 | 109 | 116 | 102 | 120 |  90 | 115 |   101   |  96 | 108 | 149 | 152 |
+    |   12   |  96 | 111 |  95 |  85 |  96 |  99 | 105 |  93 | 116 |  83 | 108 |    94   |  83 |  95 | 148 | 146 |
+    +--------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+---------+-----+-----+-----+-----+
+
+  At the temperate stations the maximum occurs near midwinter; in the
+  Arctic it seems deferred towards spring.
+
+  6. _Diurnal Variation._--Table II. gives the mean diurnal variation
+  for the whole year at a number of stations arranged in order of
+  latitude, the mean from the 24 hourly values being taken as 100. The
+  data are some from "all" days, some from "quiet," "fine" or "dry"
+  days. The height, h, and the distance from the wall, l, were the
+  potential is measured are given in metres when known. In most cases
+  two distinct maxima and minima occur in the 24 hours. The principal
+  maximum is usually found in the evening between 8 and 10 P.M., the
+  principal minimum in the morning from 3 to 5 A.M. At some stations the
+  minimum in the afternoon is indistinctly shown, but at Tokyo and
+  Batavia it is mu	ch more conspicuous than the morning minimum.
+
+  [Illustration: FIG. 1.]
+
+  7. In Table III. the diurnal inequality is shown for "winter" and
+  "summer" respectively. In all cases the mean value for the 24 hours is
+  taken as 100. By "summer" is meant April to September at Sodankylä,
+  Greenwich and Batavia; May to August at Kew, Bureau Central (Paris),
+  Eiffel Tower and Perpignan; and May to July at Karasjok. "Winter"
+  includes October to March at Sodankylä, Greenwich and Batavia;
+  November to February at Kew and Bureau Central; November to January at
+  Karasjok, and December and January at Perpignan. Mean results from
+  March, April, September and October at Kew are assigned to "Equinox."
+
+  At Batavia the difference between winter and summer is comparatively
+  small. Elsewhere there is a tendency for the double period, usually so
+  prominent in summer, to become less pronounced in winter, the
+  afternoon minimum tending to disappear. Even in summer the double
+  period is not prominent in the arctic climate of Karasjok or on the
+  top of the Eiffel Tower. The diurnal variation in summer at the latter
+  station is shown graphically in the top curve of fig. 1. It presents a
+  remarkable resemblance to the adjacent curve, which gives the diurnal
+  variation at mid-winter at the Bureau Central. The resemblance between
+  these curves is much closer than that between the Bureau Central's own
+  winter and summer curves. All three Paris curves show three peaks, the
+  first and third representing the ordinary forenoon and afternoon
+  maxima. In summer at the Bureau Central the intermediate peak nearly
+  disappears in the profound afternoon depression, but it is still
+  recognizable. This three-peaked curve is not wholly peculiar to Paris,
+  being seen, for instance, at Lisbon in summer. The December and June
+  curves for Kew are good examples of the ordinary nature of the
+  difference between midwinter and midsummer. The afternoon minimum at
+  Kew gradually deepens as midsummer approaches. Simultaneously the
+  forenoon maximum occurs earlier and the afternoon maximum later in the
+  day. The two last curves in the diagram contrast the diurnal variation
+  at Kew in potential gradient and in barometric pressure for the year
+  as a whole. The somewhat remarkable resemblance between the diurnal
+  variation for the two elements, first remarked on by J.D. Everett
+  (19), is of interest in connexion with recent theoretical conclusions
+  by J.P. Elster and H.F.K. Geitel and by H. Ebert.
+
+  In the potential curves of the diagram the ordinates represent the
+  hourly values expressed--as in Tables II. and III.--as percentages of
+  the mean value for the day. If this be overlooked, a wrong impression
+  may be derived as to the absolute amplitudes of the changes. The Kew
+  curves, for instance, might suggest that the range (maximum less
+  minimum hourly value) was larger in June than in December. In reality
+  the December range was 82, the June only 57 volts; but the mean value
+  of the potential was 243 in December as against 111 in June. So again,
+  in the case of the Paris curves, the absolute value of the diurnal
+  range in summer was much greater for the Eiffel Tower than for the
+  Bureau Central, but the mean voltage was 2150 at the former station
+  and only 134 at the latter.
+
+  8. _Fourier Coefficients._--Diurnal inequalities such as those of
+  Tables II. and III. and intended to eliminate irregular changes, but
+  they also to some extent eliminate regular changes if the hours of
+  maxima and minima or the character of the diurnal variation alter
+  throughout the year. The alteration that takes place in the regular
+  diurnal inequality throughout the year is best seen by analysing it
+  into a Fourier series of the type
+
+    c1 sin(t + a1) + c2 sin(2t + a2) + c3 sin(3t + a3) +
+       + c4 sin(4t + a4) + ...
+
+  where t denotes time counted from (local) midnight, c1, c2, c3, c4,
+  ... are the amplitudes of the component harmonic waves of periods 24,
+  12, 8 and 6 hours; a1, a2, a3, a4, are the corresponding phase angles.
+  One hour of time t is counted as 15°, and a delay of one hour in the
+  time of maximum answers to a diminution of 15° in a1, of 30° in a2,
+  and so on. If a1, say, varies much throughput the year, or if the
+  ratios of c2, c3, c4, ... to c1, vary much, then a diurnal inequality
+  derived from a whole year, or from a season composed of several
+  months, represents a mean curve arising from the superposition of a
+  number of curves, which differ in shape and in the positions of their
+  maxima and minima. The result, if considered alone, inevitably leads
+  to an underestimate of the average amplitude of the regular diurnal
+  variation.
+
+  It is also desirable to have an idea of the size of the irregular
+  changes which vary from one day to the next. On stormy days, as
+  already mentioned, the irregular changes hardly admit of satisfactory
+  treatment. Even on the quietest days irregular changes are always
+  numerous and often large.
+
+  Table IV. aims at giving a summary of the several phenomena for a
+  single station, Kew, on electrically quiet days. The first line gives
+  the mean value of the potential gradient, the second the mean excess
+  of the largest over the smallest hourly value on individual days. The
+  hourly values are derived from smoothed curves, the object being to
+  get the mean ordinate for a 60-minute period. If the actual crests of
+  the excursions had been measured the figures in the second line would
+  have been even larger. The third line gives the range of the _regular_
+  diurnal inequality, the next four lines the amplitudes of the first
+  four Fourier waves into which the regular diurnal inequality has been
+  analysed. These mean values, ranges and amplitudes are all measured in
+  volts per metre (in the open). The last four lines of Table IV. give
+  the phase angles of the first four Fourier waves.
+
+    TABLE IV.--_Absolute Potential Data at Kew_ (12).
+
+    +--------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+    |                                | Jan.| Feb.| Mar.| Apr.| May | June| July| Aug.| Sep.| Oct.| Nov.| Dec.|
+    +--------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+    | Mean Potential Gradient        | 201 | 224 | 180 | 138 | 123 | 111 |  98 | 114 | 121 | 153 | 200 | 243 |
+    | Mean of individual daily ranges| 203 | 218 | 210 | 164 | 143 | 143 | 117 | 129 | 141 | 196 | 186 | 213 |
+    | Range in Diurnal inequality    |  73 |  94 |  83 |  74 |  71 |  57 |  55 |  60 |  54 |  63 |  52 |  82 |
+    |                           / c1 |  22 |  22 |  17 |  13 |  18 |   9 |   6 |   6 |   9 |   7 |  14 |  30 |
+    | Amplitudes of Fourier     | c2 |  21 |  33 |  34 |  31 |  22 |  23 |  24 |  26 |  23 |  30 |  17 |  21 |
+    |   waves                  <  c3 |   7 |  10 |   5 |   5 |   3 |   1 |   3 |   2 |   3 |   6 |   5 |   7 |
+    |                           \ c4 |   2 |   3 |   5 |   6 |   4 |   1 |   4 |   3 |   4 |   3 |   2 |   3 |
+    |                                +-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+    |                                |  °  |  °  |  °  |  °  |  °  |  °  |  °  |  °  |  °     °  |  °  |  °  |
+    |                           / a1 | 206 | 204 | 123 |  72 |  86 |  79 |  48 | 142 | 154 | 192 | 202 | 208 |
+    | Phase angles of Fourier   | a1 | 170 | 171 | 186 | 193 | 188 | 183 | 185 | 182 | 199 | 206 | 212 | 175 |
+    |  waves                   <  a3 |  11 |   9 |  36 |  96 | 100 | 125 | 124 | 107 |  16 |  18 |  38 |  36 |
+    |                           \ a1 | 235 | 225 | 307 | 314 | 314 | 277 | 293 | 313 | 330 | 288 | 238 | 249 |
+    +--------------------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+
+  It will be noticed that the difference between the greatest and least
+  hourly values is, in all but three winter months, actually larger than
+  the mean value of the potential gradient for the day; it bears to the
+  range of the regular diurnal inequality a ratio varying from 2.0 in
+  May to 3.6 in November.
+
+  At midwinter the 24-hour term is the largest, but near midsummer it is
+  small compared to the 12-hour term. The 24-hour term is very variable
+  both as regards its amplitude and its phase angle (and so its hour of
+  maximum). The 12-hour term is much less variable, especially as
+  regards its phase angle; its amplitude shows distinct maxima near the
+  equinoxes. That the 8-hour and 6-hour waves, though small near
+  midsummer, represent more than mere accidental irregularities, seems a
+  safe inference from the regularity apparent in the annual variation of
+  their phase angles.
+
+    TABLE V.--_Fourier Series Amplitudes and Phase Angles._
+
+    +------------------+---------+-------------------------+-------------------------+
+    |                  |         |         Winter.         |         Summer .        |
+    |      Place.      | Period. +------+------+-----+-----+------+------+-----+-----+
+    |                  |         |  c1. |  c2. | a1. | a2. |  c1. |  c2. | a1. | a2. |
+    +------------------+---------+------+------+-----+-----+------+------+-----+-----+
+    |                  |         |      |      |  °  |  °  |      |      |  °  |  °  |
+    | Kew              | 1862-64 |0.283 |0.160 | 184 | 193 |0.127 |0.229 | 111 | 179 |
+    |  "               |1898-1904| .102 | .103 | 206 | 180 | .079 | .213 |  87 | 186 |
+    | Bureau Central   | 1894-98 | .220 | .104 | 223 | 206 | .130 | .200 |  95 | 197 |
+    | Eiffel Tower     | 1896-98 |  ..  |  ..  | ..  | ..  | .133 | .085 | 216 | 171 |
+    | Sonnblick (22)   | 1902-03 |  ..  |  ..  | ..  | ..  | .208 | .120 | 178 | 145 |
+    | Karasjok         | 1903-04 | .356 | .144 | 189 | 155 | .165 | .093 | 141 | 144 |
+    | Kremsmünster (23)|  1902   | .280 | .117 | 224 | 194 | .166 | .153 | 241 | 209 |
+    | Potsdam          |  1904   | .269 | .101 | 194 | 185 | .096 | .152 | 343 | 185 |
+    +------------------+---------+------+------+-----+-----+------+------+-----+-----+
+
+  9. Table V. gives some data for the 24-hour and 12-hour Fourier
+  coefficients, which will serve to illustrate the diversity between
+  different stations. In this table, unlike Table IV., amplitudes are
+  all expressed as decimals of the mean value of the potential gradient
+  for the corresponding season. "Winter" means generally the four
+  midwinter, and "summer" the four midsummer, months; but at Karasjok
+  three, and at Kremsmünster six, months are included in each season.
+  The results for the Sonnblick are derived from a comparatively small
+  number of days in August and September. At Potsdam the data represent
+  the arithmetic means derived from the Fourier analysis for the
+  individual months comprising the season. The 1862-1864 data from
+  Kew--due to J.D. Everett (19)--are based on "all" days; the others,
+  except Karasjok to some extent, represent electrically quiet days. The
+  cause of the large difference between the two sets of data for c1 at
+  Kew is uncertain. The potential gradient is in all cases lower in
+  summer than winter, and thus the reduction in c1 in summer would
+  appear even larger than in Table V. if the results were expressed in
+  absolute measure. At Karasjok and Kremsmünster the seasonal variation
+  in a1 seems comparatively small, but at Potsdam and the Bureau Central
+  it is as large as at Kew. Also, whilst the winter values of a1 are
+  fairly similar at the several stations the summer values are widely
+  different. Except at Karasjok, where the diurnal changes seem somewhat
+  irregular, the relative amplitude of the 12-hour term is considerably
+  greater in summer than in winter. The values of a2 at the various
+  stations differ comparatively little, and show but little seasonal
+  change. Thus the 12-hour term has a much greater uniformity than the
+  24-hour term. This possesses significance in connexion with the view,
+  supported by A.B. Chauveau (21), F. Exner (24) and others, that the
+  12-hour term is largely if not entirely a local phenomenon, due to the
+  action of the lower atmospheric strata, and tending to disappear even
+  in summer at high altitudes. Exner attributes the double daily
+  maximum, which is largely a consequence of the 12-hour wave, to a thin
+  layer near the ground, which in the early afternoon absorbs the solar
+  radiation of shortest wave length. This layer he believes specially
+  characteristic of arid dusty regions, while comparatively non-existent
+  in moist climates or where foliage is luxuriant. In support of his
+  theory Exner states that he has found but little trace of the double
+  maximum and minimum in Ceylon and elsewhere. C. Nordmann (25)
+  describes some similar results which he obtained in Algeria during
+  August and September 1905. His station, Philippeville, is close to the
+  shores of the Mediterranean, and sea breezes persisted during the day.
+  The diurnal variation showed only a single maximum and minimum,
+  between 5 and 6 P.M. and 4 and 5 A.M. respectively. So again, a few
+  days' observations on the top of Mont Blanc (4810 metres) by le Cadet
+  (26) in August and September 1902, showed only a single period, with
+  maximum between 3 and 4 P.M., and minimum about 3 A.M. Chauveau points
+  to the reduction in the 12-hour term as compared to the 24-hour term
+  on the Eiffel Tower, and infers the practical disappearance of the
+  former at no great height. The close approach in the values for c1 in
+  Table V. from the Bureau Central and the Eiffel Tower, and the
+  reduction of c2 at the latter station, are unquestionably significant
+  facts; but the summer value for c2 at Karasjok--a low level
+  station--is nearly as small as that at the Eiffel Tower, and notably
+  smaller than that at the Sonnblick (3100 metres). Again, Kew is
+  surrounded by a large park, not devoid of trees, and hardly the place
+  where Exner's theory would suggest a large value for c2, and yet the
+  summer value of c2 at Kew is the largest in Table V.
+
+  10. Observations on mountain tops generally show high potentials near
+  the ground. This only means that the equipotential surfaces are
+  crowded together, just as they are near the ridge of a house. To
+  ascertain how the increase in the voltage varies as the height in the
+  free atmosphere increases, it is necessary to employ kites or
+  balloons. At small heights Exner (27) has employed captive balloons,
+  provided with a burning fuse, and carrying a wire connected with an
+  electroscope on the ground. He found the gradient nearly uniform for
+  heights up to 30 to 40 metres above the ground. At great heights free
+  balloons seem necessary. The balloon carries two collectors a given
+  vertical distance apart. The potential difference between the two is
+  recorded, and the potential gradient is thus found. Some of the
+  earliest balloon observations made the gradient increase with the
+  height, but such a result is now regarded as abnormal. A balloon may
+  leave the earth with a charge, or become charged through discharge of
+  ballast. These possibilities may not have been sufficiently realized
+  at first. Among the most important balloon observations are those by
+  le Cadet (1) F. Linke (28) and H. Gerdien (29). The following are
+  samples from a number of days' results, given in le Cadet's book. h is
+  the height in metres, P the gradient in volts per metre.
+
+    Aug. 9, 1893  / h  824  830 1060 1255 1290 1745 1940 2080 2310 2520
+                  \ P   37   43   43   41   42   34   25   21   18   16
+
+    Sep. 11, 1897 / h 1140 1378 1630 1914 2370 2786 3136 3364 3912 4085
+                  \ P   43   38   33   25   22   21   19   19   14   13
+
+  The ground value on the last occasion was 150. From observations
+  during twelve balloon ascents, Linke concludes that below the
+  1500-metre level there are numerous sources of disturbance, the
+  gradient at any given height varying much from day to day and hour to
+  hour; but at greater heights there is much more uniformity. At heights
+  from 1500 to 6000 metres his observations agreed well with the formula
+
+    dV/dh = 34 - 0.006h,
+
+  V denoting the potential, h the height in metres. The formula makes
+  the gradient diminish from 25 volts per metre at 1500 metres height to
+  10 volts per metre at 4000 metres. Linke's mean value for dV/dh at the
+  ground was 125. Accepting Linke's formula, the potential at 4000
+  metres is 43,750 volts higher than at 1500 metres. If the mean of the
+  gradients observed at the ground and at 1500 metres be taken as an
+  approximation to the mean value of the gradient throughout the lowest
+  1500 metres of the atmosphere, we find for the potential at 1500
+  metres level 112,500 volts. Thus at 4000 metres the potential seems of
+  the order of 150,000 volts. Bearing this in mind, one can readily
+  imagine how close together the equipotential surfaces must lie near
+  the summit of a high sharp mountain peak.
+
+  11. At most stations a negative potential gradient is exceptional,
+  unless during rain or thunder. During rain the potential is usually
+  but not always negative, and frequent alternations of sign are not
+  uncommon. In some localities, however, negative potential gradient is
+  by no means uncommon, at least at some seasons, in the absence of
+  rain. At Madras, Michie Smith (30) often observed negative potential
+  during bright August and September days. The phenomenon was quite
+  common between 9.30 A.M. and noon during westerly winds, which at
+  Madras are usually very dry and dusty. At Sodankylä, in 1882-1883,
+  K.S. Lemström and F.C. Biese (31) found that out of 255 observed
+  occurrences of negative potential, 106 took place in the absence of
+  rain or snow. The proportion of occurrences of negative potential
+  under a clear sky was much above its average in autumn. At Sodankylä
+  rain or snowfall was often unaccompanied by change of sign in the
+  potential. At the polar station Godthaab (32) in 1882-1883, negative
+  potential seemed sometimes associated with aurora (see AURORA
+  POLARIS).
+
+  Lenard, Elster and Geitel, and others have found the potential
+  gradient negative near waterfalls, the influence sometimes extending
+  to a considerable distance. Lenard (33) found that when pure water
+  falls upon water the neighbouring air takes a negative charge. Kelvin,
+  Maclean and Gait (34) found the effect greatest in the air near the
+  level of impact. A sensible effect remained, however, after the
+  influence of splashing was eliminated. Kelvin, Maclean and Galt regard
+  this property of falling water as an objection to the use of a
+  water-dropper indoors, though not of practical importance when it is
+  used out of doors.
+
+  12. Elster and Geitel (35) have measured the charge carried by
+  raindrops falling into an insulated vessel. Owing to observational
+  difficulties, the exact measure of success attained is a little
+  difficult to gauge, but it seems fairly certain that raindrops usually
+  carry a charge. Elster and Geitel found the sign of the charge often
+  fluctuate repeatedly during a single rain storm, but it seemed more
+  often than not opposite to that of the simultaneous potential
+  gradient. Gerdien has more recently repeated the experiments,
+  employing an apparatus devised by him for the purpose. It has been
+  found by C.T.R. Wilson (36) that a vessel in which freshly fallen rain
+  or snow has been evaporated to dryness shows radioactive properties
+  lasting for a few hours. The results obtained from equal weights of
+  rain and snow seem of the same order.
+
+  13. W. Linss (6) found that an insulated conductor charged either
+  positively or negatively lost its charge in the free atmosphere; the
+  potential V after time t being connected with its initial value V0 by
+  a formula of the type V = V0e^(-at) where a is constant. This was
+  confirmed by Elster and Geitel (7), whose form of dissipation
+  apparatus has been employed in most recent work. The percentage of the
+  charge which is dissipated per minute is usually denoted by a+ or a-
+  according to its sign. The mean of a+ and a- is usually denoted by a±
+  or simply by a, while q is employed for the ratio a-/a+. Some
+  observers when giving mean values take [Sigma](a-/a+) as the mean
+  value of q, while others take [Sigma](a-)/[Sigma](a+). The Elster
+  and Geitel apparatus is furnished with a cover, serving to protect the
+  dissipator from the direct action of rain, wind or sunlight. It is
+  usual to observe with this cover on, but some observers, e.g. A.
+  Gockel, have made long series of observations without it. The loss of
+  charge is due to more than one cause, and it is difficult to attribute
+  an absolutely definite meaning even to results obtained with the cover
+  on. Gockel (37) says that the results he obtained without the cover
+  when divided by 3 are fairly comparable with those obtained under the
+  usual conditions; but the appropriate divisor must vary to some extent
+  with the climatic conditions. Thus results obtained for a+ or a-
+  without the cover are of doubtful value for purposes of comparison
+  with those found elsewhere with it on. In the case of q the
+  uncertainty is much less.
+
+    TABLE VI.--_Dissipation. Mean Values._
+
+    +--------------------------+-------+--------------+---------------------+------+------+
+    |           Place.         |Period.|    Season.   |     Observer or     |  a±  |  q   |
+    |                          |       |              |      Authority.     |      |      |
+    +--------------------------+-------+--------------+---------------------+------+------+
+    | Karasjok                 | 1903-4|     Year     | Simpson (10)        | 3.57 | 1.15 |
+    | Wolfenbüttel             |             Year     | Elster & Geitel (39)| 1.33 | 1.05 |
+    | Potsdam                  |  1904 |     Year     | Lüdeling (40)       | 1.13 | 1.33 |
+    | Kremsmüster              |  1902 |     Year     | Zölss (42)          | 1.32 | 1.18 |
+    |     "                    |  1903 |     Year     | Zölss (41)          | 1.35 | 1.14 |
+    | Freiburg                 |       |     Year     | Gockel (43)         |  ..  | 1.41 |
+    | Innsbruck                |  1902 |              | Czermak (44)        | 1.95 | 0.94 |
+    |     "                    |  1905 | Jan. to June | Defant (45)         | 1.47 | 1.17 |
+    | Mattsee (Salzburg)       |  1905 | July to Sept.| von Schweidler (46) |  ..  | 0.99 |
+    | Seewalchen               |  1904 | July to Sept.| von Schweidler (38) |  ..  | 1.18 |
+    | Trieste                  | 1902-3|     Year     | Mazelle (47)        | 0.58 | 1.09 |
+    | Misdroy                  |  1902 |              | Lüdeling (40)       | 1.09 | 1.58 |
+    | Swinemünde               |  1904 |Aug. and Sept.| Lüdeling (40)       | 1.23 | 1.37 |
+    | Heligoland (sands)       |  1903 |    Summer    | Elster & Geitel (40)| 1.14 | 1.71 |
+    |     "      plateau       |   "   |      "       |    "        "   (40)| 3.07 | 1.50 |
+    | Juist (Island)           |       |      "       |    "        "   (48)| 1.56 | 1.56 |
+    | Atlantic and German Ocean|  1904 |    August    | Boltzmann (49)      | 1.83 | 2.69 |
+    | Arosa (1800 m.)          |  1903 |Feb. to April | Saake (50)          | 1.79 | 1.22 |
+    | Rothhorn (2300 m.)       |  1903 |   September  | Gockel (43)         |  ..  | 5.31 |
+    | Sonnblick (3100 m.)      |  1903 |   September  | Conrad (22)         |  ..  | 1.75 |
+    | Mont Blanc (4810 m.)     |  1902 |   September  | le Cadet (43)       |  ..  |10.3  |
+    +--------------------------+-------+--------------+---------------------+------+------+
+
+  Table VI. gives the mean values of a± and q found at various places.
+  The observations were usually confined to a few hours of the day, very
+  commonly between 11 A.M. and 1 P.M., and in absence of information as
+  to the diurnal variation it is impossible to say how much this
+  influences the results. The first eight stations lie inland; that at
+  Seewalchen (38) was, however, adjacent to a large lake. The next five
+  stations are on the coast or on islands. The final four are at high
+  levels. In the cases where the observations were confined to a few
+  months the representative nature of the results is more doubtful.
+
+  On mountain summits q tends to be large, i.e. a negative charge is
+  lost much faster than a positive charge. Apparently q has also a
+  tendency to be large near the sea, but this phenomenon is not seen at
+  Trieste. An exactly opposite phenomenon, it may be remarked, is seen
+  near waterfalls, q becoming very small. Only Innsbruck and Mattsee
+  give a mean value of q less than unity. Also, as later observations at
+  Innsbruck give more normal values for q, some doubt may be felt as to
+  the earlier observations there. The result for Mattsee seems less open
+  to doubt, for the observer, von Schweidler, had obtained a normal
+  value for q during the previous year at Seewalchen. Whilst the average
+  q in at least the great majority of stations exceeds unity, individual
+  observations making q less than unity are not rare. Thus in 1902 (51)
+  the percentage of cases in which q fell short of 1 was 30 at Trieste,
+  33 at Vienna, and 35 at Kremsmünster; at Innsbruck q was less than 1
+  on 58 days out of 98.
+
+  In a long series of observations, individual values of q show usually
+  a wide range. Thus during observations extending over more than a
+  year, q varied from 0.18 to 8.25 at Kremsmünster and from 0.11 to 3.00
+  at Trieste. The values of a+, a- and a± also show large variations.
+  Thus at Trieste a+ varied from 0.12 to 4.07, and a- from 0.11 to 3.87;
+  at Vienna a+ varied from 0.32 to 7.10, and a- from 0.78 to 5.42; at
+  Kremsmünster a± varied from 0.14 to 5.83.
+
+  14. _Annual Variation._--When observations are made at irregular
+  hours, or at only one or two fixed hours, it is doubtful how
+  representative they are. Results obtained at noon, for example,
+  probably differ more from the mean value for the 24 hours at one
+  season than at another. Most dissipation results are exposed to
+  considerable uncertainty on these grounds. Also it requires a long
+  series of years to give thoroughly representative results for any
+  element, and few stations possess more than a year or two's
+  dissipation data. Table VII. gives comparative results for winter
+  (October to March) and summer at a few stations, the value for the
+  season being the arithmetic mean from the individual months composing
+  it. At Karasjok (10), Simpson observed thrice a day; the summer value
+  there is nearly double the winter both for a+ and a-. The Kremsmünster
+  (42) figures show a smaller but still distinct excess in the summer
+  values. At Trieste (47), Mazelle's data from all days of the year show
+  no decided seasonal change in a+ or a-; but when days on which the
+  wind was high are excluded the summer value is decidedly the higher.
+  At Freiburg (43), q seems decidedly larger in winter than in summer;
+  at Karasjok and Trieste the seasonal effect in q seems small and
+  uncertain.
+
+    TABLE VII.--_Dissipation._
+
+    +--------------------+---------------------------+---------------------------+
+    |                    |           Winter.         |           Summer.         |
+    +--------------------+------+------+------+------+------+------+------+------+
+    |       Place.       |  a+  |  a-  |  a±  |  q   |  a+  |  a-  |  a±  |  q   |
+    +--------------------+------+------+------+------+------+------+------+------+
+    | Karasjok 1903-1904 | 2.28 | 2.69 | 2.49 | 1.18 | 4.38 | 4.94 | 4.65 | 1.13 |
+    | Kremsmüster 1903   | 1.14 | 1.30 | 1.22 | 1.14 | 1.38 | 1.56 | 1.47 | 1.12 |
+    | Freiburg           |  ..  |  ..  |  ..  | 1.57 |  ..  |  ..  |  ..  | 1.26 |
+    | Trieste 1902-1903  | 0.56 | 0.59 | 0.58 | 1.07 | 0.55 | 0.61 | 0.58 | 1.13 |
+    |   "     calm days  |  ..  |  ..  | 0.35 |  ..  |  ..  |  ..  | 0.48 |  ..  |
+    +--------------------+------+------+------+------+------+------+------+------+
+
+  15. _Diurnal Variation._--P.B. Zölss (41, 42) has published diurnal
+  variation data for Kremsmünster for more than one year, and
+  independently for midsummer (May to August) and midwinter (December to
+  February). His figures show a double daily period in both a+ and a-,
+  the principal maximum occurring about 1 or 2 P.M. The two minima
+  occur, the one from 5 to 7 A.M., the other from 7 to 8 P.M.; they are
+  nearly equal. Taking the figures answering to the whole year, May 1903
+  to 1904, a+ varied throughout the day from 0.82 to 1.35, and a- from
+  0.85 to 1.47. At midsummer the extreme hourly values were 0.91 and
+  1.45 for a+, 0.94 and 1.60 for a-. The corresponding figures at
+  midwinter were 0.65 and 1.19 for a+, 0.61 and 1.43 for a-. Zölss' data
+  for q show also a double daily period, but the apparent range is
+  small, and the hourly variation is somewhat irregular. At Karasjok,
+  Simpson found a+ and a- both larger between noon and 1 P.M. than
+  between either 8 and 9 A.M. or 6 and 7 P.M. The 6 to 7 P.M. values
+  were in general the smallest, especially in the case of a+; the
+  evening value for q on the average exceeded the values from the two
+  earlier hours by some 7%.
+
+  Summer observations on mountains have shown diurnal variations very
+  large and fairly regular, but widely different from those observed at
+  lower levels. On the Rothhorn, Gockel (43) found a+ particularly
+  variable, the mean 7 A.M. value being 4½ times that at 1 P.M. q (taken
+  as [Sigma](a-/a+)) varied from 2.25 at 5 A.M. and 2.52 at 9 P.M. to
+  7.82 at 3 P.M. and 8.35 at 7 P.M. On the Sonnblick, in early
+  September, V. Conrad (22) found somewhat similar results for q, the
+  principal maximum occurring at 1 P.M., with minima at 9 P.M. and 6
+  A.M.; the largest hourly value was, however, scarcely double the
+  least. Conrad found a- largest at 4 A.M. and least at 6 P.M., the
+  largest value being double the least; a+ was largest at 5 A.M. and
+  least at 2 P.M., the largest value being fully 2½ times the least. On
+  Mont Blanc, le Cadet (43) found q largest from 1 to 3 P.M., the value
+  at either of these hours being more than double that at 11 A.M. On the
+  Patscherkofel, H. von Ficker and A. Defant (52), observing in
+  December, found q largest from 1 to 2 P.M. and least between 11 A.M.
+  and noon, but the largest value was only 1½ times the least. On
+  mountains much seems to depend on whether there are rising or falling
+  air currents, and results from a single season may not be fairly
+  representative.
+
+  16. Dissipation seems largely dependent on meteorological conditions,
+  but the phenomena at different stations vary so much as to suggest
+  that the connexion is largely indirect. At most stations a+ and a-
+  both increase markedly as wind velocity rises. From the observations
+  at Trieste in 1902-1903 E. Mazelle (47) deduced an increase of about
+  3% in a+ for a rise of 1 km. per hour in wind velocity. The following
+  are some of his figures, the velocity v being in kilometres per
+  hour:--
+
+    +-----+---------+-----------+-----------+-----------+
+    |  v  | 0 to 4. | 20 to 24. | 40 to 49. | 60 to 69. |
+    +-----+---------+-----------+-----------+-----------+
+    |  a  |  0.33   |    0.64   |    1.03   |    1.38   |
+    |  q  |  1.13   |    1.19   |    1.00   |    0.96   |
+    +-----+---------+-----------+-----------+-----------+
+
+  For velocities from 0 to 24 km. per hour q exceeded unity in 74 cases
+  out of 100; but for velocities over 50 km. per hour q exceeded unity
+  in only 40 cases out of 100. Simpson got similar results at Karasjok;
+  the rise in a+ and a- with increased wind velocity seemed, however,
+  larger in winter than in summer. Simpson observed a fall in q for wind
+  velocities exceeding 2 on Beaufort's scale. On the top of the
+  Sonnblick, Conrad observed a _slight_ increase of a± as the wind
+  velocity increased up to 20 km. per hour, but for greater velocities
+  up to 80 km. per hour no further decided rise was observed.
+
+  At Karasjok, treating summer and winter independently, Simpson (10)
+  found a+ and a- both increase in a nearly linear relation with
+  temperature, from below -20° to +15° C. For example, when the
+  temperature was below -20° mean values were 0.76 for a+ and 0.91 for
+  a-; for temperatures between -10° and -5° the corresponding means were
+  2.45 and 2.82; while for temperatures between +10° and +15° they were
+  4.68 and 5.23. Simpson found no certain temperature effect on the
+  value of q. At Trieste, from 470 days when the wind velocity did not
+  exceed 20 km. per hour, Mazelle (47) found somewhat analogous results
+  for temperatures from 0° to 30° C.; a-, however, increased faster than
+  a+, i.e. q increased with temperature. When he considered all days
+  irrespective of wind velocity, Mazelle found the influence of
+  temperature obliterated. On the Sonnblick, Conrad (22) found a±
+  increase appreciably as temperature rose up to 4° or 5° C.; but at
+  higher temperatures a decrease set in.
+
+  Observations on the Sonnblick agree with those at low-level stations
+  in showing a diminution of dissipation with increase of relative
+  humidity. The decrease is most marked as saturation approaches. At
+  Trieste, for example, for relative humidities between 90 and 100 the
+  mean a± was less than half that for relative humidities under 40. With
+  certain dry winds, notably Föhn winds in Austria and Switzerland,
+  dissipation becomes very high. Thus at Innsbruck Defant (45) found the
+  mean dissipation on days of Föhn fully thrice that on days without
+  Föhn. The increase was largest for a+, there being a fall of about 15%
+  in q. In general, a+ and a- both tend to be less on cloudy than on
+  bright days. At Kiel (53) and Trieste the average value of q is
+  considerably less for wholly overcast days than for bright days. At
+  several stations enjoying a wide prospect the dissipation has been
+  observed to be specially high on days of great visibility when distant
+  mountains can be recognized. It tends on the contrary to be low on
+  days of fog or rain.
+
+  The results obtained as to the relation between dissipation and
+  barometric pressure are conflicting. At Kremsmünster, Zölss (42) found
+  dissipation vary with the absolute height of the barometer, a± having
+  a mean value of 1.36 when pressure was below the normal, as against
+  1.20 on days when pressure was above the normal. He also found a± on
+  the average about 10% larger when pressure was falling than when it
+  was rising. On the Sonnblick, Conrad (22) found dissipation increase
+  decidedly as the absolute barometric pressure was larger, and he found
+  no difference between days of rising and falling barometer. At
+  Trieste, Mazelle (47) found no certain connexion with absolute
+  barometric pressure. Dissipation was above the average when cyclonic
+  conditions prevailed, but this seemed simply a consequence of the
+  increased wind velocity. At Mattsee, E.R. von Schweidler (46) found no
+  connexion between absolute barometric pressure and dissipation, also
+  days of rising and falling pressure gave the same mean. At Kiel, K.
+  Kaehler (53) found a+ and a- both greater with rising than with
+  falling barometer.
+
+  V. Conrad and M. Topolansky (54) have found a marked connexion at
+  Vienna between dissipation and ozone. Regular observations were made
+  of both elements. Days were grouped according to the intensity of
+  colouring of ozone papers, 0 representing no visible effect, and 14
+  the darkest colour reached. The mean values of _a+_ and _a-_ answering
+  to 12 and 13 on the ozone scale were both about double the
+  corresponding values answering to 0 and 1 on that scale.
+
+  17. A charged body in air loses its charge in more than one way. The
+  air, as is now known, has always present in it ions, some carrying a
+  positive and others a negative charge, and those having the opposite
+  sign to the charged body are attracted and tend to discharge it. The
+  rate of loss of charge is thus largely dependent on the extent to
+  which ions are present in the surrounding air. It depends, however, in
+  addition on the natural mobility of the ions, and also on the
+  opportunities for convection. Of late years many observations have
+  been made of the ionic charges in air. The best-known apparatus for
+  the purpose is that devised by Ebert. A cylinder condenser has its
+  inner surface insulated and charged to a high positive or negative
+  potential. Air is drawn by an aspirator between the surfaces, and the
+  ions having the opposite sign to the inner cylinder are deposited on
+  it. The charge given up to the inner cylinder is known from its loss
+  of potential. The volume of air from which the ions have been
+  extracted being known, a measure is obtained of the total charge on
+  the ions, whether positive or negative. The conditions must, of
+  course, be such as to secure that no ions shall escape, otherwise
+  there is an underestimate. I+ is used to denote the charge on positive
+  ions, I- that on negative ions. The unit to which they are ordinarily
+  referred is 1 electrostatic unit of electricity per cubic metre of
+  air. For the ratio of the mean value of I+ to the mean value of I-,
+  the letter Q is employed by Gockel (55), who has made an unusually
+  complete study of ionic charges at Freiburg. Numerous observations
+  were also made by Simpson (10)--thrice a day--at Karasjok, and von
+  Schweidler has made a good many observations about 3 P.M. at Mattsee
+  (46) in 1905, and Seewalchen (38) in 1904. These will suffice to give
+  a general idea of the mean values met with.
+
+    +------------+-----------------+------+------+------+
+    | Station.   |    Authority.   |  I+  |  I-  |   Q  |
+    +------------+-----------------+------+------+------+
+    | Freiburg   | Gockel          | 0.34 | 0.24 | 1.41 |
+    | Karasjok   | Simpson         | 0.38 | 0.33 | 1.17 |
+    | Mattsee    | von Schweidler  | 0.35 | 0.29 | 1.19 |
+    | Seewalchen |        "        | 0.45 | 0.38 | 1.17 |
+    +------------+-----------------+------+------+------+
+
+  Gockel's mean values of I+ and Q would be reduced to 0.31 and 1.38
+  respectively if his values for July--which appear abnormal--were
+  omitted. I+ and I- both show a considerable range of values, even at
+  the same place during the same season of the year. Thus at Seewalchen
+  in the course of a month's observations at 3 P.M., I+ varied from 0.31
+  to 0.67, and I- from 0.17 to 0.67.
+
+  There seems a fairly well marked annual variation in ionic contents,
+  as the following figures will show. Summer and winter represent each
+  six months and the results are arithmetic means of the monthly values.
+
+    +--------+--------------------+--------------------+
+    |        |      Freiburg.     |      Karasjok.     |
+    +--------+------+------+------+------+------+------+
+    |        |  I+  |  I-  |  Q   |  I+  |  I-  |  Q   |
+    +--------+------+------+------+------+------+------+
+    | Winter | 0.29 | 0.21 | 1.49 | 0.33 | 0.27 | 1.22 |
+    | Summer | 0.39 | 0.28 | 1.34 | 0.44 | 0.39 | 1.13 |
+    +--------+------+------+------+------+------+------+
+
+  If the exceptional July values at Freiburg were omitted, the summer
+  values of I+ and Q would become 0.33 and 1.25 respectively.
+
+  18. _Diurnal Variation._--At Karasjok Simpson found the mean values of
+  I+ and I- throughout the whole year much the same between noon and 1
+  P.M. as between 8 and 9 A.M. Observations between 6 and 7 P.M. gave
+  means slightly lower than those from the earlier hours, but the
+  difference was only about 5% in I+ and 10% in I-. The evening values
+  of Q were on the whole the largest. At Freiburg, Gockel found I+ and
+  I- decidedly larger in the early afternoon than in either the morning
+  or the late evening hours. His greatest and least mean hourly values
+  and the hours of their occurrence are as follows:--
+
+    +-------------------------------+-------------------------------+
+    |            Winter.            |            Summer.            |
+    +-------+-------+-------+-------+-------+-------+-------+-------+
+    |      I+       |      I-       |      I+       |      I-       |
+    +-------+-------+-------+-------+-------+-------+-------+-------+
+    |  Max. |  Min. |  Max. |  Min. |  Max. |  Min. |  Max. |  Min. |
+    | 0.333 | 0.193 | 0.242 | 0.130 | 0.430 | 0.244 | 0.333 | 0.192 |
+    | 2 P.M.| 7 P.M.| 2 P.M.| 8 P.M.| 4 P.M.| 9 to  | 4 P.M.| 9 to  |
+    |       |       |       |       |       |10 P.M.|       |10 P.M.|
+    +-------+-------+-------+-------+-------+-------+-------+-------+
+
+  Gockel did not observe between 10 P.M. and 7 A.M.
+
+  19. Ionization seems to increase notably as temperature rises. Thus at
+  Karasjok Simpson found for mean values:--
+
+    Temp. less than -20°        -10° to -5°             10° to 15°
+    I+ = 0.18, I- = 0.36    I+ = 0.36, I- = 0.30   I+ = 0.45, I- = 0.43
+
+  Simpson found no clear influence of temperature on Q. Gockel observed
+  similar effects at Freiburg--though he seems doubtful whether the
+  relationship is direct--but the influence of temperature on I+ seemed
+  reduced when the ground was covered with snow. Gockel found a
+  diminution of ionization with rise of relative humidity. Thus for
+  relative humidities between 40 and 50 mean values were 0.306 for I+
+  and 0.219 for I-; whilst for relative humidities between 90 and 100
+  the corresponding means were respectively 0.222 and 0.134. At
+  Karasjok, Simpson found a slight decrease in I- as relative humidity
+  increased, but no certain change in I+. Specially large values of I+
+  and I- have been observed at high levels in balloon ascents. Thus on
+  the 1st of July 1901, at a height of 2400 metres, H. Gerdien (29)
+  obtained 0.86 for I+ and 1.09 for I-.
+
+  20. In 1901 Elster and Geitel found that a radioactive emanation is
+  present in the atmosphere. Their method of measuring the radioactivity
+  is as follows (48): A wire not exceeding 1 mm. in diameter, charged to
+  a negative potential of at least 2000 volts, is supported between
+  insulators in the open, usually at a height of about 2 metres. After
+  two hours' exposure, it is wrapped round a frame supported in a given
+  position relative to Elster and Geitel's dissipation apparatus, and
+  the loss of charge is noted. This loss is proportional to the length
+  of the wire. The radioactivity is denoted by A, and A=1 signifies that
+  the potential of the dissipation apparatus fell 1 volt in an hour per
+  metre of wire introduced. The loss of the dissipation body due to the
+  natural ionization of the air is first allowed for. Suppose, for
+  instance, that in the absence of the wire the potential falls from 264
+  to 255 volts in 15 minutes, whilst when the wire (10 metres long) is
+  introduced it falls from 264 to 201 volts in 10 minutes, then
+
+    10A = (254 - 201)×6 - (264 - 255)×4 = 342; or A = 34.2.
+
+  The values obtained for A seem largely dependent on the station. At
+  Wolfenbüttel, a year's observations by Elster and Geitel (56) made A
+  vary from 4 to 64, the mean being 20. In the island of Juist, off the
+  Friesland coast, from three weeks' observations they obtained only 5.2
+  as the mean. On the other hand, at Altjoch, an Alpine station, from
+  nine days' observations in July 1903 they obtained a mean of 137, the
+  maximum being 224, and the minimum 92. At Freiburg, from 150 days'
+  observations near noon in 1903-1904, Gockel (57) obtained a mean of
+  84, his extreme values being 10 and 420. At Karasjok, observing
+  several times throughout the day for a good many months, Simpson (10)
+  obtained a mean of 93 and a maximum of 432. The same observer from
+  four weeks' observations at Hammerfest got the considerably lower mean
+  value 58, with a maximum of 252. At this station much lower values
+  were found for A with sea breezes than with land breezes. Observing on
+  the pier at Swinemünde in August and September 1904, Lüdeling (40)
+  obtained a mean value of 34.
+
+  Elster and Geitel (58), having found air drawn from the soil highly
+  radioactive, regard ground air as the source of the emanation in the
+  atmosphere, and in this way account for the low values they obtained
+  for A when observing on or near the sea. At Freiburg in winter Gockel
+  (55) found A notably reduced when snow was on the ground, I+ being
+  also reduced. When the ground was covered by snow the mean value of A
+  was only 42, as compared with 81 when there was no snow.
+
+  J.C. McLennan (59) observing near the foot of Niagara found A only
+  about one-sixth as large as at Toronto. Similarly at Altjoch, Elster
+  and Geitel (56) found A at the foot of a waterfall only about
+  one-third of its normal value at a distance from the fall.
+
+  21. _Annual and Diurnal Variations._--At Wolfenbüttel, Elster and
+  Geitel found A vary but little with the season. At Karasjok, on the
+  contrary, Simpson found A much larger at midwinter--notwithstanding
+  the presence of snow--than at midsummer. His mean value for November
+  and December was 129, while his mean for May and June was only 47. He
+  also found a marked diurnal variation, A being considerably greater
+  between 3 and 5 A.M. or 8.30 to 10.30 P.M. than between 10 A.M. and
+  noon, or between 3 and 5 P.M.
+
+  At all seasons of the year Simpson found A rise notably with increase
+  of relative humidity. Also, whilst the mere absolute height of the
+  barometer seemed of little, if any, importance, he obtained larger
+  values of A with a falling than with a rising barometer. This last
+  result of course is favourable to Elster and Geitel's views as to the
+  source of the emanation.
+
+  22. For a wire exposed under the conditions observed by Elster and
+  Geitel the emanation seems to be almost entirely derived from radium.
+  Some part, however, seems to be derived from thorium, and H.A.
+  Bumstead (60) finds that with longer exposure of the wire the relative
+  importance of the thorium emanation increases. With three hours'
+  exposure he found the thorium emanation only from 3 to 5% of the
+  whole, but with 12 hours' exposure the percentage of thorium emanation
+  rose to about 15. These figures refer to the state of the wire
+  immediately after the exposure; the rate of decay is much more rapid
+  for the radium than for the thorium emanation.
+
+  23. The different elements--potential gradient, dissipation,
+  ionization and radioactivity--are clearly not independent of one
+  another. The loss of a charge is naturally largely dependent on the
+  richness of the surrounding air in ions. This is clearly shown by the
+  following results obtained by Simpson (10) at Karasjok for the mean
+  values of a± corresponding to certain groups of values of I±. To
+  eliminate the disturbing influence of wind, different wind strengths
+  are treated separately.
+
+    TABLE VIII.--_Mean Values of a±._
+
+    +----------+-----------+----------+----------+----------+----------+
+    |   Wind   |I±0 to 0.1.|0.1 to 0.2|0.2 to 0.3|0.3 to 0.4|0.4 to 0.5|
+    | Strength.|           |          |          |          |          |
+    +----------+-----------+----------+----------+----------+----------+
+    |  0 to 1  |   0.45    |   0.60   |   1.26   |   2.04   |   3.03   |
+    |  1 "  2  |   0.65    |   1.08   |   1.85   |   2.92   |   3.83   |
+    |  2 "  3  |    ..     |    ..    |   2.70   |   3.88   |   5.33   |
+    +----------+-----------+----------+----------+----------+----------+
+
+  Simspon concluded that for a given wind velocity dissipation is
+  practically a linear function of ionization.
+
+  24. Table IX. will give a general idea of the relations of potential
+  gradient to dissipation and ionization.
+
+    TABLE IX.--_Potential, Dissipation, Ionization._
+
+    +------------+----------------------------+----------------------------------+
+    | Potential  |             q              |      Karasjok (Simpson (10)).    |
+    | gradients  |                            |                                  |
+    | volts per  +----------+--------+--------+------+------+------+------+------+
+    |   metre.   | Kremsmün-| Freibu-| Rothho-|  a+  |  a-  |  I+  |  I-  |   Q  |
+    |            | ster(41).|rg (43).| rn(43).|      |      |      |      |      |
+    +------------+----------+--------+--------+------+------+------+------+------+
+    |   0 to  50 |    ..    |  1.12  |   ..   |  ..  |  ..  |  ..  |  ..  |  ..  |
+    |  50 "  100 |   1.14   |  1.31  |   ..   | 4.29 | 4.67 | 0.43 | 0.39 | 1.11 |
+    | 100 "  150 |   1.24   |  1.69  |   ..   | 3.38 | 3.93 | 0.37 | 0.32 | 1.15 |
+    | 150 "  200 |   1.48   |  1.84  |   ..   | 1.85 | 2.58 | 0.36 | 0.28 | 1.28 |
+    | 200 "  300 |    ..    |   ..   |  3.21  | 1.37 | 1.58 | 0.26 | 0.19 | 1.42 |
+    | 300 "  400 |    ..    |   ..   |  4.33  | 0.60 | 0.85 |  ..  |  ..  |  ..  |
+    | 400 "  500 |    ..    |   ..   |  5.46  |  ..  |  ..  |  ..  |  ..  |  ..  |
+    | 500 "  700 |    ..    |   ..   |  8.75  |  ..  |  ..  |  ..  |  ..  |  ..  |
+    +------------+----------+--------+--------+------+------+------+------+------+
+
+  If we regard the potential gradient near the ground as representing a
+  negative charge on the earth, then if the source of supply of that
+  charge is unaffected the gradient will rise and become high when the
+  operations by which discharge is promoted slacken their activity. A
+  diminution in the number of positive ions would thus naturally be
+  accompanied by a rise in potential gradient. Table IX. associates with
+  rise in potential gradient a reduced number of both positive and
+  negative ions and a diminished rate of dissipation whether of a
+  negative or a positive charge. The rise in q and Q indicates that the
+  diminished rate of dissipation is most marked for positive charges,
+  and that negative ions are even more reduced then positive.
+
+  At Kremsmünster Zölss (41) finds a considerable similarity between the
+  diurnal variations in q and in the potential gradient, the hours of
+  the forenoon and afternoon maxima being nearly the same in the two
+  cases.
+
+  No distinct relationship has yet been established between potential
+  gradient and radioactivity. At Karasjok Simpson (10) found fairly
+  similar mean values of A for two groups of observations, one confined
+  to cases when the potential gradient exceeded +400 volts, the other
+  confined to cases of negative gradient.
+
+  At Freiburg Gockel (55, 57) found that when observations were grouped
+  according to the value of A there appeared a distinct rise in both a-
+  and I+ with increasing A. For instance, when A lay between 100 and 150
+  the mean value of a- was 1.27 times greater than when A lay between 0
+  and 50; while when A lay between 120 and 150 the mean value of I+ was
+  1.53 times larger than when A lay between 0 and 30. These apparent
+  relationships refer to mean values. In individual cases widely
+  different values of a- or I+ are associated with the same value of A.
+
+  25. If V be the potential, [rho] the density of free electricity at a
+  point in the atmosphere, at a distance r from the earth's centre, then
+  assuming statical conditions and neglecting variation of V in
+  horizontal directions, we have
+
+    r^(-2)(d/dr)(r² dV/dr) + 4[pi][rho] = 0.
+
+  For practical purposes we may treat r² as constant, and replace d/dr
+  by d/dh, where h is height in centimetres above the ground.
+
+  We thus find    [rho] = -(1/4[pi]) d²V/dh².
+
+  If we take a tube of force 1 sq. cm. in section, and suppose it cut by
+  equipotential surfaces at heights h1 and h2 above the ground, we have
+  for the total charge M included in the specified portion of the tube
+
+    4[pi]M = (dV/dh)h1 - (dV/dh)h2.
+
+  Taking Linke's (28) figures as given in § 10, and supposing h1 = 0, h2
+  = 15 × 10^4, we find for the charge in the unit tube between the
+  ground and 1500 metres level, remembering that the centimetre is now
+  the unit of length, M = (1/(4[pi])) (125.25)/100. Taking 1 volt equal
+  1/300 of an electrostatic unit, we find M = 0.000265. Between 1500 and
+  4000 metres the charge inside the unit tube is much less, only
+  0.000040. The charge on the earth itself has its surface density given
+  by [sigma] = - (1/(4[pi])) × 125 volts per metre, = 0.000331 in e
+  ectrostatic units. Thus, on the view now generally current, in the
+  circumstances answering to Linke's experiments we have on the ground a
+  charge of -331 × 10^(-6) C.G.S. units per sq. cm. Of the corresponding
+  positive charge, 265 × 10^(-6) lies below the 1500 metres level, 40 ×
+  10^(-6) between this and the 4000 metres level, and only 26 × 10^(-6)
+  above 4000 metres.
+
+  There is a difficulty in reconciling observed values of the ionization
+  with the results obtained from balloon ascents as to the variation of
+  the potential with altitude. According to H. Gerdien (61), near the
+  ground a mean value for d²V/dh² is - (1/10) volt/(metre)². From this
+  we deduce for the charge [rho] per cubic centimetre (1/(4[pi])) ×
+  10^(-5) (volt/cm²), or 2.7 × 10^(-9) electrostatic units. But taking,
+  for example, Simpson's mean values at Karasjok, we have observed
+
+    [rho] [equivalent] I+ - I1 = 0.05 × (cm./metre)^3 = 5 × 10^(-8),
+
+  and thus (calculated [rho])/(observed [rho]) = 0.05 approximately.
+  Gerdien himself makes I+ - I- considerably larger than Simpson, and
+  concludes that the observed value of [rho] is from 30 to 50 times that
+  calculated. The presumption is either that d²V/dh² near the ground is
+  much larger numerically than Gerdien supposes, or else that the
+  ordinary instruments for measuring ionization fail to catch some
+  species of ion whose charge is preponderatingly negative.
+
+  26. Gerdien (61) has made some calculations as to the probable average
+  value of the vertical electric current in the atmosphere in fine
+  weather. This will be composed of a conduction and a convection
+  current, the latter due to rising or falling air currents carrying
+  ions. He supposes the field near the earth to be 100 volts per metre,
+  or 1/300 electrostatic units. For simplicity, he assumes I+ and I-
+  each equal 0.25 × 10^(-6) electrostatic units. The specific velocities
+  of the ions--i.e. the velocities in unit field--he takes to be 1.3 ×
+  300 for the positive, and 1.6 × 300 for the negative. The positive and
+  negative ions travel in opposite directions, so the total current is
+  (1/300)(0.25 × 10^(-6))(1.3 × 300 + 1.6 × 300), or 73 × 10^(-8) in
+  electrostatic measure, otherwise 2.4 × 10^(-16) amperes per sq. cm. As
+  to the convection current, Gerdien supposes--as in § 25--[rho] = 2.7 ×
+  10^(-9) electrostatic units, and on fine days puts the average
+  velocity of rising air currents at 10 cm. per second. This gives a
+  convection current of 2.7 × 10^(-8) electrostatic units, or about 1/27
+  of the conduction current. For the total current we have approximately
+  2.5 × 10^(-16) amperes per sq. cm. This is insignificant compared to
+  the size of the currents which several authorities have calculated
+  from considerations as to terrestrial magnetism (q.v.). Gerdien's
+  estimate of the convection current is for fine weather conditions.
+  During rainfall, or near clouds or dust layers, the magnitude of this
+  current might well be enormously increased; its direction would
+  naturally vary with climatic conditions.
+
+  27. H. Mache (62) thinks that the ionization observed in the
+  atmosphere may be wholly accounted for by the radioactive emanation.
+  If this is true we should have q = [alpha] n², where q is the number
+  of ions of one sign made in 1 cc. of air per second by the emanation,
+  [alpha] the constant of recombination, and n the number of ions found
+  simultaneously by, say, Ebert's apparatus. Mache and R. Holfmann, from
+  observations on the amplitude of saturation currents, deduce q = 4 as
+  a mean value. Taking for [alpha] Townsend's value 1.2 × 10^(-6), Mache
+  finds n = 1800. The charge on an ion being 3.4 × 10^(-10) Mache
+  deduces for the ionic charge, I+ or I-, per cubic metre 1800 × 3.4 ×
+  10^(-10) × 10^6, or 0.6. This is at least of the order observed, which
+  is all that can be expected from a calculation which assumes I+ and I-
+  equal. If, however, Mache's views were correct, we should expect a
+  much closer connexion between I and A than has actually been observed.
+
+  28. C.T.R. Wilson (63) seems disposed to regard the action of rainfall
+  as the most probable source of the negative charge on the earth's
+  surface. That great separation of positive and negative electricity
+  sometimes takes place during rainfall is undoubted, and the charge
+  brought to the ground seems preponderatingly negative. The difficulty
+  is in accounting for the continuance in extensive fine weather
+  districts of large positive charges in the atmosphere in face of the
+  processes of recombination always in progress. Wilson considers that
+  convection currents in the upper atmosphere would be quite inadequate,
+  but conduction may, he thinks, be sufficient alone. At barometric
+  pressures such as exist between 18 and 36 kilometres above the ground
+  the mobility of the ions varies inversely as the pressure, whilst the
+  coefficient of recombination [alpha] varies approximately as the
+  pressure. If the atmosphere at different heights is exposed to
+  ionizing radiation of uniform intensity the rate of production of ions
+  per cc., q, will vary as the pressure. In the steady state the number,
+  n, of ions of either sign per cc. is given by n = [root](q/[alpha]),
+  and so is independent of the pressure or the height. The conductivity,
+  which varies as the product of n into the mobility, will thus vary
+  inversely as the pressure, and so at 36 kilometres will be one hundred
+  times as large as close to the ground. Dust particles interfere with
+  conduction near the ground, so the relative conductivity in the upper
+  layers may be much greater than that calculated. Wilson supposes that
+  by the fall to the ground of a preponderance of negatively charged
+  rain the air above the shower has a higher positive potential than
+  elsewhere at the same level, thus leading to large conduction currents
+  laterally in the highly conducting upper layers.
+
+  29. _Thunder._--Trustworthy frequency statistics for an individual
+  station are obtainable only from a long series of observations, while
+  if means are taken from a large area places may be included which
+  differ largely amongst themselves. There is the further complication
+  that in some countries thunder seems to be on the increase. In
+  temperate latitudes, speaking generally, the higher the latitude the
+  fewer the thunderstorms. For instance, for Edinburgh (64) (1771 to
+  1900) and London (65) (1763 to 1896) R.C. Mossman found the average
+  annual number of thunderstorm days to be respectively 6.4 and 10.7;
+  while at Paris (1873-1893) E. Renou (66) found 27.3 such days. In some
+  tropical stations, at certain seasons of the year, thunder is almost a
+  daily occurrence. At Batavia (18) during the epoch 1867-1895, there
+  were on the average 120 days of thunder in the year.
+
+  As an example of a large area throughout which thunder frequency
+  appears fairly uniform, we may take Hungary (67). According to the
+  statistics for 1903, based on several hundred stations, the average
+  number of days of thunder throughout six subdivisions of the country,
+  some wholly plain, others mainly mountainous, varied only from 21.1 to
+  26.5, the mean for the whole of Hungary being 23.5. The antithesis of
+  this exists in the United States of America. According to A.J. Henry
+  (68) there are three regions of maximum frequency: one in the
+  south-east, with its centre in Florida, has an average of 45 days of
+  thunder in the year; a second including the middle Mississippi valley
+  has an average of 35 days; and a third in the middle Missouri valley
+  has 30. With the exception of a narrow strip along the Canadian
+  frontier, thunderstorm frequency is fairly high over the whole of the
+  United States to the east of the 100th meridian. But to the west of
+  this, except in the Rocky Mountain region where storms are numerous,
+  the frequency steadily diminishes, and along the Pacific coast there
+  are large areas where thunder occurs only once or twice a year.
+
+  30. The number of thunderstorm days is probably a less exact measure
+  of the relative _intensity_ of thunderstorms than statistics as to the
+  number of persons killed annually by lightning per million of the
+  population. Table X. gives a number of statistics of this kind. The
+  letter M stands for "Midland."
+
+    TABLE X.--_Deaths by Lightning, per annum, per million Inhabitants._
+
+    Hungary                  7.7     Upper Missouri and Plains   15
+    Netherlands              2.8     Rocky Mountains and Plateau 10
+    England, N. M.           1.8     South Atlantic               8
+       "     E.              1.3     Central Mississippi          7
+       "     S. M.           1.2     Upper    "                   7
+       "     York and W. M.  1.1     Ohio Valley                  7
+       "     N.              1.0     Middle Atlantic              6
+    Wales                    0.9     Gulf States                  5
+    England, S. E.           0.8     New England                  4
+       "     N. W.           0.7     Pacific Coast               <1*
+       "     S. W.           0.6     North and South Dakota      20
+    London                   0.1     California                   0
+
+    * Note in case of Pacific coast, Table X., "<1" means "less than 1."
+
+  The figure for Hungary is based on the seven years 1897-1903; that for
+  the Netherlands, from data by A.J. Monné (69) on the nine years
+  1882-1890. The English data, due to R. Lawson (70), are from
+  twenty-four years, 1857-1880; those for the United States, due to
+  Henry (68), are for five years, 1896-1900. In comparing these data
+  allowance must be made for the fact that danger from lightning is much
+  greater out of doors than in. Thus in Hungary, in 1902 and 1903, out
+  of 229 persons killed, at least 171 were killed out of doors. Of the
+  229 only 67 were women, the only assignable explanation being their
+  rarer employment in the fields. Thus, _ceteris paribtis_, deaths from
+  lightning are much more numerous in a country than in an industrial
+  population. This is well brought out by the low figure for London. It
+  is also shown conspicuously in figures given by Henry. In New York
+  State, where the population is largely industrial, the annual deaths
+  per million are only three, but of the agricultural population eleven.
+  In states such as Wyoming and the Dakotas the population is largely
+  rural, and the deaths by lightning rise in consequence. The frequency
+  and intensity of thunderstorms are unquestionably greater in the Rocky
+  Mountain than in the New England states, but the difference is not so
+  great as the statistics at first sight suggest.
+
+    TABLE XI.--_Annual Variation of Thunderstorms._
+
+    +--------------+------+------+------+------+------+------+------+------+------+------+------+------+
+    |              | Jan. | Feb. | Mar. | Apr. | May. | June | July | Aug. | Sep. | Oct. | Nov. | Dec. |
+    +--------------+------+------+------+------+------+------+------+------+------+------+------+------+
+    | Ediburgh     |  1.8 |  1.4 |  1.4 |  3.8 | 12.3 | 20.8 | 28.2 | 19.1 |  7.0 |  2.3 |  1.1 |  0.8 |
+    | London       |  0.6 |  0.5 |  1.6 |  6.6 | 12.7 | 18.3 | 25.5 | 19.2 |  9.3 |  3.1 |  1.7 |  0.9 |
+    | Paris        |  0.2 |  0.4 |  2.3 |  7.5 | 14.9 | 21.6 | 22.0 | 17.0 |  9.9 |  3.5 |  0.4 |  0.4 |
+    | Netherlands  |  2.2 |  1.8 |  3.7 |  6.5 | 14.0 | 14.7 | 15.6 | 14.7 | 10.3 | 10.1 |  3.8 |  2.5 |
+    | France       |  2.2 |  2.8 |  4.1 |  8.4 | 13.8 | 18.7 | 14.6 | 13.5 | 10.0 |  6.3 |  3.1 |  2.4 |
+    | Switzerland  |  0.2 |  0.3 |  0.5 |  4.9 | 11.9 | 22.9 | 29.9 | 18.0 |  9.8 |  1.1 |  0.3 |  0.2 |
+    | Hungary (a)  |  0.0 |  0.1 |  1.6 |  5.7 | 20.9 | 25.0 | 23.2 | 15.9 |  5.7 |  1.3 |  0.4 |  0.2 |
+    |    "    (b)  |  0.0 |  0.0 |  1.0 |  3.2 | 11.8 | 20.6 | 30.7 | 25.3 |  6.9 |  0.5 |  0.0 |  0.0 |
+    | United States|  0.1 |  0.1 |  1.2 |  4.0 | 14.3 | 25.0 | 27.2 | 20.4 |  5.8 |  1.4 |  0.3 |  0.1 |
+    | Hong-Kong    |  0.0 |  2.1 |  4.3 |  8.5 | 12.8 | 23.4 | 14.9 | 21.3 | 10.6 |  2.1 |  0.0 |  0.0 |
+    | Trevandrum   |  3.2 |  3.8 | 13.1 | 20.9 | 18.6 |  4.9 |  1.2 |  3.5 |  2.5 | 12.9 | 12.0 |  3.3 |
+    | Batavia      | 10.4 |  9.2 | 11.1 | 10.5 |  7.9 |  5.5 |  4.3 |  3.8 |  5.4 |  8.8 | 12.2 | 10.9 |
+    +--------------+------+------+------+------+------+------+------+------+------+------+------+------+
+
+  31. Even at the same place thunderstorms vary greatly in intensity and
+  duration. Also the times of beginning and ending are difficult to
+  define exactly, so that several elements of uncertainty exist in data
+  as to the seasonal or diurnal variation. The monthly data in Table XI.
+  are percentages of the total for the year. In most cases the figures
+  are based on the number of days of thunder at a particular station, or
+  at the average station of a country; but the second set for Hungary
+  relates to the number of lightning strokes causing fire, and the
+  figures for the United States relate to deaths by lightning. The data
+  for Edinburgh, due to R.C. Mossman (64), refer to 130 years, 1771 to
+  1900. The data for London (1763-1896) are also due to Mossman (65);
+  for Paris (1873-1893) to Renou (66); for the Netherlands (1882-1900)
+  to A.J. Monné (69); for France(71) (1886-1899) to Frou and Hann; for
+  Switzerland to K. Hess (72); for Hungary (67) (1896-1903) to L. von
+  Szalay and others; for the United States (1890-1900) to A.J. Henry
+  (68); for Hong-Kong (73) (1894-1903) to W. Doberck. The Trevandrum
+  (74) data (1853-1864) were due originally to A. Broun; the Batavia
+  data (1867-1895) are from the Batavia _Observations_, vol. xviii.
+
+  Most stations in the northern hemisphere have a conspicuous maximum at
+  midsummer with little thunder in winter. Trevandrum (8° 31' N.) and
+  Batavia (6° 11' S.), especially the former, show a double maximum and
+  minimum.
+
+    TABLE XII.--_Diurnal Variation of Thunderstorms._
+
+    +--------------------+-----+-----+-----+-----+-----+------+------+------+------+------+------+-------+
+    |         Hour.      | 0-2.| 2-4.| 4-6.| 6-8.|8-10.|10-12.|0'-2'.|2'-4'.|4'-6'.|6'-8'.|8'-10'|10'-12'|
+    +--------------------+-----+-----+-----+-----+-----+------+------+------+------+------+------+-------+
+    | Finland (76)       | 2.3 | 2.0 | 2.2 | 3.0 | 4.6 | 12.1 | 18.9 | 19.2 | 16.1 | 10.1 |  6.1 |  3.4  |
+    | Edinburgh (64)     | 1.7 | 2.0 | 1.4 | 1.7 | 4.7 | 14.2 | 22.4 | 23.7 | 11.9 |  9.2 |  5.1 |  2.0  |
+    | Belgium (77)       | 3.0 | 2.9 | 1.7 | 1.8 | 2.0 |  6.4 | 12.9 | 21.6 | 19.4 | 15.8 |  8.4 |  4.1  |
+    | Brocken (78)       | 1.6 | 2.5 | 1.3 | 1.3 | 4.2 |  3.1 | 12.1 | 28.6 | 22.4 | 10.1 |  7.2 |  5.6  |
+    | Switzerland (72)   | 3.1 | 2.3 | 2.1 | 1.6 | 2.0 |  7.3 | 13.8 | 20.9 | 20.8 | 14.6 |  8.0 |  3.5  |
+    | Italy (77)         | 1.3 | 1.6 | 1.4 | 2.0 | 3.0 |  8.5 | 19.5 | 26.5 | 16.6 |  9.8 |  8.3 |  1.5  |
+    | Hungary (i.) (67)  | 2.1 | 1.9 | 1.9 | 2.1 | 2.9 | 11.5 | 18.1 | 22.0 | 17.9 | 10.7 |  6.2 |  2.8  |
+    |    "    (ii.) (67) | 6.9 | 4.2 | 2.3 | 2.0 | 2.0 |  5.0 |  9.9 | 16.9 | 18.2 | 10.7 | 11.7 | 10.0  |
+    |    "    (iii.) (75)| 2.3 | 1.9 | 2.0 | 2.4 | 2.7 |  7.9 | 16.1 | 22.1 | 19.1 | 12.7 |  7.6 |  3.2  |
+    |    "    (iv.) (75) | 2.6 | 2.2 | 1.9 | 1.9 | 3.6 | 13.3 | 19.9 | 20.7 | 15.2 |  9.2 |  6.2 |  3.3  |
+    | Trevandrum (74)    | 5.6 | 4.9 | 4.3 | 1.3 | 1.4 |  2.0 | 13.3 | 24.5 | 15.9 | 13.3 |  7.6 |  5.9  |
+    | Agustia (74)       | 2.9 | 2.9 | 0.3 | 0.0 | 1.7 |  2.9 | 15.1 | 36.1 | 22.2 |  9.3 |  4.6 |  2.0  |
+    +--------------------+-----+-----+-----+-----+-----+------+------+------+------+------+------+-------+
+
+  32. _Daily Variation._--The figures in Table XII. are again
+  percentages. They are mostly based on data as to the hour of
+  commencement of thunderstorms. Data as to the hour when storms are
+  most severe would throw the maximum later in the day. This is
+  illustrated by the first two sets of figures for Hungary (67). The
+  first set relate as usual to the hour of commencement, the second to
+  the hours of occurrence of lightning causing fires. Of the two other
+  sets of figures for Hungary (75), (iii.) relates to the central plain,
+  (iv.) to the mountainous regions to north and south of this. The hour
+  of maximum is earlier for the mountains, thunder being more frequent
+  there than in the plains between 8 A.M. and 4 P.M., but less frequent
+  between 2 and 10 P.M. Trevandrum (8° 31' N., 76° 59' E., 195 ft. above
+  sea-level) and Agustia (8° 37' N., 77° 20' E., 6200 ft. above
+  sea-level) afford a contrast between low ground and high ground in
+  India. In this instance there seems little difference in the hour of
+  maximum, the distinguishing feature being the great concentration of
+  thunderstorm occurrence at Agustia between noon and 6 P.M.
+
+    TABLE XIII.
+
+    +------+-------------+--------+---------+-------+
+    | Year.| Netherlands.| France.| Hungary.| U.S.A.|
+    +------+-------------+--------+---------+-------+
+    | 1882 |      98     |   ..   |   141   |  ..   |
+    | 1883 |     117     |   ..   |   195   |  ..   |
+    | 1884 |      95     |   ..   |   229   |  ..   |
+    | 1885 |      93     |   ..   |   192   |  ..   |
+    | 1886 |     102     |   251  |   319   |  ..   |
+    | 1887 |      78     |   292  |   236   |  ..   |
+    | 1888 |      94     |   286  |   232   |  ..   |
+    | 1889 |     126     |   294  |   258   |  ..   |
+    | 1890 |      93     |   299  |   265   |  ..   |
+    | 1891 |      98     |   317  |   302   |  204  |
+    | 1892 |      86     |   324  |   350   |  251  |
+    | 1893 |     102     |   288  |   233   |  209  |
+    | 1894 |     111     |   300  |   333   |  336  |
+    | 1895 |     119     |   309  |   280   |  426  |
+    | 1896 |     109     |   266  |   299   |  341  |
+    | 1897 |     119     |   297  |   350   |  362  |
+    | 1898 |      95     |   299  |   386   |  367  |
+    | 1899 |     112     |   299  |   368   |  563  |
+    | 1900 |     108     |   ..   |   401   |  713  |
+    | 1901 |     ..      |   ..   |   502   |  ..   |
+    | 1902 |     ..      |   ..   |   322   |  ..   |
+    | 1903 |     ..      |   ..   |   256   |  ..   |
+    +------+-------------+--------+---------+-------+
+
+  33. Table XIII. gives some data as to the variability of thunder from
+  year to year. The figures for the Netherlands (69) and France (71) are
+  the number of days when thunder occurred somewhere in the country. Its
+  larger area and more varied climate give a much larger number of days
+  of thunder to France. Notwithstanding the proximity of the two
+  countries, there is not much parallelism between the data. The figures
+  for Hungary (67) give the number of lightning strokes causing fire;
+  those for the United States (68) give the number of persons killed by
+  lightning. The conspicuous maximum in 1901 and great drop in 1902 in
+  Hungary are also shown by the statistics as to the number of days of
+  thunder. This number at the average station of the country fell from
+  38.4 in 1901 to 23.1 in 1902. On the whole, however, the number of
+  destructive lightning strokes and of days of thunder do not show a
+  close parallelism.
+
+    TABLE XIV.
+
+    +----------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+    | Decade ending  | 1810| 1820| 1830| 1840| 1850| 1860| 1870| 1880| 1890| 1900|
+    +----------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+    | Edinburgh      |  4.9|  5.7|  7.7|  6.7|  5.7|  6.5|  5.4| 10.6|  9.4|  9.2|
+    | London         |  9.5|  8.3| 11.5| 11.8| 10.5| 11.9|  9.6| 15.7| 13.0|  .. |
+    | Tilsit         |  .. |  .. | 12.5| 12.1| 16.1| 15.3| 11.9| 17.6| 21.8|  .. |
+    | Germany, South |  .. |  .. |  .. |  .. |  .. |  49 |  66 |  91 | 143 | 175 |
+    |    "     West  |  .. |  .. |  .. |  .. |  .. |  92 | 106 | 187 | 244 | 331 |
+    |    "     North |  .. |  .. |  .. |  .. |  .. | 124 | 135 | 245 | 288 | 352 |
+    |    "     East  |  .. |  .. |  .. |  .. |  .. | 102 | 143 | 186 | 210 | 273 |
+    |    "     Whole |  .. |  .. |  .. |  .. |  .. |  90 | 116 | 189 | 254 | 318 |
+    +----------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+
+  34. Table XIV. deals with the variation of thunder over longer
+  periods. The data for Edinburgh (64) and London (65) due to Mossman,
+  and those for Tilsit, due to C. Kassner (79), represent the average
+  number of days of thunder per annum. The data for Germany, due to O.
+  Steffens (80), represent the average number of houses struck by
+  lightning in a year per million houses; in the first decade only seven
+  years (1854-1860) are really included. Mossman thinks that the
+  apparent increase at Edinburgh and London in the later decades is to
+  some extent at least real. The two sets of figures show some
+  corroborative features, notably the low frequency from 1860 to 1870.
+  The figures for Germany--representing four out of six divisions of
+  that country--are remarkable. In Germany as a whole, out of a million
+  houses the number struck per annum was three and a half times as great
+  in the decade 1890 to 1900 as between 1854 and 1860. Von Bezold (81)
+  in an earlier memoir presented data analogous to Steffens', seemingly
+  accepting them as representing a true increase in thunderstorm
+  destructiveness. Doubts have, however, been expressed by others--e.g.
+  A. Gockel, _Das Gewitter_, p. 106--as to the real significance of the
+  figures. Changes in the height or construction of buildings, and a
+  greater readiness to make claims on insurance offices, may be
+  contributory causes.
+
+  35. The fact that a considerable number of people sheltering under
+  trees are killed by lightning is generally accepted as a convincing
+  proof of the unwisdom of the proceeding. When there is an option
+  between a tree and an adjacent house, the latter is doubtless the
+  safer choice. But when the option is between sheltering under a tree
+  and remaining in the open it is not so clear. In Hungary (67), during
+  the three years 1901 to 1903, 15% of the total deaths by lightning
+  occurred under trees, as against 57% wholly in the open. In the United
+  States (68) in 1900, only 10% of the deaths where the precise
+  conditions were ascertained occurred under trees, as against 52% in
+  the open. If then the risk under trees exceeds that in the open in
+  Hungary and the United States, at least five or six times as many
+  people must remain in the open as seek shelter under trees. An
+  isolated tree occupying an exposed position is, it should be
+  remembered, much more likely to be struck than the average tree in the
+  midst of a wood. A good deal also depends on the species of tree. A
+  good many years' data for Lippe (82) in Germany make the liability to
+  lightning stroke as follows--the number of each species being supposed
+  the same:--Oak 57, Fir 39, Pine 5, Beech 1. In Styria, according to K.
+  Prohaska (83), the species most liable to be struck are oaks, poplars
+  and pear trees; beech trees again are exceptionally safe. It should,
+  however, be borne in mind that the apparent differences between
+  different species may be partly a question of height, exposure or
+  proximity to water. A good deal may also depend on the soil. According
+  to Hellmann, as quoted by Henry (82), the liability to lightning
+  stroke in Germany may be put at chalk 1, clay 7, sand 9, loam 22.
+
+  36. Numerous attempts have been made to find periodic variations in
+  thunderstorm frequency. Among the periods suggested are the 11-year
+  sun-spot period, or half this (cf. v. Szalay (67)). Ekholm and
+  Arrhenius (84) claim to have established the existence of a tropical
+  lunar period, and a 25.929-day period; while P. Polis (85) considers a
+  synodic lunar period probable. A.B. MacDowall (86) and others have
+  advanced evidence in favour of the view that thunderstorms are most
+  frequent near new moon and fewest near full moon. Much more evidence
+  would be required to produce a general acceptance of any of the above
+  periods.
+
+  37. _St Elmo's Fire._--Luminous discharges from masts, lightning
+  conductors, and other pointed objects are not very infrequent,
+  especially during thunderstorms. On the Sonnblick, where the
+  phenomenon is common, Elster and Geitel (87) have found St Elmo's fire
+  to answer to a discharge sometimes of positive sometimes of negative
+  electricity. The colour and appearance differ in the two cases, red
+  predominating in a positive, blue in a negative discharge. The
+  differences characteristic of the two forms of discharge are described
+  and illustrated in Gockel's _Das Gewitter_. Gockel states (l.c. p. 74)
+  that during snowfall the sign is positive or negative according as the
+  flakes are large or are small and powdery. The discharge is not
+  infrequently accompanied by a sizzling sound.
+
+  38. Of late years many experiments have been made on the influence of
+  electric fields or currents on plant growth. S. Lemström (88), who was
+  a pioneer in this department, found an electric field highly
+  beneficial in some but not in all cases. Attempts have been made to
+  apply electricity to agriculture on a commercial scale, but the exact
+  measure of success attained remains somewhat doubtful. Lemström
+  believed atmospheric electricity to play an important part in the
+  natural growth of vegetation, and he assigned a special rôle to the
+  needles of fir and pine trees.
+
+  BIBLIOGRAPHY.--The following abbreviations are here used:--M.Z.,
+  _Meteorologische Zeitschrift_; P.Z., _Physikalische Zeitschrift_; S.,
+  _Sitzungsberichte k. Akad. Wiss. Wien, Math. Naturw. Klasse_, Theil
+  ii. 2; P.T., "Philosophical Transactions Royal Society of London";
+  T.M., _Terrestrial Magnetism_, edited by Dr L.A. Bauer.
+
+  Text-books:--(1) G. le Cadet, _Étude du champ électrique de
+  l'atmosphère_ (Paris, 1898); (2) Svante A. Arrhenius, _Lehrbuch der
+  kosmischen Physik_ (Leipzig, 1903); (3) A. Gockel, _Das Gewitter_
+  (Cologne, 1905).
+
+  Lists of original authorities:--(4) F. Exner, M.Z., vol. 17, 1900, p.
+  529 (especially pp. 542-3); (5) G.C. Simpson, _Q.J.R. Met. Soc._, vol.
+  31, 1905, p. 295 (especially pp. 305-6). References in the text:--(6)
+  M.Z., vol. 4, 1887, p. 352; (7) T.M., vol. 4, 1899, p. 213; (8) P.Z.,
+  vol. 4, p. 661; (9) M.Z., vol. 23, 1906, p. 114; (10) P.T., vol. 205
+  A, 1906, p. 61; (11) P.Z., vol. 5, p. 260; (12) C. Chree, P.T., vol.
+  206 A, p. 299; (13) Annual volumes, _Greenwich Magnetical and
+  Meteorological Observations_; (14) M.Z., vol. 8, 1891, p. 357; (15)
+  M.Z., vol. 7, 1890, p. 319 and vol. 8, 1891, p. 113; (16) Annual
+  volumes, _Annaes do Obs. do Infante D. Luiz_; (17) _Annual Reports_,
+  Central Meteorological Observatory of Japan; (18) _Observations made
+  at the Mag. and Met. Obs. at Batavia_, vol. 18, 1895; (19) J.D.
+  Everett, P.T., vol. 158, 1868, p. 347; (20) M.Z., vol. 6, 1889, p. 95;
+  (21) A.B. Chauveau, _Ann. bureau central météorologique, Paris, année
+  1900_, "Mémoires," p. C1; (22) V. Conrad, S., 113, p. 1143; (23) P.B.
+  Zölss, P.Z., vol. 5, p. 260; (24) T.M., vol. 7, 1902, p. 89; (25)
+  _Revue générale des sciences_, 1906, p. 442; (26) T.M., vol. 8, 1903,
+  p. 86. and vol. 9, 1904, p. 147; (27) S., 93, p. 222; (28) M.Z., vol.
+  22, 1905, p. 237; (29) P.Z., vol. 4, p. 632; (30) _Phil. Mag._, vol.
+  20, 1885, p. 456; (31) _Expédition polaire finlandaise_, vol. 3
+  (Helsingfors, 1898); (32) A. Paulsen, _Bull. de l'Acad. ... de
+  Danemarke_, 1894, p. 148; (33) _Wied. Ann._, vol. 46, 1892, p. 584;
+  (34) P.T., vol. 191 A, p. 187; (35) M.Z., vol. 5, 1888, p. 95; S., 99,
+  p. 421; T.M., vol. 4, 1899, p. 15; (36) _Camb. Phil. Soc. Proc._, vol.
+  11, p. 428, and vol. 12, pp. 17 and 85; (37) P.Z., vol. 4, pp. 267 and
+  873; (38) E.R. v. Schweidler, S., 113, p. 1433; (39) S., 111, July
+  1902; (40) _Veröffentl. des Kg. Preuss. Met. Inst._, 1904; (41) P.Z.,
+  vol. 5, p. 106; (42) S., 114, p. 198; (43) P.Z., vol. 4, p. 871; (44)
+  P.Z., vol. 4, p. 93; (45) M.Z., vol. 23, 1906, p. 229; (46) S., 114,
+  p. 1705; (47) S., 114, p. 399; (48) P.Z., vol. 4, p. 522; (49) S.,
+  113, p. 1455; (50) P.Z., vol. 4, p. 627; (51) P.Z., vol. 4, p. 90;
+  (52) S., 114, p. 151; (53) M.Z., vol. 23, 1906, p. 253; (54) P.Z.,
+  vol. 5, p. 749; (55) M.Z., vol. 23, 1906, pp. 53 and 339; (56) P.Z.,
+  vol. 5, p. 11; (57) P.Z., vol. 5, p. 591; (58) T.M., vol. 9, 1904, p.
+  49; (59) P.Z., vol. 4, p. 295; (60) P.Z., vol. 5, p. 504; (61) T.M.,
+  vol. 10, 1905, p. 65; (62) S., 114, p. 1377; (63) _Camb. Phil. Soc.
+  Proc._, vol. 13, p. 363; (64) _Trans. R.S. Edin._, vol. 39, p. 63, and
+  vol. 40, p. 484; (65) _Q.J.R. Met. Soc._, vol. 24, 1898, p. 31; (66)
+  M.Z., vol. 11, 1894, p. 277; (67) _Jahrbücher der Konigl. Ung.
+  Reichsanstalt für Met. und Erdmag._, vol. 33, 1903, III. Theil with
+  appendix by L. von Szalay; (68) U.S. Dept. of Agriculture, _Weather
+  Bureau Bulletin_, No. 30, 1901; (69) M.Z., vol. 19, 1902, p. 297; (70)
+  _Q.J.R. Met. Soc._, vol. 15, 1889, p. 140; (71) M.Z., vol. 20, 1903,
+  p. 227; (72) M.Z., vol. 20, 1903, p. 522; (73) M.Z., vol. 23, 1906, p.
+  367; (74) M.Z., vol. 22, 1905, p. 175; (75) J. Hegyfoky, M.Z., vol.
+  20, 1903, p. 218; (76) M.Z., vol. 22, 1905, p. 575; (77) S. Arrhenius,
+  M.Z., vol. 5, 1888, p. 348; (78) G. Hellmann, M.Z., vol. 22, 1905, p.
+  223; (79) M.Z., vol. 11, 1894, p. 239; (80) M.Z., vol. 23, 1906, p.
+  468; (81) _Berlin Sitz._, 1889, No. 16; (82) A.J. Henry, _U.S. Dept.
+  of Agriculture Bull._, No. 26, 1899; (83) M.Z., vol. 16, 1899, p. 128;
+  (84) _K. Sven. Vet. Akad. Hand._, Bd. 19, No. 8, Bd. 20, No. 6, Bd.
+  31, Nos. 2 and 3; (85) M.Z., vol. 11, 1894, p. 230; (86) _Nature_,
+  vol. 65, 1902, p. 367; (87) M.Z., vol. 8, 1891, p. 321; (88) _Brit.
+  Assoc. Report_ for 1898, p. 808, also _Electricity in Agriculture and
+  Horticulture_ (London, 1904).     (C. Ch.)
+
+FOOTNOTE:
+
+  [1] see _Authorities_ below.

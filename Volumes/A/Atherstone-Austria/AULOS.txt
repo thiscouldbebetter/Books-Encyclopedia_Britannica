@@ -1,0 +1,419 @@
+AULOS (Gr. [Greek: aulos]; Lat. _tibia_; Egyptian hieroglyphic, _Ma-it_;
+medieval equivalents, _shalm, chalumeau, schalmei, hautbois_), in Greek
+antiquities, a class of wood-wind instruments with single or with double
+reed mouthpiece and either cylindrical or conical bore, thus
+corresponding to both oboe and clarinet. In its widest acceptation the
+_aulos_ was a generic term for instruments consisting of a tube in which
+the air column was set in vibration either directly by the lips of the
+performer, or through the medium of a mouthpiece containing a single or
+a double reed. Even the pipes of the pan-pipes (_syrinx polycalamus_,[1]
+[Greek: syrinx polykalamos]) were sometimes called auloi ([Greek:
+auloi]). The aulos is also the earliest prototype of the organ, which,
+by gradual assimilation of the principles of syrinx and bag-pipe,
+reached the stage at which it became known as the _Tyrrhenian aulos_
+(Pollux iv. 70) or the _hydraulos_, according to the method of
+compressing the wind supply (see ORGAN: _Early History_; and SYRINX).
+The aulos in its earliest form, the reed pipe, during the best classical
+period had a cylindrical bore ([Greek: koilia]) like that of the modern
+clarinet, and therefore had the acoustic properties of the stopped pipe,
+whether the air column was set in vibration by means of a single or of a
+double reed, for the mouthpiece does not affect the harmonic series.[2]
+To the acoustic properties of open or stopped pipes are due those
+essential differences which underlie the classification of modern wind
+instruments. A stopped pipe produces its fundamental tone one octave
+lower than the tone of an open pipe of corresponding length, and
+overblows the harmonics of the twelfth, and of the third above the
+second octave of the fundamental tone, i.e. the odd numbers of the
+series; whereas the open pipe gives the whole series of harmonics, the
+octave, the twelfth, the double octave, and the third above it, &c.
+
+To produce the diatonic scale throughout the octaves of its compass, the
+stopped pipe requires eleven lateral holes in the side of the pipe, at
+appropriate distances from each other, and from the end of the pipe,
+whereas the open pipe requires but six. The acoustic properties of the
+open pipe can only be secured in combination with a reed mouthpiece by
+making the bore conical. The late Romans (and therefore we may perhaps
+assume the Greeks also, since the Romans acknowledge their indebtedness
+to the Greeks in matters relating to musical instruments, and more
+especially to the cithara and aulos) understood the acoustic principle
+utilized to-day in making wind instruments, that a hole of small
+diameter nearer the mouthpiece may be substituted for one of greater
+diameter in the theoretically correct position. This is demonstrated by
+the 4th-century grammarian Macrobius, who says (_Comm. in Somn. Scip._
+ii. 4, 5): "Nec secus probamus in tibiis, de quarum foraminibus vicinis
+inflantis ori sonus acutus emittitur, de longinquis autem et termino
+proximis gravior; item acutior per patentiora foramina, gravior per
+angusta" (see BASSOON). Aristotle gives directions for boring holes in
+the aulos, which would apply only to a pipe of cylindrical bore
+(_Probl_. xix. 23). At first the aulos had but three or four holes; to
+Diodorus of Thebes is due the credit of having increased this number
+(Pollux iv. 80). Pronomus, the musician, and teacher of Alcibiades (5th
+century B.C.), further improved the aulos by making it possible to play
+on one pair of instruments the three musical scales in use at his time,
+the Dorian, the Phrygian, and the Lydian, whereas previously a separate
+pair of pipes had been used for each scale (Pausanias ix. 12. 5;
+Athenaeus xiv. 31). These three modes would require a compass of a tenth
+in order to produce the fundamental octave in each.
+
+There are two ways in which this increased compass might have been
+obtained: (1) by increasing the number of holes and covering up those
+not required, (2) by means of contrivances for lowering the pitch of
+individual notes as required. We have evidence that both means were
+known to the Greeks and Romans. The simplest device for closing holes
+not in use was a band of metal left free to slide round the pipe, and
+having a hole bored through it corresponding in diameter with the hole
+in the pipe. Each hole was provided with a band, which was in some cases
+prevented from slipping down the pipe by narrow fixed rings of metal.
+The line on fig. 1 between r and s is thought to have been one of these
+rings.
+
+Some pipes had two holes pierced through the bands and the bone, in such
+a manner that only one could be exposed at a time. This is clearly shown
+in the diagram (fig. 1) of fragments of an aulos from the museum at
+Candia, for which the writer is greatly indebted to Professor John L.
+Myres, by whom measured drawings were made from the instrument in 1893.
+These highly interesting remains, judging from the closed end (5), seem
+to belong to a side-blown reed-pipe similar to the Maenad pipes in the
+Castellani collection at the British Museum, illustrated below; they are
+constructed like modern flutes, but played by means of a reed inserted
+into the lateral embouchure.
+
+In the Candia pipe, it seems likely that Nos. 1 and 2 represented the
+bell end, slightly expanded, No. 3 joining the broken end of No. 2 at l;
+there being a possible fit at the other end at s with a in No. 4 (the
+drawings must in this case be imagined as reversed for parts 3 and 4),
+and No. 5 joining on to No. 4 at k.
+
+According to Professor Myres there are fragments of a pair of pipes in
+the Cyprus Museum of precisely the same construction as the one in
+Candia. In the drawing, the shape and relative position of the holes _on
+the circumference_ is approximate only, but their position lengthways is
+measured.
+
+[Illustration: FIG. 1.--Diagram of the Fragments of an _Aulos_ (Candia
+Mus.).
+
+(From a drawing by Prof. John L. Myres.)
+
+  a, Triple wrapping of bronze as well as slide.
+  b, Slide with hole.
+  c, Slides with two holes not uncovered together.
+  d, Slides with two holes not uncovered together, one hole at back.
+  e, Slide.
+  f, Slide missing.
+  g, Slide missing, scars of slide holes.
+  h, Slide.
+  i and j, Slide.
+  k, Socket.
+  l, Male half of joint.
+  m, n, o, Slides, the top hole being in the slide only.
+  p and q, Slides, with two holes; the small hole shown is in the
+      pipe, there being a corresponding hole in the slide at the back.
+  r, Bronze covering (and slide?).
+  s, Male joint.
+  t, The wavy line shows the extreme length of fragment.
+  u, 13 mm. inside diameter, 14 mm. outside diameter.
+  w, Engraved lines and conical form of bronze covering.
+  x, Wavy line shows extreme length of fragment.
+  y, Stopped end of pipe with engraved lines.
+
+    The line between r and s is either a turned ring or part of bronze
+    cover. The double lines to the right of t are engraved lines.]
+
+Bands of silver were found on the ivory pipes from Pompeii[3] (fig. 2),
+as well as on two pipes belonging to the Castellani collection (fig. 4)
+and on one from Halicarnassus, in the British Museum. In order to enable
+the performer to use these bands conveniently, a contrivance such as a
+little ring, a horn or a hook termed keras (Greek: keras) was attached
+to the band.[4]
+
+Thirteen of the bands on the Pompeian pipes still have sockets which
+probably originally contained _kerata_. Pollux (iv. 80) mentions that
+Diodorus of Thebes, in order to increase the range of the aulos, made
+lateral channels for the air ([Greek: plagiai hodoi]). These consisted
+of tubes inserted into the holes in the bands for the purpose of
+lengthening the column of air, and lowering individual notes at will,
+the sound being then produced at the extremity of the tube, instead of
+at the surface of the pipe. It is possible that some of the double holes
+in the slides of the Candia pipe were intended for the reception of
+these tubes. These lateral tubes form the archetype of the modern crook
+or piston.[5] The mouthpiece of the aulos was called _zeugos_ ([Greek:
+zeugos]),[6] the reed tongue _glossa_[7] or _glotta_ ([Greek: glossa] or
+[Greek: glotta]), and the socket into which the reed was fixed
+_glottis_[8] ([Greek: glottis]).
+
+The double reed was probably used at first, being the simplest form of
+mouthpiece; the word _zeugos_, moreover, signifies a pair of like
+things. There is, however, no difficulty in accepting the probability
+that a single beating reed or clarinet mouthpiece was used by the
+Greeks, since the ancient Egyptians used it with the as-it or arghoul
+(q.v.).
+
+[Illustration: FIG. 2.--Roman Ivory Aulos found at Pompeii (Naples
+Mus.), showing slides and rings.
+
+(Drawn from a photo by Brogi.)]
+
+The beak-shaped mouthpiece of a pipe found at Pompeii (fig. 3) has all
+the appearance of the beak of the clarinet, having, on the side not
+shown, the lay on which to fix a single or beating reed.[9] It may,
+however, have been the cap of a covered reed, or even a whistle
+mouthpiece in which the lip does not show in the photograph. It is
+difficult to form a conclusion without seeing the real instrument. On a
+mosaic of Monnus in Trèves[10] is represented an aulos which also
+appears to have a beak-shaped mouthpiece.
+
+The upper part of the aulos, as in the Pompeian pipes, frequently had
+the form of a flaring cup supported on a pear-shaped bulb, respectively
+identified as the _holmos_ ([Greek: holmos]) and the _hypholmion_
+([Greek: hypholmion]), the support of the _holmos_. An explanation of
+the original nature and construction of the bulb and flaring cup, so
+familiar in the various representations of the aulos, and in the real
+instruments found in Pompeii, is provided by an ancient Egyptian flute
+belonging to the collection of G. Maspero, illustrated and described by
+Victor Loret.[11] Loret calls the double bulb the beak mouthpiece of the
+instrument, and describes its construction; it consists of a piece of
+reed of larger diameter than that of the flute, and eight centimetres
+long; this reed has been forcibly compressed a little more than half way
+down by means of a ligature of twine, thus reducing the diameter from 6
+mm. to 4 mm. The end of the pipe, covered by rows of waxed thread, fits
+into the end of the smaller bulb, to which it was also bound by waxed
+thread exactly as in the Elgin pipe at the British Museum, described
+below. There is no indication of the manner in which the pipe was
+sounded, and Loret assumes that there was once a whistle or flageolet
+mouthpiece. To the present writer, however, it seems probable that the
+constricted diameter between the two bulbs formed a socket into which
+the double reed or straw was inserted, and that, in this case at least,
+the reed was not taken into the mouth, but vibrated in the upper bulb or
+air-chamber. This simple contrivance was probably also employed in the
+earliest Greek pipes, and was later copied and elaborated in wood, bone
+or metal, the upper bulb being made shorter and developing into the
+flaring cup, in order that the reeds might be taken directly into the
+mouth. During the best period of Greek music the reeds were taken
+directly into the mouth[12] and not enclosed in an air-chamber. The two
+pipes were kept in position while the fingers stopped the holes and
+turned the bands by means of the [Greek: phorbeia] (Lat. _capistrum_), a
+bandage encircling mouth and cheeks, and having holes through which the
+reed-mouthpiece passed into the mouth of the performer; the _phorbeia_
+also relieved the pressure of the breath on the cheeks and lips,[13]
+which is felt more especially by performers on oboe and bassoon at the
+present day.
+
+[Illustration: FIG. 3.--Beak mouthpiece. Found at Pompeii (Naples Mus.).
+
+(From a photo by Brogi.)]
+
+In the pair of wooden pipes belonging to the Elgin collection at the
+British Museum, one of the bulbs, partly broken, but preserved in the
+same case as the pipes, was fastened to the pipes by means of waxed
+thread, the indented lines being still visible on the rim of the bulb.
+The aulos was kept in a case called _sybene_[14] ([Greek: sybaenae]) or
+_aulotheke_[15] ([Greek: aulothaekae]), and the little bag or case in
+which the delicate reeds were carried was known by the name of
+_glottokomeion_[15] ([Greek: glottokomeion]).[16] Two Egyptian flute
+cases are extant, one in the Louvre,[17] and the other in the museum at
+Leiden. The latter case is of sycamore wood, cylindrical in shape, with
+a stopper of the same wood; there is no legend or design upon it. The
+case contained seven pipes, five pieces of reed without bore or holes,
+and three pieces of straw suitable for making double-reed
+mouthpieces.[18]
+
+Aristoxenus gives the full compass of a single pipe or pair of pipes as
+over three octaves:--"For doubtless we should find an interval greater
+than the above mentioned three octaves between the highest note of the
+soprano clarinet (aulos) and the lowest note of the bass-clarinet
+(aulos); and again between the highest note of a clarinet player
+performing with the speaker open, and the lowest note of a clarinet
+player performing with the speaker closed."[19]
+
+This, according to the tables of Alypius, would correspond to the full
+range of the Greek scales, a little over three octaves from
+[Illustration: low "E" below the staff, bass clef] to [Illustration:
+high "F-sharp" on the fifth-stave, treble clef]. It is evident that the
+ancient Greeks obtained this full compass on the aulos by means of the
+harmonics. Proclus (_Comm. in Alcibiad._ chap. 68) states that from each
+hole of the pipe at least three tones could be produced. Moreover,
+classic writers maintain that if the performer press the _zeugos_ or the
+_glottai_ of the pipes, a sharper tone is produced.[20] This is exactly
+how a performer on a modern clarinet or oboe produces the higher
+harmonics of the instrument.[21] The small bore of the aulos in
+comparison to its length facilitated the production of the harmonics
+(cf. Zamminer p. 218), as does also the use of a small hole near the
+mouthpiece, called in Greek _syrinx_ ([Greek: syrinx]) and in the modern
+clarinet the "speaker," which when open enables the performer to
+overblow with ease the first harmonic of the lowest fundamental tones.
+To Mr Albert A. Howard of Harvard University is due the credit of having
+identified the _syrinx_ of the aulos with the speaker of the
+clarinet.[22] This assumption is doubtless correct, and is supported by
+classical grammarians,[23] who state that the _syrinx_ was one of the
+holes of the aulos. It renders quite clear certain passages in
+Aristoxenus, Aristotle and Plutarch, and a scholion to Pindar's 12th
+_Pythian_, which before were difficult to understand (see SYRINX).
+
+[Illustration: FIG. 4.--The Plagiaulos. Castellani Collection (Maenad
+Pipes), British Museum.]
+
+[Illustration: FIG. 5.--Ancient Greek Double Pipes. Elgin Collection,
+British Museum.]
+
+The aulos or tibia existed in a great number of varieties enumerated by
+Pollux (_Onomast._ iv. 74 et seq.) and Athenaeus (iv. 76 et seq.). They
+fall into two distinct classes, the single and the double pipes. There
+were three principal single pipes, the _monaulos_, the _plagiaulos_ and
+the _syrinx monocalamos_. The double pipes were used by the great
+musicians of ancient Greece, and notably at the musical contests at
+Delphi, and what has been said above concerning the construction of the
+aulos refers mainly to the double pipes. The _monaulos_, a single pipe
+of Egyptian origin, which, by inference, we assume to have been played
+from the end by means of a reed, may have been the archetype of the oboe
+or clarinet. The _plagiaulos photinx_ or _tibia obliqua_, invented by
+the Libyans (Pollux iv. 74), or, according to Pliny (vii. 204), by Midas
+of Phrygia, was held like the modern flute, but was played by means of a
+mouthpiece containing a reed. Three of the existing pipes at the British
+Museum (the two in the Castellani collection, and the pipe from
+Halicarnassus) belong to this type. The mouthpiece projects from the
+side of the pipe and communicates with the main bore by means of a
+slanting passage; the end nearest the mouthpiece is stopped as in the
+modern flute; in the latter, however, the embouchure is not closed by
+the lips when playing, and therefore the flute has the acoustic
+properties of the open pipe, whereas the _plagiaulos_ having a reed
+mouthpiece gave the harmonics of a closed pipe. The double pipes existed
+in five sizes according to pitch, in the days of Aristoxenus, who, in a
+treatise on the construction of the auloi ([Greek: Peri aulon
+traeseos]), unfortunately not extant,[24] divides them thus:--
+
+(1) _Parthenioi auloi_ ([Greek: parthenioi auloi]), the maiden's
+_auloi_, corresponding to the soprano compass.
+
+(2) _Paidikoi auloi_ ([Greek: paidikoi auloi]), the boy's pipes or alto
+_auloi_, used to accompany boys' songs and also in double pairs at
+feasts.
+
+(3) _Kitharisterioi auloi_ ([Greek: kitharistaerioi auloi]), used to
+accompany the cithara.
+
+(4) _Teleioi auloi_, the perfect aulos, or tenor's pipes; also known as
+the _pythic auloi_ ([Greek: pythikoi auloi]); used for the paeans and
+for solos at the Pythean games (without chorus). It was the _pythic
+auloi_ and the _kitharisterioi auloi_ more especially which were
+provided with the speaker (syrinx) in order to improve the harmonic
+notes (see SYRINX).
+
+(5) _Hyperteleioi auloi_ ([Greek: hyperteleioi auloi]) or _andreioi
+auloi_ ([Greek: andreioi ayloi]) (see Athenaeus iv. 79), the bass-auloi.
+
+The Phrygian pipes or _auloi Elymoi_[25] were made of box-wood and were
+tipped with horn; they were double pipes, but differed from all others
+in that the two pipes were unequal in length and in the diameter of
+their bores;[26] sometimes one of the pipes was curved upwards and
+terminated in a horn bell;[27] they seem to have had a conical bore, if
+representations on monuments are to be trusted. We may conclude that the
+archetype of the oboe with conical bore was not unknown to the Greeks;
+it was frequently used by the Etruscans and Romans, and appears on many
+has-reliefs, mural paintings and other monuments. For illustrations see
+Wilhelm Froehner, _Les Musées de France_, pl. iii., "Marsyas playing the
+double pipes." There the bore is decidedly conical in the ratio of at
+least 1:4 between the mouthpiece and the end of the instrument; the vase
+is Roman, from the south of France. See also _Bulletino della
+Commissione Archeologica Comunale di Roma_, Rome, 1879, vol. vii., 2nd
+series, pl. vii. and p. 119 et seq., "Le Nozze di Elena e Paride," from
+a bas-relief in the monastery of S. Antonio on the Esquiline; Wilhelm
+Zahn, _Die schonsten Ornamente und die merkwurdigsten Gemälde aus
+Pompeji, Herkulaneum und Stabiae_ (German and French), vol. iii., pl. 43
+and 51 (Berlin, 1828-1859).
+
+  For further information on the aulos, consult Albert A. Howard, "The
+  Aulos or Tibia," _Harvard Studies_, iv., 1893; François A. Gevaert,
+  _Histoire de la musique dans l'antiquité_, vol. ii. p. 273 et seq.;
+  Carl von Jan's article "Flote" in August Baumeister's _Denkmaler des
+  klassischen Altertums_ (Munich, 1884-1888), vol. i.; Dr Hugo Riemann,
+  _Handbuch der Musikgeschichte_, Bd. I.T. 1, pp. 93-112 (Leipzig,
+  1904); Caspar Bartholinus, _De Tibiis Veterum_ (Amsterdam, 1779).
+       (K. S.)
+
+FOOTNOTES:
+
+  [1] See Pollux, _Onom._ iv. 69.
+
+  [2] See Friedrich Zamminer, _Die Musik und musikalischen Instrumente
+    in ihrer Beziehung zu den Gesetzen der Akustik_ (Giessen, 1855), p.
+    305.
+
+  [3] These pipes were discovered during the excavations in 1867, and
+    are now in the museum at Naples. Excellent reproductions and
+    descriptions of them are given in "The Aulos or Tibia," by Albert A.
+    Howard, _Harvard Studies_, vol. iv. (Boston, 1893), pl. ii. and pp.
+    48-55.
+
+  [4] For illustrations of _auloi_ provided with these contrivances,
+    see illustration (fig. 2) of an aulos from Pompeii; a relief in
+    Vatican, No. 535; Helbig's _Wandgemãlde_, Nos. 56, 69, 730, 765, &c.
+
+  [5] For illustrations of [Greek: hodoi] showing the holes at the ends
+    of the tubes, see _Description des marbres antiques du Musée
+    Campana_, by H. d'Escamps, pl. 25; Wilhelm Froehner's _Catalogue of
+    the Louvre_, No. 378; Glyptothek Museum at Munich, No. 188; Albert A.
+    Howard, "The Aulos or Tibia," _Harvard Studies_, iv. (Boston, 1893),
+    pl. 1, No. 1.
+
+  [6] For a description of the reed calamus from which pipe and
+    mouthpiece were made see Theophrastus, _Hist. Plant._ iv. 11.
+
+  [7] Aeschines 86. 29; Aristotle, _H.A._ 6, 10, 9, &c.
+
+  [8] Lucian, _Harm._ 1.
+
+  [9] Cf. article MOUTHPIECE.
+
+  [10] See _Antike Denkmaler_, Deutsches archäol. Inst., Berlin, 1891,
+    vol. i. pi. 49.
+
+  [11] See "Les Flûtes égyptiennes antiques," _Journal asiatique_, 8th
+    ser. vol. xiv. (Paris, 1889), pp. 212-215.
+
+  [12] See Aristotle, _De Audib._ p. 802 b, 18, and p. 804a; Festus,
+    ed. Mueller, p. 116.
+
+  [13] See Albert A. Howard, op. cit. p. 29, and Dr Hugo Riemann,
+    _Gesch. d. Musik_, Bd. i. T. 1, p. 111 (Leipzig, 1904).
+
+  [14] Pollux, _Onomasticon_, vii. 153.
+
+  [15] Hesychius.
+
+  [16] Pollux ii. 108, vii. 153, x. 153-154; A.A. Howard, op. cit. pp.
+    26-27. An illustration of the little bag is given in _Denkmaler des
+    klassischen Altertums_, by August Baumeister, vol. i. p. 554, fig.
+    591.
+
+  [17] Two Egyptian pipes now in the Louvre were found in a case
+    ornamented with a painting of a female musician playing a double
+    pipe. See E. de Rougé, _Notice sommaire des monuments égyptiens
+    exposés dans les galeries du Louvre_, p. 87.
+
+  [18] See Victor Loret, "Les Flûtes égyptiennes antiques," in _Journal
+    asiatique_, vol. xiv. (Paris, 1889), pp. 199, 200 and 201 (note), pp.
+    207, 211 and 217, and Conrad Leemans, _Description raisonnée des
+    monuments égyptiens du Musée d'Antiquités de Leyde_, p. 132, No. 489;
+    contents of case Nos. 474-488.
+
+  [19] Aristoxenus, _Harm._ bk. i. 20 and 21, H.S. Macran's edition
+    with translation (Oxford, 1902), p. 179.
+
+  [20] Aristotle, _De audib._ p. 804a; Porphyry, ed. Wallis, p. 249;
+    _ibid._ p. 252.
+
+  [21] Zamminer, _op. cit._ p. 301.
+
+  [22] _Op. cit._ p. 32-35.
+
+  [23] See _Etymologicum magnum_ (Augsburg. 1848), s.v. "Syrinx."
+
+  [24] See Athenaeus xiv. 634, who quotes from Didymus.
+
+  [25] Pollux iv. 74.
+
+  [26] Servius _ad Aen._ ix. 615.
+
+  [27] Tibullus ii. 85; Virg. _Aen._ xi. 735; Ovid, _Met._ iii. 533,
+    _Ex Ponto_ i. 1. 39.

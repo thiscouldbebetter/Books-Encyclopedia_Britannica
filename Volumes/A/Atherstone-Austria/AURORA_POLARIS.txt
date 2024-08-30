@@ -1,0 +1,1137 @@
+AURORA POLARIS (_Aurora Borealis_ and _Australis_, Polar Light, Northern
+Lights), a natural phenomenon which occurs in many forms, some of great
+beauty.
+
+1. _Forms._--Various schemes of classification have been proposed, but
+none has met with universal acceptance; the following are at least the
+principal types. (1) _Arcs._ These most commonly resemble segments of
+circles, but are not infrequently elliptical or irregular in outline.
+The ends of arcs frequently extend to the horizon, but often one or both
+ends stop short of this. Several arcs may be visible at the same time.
+Usually the under or concave edge of the arc is the more clearly
+defined, and adjacent to it the sky often seems darker than elsewhere.
+It is rather a disputed point whether this dark segment--through which
+starlight has been seen to pass--represents a real atmospheric condition
+or is merely a contrast effect. (2) _Bands._ These may be nearly
+straight and regular in outline, as if broken portions of arcs;
+frequently they are ribbon-like serpentine forms showing numerous
+sinuosities. (3) _Rays._ Frequently an arc or band is visibly composed
+of innumerable short rays separated by distinctly less luminous
+intervals. These rays are more or less perpendicular to the arc or band;
+sometimes they are very approximately parallel to one another, on other
+occasions they converge towards a point. Longer rays often show an
+independent existence. Not infrequently rays extend from the upper edge
+of an arc towards the zenith. Combinations of rays sometimes resemble a
+luminous fan, or a series of fans, or part of a hollow luminous
+cylinder. Rays often alter suddenly in length, seeming to stretch down
+towards the horizon or mount towards the zenith. This accounts for the
+description of aurora as "Merry Dancers." (4) _Curtains or Draperies._
+This form is rare except in Arctic regions, where it is sometimes fairly
+frequent. It is one of the most imposing forms. As a rule the higher
+portion is visibly made up of rays, the light tending to become more
+continuous towards the lower edge; the combination suggests a connected
+whole, like a curtain whose alternate portions are in light and shade.
+The curtain often shows several conspicuous folds, and the lower edge
+often resembles frilled drapery. At several stations in Greenland
+auroral curtains have been observed when passing right overhead to
+narrow to a thin luminous streak, exactly as a vertical sheet of light
+would seem to do to one passing underneath it. (5) _Corona_. A fully
+developed corona is perhaps the finest form of aurora. As the name
+implies, there is a sort of crown of light surrounding a comparatively
+or wholly dark centre. Farther from the centre the ray structure is
+usually prominent. The rays may lie very close together, or may be
+widely separated from one another. (6) _Patches_. During some displays,
+auroral light appears in irregular areas or patches, which sometimes
+bear a very close resemblance to illuminated detached clouds. (7)
+_Diffused Aurora_. Sometimes a large part of the sky shows a diffuse
+illumination, which, though brighter in some parts than others,
+possesses no definite outlines. How far the different forms indicate
+real difference in the nature of the phenomenon, and how far they are
+determined by the position of the observer, it is difficult to say. Not
+infrequently several different forms are visible at the same time.
+
+[Illustration]
+
+2. _Isochasms._--Aurora is seldom observed in low latitudes. In the
+southern hemisphere there is comparatively little inhabited land in high
+latitudes and observational data are few; thus little is known as to how
+the frequency varies with latitude and longitude. Even in the northern
+hemisphere there are large areas in the Arctic about which little is
+known. H. Fritz (2) has, however, drawn a series of curves which are
+believed to give a good general idea of the relative frequency of aurora
+throughout the northern hemisphere. Fritz' curves, shown in the
+illustration, are termed isochasms, from the Greek word employed by
+Aristotle to denote aurora. Points on the same curve are supposed to
+have the same average number of auroras in the year, and this average
+number is shown adjacent to the curve. Starting from the equator and
+travelling northwards we find in the extreme south of Spain an average
+of only one aurora in ten years. In the north of France the average
+rises to five a year; in the north of Ireland to thirty a year; a little
+to the north of the Shetlands to one hundred a year. Between the
+Shetlands and Iceland we cross the curve of maximum frequency, and
+farther north the frequency diminishes. The curve of maximum frequency
+forms a slightly irregular oval, whose centre, the auroral pole, is
+according to Fritz at about 81° N. lat., 70° W. long. Isochasms reach a
+good deal farther south in America than in Europe. In other words,
+auroras are much more numerous in the southern parts of Canada and in
+the United States than in the same latitudes of Europe.
+
+3. _Annual Variation._--Table I. shows the annual variation observed in
+the frequency of aurora. It has been compiled from several authorities,
+especially Joseph Lovering (4) and Sophus Tromholt (5). The monthly
+figures denote the percentages of the total number seen in the year. The
+stations are arranged in order of latitude. Individual places are first
+considered, then a few large areas.
+
+The Godthaab data in Table I. are essentially those given by Prof. A.
+Paulsen (6) as observed by Kleinschmidt in the winters of 1865 to 1882,
+supplemented by Lovering's data for summer. Starting at the extreme
+north, we have a simple period with a well-marked maximum at midwinter,
+and no auroras during several months at midsummer. This applies to
+Hammerfest, Jakobshavn, Godthaab and the most northern division of
+Scandinavia. The next division of Scandinavia shows a transition stage.
+To the south of this in Europe the single maximum at mid-winter is
+replaced by two maxima, somewhere about the equinoxes.
+
+  4. In considering what is the real significance of the great
+  difference apparent in Table I. between higher and middle latitudes, a
+  primary consideration is that aurora is seldom seen until the sun is
+  some degrees below the horizon. There is no reason to suppose that the
+  physical causes whose effects we see as aurora are in existence only
+  when aurora is visible. Until means are devised for detecting aurora
+  during bright sunshine, our knowledge as to the hour at which these
+  causes are most frequently or most powerfully in operation must remain
+  incomplete. But it can hardly be doubted that the differences apparent
+  in Table I. are largely due to the influence of sunlight. In high
+  latitudes for several months in summer it is never dark, and
+  consequently a total absence of visible aurora is practically
+  inevitable. Some idea of this influence can be derived from figures
+  obtained by the Swedish International Expedition of 1882-1883 at Cape
+  Thorsden, Spitsbergen, lat. 78° 28' N. (7). The original gives the
+  relative frequency of aurora for each degree of depression of the sun
+  below the horizon, assuming the effect of twilight to be nil (i.e. the
+  relative frequency to be 100) when the depression is 18.5° or more.
+  The following are a selection of the figures:--
+
+    Angle of depression  4.5°  7.5°  10.5°  12.5°  15.5°.
+    Relative frequency   0.3   9.3   44.9   74.5   95.9.
+
+  These figures are not wholly free from uncertainties, arising from
+  true diurnal and annual variations in the frequency, but they give a
+  good general idea of the influence of twilight.
+
+  If sunlight and twilight were the sole cause of the apparent annual
+  variation, the frequency would have a simple period, with a maximum at
+  midwinter and a minimum at midsummer. This is what is actually shown
+  by the most northern stations and districts in Table I. When we come,
+  however, below 65° lat. in Europe the frequency near the equinoxes
+  rises above that at midwinter, and we have a distinct double period,
+  with a principal minimum at midsummer and a secondary minimum at
+  midwinter. In southern Europe--where, however, auroras are too few to
+  give smooth results in a limited number of years--in southern Canada,
+  and in the United States, the difference between the winter and summer
+  months is much reduced. Whether there is any real difference between
+  high and mean latitudes in the annual frequency of the causes rendered
+  visible by aurora, it is difficult to say. The Scandinavian data, from
+  the wealth of observations, are probably the most representative, and
+  even in the most northern district of Scandinavia the smallness of the
+  excess of the frequencies in December and January over those in March
+  and October suggests that some influence tending to create maxima at
+  the equinoxes has largely counterbalanced the influence of sunlight
+  and twilight in reducing the frequency at these seasons.
+
+  5. _Fourier Analysis._--With a view to more minute examination, the
+  annual frequency can be expressed in Fourier series, whose terms
+  represent waves, whose periods are 12, 6, 4, 3, &c. months. This has
+  been done by Lovering (4) for thirty-five stations. The nature of the
+  results will best be explained by reference to the formula given by
+  Lovering as a mean from all the stations considered, viz.:--
+
+    8.33 + 3.03 sin(30t + 100°52') + 2.53 sin(60t + 309° 5')
+         + 0.16 sin(90t + 213°31') + 0.56 sin(120t + 162°45')
+         + 0.27 sin(150t + 32°38').
+
+  [Illustration: PLATE I.
+
+    FIG. 1--TWO TYPES OF AURORAL ARCS.
+
+    FIG. 2--TWO TYPES OF AURORAL RAYS.
+
+    (From the _Internationale Polarforschung_, 1882-1883, by permission
+    of the _Kaiserlichen Akademie der Wissenschaften_, Vienna.)]
+
+  [Illustration: PLATE II.
+
+    FIG. 3--AURORAL BANDS.
+
+    FIG. 4--AURORAL CURTAIN BELOW AN ARC.
+
+    FIG. 5.--AURORAL CORONA.]
+
+    TABLE I.--_Annual Frequency (Relative)._
+
+    +-----------------+-----------+------+------+------+------+------+------+------+------+------+------+------+------+
+    |      Place.     | Latitude. | Jan. | Feb. | Mar. | Apr. | May  | June | July | Aug. | Sep. | Oct. | Nov. | Dec. |
+    +-----------------+-----------+------+------+------+------+------+------+------+------+------+------+------+------+
+    |                 |     °     |      |      |      |      |      |      |      |      |      |      |      |      |
+    | Hammerfest      |    70½    | 20.9 | 17.6 |  8.8 |  0   |  0   |  0   |  0   |  0   |  4.4 |  9.9 | 17.6 | 20.9 |
+    | Jakobshavn      |    69     | 14.6 | 13.0 |  9.2 |  .5  |  0   |  0   |  0   |  0   |  9.2 | 15.1 | 18.4 | 20.0 |
+    | Godthaab        |    64     | 15.5 | 12.4 |  9.7 |  4.9 |  0   |  0   |  0   |  1.2 |  8.7 | 13.3 | 17.0 | 17.4 |
+    | St Petersburg   |    60     |  6.5 |  9.1 | 16.8 | 13.8 |  3.5 |  1.2 |  1.4 |  5.9 | 13.8 | 13.1 |  7.6 |  7.3 |
+    | Christiania     |    60     |  8.6 | 11.4 | 14.0 | 11.2 |  0.6 |  0   |  0.2 |  6.5 | 14.6 | 12.2 | 10.3 | 10.3 |
+    | Upsala          |    60     |  8.4 | 12.9 | 14.9 |  7.4 |  0.7 |  0.2 |  0.4 |  7.1 | 12.4 | 14.3 | 10.7 | 10.7 |
+    | Stockholm       |    59     |  7.6 | 10.0 | 14.7 | 16.4    3.8 |  0.0 |  0.0 |  5.6 | 12.9 | 11.4 | 10.0 |  7.3 |
+    | Edinburgh       |    56     |  9.6 | 12.6 | 14.0 |  9.5 |  3.4 |  0.0 |  1.7 |  6.0 | 12.6 | 13.5 | 11.8 |  5.2 |
+    | Berlin          |    52½    |  7.6 | 10.8 | 16.4 | 15.5 | 11.4 |  0.6 |  2.9 |  2.9 |  6.5 | 13.2 |  8.5 |  4.1 |
+    | London          |    51½    |  8.6 | 10.5 | 10.2 | 10.7 |  4.0 |  1.1 |  1.9 |  5.6 | 14.5 | 16.9 |  9.6 |  6.4 |
+    | Quebec          |    47     |  3.6 | 14.8 |  8.3 | 14.2 |  4.1 |  5.9 |  7.7 |  5.9 | 11.2 | 12.4 |  7.7 |  4.1 |
+    | Toronto         |    43½    |  5.4 |  9.5 |  8.7 | 11.8 |  9.0 |  6.2 |  8.0 |  6.4 |  8.5 | 11.1 |  8.7 |  6.7 |
+    | Cambridge, Mass.|    42½    |  5.1 |  8.2 | 11.8 | 10.2 |  6.4 |  5.1 | 10.3 |  8.5 | 13.3 |  9.2 |  6.8 |  5.1 |
+    | New Haven, Conn.|    41½    |  7.7 |  7.3 |  8.9 |  8.2 |  7.6 |  5.7 |  8.9 |  8.1 | 11.9 |  7.6 | 10.6 |  7.5 |
+    | Scandinavia     | N. of 68½ | 16.4 | 13.8 | 14.8 |  1.6 |  0.0 |  0.0 |  0.0 |  0.4 |  7.8 | 15.1 | 14.4 | 15.7 |
+    |      "          | 68½  to 65| 15.3 | 14.6 | 13.7 |  2.9 |  0.0 |  0.0 |  0.0 |  1.1 |  9.7 | 14.6 | 14.0 | 14.1 |
+    |      "          | 65 to 61½ | 13.2 | 12.3 | 14.5 |  5.4 |  0.2 |  0.0 |  0.0 |  2.8 | 13.1 | 14.2 | 12.8 | 11.5 |
+    |      "          | 61½  to 58|  9.5 | 11.2 | 13.5 | 10.9 |  1.3 |  0.1 |  0.4 |  5.7 | 13.6 | 13.8 | 10.4 |  9.6 |
+    |      "          | S. of 58  |  8.2 | 11.9 | 12.6 | 13.3 |  1.5 |  0.1 |  0.6 |  4.9 | 14.9 | 13.5 | 10.3 |  8.2 |
+    | New York State  | 45 to 40½ |  6.3 |  7.4 |  9.1 | 11.0 |  7.4 |  6.6 |  8.8 | 10.4 | 11.7 |  9.7 |  6.2 |  5.4 |
+    +-----------------+-----------+------+------+------+------+------+------+------+------+------+------+------+------+
+
+  The total number of auroras in the year is taken as 100, and t denotes
+  the time, in months, that has elapsed since the middle of January.
+  Putting t=0, 1, &c., in succession, we get the percentages of the
+  total number of auroras which occur in January, February, and so on.
+  The first periodic term has a period of twelve, the second of six
+  months, and similarly for the others. The first periodic term is
+  largest when t × 30° + 100° 52' = 450°. This makes t = 11.6 months
+  after the middle of January, otherwise the 3rd of January,
+  approximately. The 6-month term has the earliest of its two equal
+  maxima about the 26th of March. These two are much the most important
+  of the periodic terms. The angles 100° 52', 309° 5', &c., are known as
+  the phase angles of the respective periodic terms, while 3.03, 2.53,
+  &c., are the corresponding amplitudes. Table II. gives a selection of
+  Lovering's results. The stations are arranged according to latitude.
+
+    TABLE II.
+
+    +----------------------+--------------+--------------+--------------+
+    |                      | Annual Term. | 6-Month Term.| 4-Month Term.|
+    |       Station.       +-------+------+-------+------+-------+------+
+    |                      |  Amp. |Phase.|  Amp. |Phase.|  Amp. |Phase.|
+    +----------------------+-------+------+-------+------+-------+------+
+    |                      |       |   °  |       |   °  |       |   °  |
+    | Jakobshavn           | 10.40 |  123 |  1.13 |  206 |  1.41 |  333 |
+    | Godthaab             |  8.21 |  111 |  1.54 |  316 |  0.64 |  335 |
+    | St Petersburg        |  2.81 |   96 |  5.99 |  309 |  0.57 |  208 |
+    | Christiania          |  4.83 |  116 |  4.99 |  317 |  0.76 |  189 |
+    | Upsala               |  5.41 |  119 |  4.57 |  322 |  0.86 |  296 |
+    | Stockholm            |  3.68 |   91 |  5.80 |  303 |  1.31 |  180 |
+    | Makerstown (Scotland)|  5.79 |  102 |  4.47 |  310 |  2.00 |  342 |
+    | Great Britain        |  3.87 |  126 |  4.24 |  287 |  0.40 |   73 |
+    | Toronto              |  0.18 |   12 |  2.13 |  260 |  0.52 |  305 |
+    | Cambridge, Mass.     |  1.02 |  262 |  2.84 |  339 |  1.28 |  253 |
+    | New Haven, Conn.     |  0.99 |  183 |  1.02 |  313 |  0.57 |  197 |
+    | New York State       |  1.34 |  264 |  2.29 |  325 |  0.54 |  157 |
+    +----------------------+-------+------+-------+------+-------+------+
+
+  Speaking generally, the annual term diminishes in importance as we
+  travel south. North of 55° in Europe its phase angle seems fairly
+  constant, not differing very much from the value 110° in Lovering's
+  general formula. The 6-month term is small, in the two most northern
+  stations, but south of 60° N. lat. it is on the whole the most
+  important term. Excluding Jakobshavn, the phase angles in the 6-month
+  term vary wonderfully little, and approach the value 309° in
+  Lovering's general formula. North of lat. 50° the 4-month term is, as
+  a rule, comparatively unimportant, but in the American stations its
+  relative importance is increased. The phase angle, however, varies so
+  much as to suggest that the term mainly represents local causes or
+  observational uncertainties. Lovering's general formula suggests that
+  the 4-month term is really less important than the 3-month term, but
+  he gives no data for the latter at individual stations.
+
+  6. Sunlight is not the only disturbing cause in estimates of auroral
+  frequency. An idea of the disturbing influence of cloud may be derived
+  from some interesting results from the Cape Thorsden (7) observations.
+  These show how the frequency of visible auroras diminished as cloud
+  increased from 0 (sky quite clear) to 10 (sky wholly overcast).
+
+  Grouping the results, we have:
+
+    Amount of cloud        0    1 to 3    4 to 6    7 to 9    10
+    Relative frequency   100      82        57        46       8
+
+  Out of a total of 1714 hours during which the sky was wholly overcast
+  the Swedish expedition saw auroras on 17, occurring on 14 separate
+  days, whereas 226 hours of aurora would have occurred out of an equal
+  number of hours with the sky quite clear. The figures being based on
+  only one season's observations are somewhat irregular. Smoothing them,
+  Carlheim-Gyllensköld gives f = 100' - 7.3c as the most probable linear
+  relation between c, the amount of cloud, and f, the frequency,
+  assuming the latter to be 100 when there is no cloud.
+
+7. _Diurnal Variation._--The apparent daily period at most stations is
+largely determined by the influence of daylight on the visibility. It is
+only during winter and in high latitudes that we can hope to ascertain
+anything directly as to the real diurnal variation of the causes whose
+influence is visible at night as aurora. Table III. gives particulars of
+the number of occasions when aurora was seen at each hour of the
+twenty-four during three expeditions in high latitudes when a special
+outlook was kept.
+
+The data under A refer to Cape Thorsden (78° 28' N. lat., 15° 42' E.
+long.), those under B to Jan Mayen (8) (71° 0' N. lat., 8° 28' W.
+long.), both for the winter of 1882-1883. The data under C are given by
+H. Arctowski (9) for the "Belgica" Expedition in 1898. They may be
+regarded as applying approximately to the mean position of the
+"Belgica," or 70½° S. lat., 86½° W. long. The method of counting
+frequencies was fairly alike, at least in the case of A and B, but in
+comparing the different stations the data should be regarded as relative
+rather than absolute. The Jan Mayen data refer really to Göttingen mean
+time, but this was only twenty-three minutes late on local time. In
+calculating the percentages of forenoon and afternoon occurrences half
+the entries under noon and midnight were assigned to each half of the
+day. Even at Cape Thorsden, the sun at midwinter is only 11° below the
+horizon at noon, and its effect on the visibility is thus not wholly
+negligible. The influence of daylight is presumably the principal cause
+of the difference between the phenomena during November, December and
+January at Cape Thorsden and Jan Mayen, for in the equinoctial months
+the results from these two stations are closely similar. Whilst daylight
+is the principal cause of the diurnal inequality, it is not the only
+cause, otherwise there would be as many auroras in the morning
+(forenoon) as in the evening (afternoon). The number seen in the evening
+is, however, according to Table III., considerably in excess at all
+seasons. Taking the whole winter, the percentage seen in the evening was
+the same for the "Belgica" as for Jan Mayen, i.e. for practically the
+same latitudes South and North. At Cape Thorsden from November to
+January there seems a distinct double period, with minima near noon and
+midnight. The other months at Cape Thorsden show a single maximum and
+minimum, the former before midnight. The same phenomenon appears at Jan
+Mayen especially in November, December and January, and it is the normal
+state of matters in temperate latitudes, where the frequency is usually
+greatest between 8 and 10 P.M. An excess of evening over morning
+occurrences is also the rule, and it is not infrequently more pronounced
+than in Table III. Thus at Tasiusak (65° 37' N. lat., 37° 33' W. long.)
+the Danish Arctic Expedition (10) of 1904 found seventy-five out of
+every hundred occurrences to take place before midnight.
+
+  TABLE III.--_Diurnal Variation._
+
+  +-------------+-----------+-----------+-----------+-----------------------+
+  |             |           |           |Feb., Mar.,|Sep. to Mar. (N. Lat.).|
+  |    Hour.    |    Dec.   |Nov. & Jan.|Sep. & Oct.|Mar. to Sep. (S. Lat.).|
+  |             +-----+-----+-----+-----+-----+-----+-------+-------+-------+
+  |             |  A  |  B  |  A  |  B  |  A  |  B  |   A   |   B   |   C   |
+  +-------------+-----+-----+-----+-----+-----+-----+-------+-------+-------+
+  |       1     |  14 |   7 |  14 |   8 |  27 |  23 |   55  |   38  |   24  |
+  |       2     |  10 |   6 |  15 |   6 |  20 |  25 |   45  |   37  |   23  |
+  |       3     |   9 |   4 |  15 |   5 |  15 |  21 |   39  |   30  |   10  |
+  |       4     |  10 |   5 |  21 |   7 |  14 |  18 |   45  |   30  |    4  |
+  |       5     |  13 |   5 |  20 |   3 |  10 |  10 |   43  |   18  |    2  |
+  |       6     |  11 |   3 |  15 |   4 |   2 |   3 |   28  |   10  |    1  |
+  |       7     |   9 |   2 |  13 |   3 |   1 |   2 |   23  |    7  |    0  |
+  |       8     |   5 |   1 |   6 |   1 |   0 |   0 |   11  |    2  |    0  |
+  |       9     |   7 |   2 |   9 |   0 |   0 |   0 |   16  |    2  |    0  |
+  |      10     |  10 |   0 |   5 |   0 |   0 |   0 |   15  |    0  |    0  |
+  |      11     |   9 |   0 |   6 |   0 |   0 |   0 |   15  |    0  |    0  |
+  |     Noon    |  10 |   0 |   4 |   0 |   0 |   0 |   14  |    0  |    0  |
+  |       1     |  10 |   0 |   6 |   0 |   0 |   0 |   16  |    0  |    0  |
+  |       2     |  14 |   0 |  10 |   0 |   0 |   0 |   24  |    0  |    0  |
+  |       3     |  18 |   1 |  20 |   3 |   0 |   0 |   38  |    4  |    0  |
+  |       4     |  16 |   7 |  19 |   7 |   1 |   1 |   36  |   15  |    0  |
+  |       5     |  12 |  11 |  22 |  10 |   5 |   2 |   39  |   23  |    3  |
+  |       6     |  14 |  10 |  21 |  16 |   8 |   5 |   43  |   31  |    3  |
+  |       7     |  16 |  13 |  23 |  16 |  20 |   9 |   59  |   38  |   14  |
+  |       8     |  15 |  12 |  22 |  18 |  24 |  24 |   61  |   54  |   25  |
+  |       9     |  14 |  15 |  18 |  17 |  27 |  28 |   59  |   60  |   31  |
+  |      10     |  12 |  15 |  19 |  15 |  31 |  25 |   62  |   55  |   29  |
+  |      11     |  10 |  12 |  18 |  17 |  33 |  26 |   61  |   55  |   26  |
+  |   Midnight  |   9 |   9 |  13 |  11 |  28 |  22 |   50  |   42  |   26  |
+  +-------------+-----+-----+-----+-----+-----+-----+-------+-------+-------+
+  | Totals      | 277 | 140 | 354 | 167 | 266 | 244 |  897  |  551  |  221  |
+  +-------------+-----+-----+-----+-----+-----+-----+-------+-------+-------+
+  |Percentages--|     |     |     |     |     |     |       |       |       |
+  | Forenoon    |  42 |  28 |  42 |  25 |  39 |  46 |   41  |   35  |   35  |
+  | Afternoon   |  58 |  72 |  58 |  75 |  61 |  54 |   59  |   65  |   65  |
+  +-------------+-----+-----+-----+-----+-----+-----+-------+-------+-------+
+
+  8. The preceding remarks relate to auroras as a whole; the different
+  forms differ considerably in their diurnal variation. Arcs, bands and,
+  generally speaking, the more regular and persistent forms, show their
+  greatest frequencies earlier in the night than rays or patches. Table
+  IV. shows the percentages of e. (evening) and m. (morning) occurrences
+  of the principal forms as recorded by the Arctic observers at Cape
+  Thorsden, Jan Mayen and Tasiusak.
+
+    TABLE IV.
+
+    +----------------+-----------+-----------+-----------+-----------+
+    |                |   Arcs.   |  Bands.   |   Rays.   |  Patches. |
+    +----------------+-----+-----+-----+-----+-----+-----+-----+-----+
+    |                |  e. |  m. |  e. |  m. |  e. |  m. |  e. |  m. |
+    |                +-----+-----+-----+-----+-----+-----+-----+-----+
+    | Cape Thorsden. |  76 |  24 |  66 |  34 |  52 |  48 |  51 |  49 |
+    | Jan Mayen.     |  78 |  22 |  68 |  32 |  60 |  40 |  60 |  40 |
+    | Tasiusak       |  85 |  15 |  85 |  15 |  65 |  35 |  62 |  38 |
+    +----------------+-----+-----+-----+-----+-----+-----+-----+-----+
+
+  At Cape Thorsden diffused auroral light had percentages e. 65, m. 35,
+  practically identical with those for bands. At Tasiusak, 8 P.M. was
+  the hour of most frequent occurrence for arcs and bands, whereas
+  patches had their maximum frequency at 11 P.M. and rays at midnight.
+
+9. _Lunar and other Periods._--The action of moonlight necessarily gives
+rise to a true lunar period in the visibility of aurora. The extent to
+which it renders aurora invisible depends, however, so much on the
+natural brightness of the aurora--which depends on the time and the
+place--and on the sharpness of the outlook kept, that it is difficult to
+gauge it. Ekholm and Arrhenius (11) claim to have established the
+existence of a true tropical lunar period of 27-32 days, and also of a
+26-day period, or, as they make it, a 25.929-day period. A 26-day period
+has also been derived by J. Liznar (12), after an elaborate allowance
+for the disturbing effects of moonlight from the observations in
+1882-1883 at Bossekop, Fort Rae and Jan Mayen. Neither of these periods
+is universally conceded. The connexion between aurora and earth magnetic
+disturbances renders it practically certain that if a 26-day or similar
+period exists in the one phenomenon it exists also in the other, and of
+the two terrestrial magnetism (q.v.) is probably the element least
+affected by external complications, such as the action of moonlight.
+
+10. _Sun-spot Connexion._--The frequency of auroral displays is much
+greater in some years than others. At most places the variation in the
+frequency has shown a general similarity to that of sun-spots. Table V.
+gives contemporaneous data for the frequency of sun-spots and of auroras
+seen in Scandinavia. The sun-spot data prior to 1902 are from A.
+Wolfer's table in the _Met. Zeitschrift_ for 1902, p. 195; the more
+recent data are from his quarterly lists. All are observed frequencies,
+derived after Wolf's method; maxima and minima are in heavy type.
+
+The auroral data are from Table E of Tromholt's catalogue (5), with
+certain modifications. In Tromholt's yearly data the year commences with
+July. This being inconvenient for comparison with sun-spots, use was
+made of his monthly values to obtain corresponding data for years
+commencing with January. The Tromholt-Schroeter data for Scandinavia as
+a whole commenced with 1761; the figures for earlier years were obtained
+by multiplying the data for Sweden by 1.356, the factor being derived by
+comparing the figures for Sweden alone and for the whole of Scandinavia
+from July 1761 to June 1783.
+
+In a general way Table V. warrants the conclusion that years of many
+sun-spots are years of many auroras, and years of few sun-spots years of
+few auroras; but it does not disclose any very definite relationship
+between the two frequencies. The maxima and minima in the two phenomena
+in a good many cases are not found in the same years. On the other hand,
+there is absolute coincidence in a number of cases, some of them very
+striking, as for instance the remarkably low minima of 1810 and 1823.
+
+  11. During the period 1764 to 1872 there have been ten years of
+  maximum, and ten of minimum, in sun-spot frequency. Taking the three
+  years of greatest frequency at each maximum, and the three years of
+  least frequency at each minimum, we get thirty years of many and
+  thirty of few sun-spots. Also we can split the period into an earlier
+  half, 1764 to 1817, and a later half, 1818 to 1872, containing
+  respectively the earlier five and the later five of the above groups
+  of sun-spot maximum and minimum years. The annual means derived from
+  the whole group, and the two sub-groups, of years of many and few
+  sun-spots are as follows:--
+
+    +-----------------+------------------+------------------+------------------+
+    |                 |     1764-1872.   |    1764-1817.    |    1818-1872.    |
+    |    Years of     +--------+---------+--------+---------+--------+---------+
+    |                 | Spots. | Auroras.| Spots. | Auroras.| Spots. | Auroras.|
+    +-----------------+--------+---------+--------+---------+--------+---------+
+    | Many sun-spots. |  93.4  |   99.9  |  86.7  |   70.7  | 100.1  |  129.1  |
+    | Few     "       |  13.4  |   61.5  |  13.6  |   51.6  |  13.1  |   71.3  |
+    +-----------------+--------+---------+--------+---------+--------+---------+
+
+  In each case the excess of auroras in the group of years of many
+  sun-spots is decided, but the results from the two sub-periods do not
+  harmonize closely. The mean sun-spot frequency for the group of years
+  of few sun-spots is almost exactly the same for the two sub-periods,
+  but the auroral frequency for the later group is nearly 40% in excess
+  of that for the earlier, and even exceeds the auroral frequency in
+  the years of many sun-spots in the earlier sub-period. This
+  inconsistency, though startling at first sight, is probably more
+  apparent than real. It is almost certainly due in large measure to a
+  progressive change in one or both of the units of frequency. In the
+  case of sun-spots, A. Schuster (13) has compared J.R. Wolf and A.
+  Wolfer's frequencies with data obtained by other observers for areas
+  of sun-spots, and his figures show unquestionably that the unit in one
+  or other set of data must have varied appreciably from time to time.
+  Wolf and Wolfer have, however, aimed persistently at securing a
+  definite standard, and there are several reasons for believing that
+  the change of unit has been in the auroral rather than the sun-spot
+  frequency. R. Rubenson (14), from whom Tromholt derives his data for
+  Sweden, seems to accept this view, assigning the apparent increase in
+  auroral frequency since 1860 to the institution by the state of
+  meteorological stations in 1859, and to the increased interest taken
+  in the subject since 1865 by the university of Upsala. The figures
+  themselves in Table V. certainly point to this conclusion, unless we
+  are prepared to believe that auroras have increased enormously in
+  number. If, for instance, we compare the first and the last three
+  11-year cycles for which Table V. gives complete data, we obtain as
+  yearly means:--
+
+    1749-1781    Sun-spots 56.4   Auroras  77.5
+    1844-1876        "     55.8      "    112.2
+
+  The mean sun-spot frequencies in the two periods differ by only 1%,
+  but the auroral frequency in the later period is 45% in excess of that
+  in the earlier.
+
+  The above figures would be almost conclusive if it were not for the
+  conspicuous differences that exist between the mean sun-spot
+  frequencies for different 11-year periods. Schuster, who has
+  considered the matter very fully, has found evidence of the existence
+  of other periods--notably 8.4 and 4.8 years--in addition to the
+  recognized period of 11.125 years, and he regards the difference
+  between the maxima in successive 11-year periods as due at least
+  partly to an overlapping of maxima from the several periodic terms.
+  This cannot, however, account for all the fluctuations observed in
+  sun-spot frequencies, unless other considerably longer periods exist.
+  There has been at least one 33-year period during which the mean value
+  of sun-spot frequency has been exceptionally low, and, as we shall
+  see, there was a corresponding remarkable scarcity of auroras. The
+  period in question may be regarded as extending from 1794 to 1826
+  inclusive. Comparing it with the two adjacent periods of thirty-three
+  years, we obtain the following for the mean annual frequencies:--
+
+    +-----------------+------------+----------+
+    | 33-Year Period. | Sun-spots. | Auroras. |
+    +-----------------+------------+----------+
+    |    1761-1793    |    65.6    |   76.1   |
+    |    1794-1826    |    20.3    |   39.5   |
+    |    1827-1859    |    56.1    |   84.4   |
+    +-----------------+------------+----------+
+
+  12. The association of high auroral and sun-spot frequencies shown in
+  Table V. is not peculiar to Scandinavia. It is shown, for instance, in
+  Loomis's auroral data, which are based on observations at a variety of
+  European and American stations (_Ency. Brit._ 9th ed. art.
+  METEOROLOGY, Table XXVIII.). It does not seem, however, to apply
+  universally. Thus at Godthaab we have, according to Adam Paulsen (15),
+  comparing 3-year periods of few and many sun-spots:--
+
+    +----------------+----------------+--------------+
+    | 3-Year Period. | Total Sun-spot | Total Nights |
+    |                |   Frequency.   |  of Aurora.  |
+    +----------------+----------------+--------------+
+    |   1865-1868    |       48       |     274      |
+    |   1869-1872    |      339       |     138      |
+    |   1876-1879    |       23       |     273      |
+    +----------------+----------------+--------------+
+
+  The years start in the autumn, and 1865-1868 includes the three
+  winters of 1865 to '66, '66 to '67, and '67 to '68. Paulsen also gives
+  data from two other stations in Greenland, viz. Ivigtut (1869 to 1879)
+  and Jakobshavn (1873 to 1879), which show the same phenomenon as at
+  Godthaab in a prominent fashion. Greenland lies to the north of
+  Fritz's curve of maximum auroral frequency, and the suggestion has
+  been made that the zone of maximum frequency expands to the south as
+  sun-spots increase, and contracts again as they diminish, the number
+  of auroras at a given station increasing or diminishing as the zone of
+  maximum frequency approaches to or recedes from it. This theory,
+  however, does not seem to fit all the facts and stands in want of
+  confirmation.
+
+    TABLE V.
+
+    +-------+----------------------++-------+----------------------+
+    |       |      Frequency.      ||       |      Frequency.      |
+    | Year. +----------------------++ Year. +----------------------+
+    |       | Sun-spot. | Auroral. ||       | Sun-spot. | Auroral. |
+    +-------+-----------+----------++-------+-----------+----------+
+    | 1749  |   80.9    |    103   || 1829  |   67.0    |     93   |
+    | 1750  |   83.4    |    134   || 1830  |   71.0    |    132   |
+    | 1751  |   47.7    |     53   || 1831  |   47.8    |     89   |
+    | 1752  |   47.8    |    111   || 1832  |   27.5    |     54   |
+    | 1753  |   30.7    |     96   || 1833  |    8.5    |     79   |
+    | 1754  |   12.2    |     65   || 1834  |   13.2    |     81   |
+    | 1755  |    9.6    |     34   || 1835  |   56.9    |     58   |
+    | 1756  |   10.2    |     60   || 1836  |  121.5    |     98   |
+    | 1757  |   32.4    |     83   || 1837  |  138.3    |    137   |
+    | 1758  |   47.6    |     80   || 1838  |  103.2    |    159   |
+    | 1759  |   54.0    |    113   || 1839  |   85.8    |    165   |
+    | 1760  |   62.9    |     86   || 1840  |   63.2    |     82   |
+    | 1761  |   85.9    |    124   || 1841  |   36.8    |     75   |
+    | 1762  |   61.2    |    114   || 1842  |   24.2    |     91   |
+    | 1763  |   45.1    |     89   || 1843  |   10.7    |     66   |
+    | 1764  |   36.4    |    107   || 1844  |   15.0    |     81   |
+    | 1765  |   20.9    |     76   || 1845  |   40.1    |     26   |
+    | 1766  |   11.4    |     51   || 1846  |   61.5    |     50   |
+    | 1767  |   37.8    |     68   || 1847  |   98.5    |     63   |
+    | 1768  |   69.8    |     80   || 1848  |  124.3    |    107   |
+    | 1769  |  106.1    |     89   || 1849  |   95.9    |    131   |
+    | 1770  |  100.8    |     83   || 1850  |   66.5    |     95   |
+    | 1771  |   81.6    |     62   || 1851  |   64.5    |     60   |
+    | 1772  |   66.5    |     38   || 1852  |   54.2    |     92   |
+    | 1773  |   34.8    |     58   || 1853  |   39.0    |     65   |
+    | 1774  |   30.6    |     98   || 1854  |   20.6    |     64   |
+    | 1775  |    7.0    |     33   || 1855  |    6.7    |     49   |
+    | 1776  |   19.8    |     17   || 1856  |    4.3    |     46   |
+    | 1777  |   92.5    |     64   || 1857  |   22.8    |     38   |
+    | 1778  |  154.4    |     59   || 1858  |   54.8    |     88   |
+    | 1779  |  125.9    |     60   || 1859  |   93.8    |    131   |
+    | 1780  |   84.8    |     67   || 1860  |   95.7    |    119   |
+    | 1781  |   68.1    |    103   || 1861  |   77.2    |    127   |
+    | 1782  |   38.5    |     67   || 1862  |   59.1    |    135   |
+    | 1783  |   22.8    |     70   || 1863  |   44.0    |    135   |
+    | 1784  |   10.2    |     78   || 1864  |   47.0    |    124   |
+    | 1785  |   24.1    |     83   || 1865  |   30.5    |    119   |
+    | 1786  |   82.9    |    136   || 1866  |   16.3    |    130   |
+    | 1787  |  132.0    |    115   || 1867  |    7.3    |    127   |
+    | 1788  |  130.9    |     97   || 1868  |   37.3    |    144   |
+    | 1789  |  118.1    |     89   || 1869  |   73.9    |    160   |
+    | 1790  |   89.9    |     90   || 1870  |  139.1    |    195   |
+    | 1791  |   66.6    |     54   || 1871  |  111.2    |    185   |
+    | 1792  |   60.0    |     64   || 1872  |  101.7    |    200   |
+    | 1793  |   46.9    |     29   || 1873  |   66.3    |    189   |
+    | 1794  |   41.0    |     37   || 1874  |   44.7    |    158   |
+    | 1795  |   21.3    |     34   || 1875  |   17.1    |    133   |
+    | 1796  |   16.0    |     37   || 1876  |   11.3    |    137   |
+    | 1797  |    6.4    |     61   || 1877  |   12.3    |    126   |
+    | 1798  |    4.1    |     35   || 1878  |    3.4    |    ..    |
+    | 1799  |    6.8    |     28   || 1879  |    6.0    |    ..    |
+    | 1800  |   14.5    |     30   || 1880  |   32.3    |    ..    |
+    | 1801  |   34.0    |     34   || 1881  |   54.3    |    ..    |
+    | 1802  |   45.0    |     65   || 1882  |   59.7    |    ..    |
+    | 1803  |   43.1    |     73   || 1883  |   63.7    |    ..    |
+    | 1804  |   47.5    |    101   || 1884  |   63.5    |    ..    |
+    | 1805  |   42.2    |     85   || 1885  |   52.2    |    ..    |
+    | 1806  |   28.1    |     62   || 1886  |   25.4    |    ..    |
+    | 1807  |   10.1    |     42   || 1887  |   13.1    |    ..    |
+    | 1808  |    8.1    |     20   || 1888  |    6.8    |    ..    |
+    | 1809  |    2.5    |     20   || 1889  |    6.3    |    ..    |
+    | 1810  |    0.0    |      4   || 1890  |    7.1    |    ..    |
+    | 1811  |    1.4    |     13   || 1891  |   35.6    |    ..    |
+    | 1812  |    5.0    |     11   || 1892  |   73.0    |    ..    |
+    | 1813  |   12.2    |     18   || 1893  |   84.9    |    ..    |
+    | 1814  |   13.9    |     17   || 1894  |   78.0    |    ..    |
+    | 1815  |   35.4    |     10   || 1895  |   64.0    |    ..    |
+    | 1816  |   45.8    |     33   || 1896  |   41.8    |    ..    |
+    | 1817  |   41.1    |     60   || 1897  |   26.2    |    ..    |
+    | 1818  |   30.4    |     74   || 1898  |   26.7    |    ..    |
+    | 1819  |   23.9    |     43   || 1899  |   12.1    |    ..    |
+    | 1820  |   15.7    |     62   || 1900  |    9.5    |    ..    |
+    | 1821  |    6.6    |     37   || 1901  |    2.7    |    ..    |
+    | 1822  |    4.0    |     33   || 1902  |    5.0    |    ..    |
+    | 1823  |    1.8    |     13   || 1903  |   24.4    |    ..    |
+    | 1824  |    8.5    |     14   || 1904  |   42.0    |    ..    |
+    | 1825  |   16.6    |     40   || 1905  |   62.8    |    ..    |
+    | 1826  |   36.3    |     58   || 1906  |   53.8    |    ..    |
+    | 1827  |   49.7    |     79   || 1907  |   62.0    |    ..    |
+    | 1828  |   62.5    |     60   || 1908  |   48.5    |    ..    |
+    +-------+-----------+----------++-------+-----------+----------+
+
+13. _Auroral Meridian._--It is a common belief that the summit of an
+auroral arc is to be looked for in the observer's magnetic meridian. On
+any theory it would be rather extraordinary if this were invariably
+true. In temperate latitudes auroral arcs are seldom near the zenith,
+and there is reason to believe them at very great heights. In high
+latitudes the average height is probably less, but the direction in
+which the magnetic needle points changes rapidly with change of
+latitude and longitude, and has a large diurnal variation. Thus there
+must in general be a difference between the observer's magnetic
+meridian--answering to the mean position of the magnetic needle at his
+station--and the direction the needle would have at a given hour, if
+undisturbed by the aurora, at any spot where the phenomena which the
+observer sees as aurora exist.
+
+  Very elaborate observations have been made during several Arctic
+  expeditions of the azimuths of the summits of auroral arcs. At Cape
+  Thorsden (7) in 1882-1883 the mean azimuth derived from 371 arcs was
+  24° 12' W., or 11° 27' to the W. of the magnetic meridian. As to the
+  azimuths in individual cases, 130 differed from the mean by less than
+  10°, 118 by from 10° to 20°, 82 by from 20° to 30°, 21 by from 30° to
+  40°, 14 by from 40° to 50°; in six cases the departure exceeded 50°,
+  and in one case it exceeded 70°. Also, whilst the mean azimuths
+  deduced from the observations between 6 A.M. and noon, between noon
+  and 6 P.M., and between 6 P.M. and midnight, were closely alike, their
+  united mean being 22.4° W. of N. (or E. of S.), the mean derived from
+  the 113 arcs observed between midnight and 6 A.M. was 47.8° W. At Jan
+  Mayen (8) in 1882-1883 the mean azimuth of the summit of the arcs was
+  28.8° W. of N., thus approaching much more closely to the magnetic
+  meridian 29.9° W. As to individual azimuths, 113 lay within 10° of the
+  mean, 37 differed by from 10° to 20°, 18 by from 20° to 30°, 6 by from
+  30° to 40°, whilst 6 differed by over 40°. Azimuths were also measured
+  at Jan Mayen for 338 auroral bands, the mean being 22.0° W., or 7.9°
+  to the east of the magnetic meridian. Combining the results from arcs
+  and bands, Carlheim-Gyllensköld gives the "anomaly" of the auroral
+  meridian at Jan Mayen as 5.7° E. At the British Polar station of 1882,
+  Fort Rae (62° 23' N. lat., 115° 44' W. long.), he makes it 15.7° W. At
+  Godthaab in 1882-1883 the auroral anomaly was, according to Paulsen,
+  15.5° E., the magnetic meridian lying 57.6° W. of the astronomical.
+
+14. _Auroral Zenith._--Another auroral direction having apparently a
+close relation to terrestrial magnetism is the imaginary line drawn to
+the eye of an observer from the centre of the corona--i.e. the point to
+which the auroral rays converge. This seems in general to be nearly
+coincident with the direction of the dipping needle.
+
+  Thus at Cape Thorsden (7) in 1882-1883 the mean of a considerable
+  number of observations made the angle between the two directions only
+  1° 7', the magnetic inclination being 80° 35', whilst the coronal
+  centre had an altitude of 79° 55' and lay somewhat to the west of the
+  magnetic meridian. Even smaller mean values have been found for the
+  angle between the auroral and magnetic "zeniths"--as the two
+  directions have been called--e.g. 0° 50' at Bossekop (16) in
+  1838-1839, and 0° 7' at Treurenberg (17) (79° 55' N. lat., 16° 51' E.
+  long.) in 1899-1900.
+
+15. _Relations to Magnetic Storms._--That there is an intimate connexion
+between aurora when visible in temperate latitudes and terrestrial
+magnetism is hardly open to doubt. A bright aurora visible over a large
+part of Europe seems always accompanied by a magnetic storm and earth
+currents, and the largest magnetic storms and the most conspicuous
+auroral displays have occurred simultaneously. Noteworthy examples are
+afforded by the auroras and magnetic storms of August 28-29 and
+September 1-2, 1859; February 4, 1872; February 13-14 and August 12,
+1892; September 9, 1898; and October 31, 1903. On some of these
+occasions aurora was brilliant in both the northern and southern
+hemispheres, whilst magnetic disturbances were experienced the whole
+world over. In high latitudes, however, where both auroras and magnetic
+storms are most numerous, the connexion between them is much less
+uniform. Arctic observers, both Danish and British, have repeatedly
+reported displays of aurora unaccompanied by any special magnetic
+disturbance. This has been more especially the case when the auroral
+light has been of a diffused character, showing only minor variability.
+When there has been much apparent movement, and brilliant changes of
+colour in the aurora, magnetic disturbance has nearly always accompanied
+it. In the Arctic, auroral displays seem sometimes to be very local, and
+this may be the explanation. On the other hand, Arctic observers have
+reported an apparent connexion of a particularly definite character.
+According to Paulsen (18), during the Ryder expedition in 1891-1892, the
+following phenomenon was seen at least twenty times by Lieut. Vedel at
+Scoresby Sound (70° 27' N. lat., 26° 10' W. long.). An auroral curtain
+travelling with considerable velocity would approach from the south,
+pass right overhead and retire to the north. As the curtain approached,
+the compass needle always deviated to the west, oscillated as the
+curtain passed the zenith, and then deviated to the east. The behaviour
+of the needle, as Paulsen points out, is exactly what it should be if
+the space occupied by the auroral curtain were traversed by electric
+currents directed upwards from the ground. The Danish observers at
+Tasiusak (10) in 1898-1899 observed this phenomenon occasionally in a
+slightly altered form. At Tasiusak the auroral curtain after reaching
+the zenith usually retired in the direction from which it had come. The
+direction in which the compass needle deviated was west or east,
+according as the curtain approached from the south or the north; as the
+curtain retired the deviation eventually diminished.
+
+  Kr. Birkeland (19). who has made a special study of magnetic
+  disturbances in the Arctic, proceeding on the hypothesis that they
+  arise from electric currents in the atmosphere, and who has thence
+  attempted to deduce the position and intensity of these currents,
+  asserts that whilst in the case of many storms the data were
+  insufficient, when it was possible to fix the position of the mean
+  line of flow of the hypothetical current relatively to an auroral arc,
+  he invariably found the directions coincident or nearly so.
+
+16. In the northern hemisphere to the south of the zone of greatest
+frequency, the part of the sky in which aurora most generally appears is
+the magnetic north. In higher latitudes auroras are most often seen in
+the south. The relative frequency in the two positions seems to vary
+with the hour, the type of aurora, probably with the season of the year,
+and possibly with the position of the year in the sun-spot cycle.
+
+  At Jan Mayen (8) in 1882-1883, out of 177 arcs whose position was
+  accurately determined, 44 were seen in the north, their summits
+  averaging 38.5° above the northern horizon; 88 were seen in the south,
+  their average altitude above the southern horizon being 33.5°; while
+  45 were in the zenith. At Tasiusak (10) in 1898-1899 the magnetic
+  directions of the principal types were noted separately. The results
+  are given in Table VI.
+
+  TABLE VI.
+
+  +--------+----------------------------------------------+------------+
+  | Direc- |        Absolute Number for each Type.        | Percentage |
+  |  tion. +-------+--------+-----------+-------+---------+  from all  |
+  |        | Arcs. | Bands. | Curtains. | Rays. | Patches.|   Types.   |
+  +--------+-------+--------+-----------+-------+---------+------------+
+  |   N.   |   9   |   16   |     5     |  15   |    4    |     10     |
+  |  N.E.  |   9   |   13   |     2     |  20   |    4    |      9     |
+  |   E.   |   3   |   11   |     2     |  26   |    3    |      9     |
+  |  S.E.  |   5   |    6   |     1     |  10   |    7    |      6     |
+  |   S.   |  45   |   43   |     1     |  16   |   15    |     24     |
+  |  S.W.  |   9   |    9   |     2     |  12   |   13    |      9     |
+  |   W.   |   3   |   11   |     2     |  22   |    6    |      9     |
+  |  N.W.  |   2   |    8   |     2     |   8   |    5    |      5     |
+  +--------+-------+--------+-----------+-------+---------+------------+
+
+Table VI. accounts for only 81% of the total displays; of the remainder
+15% appeared in the zenith, while 4% covered the whole sky. Auroral
+displays generally cover a considerable area, and are constantly
+changing, so the figures are necessarily somewhat rough. But clearly,
+whilst the arcs and bands, and to a lesser extent the patches, showed a
+marked preference for the magnetic meridian, the rays showed no such
+preference.
+
+  At Cape Thorsden (7) in 1882-1883 auroras as a whole were divided into
+  those seen in the north and those seen in the south. The variation
+  throughout the twenty-four hours in the percentage seen in the south
+  was as follows:--
+
+    +--------+------+------+------+-------+
+    |  Hour. | 0-3. | 3-6. | 6-9. | 9-12. |
+    +--------+------+------+------+-------+
+    |  A.M.  |  69  |  55  |  44  |   35  |
+    |  P.M.  |  55  |  70  |  65  |   65  |
+    +--------+------+------+------+-------+
+
+  The mean from the whole twenty-four hours is sixty-three. Between 3
+  A.M. and 3 P.M. the percentage of auroras seen in the south thus
+  appears decidedly below the mean.
+
+  17. The following data for the apparent angular width of arcs were
+  obtained at Cape Thorsden, the arcs being grouped according to the
+  height of the lower edge above the horizon. Group I. contained thirty
+  arcs whose altitudes did not exceed 11° 45'; Group II. thirty arcs
+  whose altitudes lay between 12° and 35°; and Group III, thirty arcs
+  whose altitudes lay between 36° and 80°.
+
+    +-----------------+--------+--------+----------+
+    |      Group.     |   I.   |   II.  |   III.   |
+    +-----------------+--------+--------+----------+
+    | Greatest width  | 11.5°  | 12.0°  |   21.0°  |
+    | Least      "    |  1.0°  |  0.75° |    2.0°  |
+    | Mean       "    |  3.45° |  4.6°  |    6.9°  |
+    +-----------------+--------+--------+----------+
+
+  There is here a distinct tendency for the width to increase with the
+  altitude. At the same time, arcs near the horizon often appeared wider
+  than others near the zenith. Furthermore, Gyllensköld says that when
+  arcs mounted, as they not infrequently did, from the horizon, their
+  apparent width might go on increasing right up to the zenith, or it
+  might increase until an altitude of about 45° was reached and then
+  diminish, appearing much reduced when the zenith was reached. Of
+  course the phenomenon might be due to actual change in the arc, but it
+  is at least consistent with the view that arcs are of two kinds, one
+  form constituting a layer of no great vertical depth but considerable
+  real horizontal width, the other form having little horizontal width
+  but considerable vertical depth, and resembling to some extent an
+  auroral curtain.
+
+  18. According to numerous observations made at Cape Thorsden, the
+  apparent angular velocity of arcs increases on the average with their
+  altitude. Dividing the whole number of arcs, 156, whose angular
+  velocities were measured into three numerically equal groups,
+  according to their altitude, the following were the results in minutes
+  of arc per second of time (or degrees per minute of time):--
+
+    +-------------------+-------+--------+--------+------+
+    |      Group.       |   I.  |   II.  |  III.  | All. |
+    +-------------------+-------+--------+--------+------+
+    | Mean altitude     | 10.5° | 34.6°  |  72.3° |  ..  |
+    | Greatest velocity |  4.81 |  15.12 | 109.09 |  ..  |
+    | Mean velocity     |  0.48 |  2.42  |   8.67 | 3.86 |
+    +-------------------+-------+--------+--------+------+
+
+  Each group contained auroras which appeared stationary. The intervals
+  to which the velocities referred were usually from five to ten
+  minutes, but varied widely. The velocity 109.09 was much the largest
+  observed, the next being 52.38; both were from observations lasting
+  under half a minute.
+
+  19. In 1882-1883 the direction of motion of arcs was from north to
+  south in 62% of the cases at Jan Mayen, and in 58% of the cases at
+  Cape Thorsden. This seems the more common direction in the northern
+  hemisphere, at least for stations to the south of the zone of maximum
+  frequency, but a considerable preponderance of movements towards the
+  north was observed in Franz Joseph Land by the Austrian Expedition of
+  1872-1874. The apparent motion of arcs is sometimes of a complicated
+  character. One end only, for example, may appear to move, as if
+  rotating round the other; or the two ends may move in opposite
+  directions, as if the arc were rotating about a vertical axis through
+  its summit.
+
+20. _Height._--If an auroral arc represented a definite self-luminous
+portion of space of small transverse dimensions at a uniform height
+above the ground, its height could be accurately determined by
+observations made with theodolites at the two ends of a measured base,
+provided the base were not too short compared to the height. If a very
+long base is taken, it becomes increasingly open to doubt whether the
+portions of space emitting auroral light to the observers at the two
+ends are the same. There is also difficulty in ensuring that the
+observations shall be simultaneous, an important matter especially when
+the apparent velocity is considerable. If the base is short, definite
+results can hardly be hoped for unless the height is very moderate.
+Amongst the best-known theodolite determinations of height are those
+made at Bossekop in Norway by the French Expedition of 1838-1839 (16)
+and the Norwegian Expedition of 1882-1883, and those made in the latter
+year by the Swedes at Cape Thorsden and the Danes at Godthaab. At
+Bossekop and Cape Thorsden there were a considerable proportion of
+negative or impossible parallaxes. Much the most consistent results were
+those obtained at Godthaab by Paulsen (15). The base was 5.8 km. (about
+3½ miles) long, the ends being in the same magnetic meridian, on
+opposite sides of a fiord, and observations were confined to this
+meridian, strict simultaneity being secured by signals. Heights were
+calculated only when the observed parallax exceeded 1°, but this
+happened in three-fourths of the cases. The calculated heights--all
+referring to the lowest border of the aurora--varied from 0.6 to 67.8
+km. (about 0.4 to 42 m.), the average being about 20 km. (12 m.).
+Regular arcs were selected in most cases, but the lowest height obtained
+was for a collection of rays forming a curtain which was actually
+situated between the two stations.
+
+  In 1885 Messrs Garde and Eherlin made similar observations at
+  Nanortalik near Cape Farewell in Greenland, but using a base of only
+  1250 metres (about ¾ m.). Their results were very similar to
+  Paulsen's. On one occasion twelve observations, extending over half an
+  hour, were made on a single arc, the calculated heights varying in a
+  fairly regular fashion from 1.6 to 12.9 km. (about 1 to 8 m.). The
+  calculated horizontal distances of this arc varied between 5 and 24
+  km. (about 3 and 15 m.), the motion being sometimes towards, sometimes
+  away from the observers, but not apparently exceeding 3 km. (nearly 2
+  m.) per minute. Heights of arcs have often been calculated from the
+  apparent altitudes at stations widely apart in Europe or America. The
+  heights calculated in this way for the under surface of the arc, have
+  usually exceeded 100 m.; some have been much in excess of this figure.
+  None of the results so obtained can be accepted without reserve, but
+  there are several reasons for believing that the average height in
+  Greenland is much below that in lower latitudes. Heights have been
+  calculated in various less direct ways, by observing for instance the
+  angular altitude of the summit of an arc and the angular interval
+  between its extremities, and then making some assumption such as that
+  the portion visible to an observer may be treated as a circle whose
+  centre lies over the so-called auroral pole. The mean height
+  calculated at Arctic stations, where careful observations have been
+  made, in this or analogous ways, has varied from 58 km. (about 36 m.)
+  at Cape Thorsden (Gyllensköld) to 227 km. (about 141 m.) at Bossekop
+  (Bravais). The height has also been calculated on the hypothesis that
+  auroral light has its source where the atmospheric pressure is similar
+  to that at which most brilliancy is observed when electric discharges
+  pass in vacuum tubes. Estimates on this basis have suggested heights
+  of the order of 50 km. (about 31 m.). There are, of course, many
+  uncertainties, as the conditions of discharge in the free atmosphere
+  may differ widely from those in glass vessels. If the Godthaab
+  observations can be trusted, auroral discharges must often occur
+  within a few miles of the earth's surface in Arctic regions. In
+  confirmation of this view reference may be made to a number of
+  instances where observers--e.g. General Sabine, Sir John Franklin,
+  Prof. Selim Lemström, Dr David Walker (at Fort Kennedy in 1858-1859),
+  Captain Parry (Fort Bowen, 1825) and others--have seen aurora below
+  the clouds or between themselves and mountains. One or two instances
+  of this kind have even been described in Scotland. Prof. Cleveland
+  Abbe (20) has given a full historical account of the subject to which
+  reference may be made for further details.
+
+  21. _Brightness._--In auroral displays the brightness often varies
+  greatly over the illuminated area and changes rapidly. Estimates of
+  the intensity of the light have been based on various arbitrary
+  scales, such for instance as the size of type which the observer can
+  read at a given distance. The estimate depends in the case of reading
+  type on the general illumination. In other cases scales have been
+  employed which make the result mainly depend on the brightest part of
+  the display. At Jan Mayen (8) in 1882-1883 a scale was employed
+  running from 1, taken as corresponding to the brightness of the milky
+  way, to 4, corresponding to full moonlight. The following is an
+  analysis of the results obtained, showing the number of times the
+  different grades were reached:--
+
+    +------------+------+------+------+------+------------+
+    |  Scale of  |  1.  |  2.  |  3.  |  4.  |    Mean    |
+    | Intensity. |      |      |      |      | Intensity. |
+    +------------+------+------+------+------+------------+
+    | Arcs       |  27  |  53  |  13  |   1  |    1.87    |
+    | Bands      |  46  |  83  |  49  |  22  |    2.24    |
+    | Rays       |  30  | 116  | 138  |  28  |    2.21    |
+    | Corona     |   3  |  14  |  12  |  12  |    2.81    |
+    +------------+------+------+------+------+------------+
+
+  On one or two occasions at Jan Mayen auroral light is described as
+  making the full moon look like an ordinary gas jet in presence of
+  electric light, whilst rays could be seen crossing and brighter than
+  the moon's disk. Such extremely bright auroras seem very rare,
+  however, even in the Arctic. There is a general tendency for both
+  bands and rays to appear brightest at their lowest parts; arcs seldom
+  appear as bright at their summits as nearer the horizon. It is not
+  unusual for arcs and bands to look as if pulses or waves of light were
+  travelling along them; also the direction in which these pulses travel
+  does not seem to be wholly arbitrary. Movements to the east were twice
+  as numerous at Jan Mayen and thrice as numerous at Traurenberg as
+  movements to the west. In some cases changes of intensity take place
+  round the auroral zenith, simulating the effect that would be produced
+  by a cyclonic rotation of luminous matter. In the case of isolated
+  patches the intensity often waxes and wanes as if a search-light were
+  being thrown on and turned off.
+
+22. _Colour._--The ordinary colour of aurora is white, usually with a
+distinct yellow tint in the brighter forms, but silvery white when the
+light is faint. When the light is intense and changing rapidly, red is
+not infrequently present, especially towards the lower edge. Under these
+circumstances, green is also sometimes visible, especially towards the
+zenith. Thus a bright auroral ray may seem red towards the foot and
+green at its summit, with yellow intervening. In some cases the green
+may be only a contrast effect. Other colours, e.g. violet, have
+occasionally been noticed but are unusual.
+
+23. _Spectrum._--The spectrum of aurora consists of a number of lines.
+Numerous measurements have been made of the wave-lengths of the
+brightest. One line, in the yellow green, is so dominant optically as
+often to be described as the auroral line. Its wave-length is probably
+very near 5571 tenth-metres, and it is very close to, if not absolutely
+coincident with, a prominent line in the spectrum of krypton. This line
+is so characteristic that its presence or absence is the usual criterion
+for deciding whether an atmospheric light is aurora. The Swedish
+Expedition (17) of 1899-1902, engaged in measuring an arc of the meridian
+in Spitsbergen, were unusually well provided spectrographically, and
+succeeded in taking photographs of aurora in conjunction with artificial
+lines--chiefly of hydrogen--which led to results claiming exceptional
+accuracy. In the spectrograms three auroral rays--including the principal
+one mentioned above--were pre-eminent. For the two shorter wave-lengths,
+for whose measurement he claims the highest precision, the observer, J.
+Westman, gives the values 4276.4 and 3913.5. In addition, he assigns
+wave-lengths for 156 other auroral lines between wave-lengths 5205 and
+3513. The following table gives the wave-lengths of the photographically
+brightest of these, retaining four significant figures in place of
+Westman's five.
+
+  TABLE VII.
+
+  +--------+--------+--------+--------+--------+
+  |  4830  |  4489  |  4329  |  3997  |  3861  |
+  |  4709  |  4420  |  4242  |  3986  |  3804  |
+  |  4699  |  4371  |  4230  |  3947  |  3793  |
+  |  4661  |  4356  |  4225  |  3937  |  3704  |
+  |  4560  |  4344  |  4078  |  3880  |  3607  |
+  |  4550  |  4337  |  4067  |  3876  |  3589  |
+  +--------+--------+--------+--------+--------+
+
+There are a number of optically bright lines of longer wave-length. For
+the principal of these Angot (1) gives the following wave-lengths (unit
+1 µµ or 1 × 10^(-9) metre):--630, 578, 566, 535, 523, 500.
+
+Out of a total of 146 auroral lines, with wave-lengths longer than 3684
+tenth-metres, Westman identifies 82 with oxygen or nitrogen lines at the
+negative pole in vacuum discharges. Amongst the lines thus identified
+are the two principal auroral lines having wave-lengths 4276.4 and
+3913.5. The interval considered by Westman contains at least 300 oxygen
+and nitrogen lines, so that approximate coincidence with a number of
+auroral lines was almost inevitable, and an appreciable number of the
+coincidences may be accidental. E.C.C. Baly (21), making use of the
+observations of the Russian expedition in Spitsbergen in 1899, accepts
+as the wave-lengths of the three principal auroral lines 5570, 4276 and
+3912; and he identifies all three and ten other auroral lines ranging
+between 5570 and 3707 with krypton lines measured by himself. In
+addition to these, he mentions other auroral lines as very probably
+krypton lines, but in their case the wave-lengths which he quotes from
+Paulsen (22) are given to only three significant figures, so that the
+identification is more uncertain. The majority of the krypton lines
+which Baly identifies with auroral lines require for their production a
+Leyden jar and spark gap.
+
+  If, as is now generally believed, aurora represents some form of
+  electrical discharge, it is only reasonable to suppose that the
+  auroral lines arise from atmospheric gases. The conditions, however,
+  as regards pressure and temperature under which the hypothetical
+  discharges take place must vary greatly in different auroras, or even
+  sometimes in different parts of the same aurora. Further, auroras are
+  often possessed of rapid motion, so that conceivably spectral lines
+  may receive small displacements in accordance with Doppler's
+  principle. Thus the differences in the wave-lengths of presumably the
+  same lines as measured by different Arctic observers may be only
+  partly due to unfavourable observational conditions. Many of the
+  auroral lines seen in any single aurora are exceedingly faint, so that
+  even their relative positions are difficult to settle with high
+  precision.
+
+  24. Whether or not auroral displays are ever accompanied by a
+  characteristic sound is a disputed question. If sound waves originate
+  at the seat of auroral displays they seem hardly likely to be audible
+  on the earth, unless the aurora comes very low and great stillness
+  prevails. It is thus to the Arctic one looks for evidence. According
+  to Captain H.P. Dawson (26), in charge of the British Polar Station at
+  Fort Rae in 1882-1883, "The Indians and _voyageurs_ of the Hudson Bay
+  Company, who often pass their nights in the open, say that it [sound]
+  is not uncommon ... there can be no doubt that distinct sound does
+  occasionally accompany certain displays of aurora." On the one
+  occasion when Captain Dawson says he heard it himself, "the sound was
+  like the swishing of a whip or the noise produced by a sharp squall of
+  wind in the upper rigging of a ship, and as the aurora brightened and
+  faded so did the sound which accompanied it." If under these
+  conditions the sound was really due to the aurora, the latter, as
+  Captain Dawson himself remarks, must have been pretty close.
+
+  25. Usually the electric potential near the ground is positive
+  compared to the earth and increases with the height (see ATMOSPHERIC
+  ELECTRICITY). Several Arctic observers, however, especially Paulsen
+  (18) have observed a diminution of positive potential, or even a
+  change to negative, for which they could suggest no explanation except
+  the presence of a bright aurora. Other Arctic observers have failed to
+  find any trace of this phenomenon. If it exists, it is presumably
+  confined to cases when the auroral discharge comes unusually low.
+
+  26. _Artificial Phenomena resembling Aurora._--At Sodankylä, the
+  station occupied by the Finnish Arctic Expedition of 1882-1883, Selim
+  Lemström and Biese (23) described and gave drawings of optical
+  phenomena which they believed to be artificially produced aurora. A
+  number of metallic points, supported on insulators, were connected by
+  wires enclosing several hundred square metres on the top of a hill.
+  Sometimes a Holtz machine was employed, but even without it
+  illumination resembling aurora was seen on several occasions,
+  extending apparently to a considerable height. In the laboratory, Kr.
+  Birkeland (19) has produced phenomena bearing a striking resemblance
+  to several forms of aurora. His apparatus consists of a vacuum vessel
+  containing a magnetic sphere--intended to represent the earth--and the
+  phenomena are produced by sending electric discharges through the
+  vessel.
+
+  27. _Theories._--A great variety of theories have been advanced to
+  account for aurora. All or nearly all the most recent regard it as
+  some form of electrical discharge. Birkeland (19) supposes the
+  ultimate cause to be cathode rays emanating from the sun; C. Nordmann
+  (24) replaces the cathode rays by Hertzian waves; while Svante
+  Arrhenius (25) believes that negatively charged particles are driven
+  through the sun's atmosphere by the Maxwell-Bartoli repulsion of light
+  and reach the earth's atmosphere. For the size and density of
+  particles which he considers most likely, Arrhenius calculates the
+  time required to travel from the sun as forty-six hours. By modifying
+  the hypothesis as to the size and density, times appreciably longer or
+  shorter than the above would be obtained. Cathode rays usually have a
+  velocity about a tenth that of light, but in exceptional cases it may
+  approach a third of that of light. Hertzian waves have the velocity of
+  light itself. On either Birkeland's or Nordmann's theory, the electric
+  impulse from the sun acts indirectly by creating secondary cathode
+  rays in the earth's atmosphere, or ionizing it so that discharges due
+  to natural differences of potential are immensely facilitated. The
+  ionized condition must be supposed to last to a greater or less extent
+  for a good many hours to account for aurora being seen throughout the
+  whole night. The fact that at most places the morning shows a marked
+  decay of auroral frequency and intensity as compared to the evening,
+  the maximum preceding midnight by several hours, is certainly
+  favourable to theories which postulate ionization of the atmosphere by
+  some cause or other emanating from the sun.
+
+  AUTHORITIES.--The following works are numbered according to the
+  references in the text:--(1) A. Angot, _Les Aurores polaires_ (Paris,
+  1895); (2) H. Fritz, _Das Polarlicht_ (Leipzig, 1881); (3) Svante
+  August Arrhenius, _Lehrbuch der kosmischen Physik_; (4) Joseph
+  Lovering, "On the Periodicity of the Aurora Borealis," _Mem. American
+  Acad._ vol. x. (1868); (5) Sophus Tromholt, _Catalog der in Norwegen
+  bis Juni 1878 beobachteten Nordlichter_; (6) _Observations
+  internationales polaires_ (1882-1883), _Expédition Danoise_, tome i.
+  "Aurores boréales"; (7) Carlheim-Gyllensköld, "Aurores boréales" in
+  _Observations faites au Cap Thorsden Spitzberg par l'expédition
+  suédoise_, tome ii. 1; (8) "Die Österreichische Polar Station Jan
+  Mayen" in _Die Internationale Polarforschung_, 1882-1883, Bd. ii.
+  Abth. 1; (9) Henryk Arctowski, "Aurores australes" in _Expédition
+  antarctique belge ... Voyage du S. Y. "Belgica"_; (10) G.C. Amdrup,
+  _Observations ... faites par l'expédition danoise_; H. Ravn,
+  _Observations de l'aurore boréale de Tasiusak_; (11) _K. Sven.
+  Vet.-Akad. Hand_. Bd. 31, Nos. 2, 3, &c.; (12) _Sitz. d. k. Akad. d.
+  Wiss._ (Vienna), Math. Naturw. Classe, Bd. xcvii. Abth. iia, 1888;
+  (13) _Proc. Roy. Soc._, 1906, lxxvii. A, 141; (14) _Kongl. Sven.
+  Vet.-Akad. Hand._ Bd. 15, No. 5, Bd. 18, No. 1; (15) _Bull. Acad. Roy.
+  Danoise_, 1889, p. 67; (16) _Voyages ... pendant les années 1838, 1839
+  et 1840 sur ... la Recherche_, "Aurores boréales," by MM. Lottin,
+  Bravais, &c.; (17) _Missions scientifiques ... au Spitzberg ... en
+  1899-1902, Mission suédoise_, tome ii. VIII^e Section, C. "Aurores
+  boréales"; (18) _Bull. Acad. R. des Sciences de Danemark_, 1894, p.
+  148; (19) Kr. Birkeland, _Expédition norvégienne 1899-1900 pour
+  l'étude des aurores boréales_ (Christiania, 1901); (20) _Terrestrial
+  Magnetism_, vol. iii. (1898), pp. 5, 53, 149; (21) _Astrophysical
+  Journal_, 1904, xix. p. 187; (22) _Rapports présentés au Congrès
+  International de Physique réuni à Paris_, 1900, iii. 438; (23)
+  _Expédition polaire finlandaise_ (1882-1884), tome iii.; (24) Charles
+  Nordmann, _Thèses présentées à la Faculté des Sciences de Paris_
+  (1903); (25) _Terrestrial Magnetism_, vol. 10, 1905, p. 1; (26)
+  _Observations of the International Polar Expeditions 1882-1883 Fort
+  Rae_ ... by Capt. H.P. Dawson, R.A.     (C. Ch.)
