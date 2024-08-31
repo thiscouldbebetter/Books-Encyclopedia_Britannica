@@ -1,0 +1,1349 @@
+BALLISTICS (from the Gr. [Greek: ballein], to throw), the science of
+throwing warlike missiles or projectiles. It is now divided into two
+parts:--_Exterior Ballistics_, in which the motion of the projectile is
+considered after it has received its initial impulse, when the projectile
+is moving freely under the influence of gravity and the resistance of the
+air, and it is required to determine the circumstances so as to hit a
+certain object, with a view to its destruction or perforation; and
+_Interior Ballistics_, in which the pressure of the powder-gas is analysed
+in the bore [v.03 p.0271] of the gun, and the investigation is carried out
+of the requisite charge of powder to secure the initial velocity of the
+projectile without straining the gun unduly. The calculation of the stress
+in the various parts of the gun due to the powder pressure is dealt with in
+the article ORDNANCE.
+
+I. EXTERIOR BALLISTICS.
+
+In the ancient theory due to Galileo, the resistance of the air is ignored,
+and, as shown in the article on MECHANICS (§ 13), the trajectory is now a
+_parabola_. But this theory is very far from being of practical value for
+most purposes of gunnery; so that a first requirement is an accurate
+experimental knowledge of the resistance of the air to the projectiles
+employed, at all velocities useful in artillery. The theoretical
+assumptions of Newton and Euler (_hypotheses magis mathematicae quam
+naturales_) of a resistance varying as some simple power of the velocity,
+for instance, as the square or cube of the velocity (the quadratic or cubic
+law), lead to results of great analytical complexity, and are useful only
+for provisional extrapolation at high or low velocity, pending further
+experiment.
+
+The foundation of our knowledge of the resistance of the air, as employed
+in the construction of ballistic tables, is the series of experiments
+carried out between 1864 and 1880 by the Rev. F. Bashforth, B.D. (_Report
+on the Experiments made with the Bashforth Chronograph_, &c., 1865-1870;
+_Final Report_, &c., 1878-1880; _The Bashforth Chronograph_, Cambridge,
+1890). According to these experiments, the resistance of the air can be
+represented by no simple algebraical law over a large range of velocity.
+Abandoning therefore all a priori theoretical assumption, Bashforth set to
+work to measure experimentally the velocity of shot and the resistance of
+the air by means of equidistant electric screens furnished with vertical
+threads or wire, and by a chronograph which measured the instants of time
+at which the screens were cut by a shot flying nearly horizontally.
+Formulae of the calculus of finite differences enable us from the
+chronograph records to infer the velocity and retardation of the shot, and
+thence the resistance of the air.
+
+As a first result of experiment it was found that the resistance of similar
+shot was proportional, at the same velocity, to the surface or cross
+section, or square of the diameter. The resistance R can thus be divided
+into two factors, one of which is d^2, where d denotes the diameter of the
+shot in inches, and the other factor is denoted by p, where p is the
+resistance in pounds at the same velocity to a similar 1-in. projectile;
+thus R = d^2p, and the value of p, for velocity ranging from 1600 to 2150
+ft. per second (f/s) is given in the second column of the extract from the
+abridged ballistic table below.
+
+These values of p refer to a standard density of the air, of 534.22 grains
+per cubic foot, which is the density of dry air at sea-level in the
+latitude of Greenwich, at a temperature of 62° F. and a barometric height
+of 30 in.
+
+But in consequence of the humidity of the climate of England it is better
+to suppose the air to be (on the average) two-thirds saturated with aqueous
+vapour, and then the standard temperature will be reduced to 60° F., so as
+to secure the same standard density; the density of the air being reduced
+perceptibly by the presence of the aqueous vapour.
+
+It is further assumed, as the result of experiment, that the resistance is
+proportional to the density of the air; so that if the standard density
+changes from unity to any other relative density denoted by [tau], then R =
+[tau]d^2p, and [tau] is called the _coefficient of tenuity_.
+
+The factor [tau] becomes of importance in long range high angle fire, where
+the shot reaches the higher attenuated strata of the atmosphere; on the
+other hand, we must take [tau] about 800 in a calculation of shooting under
+water.
+
+The resistance of the air is reduced considerably in modern projectiles by
+giving them a greater length and a sharper point, and by the omission of
+projecting studs, a factor [kappa], called the _coefficient of shape_,
+being introduced to allow for this change.
+
+For a projectile in which the ogival head is struck with a radius of 2
+diameters, Bashforth puts [kappa] = 0.975; on the other hand, for a
+flat-headed projectile, as required at proof-butts, [kappa] = 1.8, say 2 on
+the average.
+
+For spherical shot [kappa] is not constant, and a separate ballistic table
+must be constructed; but [kappa] may be taken as 1.7 on the average.
+
+Lastly, to allow for the superior centering of the shot obtainable with the
+breech-loading system, Bashforth introduces a factor [sigma], called the
+_coefficient of steadiness_.
+
+This steadiness may vary during the flight of the projectile, as the shot
+may be unsteady for some distance after leaving the muzzle, afterwards
+steadying down, like a spinning-top. Again, [sigma] may increase as the gun
+wears out, after firing a number of rounds.
+
+Collecting all the coefficients, [tau], [kappa], [sigma], into one, we put
+
+  (1)     R = nd^2p = nd^2f(v), where
+  (2)     n = [kappa] [sigma] [tau],
+
+and n is called the _coefficient of reduction_.
+
+By means of a well-chosen value of n, determined by a few experiments, it
+is possible, pending further experiment, with the most recent design, to
+utilize Bashforth's experimental results carried out with old-fashioned
+projectiles fired from muzzle-loading guns. For instance, n = 0.8 or even
+less is considered a good average for the modern rifle bullet.
+
+Starting with the experimental values of p, for a standard projectile,
+fired under standard conditions in air of standard density, we proceed to
+the construction of the ballistic table. We first determine the time t in
+seconds required for the velocity of a shot, d inches in diameter and
+weighing w lb, to fall from any initial velocity V(f/s) to any final
+velocity v(f/s). The shot is supposed to move horizontally, and the curving
+effect of gravity is ignored.
+
+If [Delta]t seconds is the time during which the resistance of the air, R
+lb, causes the velocity of the shot to fall [Delta]v (f/s), so that the
+velocity drops from v+½[Delta]v to v-½[Delta]v in passing through the mean
+velocity v, then
+
+  (3)     R[Delta]t = loss of momentum in second-pounds,
+            = w(v+½[Delta]v)/g - w(v-½[Delta]v)/g = w[Delta]v/g
+
+so that with the value of R in (1),
+
+  (4)     [Delta]t = w[Delta]v/nd^2pg.
+
+We put
+
+  (5)     w/nd^2 = C,
+
+and call C the ballistic coefficient (driving power) of the shot, so that
+
+  (6)     [Delta]t = C[Delta]T, where
+  (7)     [Delta]T = [Delta]v/gp,
+
+and [Delta]T is the time in seconds for the velocity to drop [Delta]v of
+the standard shot for which C=1, and for which the ballistic table is
+calculated.
+
+Since p is determined experimentally and tabulated as a function of v, the
+velocity is taken as the argument of the ballistic table; and taking
+[Delta]v = 10, the average value of p in the interval is used to determine
+[Delta]T.
+
+Denoting the value of T at any velocity v by T(v), then
+
+  (8)     T(v) = sum of all the preceding values of [Delta]T plus an
+      arbitrary constant, expressed by the notation
+  (9)     T(v) = [Sum]([Delta]v)/gp + a constant, or [Integral]dv/gp + a
+      constant, in which p is supposed known as a function of v.
+
+The constant may be any arbitrary number, as in using the table the
+difference only is required of two tabular values for an initial velocity V
+and final velocity v and thus
+
+  (10)     T(V) - T(v) = [Sum,v:V][Delta]v/gp or [Integral,v:V]dv/gp;
+
+and for a shot whose ballistic coefficient is C
+
+  (11)     t = C[T(V) - T(v)].
+
+To save the trouble of proportional parts the value of T(v) for unit
+increment of v is interpolated in a full-length extended ballistic table
+for T.
+
+Next, if the shot advances a distance [Delta]s ft. in the time [Delta]t,
+during which the velocity falls from v+½[Delta]v to v-½[Delta]v, we have
+
+  (12)     R[Delta]s = loss of kinetic energy in foot-pounds
+            =w(v+½[Delta]v)^2/g - w(v-½[Delta]v)^2/g = wv[Delta]v/g, so
+                that
+  (13)     [Delta]s = wv[Delta]v/nd^2pg = C[Delta]S, where
+  (14)     [Delta]S = v[Delta]v/gp = v[Delta]T,
+
+and [Delta]S is the advance in feet of a shot for which C=1, while the
+velocity falls [Delta]v in passing through the average velocity v.
+
+Denoting by S(v) the sum of all the values of [Delta]S up to any assigned
+velocity v,
+
+  (15)     S(v) = [Sum]([Delta]S) + a constant, by which S(v) is calculated
+      from [Delta]S, and then between two assigned velocities V and v,
+
+  (16)     S(V) - S(v) = [Sum,v:V][Delta]T = [Sum]v[Delta]v/gp or
+      [Integral,v:V]vdv/gp,
+
+and if s feet is the advance of a shot whose ballistic coefficient is C,
+
+  (17)     s = C[S(V) - S(v)].
+
+In an extended table of S, the value is interpolated for unit increment of
+velocity.
+
+A third table, due to Sir W. D. Niven, F.R.S., called the _degree_ table,
+determines the change of direction of motion of the shot while the velocity
+changes from V to v, the shot flying nearly horizontally.
+
+To explain the theory of this table, suppose the tangent at the point of
+the trajectory, where the velocity is v, to make an angle i radians with
+the horizon.
+
+Resolving normally in the trajectory, and supposing the resistance of the
+air to act tangentially,
+
+  (18)     v(di/dt) = g cos i,
+
+where di denotes the infinitesimal _decrement_ of i in the infinitesimal
+increment of time dt_.
+
+[v.03 p.0272] In a problem of direct fire, where the trajectory is flat
+enough for cos i to be undistinguishable from unity, equation (16) becomes
+
+  (19)     v(di/dt) = g, or di/dt = g/v;
+
+so that we can put
+
+  (20)     [Delta]i/[Delta]t = g/v
+
+if v denotes the mean velocity during the small finite interval of time
+[Delta]t, during which the direction of motion of the shot changes through
+[Delta]i radians.
+
+If the inclination or change of inclination in degrees is denoted by
+[delta] or [Delta][delta],
+
+  (21)     [delta]/180 = i/[pi], so that
+
+  (22)     [Delta][delta] = 180/[pi] [Delta]i = 180g/[pi] [Delta]t/v;
+
+and if [delta] and i change to D and I for the standard projectile,
+
+  (23)     [Delta]I = g [Delta]T/v = [Delta]v/vp,
+           [Delta]D = 180g/[pi] [Delta]T/v, and
+
+  (24)     I(V) - I(v) = [Sum,v:V][Delta]v/vp or [Integral,v:V]dv/vp,
+           D(V) - D(v) = 180/[pi] [I(V) - I(v)].
+
+The differences [Delta]D and [Delta]I are thus calculated, while the values
+of D(v) and I(v) are obtained by summation with the arithmometer, and
+entered in their respective columns.
+
+For some purposes it is preferable to retain the circular measure, i
+radians, as being undistinguishable from sin i and tan i when i is small as
+in direct fire.
+
+The last function A, called the _altitude function_, will be explained when
+high angle fire is considered.
+
+These functions, T, S, D, I, A, are shown numerically in the following
+extract from an abridged ballistic table, in which the velocity is taken as
+the argument and proceeds by an increment of 10 f/s; the column for p is
+the one determined by experiment, and the remaining columns follow by
+calculation in the manner explained above. The initial values of T, S, D,
+I, A must be accepted as belonging to the anterior portion of the table.
+
+In any region of velocity where it is possible to represent p with
+sufficient accuracy by an empirical formula composed of a single power of
+v, say v^m, the integration can be effected which replaces the summation in
+(10), (16), and (24); and from an analysis of the Krupp experiments Colonel
+Zabudski found the most appropriate index m in a region of velocity as
+given in the following table, and the corresponding value of gp, denoted by
+f(v) or v^m/k or its equivalent Cr, where r is the retardation.
+
+  ABRIDGED BALLISTIC TABLE.
+
+  -----+--------+-------+---------+-------+----------+-------+--------
+   v.  |   p.  [Delta]T.|  T.    [Delta]S.|  S.     [Delta]D.| D.
+  -----+--------+-------+---------+-------+----------+-------+--------
+  f/s  |        |       |         |       |          |       |
+  1600 | 11.416 | .0271 | 27.5457 | 43.47 | 18587.00 | .0311 | 49.7729
+  1610 | 11.540 | .0268 | 27.5728 | 43.27 | 18630.47 | .0306 | 49.8040
+  1620 | 11.662 | .0265 | 27.5996 | 43.08 | 18673.74 | .0301 | 49.8346
+  1630 | 11.784 | .0262 | 27.6261 | 42.90 | 18716.82 | .0296 | 49.8647
+       |        |       |         |       |          |       |
+  1640 | 11.909 | .0260 | 27.6523 | 42.72 | 18759.72 | .0291 | 49.8943
+  1650 | 12.030 | .0257 | 27.6783 | 42.55 | 18802.44 | .0287 | 49.9234
+  1660 | 12.150 | .0255 | 27.7040 | 42.39 | 18844.99 | .0282 | 49.9521
+  1670 | 12.268 | .0252 | 27.7295 | 42.18 | 18887.38 | .0277 | 49.9803
+       |        |       |         |       |          |       |
+  1680 | 12.404 | .0249 | 27.7547 | 41.98 | 18929.56 | .0273 | 50.0080
+  1690 | 12.536 | .0247 | 27.7796 | 41.78 | 18971.54 | .0268 | 50.0353
+  1700 | 12.666 | .0244 | 27.8043 | 41.60 | 19013.32 | .0264 | 50.0621
+  1710 | 12.801 | .0242 | 27.8287 | 41.41 | 19054.92 | .0260 | 50.0885
+       |        |       |         |       |          |       |
+  1720 | 12.900 | .0239 | 27.8529 | 41.23 | 19096.33 | .0256 | 50.1145
+  1730 | 13.059 | .0237 | 27.8768 | 41.06 | 19137.56 | .0252 | 50.1401
+  1740 | 13.191 | .0234 | 27.9005 | 40.90 | 19178.62 | .0248 | 50.1653
+  1750 | 13.318 | .0232 | 27.9239 | 40.69 | 19219.52 | .0244 | 50.1901
+       |        |       |         |       |          |       |
+  1760 | 13.466 | .0230 | 27.9471 | 40.53 | 19260.21 | .0240 | 50.2145
+  1770 | 13.591 | .0227 | 27.9701 | 40.33 | 19300.74 | .0236 | 50.2385
+  1780 | 13.733 | .0225 | 27.9928 | 40.19 | 19341.07 | .0233 | 50.2621
+  1790 | 13.862 | .0223 | 28.0153 | 40.00 | 19381.26 | .0229 | 50.2854
+       |        |       |         |       |          |       |
+  1800 | 14.002 | .0221 | 28.0376 | 39.81 | 19421.26 | .0225 | 50.3083
+  1810 | 14.149 | .0219 | 28.0597 | 39.68 | 19461.07 | .0222 | 50.3308
+  1820 | 14.269 | .0217 | 28.0816 | 39.51 | 19500.75 | .0219 | 50.3530
+  1830 | 14.414 | .0214 | 28.1033 | 39.34 | 19540.26 | .0216 | 50.3749
+       |        |       |         |       |          |       |
+  1840 | 14.552 | .0212 | 28.1247 | 39.17 | 19579.60 | .0212 | 50.3965
+  1850 | 14.696 | .0210 | 28.1459 | 39.01 | 19618.77 | .0209 | 50.4177
+  1860 | 14.832 | .0209 | 28.1669 | 38.90 | 19657.78 | .0206 | 50.4386
+  1870 | 14.949 | .0207 | 28.1878 | 38.75 | 19696.68 | .0203 | 50.4592
+       |        |       |         |       |          |       |
+  1880 | 15.090 | .0205 | 28.2085 | 38.61 | 19735.43 | .0200 | 50.4795
+  1890 | 15.224 | .0203 | 28.2290 | 38.46 | 19774.04 | .0198 | 50.4995
+  1900 | 15.364 | .0201 | 28.2493 | 38.32 | 19812.50 | .0195 | 50.5193
+  1910 | 15.496 | .0199 | 28.2694 | 38.19 | 19850.82 | .0192 | 50.5388
+       |        |       |         |       |          |       |
+  1920 | 15.656 | .0197 | 28.2893 | 38.01 | 19889.01 | .0189 | 50.5580
+  1930 | 15.809 | .0196 | 28.3090 | 37.83 | 19927.02 | .0186 | 50.5769
+  1940 | 15.968 | .0194 | 28.3286 | 37.66 | 19964.85 | .0184 | 50.5955
+  1950 | 16.127 | .0192 | 28.3480 | 37.48 | 20002.51 | .0181 | 50.6139
+       |        |       |         |       |          |       |
+  1960 | 16.302 | .0190 | 28.3672 | 37.26 | 20039.99 | .0178 | 50.6320
+  1970 | 16.484 | .0187 | 28.3862 | 36.99 | 20077.25 | .0175 | 50.6498
+  1980 | 16.689 | .0185 | 28.4049 | 36.73 | 20114.24 | .0172 | 50.6673
+  1990 | 16.888 | .0183 | 28.4234 | 36.47 | 20150.97 | .0169 | 50.6845
+       |        |       |         |       |          |       |
+  2000 | 17.096 | .0181 | 28.4417 | 36.21 | 20187.44 | .0166 | 50.7014
+  2010 | 17.305 | .0178 | 28.4598 | 35.95 | 20223.65 | .0163 | 50.7180
+  2020 | 17.515 | .0176 | 28.4776 | 35.65 | 20259.60 | .0160 | 50.7343
+  2030 | 17.752 | .0174 | 28.4952 | 35.35 | 20295.25 | .0158 | 50.7503
+       |        |       |         |       |          |       |
+  2040 | 17.990 | .0171 | 28.5126 | 35.06 | 20330.60 | .0155 | 50.7661
+  2050 | 18.229 | .0169 | 28.5297 | 34.77 | 20365.66 | .0152 | 50.7816
+  2060 | 18.463 | .0167 | 28.5466 | 34.49 | 20400.43 | .0149 | 50.7968
+  2070 | 18.706 | .0165 | 28.5633 | 34.21 | 20434.92 | .0147 | 50.8117
+       |        |       |         |       |          |       |
+  2080 | 18.978 | .0163 | 28.5798 | 33.93 | 20469.13 | .0144 | 50.8264
+  2090 | 19.227 | .0160 | 28.5961 | 33.60 | 20503.06 | .0141 | 50.8408
+  2100 | 19.504 | .0158 | 28.6121 | 33.34 | 20536.66 | .0139 | 50.8549
+  2110 | 19.755 | .0156 | 28.6279 | 33.02 | 20570.00 | .0136 | 50.8688
+       |        |       |         |       |          |       |
+  2120 | 20.010 | .0154 | 28.6435 | 32.76 | 20603.02 | .0134 | 50.8824
+  2130 | 20.294 | .0152 | 28.6589 | 32.50 | 20635.78 | .0132 | 50.8958
+  2140 | 20.551 | .0150 | 28.6741 | 32.25 | 20688.28 | .0129 | 50.9090
+  -----+--------+-------+---------+-------+----------+-------+--------
+
+  -----+--------+---------+---------+-------+---------
+   v.  |   p.   |[Delta]I.|    I.  [Delta]A.|    A.
+  -----+--------+---------+---------+-------+---------
+  f/s  |        |         |         |       |
+  1600 | 11.416 | .000543 | .868675 | 37.77 |  8470.36
+  1610 | 11.540 | .000534 | .869218 | 37.63 |  8508.13
+  1620 | 11.662 | .000525 | .869752 | 37.48 |  8545.76
+  1630 | 11.784 | .000517 | .870277 | 37.35 |  8583.24
+       |        |         |         |       |
+  1640 | 11.909 | .000508 | .870794 | 37.21 |  8620.59
+  1650 | 12.030 | .000500 | .871302 | 37.09 |  8657.80
+  1660 | 12.150 | .000492 | .871802 | 36.96 |  8694.89
+  1670 | 12.268 | .000484 | .872294 | 36.80 |  8731.85
+       |        |         |         |       |
+  1680 | 12.404 | .000476 | .872778 | 36.65 |  8768.65
+  1690 | 12.536 | .000468 | .873254 | 36.50 |  8805.30
+  1700 | 12.666 | .000461 | .873722 | 36.35 |  8841.80
+  1710 | 12.801 | .000453 | .874183 | 36.21 |  8878.15
+       |        |         |         |       |
+  1720 | 12.900 | .000446 | .874636 | 36.07 |  8914.36
+  1730 | 13.059 | .000439 | .875082 | 35.94 |  8950.43
+  1740 | 13.191 | .000432 | .875521 | 35.81 |  8986.37
+  1750 | 13.318 | .000425 | .875953 | 35.65 |  9022.18
+       |        |         |         |       |
+  1760 | 13.466 | .000419 | .876378 | 35.53 |  9057.83
+  1770 | 13.591 | .000412 | .876797 | 35.37 |  9093.36
+  1780 | 13.733 | .000406 | .877209 | 35.26 |  9128.73
+  1790 | 13.862 | .000400 | .877615 | 35.11 |  9163.99
+       |        |         |         |       |
+  1800 | 14.002 | .000393 | .878015 | 34.96 |  9199.10
+  1810 | 14.149 | .000388 | .878408 | 34.86 |  9234.06
+  1820 | 14.269 | .000382 | .878796 | 34.73 |  9268.92
+  1830 | 14.414 | .000376 | .879178 | 34.59 |  9303.65
+       |        |         |         |       |
+  1840 | 14.552 | .000370 | .879554 | 34.46 |  9338.24
+  1850 | 14.696 | .000365 | .879924 | 34.33 |  9372.70
+  1860 | 14.832 | .000360 | .880289 | 34.25 |  9407.03
+  1870 | 14.949 | .000355 | .880649 | 34.14 |  9441.28
+       |        |         |         |       |
+  1880 | 15.090 | .000350 | .881004 | 34.02 |  9475.42
+  1890 | 15.224 | .000345 | .881354 | 33.91 |  9509.44
+  1900 | 15.364 | .000340 | .881699 | 33.80 |  9543.35
+  1910 | 15.496 | .000335 | .882039 | 33.69 |  9577.15
+       |        |         |         |       |
+  1920 | 15.656 | .000330 | .882374 | 33.55 |  9610.84
+  1930 | 15.809 | .000325 | .882704 | 33.40 |  9644.39
+  1940 | 15.968 | .000320 | .883029 | 33.26 |  9677.79
+  1950 | 16.127 | .000316 | .883349 | 33.12 |  9711.05
+       |        |         |         |       |
+  1960 | 16.302 | .000311 | .883665 | 32.94 |  9744.17
+  1970 | 16.484 | .000305 | .883976 | 32.71 |  9777.11
+  1980 | 16.689 | .000300 | .884281 | 32.48 |  9809.82
+  1990 | 16.888 | .000295 | .884581 | 32.26 |  9842.30
+       |        |         |         |       |
+  2000 | 17.096 | .000290 | .884876 | 32.05 |  9874.56
+  2010 | 17.305 | .000285 | .885166 | 31.83 |  9906.61
+  2020 | 17.515 | .000280 | .885451 | 31.57 |  9938.44
+  2030 | 17.752 | .000275 | .885731 | 31.32 |  9970.01
+       |        |         |         |       |
+  2040 | 17.990 | .000270 | .886006 | 31.07 | 10001.33
+  2050 | 18.229 | .000265 | .886276 | 30.82 | 10032.40
+  2060 | 18.463 | .000260 | .886541 | 30.58 | 10063.33
+  2070 | 18.706 | .000256 | .886801 | 30.34 | 10093.80
+       |        |         |         |       |
+  2080 | 18.978 | .000251 | .887057 | 30.10 | 10124.14
+  2090 | 19.227 | .000247 | .887308 | 29.82 | 10154.24
+  2100 | 19.504 | .000242 | .887555 | 29.59 | 10184.06
+  2110 | 19.755 | .000238 | .887797 | 29.32 | 10213.65
+       |        |         |         |       |
+  2120 | 20.010 | .000234 | .888035 | 29.10 | 10242.97
+  2130 | 20.294 | .000230 | .888269 | 28.88 | 10272.07
+  2140 | 20.551 | .000226 | .888499 | 28.66 | 10300.95
+  2150 | 20.811 | .000222 | .888725 | 28.44 | 10329.61
+  -----+--------+---------+---------+-------+---------
+
+  +------+---------+------------+----------------------------------+
+  |  v.  |    m.   |   log k.   |     Cr = gp = f(v) = {v^m}/k.    |
+  +------+---------+------------+----------------------------------+
+  | 3600 |   1.55  |  2.3909520 | v^{1.55} × log^{-1} [=3].6090480 |
+  | 2600 |   1.7   |  2.9038022 | v^{1.7}  × log^{-1} [=3].0961978 |
+  | 1800 |   2     |  3.8807404 |  v^2     × log^{-1} [=4].1192596 |
+  | 1370 |   3     |  7.0190977 |  v^3     × log^{-1} [=8].9809023 |
+  | 1230 |   5     | 13.1981288 |  v^5     × log^{-1}[=14].8018712 |
+  | 970  |   3     |  7.2265570 |  v^3     × log^{-1} [=8].7734430 |
+  | 790  |   2     |  4.3301086 |  v^2     × log^{-1} [=5].6698914 |
+  +------+---------+------------+----------------------------------+
+
+The numbers have been changed from kilogramme-metre to pound-foot units by
+Colonel Ingalls, and employed by him in the calculation of an extended
+ballistic table, which can be compared with the result of the abridged
+table. The calculation can be carried out in each region of velocity from
+the formulae:--
+
+  (25) T(V) - T(v) = k [Integral,v:V] v^{-m} dv,
+       S(V) - S(v) = k [Integral,v:V] v^{m+1} dv,
+       I(V) - I(v) = gk [Integral,v:V] v^{-m-1} dv,
+
+and the corresponding integration.
+
+The following exercises will show the application of the ballistic table. A
+slide rule should be used for the arithmetical operations, as it works to
+the accuracy obtainable in practice.
+
+_Example_ 1.--Determine the time t sec. and distance s ft. in which the
+velocity falls from 2150 to 1600 f/s.
+
+  (a) of a 6-in. shot weighing 100lb, taking n = 0.96,
+  (b) of a rifle bullet, 0.303-in. calibre, weighing half an ounce, taking
+      n = 0.8.
+
+  ------+------+---------+---------+--------+----------+----------+--------
+    V.  |  v.  |  T(V).  |  T(v).  |   t/C. |   S(V)   |   S(v)   |   s/C.
+  ------+------+---------+---------+--------+----------+----------+--------
+   2150 | 1600 | 28.6891 | 27.5457 | 1.1434 | 20700.53 | 18587.00 | 2113.53
+  ------+------+---------+---------+--------+----------+----------+--------
+
+  ----+-------+------+-------+--------+-------+---------+-----------------
+      |  d.   |  w.  |   C.  |  t/C.  |   t.  |   S/C.  |        s.
+  ----+-------+------+-------+--------+-------+---------+-----------------
+  (a) | 6     | 100  | 2.894 | 1.1434 | 3.307 | 2113.53 | 6114 (2038 yds.)
+  (b) | 0.303 | 1/32 | 0.426 | 1.1434 | 0.486 | 2113.53 |  900 (300 yds.)
+  ----+-------+------+-------+--------+-------+---------+-----------------
+
+_Example_ 2.--Determine the remaining velocity v and time of flight t over
+a range of 1000 yds. of the same two shot, fired with the same muzzle
+velocity V = 2150 f/s.
+
+  ---+----+-----+---------+---------+-----+--------+--------+-------+------
+     | S. | s/C.|  S(V).  |  S(v).  | v.  |  T(V). |  T(v). |  t/C. |  t.
+  ---+----+-----+---------+---------+-----+--------+--------+-------+------
+  (a)|3000| 1037| 20700.53| 19663.53|1861 | 28.6891| 28.1690| 0.5201| 1.505
+  (b)|3000| 7050| 20700.53| 13650.53| 920*| 28.6891| 23.0803| 5.6088| 2.387
+  ---+----+-----+---------+---------+-----+--------+--------+-------+------
+
+* These numbers are taken from a part omitted here of the abridged
+ballistic table.
+
+In the calculation of range tables for _direct fire_, defined officially as
+"fire from guns with full charge at elevation not exceeding 15°," the
+vertical component of the resistance of the air may be ignored as
+insensible, and the actual velocity and its horizontal component, or
+component parallel to the line of sight, are undistinguishable.
+
+[Illustration: FIG. 1.]
+
+The equations of motion are now, the co-ordinates x and y being measured in
+feet,
+
+  (26)     d^2x/dt^2 = -r = -gp/C,
+  (27)     d^2y/dt^2 = -g.
+
+The first equation leads, as before, to
+
+  (28)     t = C{T(V) - T(v)},
+  (29)     x = C{S(V) - S(v)}.
+
+The integration of (24) gives
+
+  (30)     dy/dt = constant - gt = g(½T - t),
+
+if T denotes the whole time of flight from O to the point B (fig. 1), where
+the trajectory cuts the line of sight; so that ½T is the time to the vertex
+A, where the shot is flying parallel to OB.
+
+Integrating (27) again,
+
+  (31)     y = g(½Tt - ½t^2) = ½gt(T - t);
+
+and denoting T - t by t', and taking g = 32f/s^2,
+
+  (32)     y = 16tt',
+
+which is Colonel Sladen's formula, employed in plotting ordinates of a
+trajectory.
+
+At the vertex A, where y = H, we have t = t' = ½T, so that
+
+  (33)     H =  1/8gT^2,
+
+which for practical purposes, taking g = 32, is replaced by
+
+  (34)     H = 4T^2, or (2T)^2.
+
+Thus, if the time of flight of a shell is 5 sec., the height of the vertex
+of the trajectory is about 100 ft.; and if the fuse is set to burst the
+shell one-tenth of a second short of its impact at B, the height of the
+burst is 7.84, say 8 ft.
+
+The line of sight Ox, considered horizontal in range table results, may be
+inclined slightly to the horizon, as in shooting up or down a moderate
+slope, without appreciable modification of (28) and (29), and y or PM is
+still drawn vertically to meet OB in M.
+
+Given the ballistic coefficient C, the initial velocity V, and a range of R
+yds. or X = 3R ft., the final velocity v is first calculated from (29) by
+
+  (35)     S(v) = S(V) - X/C,
+
+and then the time of flight T by
+
+  (36)     T = C{T(V) - T(v)}.
+
+Denoting the angle of departure and descent, measured in degrees and from
+the line of sight OB by [phi] and [beta], the total deviation in the range
+OB is (fig. 1)
+
+  (37)     [delta] = [phi] + [beta] = C{D(V) - D(v)}.
+
+To share the [delta] between [phi] and [beta], the vertex A is taken as the
+point of _half-time_ (and therefore beyond _half-range_, because of the
+continual diminution of the velocity), and the velocity v_0 at A is
+calculated from the formula
+
+  (38)     T(v_0) = T(V) - ½T/C = ½{T(V) + T(v)};
+
+and now the degree table for D(v) gives
+
+  (39)     [phi] = C{D(V) - D(v_0)},
+  (40)     [beta] = C{D(v_0) - D(v)}.
+
+This value of [phi] is the tangent elevation (T.E.); the quadrant elevation
+(Q.E.) is [phi] - S, where S is the angular depression of the line of sight
+OB; and if O is h ft. vertical above B, the angle S at a range of R yds. is
+given by
+
+  (41)     sin S = h/3R,
+
+or, for a small angle, expressed in minutes, taking the radian as 3438',
+
+  (42)     S = 1146h/R.
+
+So also the angle [beta] must be increased by S to obtain the angle at
+which the shot strikes a horizontal plane--the water, for instance.
+
+A systematic exercise is given here of the compilation of a range table by
+calculation with the ballistic table; and it is to be compared with the
+published official range table which follows.
+
+A discrepancy between a calculated and tabulated result will serve to show
+the influence of a slight change in the coefficient of reduction n, and the
+muzzle velocity V.
+
+_Example_ 3.--Determine by calculation with the abridged ballistic table
+the remaining velocity v, the time of flight t, angle of elevation [phi],
+and descent [beta] of this 6-in. gun at ranges 500, 1000, 1500, 2000 yds.,
+taking the muzzle velocity V = 2150 f/s, and a coefficient of reduction n =
+0.96. [For Table see p. 274.]
+
+An important problem is to determine the alteration of elevation for firing
+up and down a slope. It is found that the alteration of the tangent
+elevation is almost insensible, but the quadrant elevation requires the
+addition or subtraction of the angle of sight.
+
+Example.--Find the alteration of elevation required at a range of 3000 yds.
+in the exchange of fire between a ship and a fort 1200 ft. high, a 12-in.
+gun being employed on each side, firing a shot weighing 850 lb with
+velocity 2150 f/s. The complete ballistic table, and the method of high
+angle fire (see below) must be employed.
+
+[v.03 p.0273]
+
+  Range.  s.   s/C.   S(v).    v.    T(v).    t/C.    t.    T(v_0).  v_0
+     0     0     0  20700.53  2150  28.6891  0.0000  0.000  28.6891  215
+   500  1500   518  20182.53  1999  28.4399  0.2492  0.720  28.5645  207
+  1000  3000  1036  19664.53  1862  28.1711  0.5180  1.497  28.4301  199
+  1500  4500  1554  19146.53  1732  27.8815  0.8076  2.330  28.2853  191
+  2000  6000  2072  18628.53  1610  27.5728  1.1163  3.225  28.1310  184
+
+  Range. v_0.  D(v_0). [phi]/C. [phi].[beta]/C. [beta].
+     0   2150  50.9219  0.0000  0.000   0.0000   0.000
+   500   2071  50.8132  0.1087  0.315   0.1135   0.328
+  1000   1994  50.6913  0.2306  0.666   0.2486   0.718
+  1500   1918  50.5542  0.3677  1.062   0.4085   1.181
+  2000   1843  50.4029  0.5190  1.500   0.5989   1.734
+
+    +---------------------+----------------------------------+
+    | Charge              | weight, 13 lb 4 oz.              |
+    |                     | gravimetric density, 55.01/0.504 |
+    |                     | nature, cordite, size 30         |
+    +---------------------+----------------------------------+
+    +---------------------+----------------------------------+
+    | Projectile          | Palliser shot, Shrapnel shell.   |
+    |                     | Weight, 100lb.                   |
+    +---------------------+----------------------------------+
+    +---------------------+----------------------------------+
+    | Muzzle velocity     | 2154 f/s.                        |
+    | Nature of mounting  | pedestal.                        |
+    | Jump                | nil.                             |
+    +---------------------+----------------------------------+
+
+        A. Remaining Velocity.
+        B. To strike an object 10 ft. high range must be known to
+        C. Slope of Descent.
+        D. 5' elevation or depression alters
+           point of impact (Range ... Laterally or Vertically).
+        E. Elevation.
+        F. Range.
+        G. Fuse scale for T. and P. middle No. 54 Marks I., II., or III.
+        H. 50% of rounds should fall in: (Length × Breadth × Height).
+        I. Time of Flight.
+        J. Penetration into Wrought Iron.
+
+  -----+------+-----+----------+------+------+--+------------+------+-----
+    A. |   B. |  C. |    D.    |  E.  |   F. |G.|     H.     |   I. |   J.
+  -----+------+-----+----------+------+------+--+------------+------+-----
+  f/s. | yds. | 1 in|yds. yds. | °  ' | yds. |  |yds yds yds |secs. |  in.
+  2154 |  ..  |  .. |  .. 0.00 | 0  0 |    0 |..| ..  ..  .. | 0.00 | 13.6
+  2122 | 1145 | 687 | 125 0.14 | 0  4 |  100 | ¼| .. 0.4  .. | 0.16 | 13.4
+  2091 |  635 | 381 | 125 0.29 | 0  9 |  200 | ¾| .. 0.4  .. | 0.31 | 13.2
+  2061 |  408 | 245 | 125 0.43 | 0 13 |  300 |1 | .. 0.4  .. | 0.47 | 13.0
+  2032 |  316 | 190 | 125 0.58 | 0 17 |  400 |1¼| .. 0.4  .. | 0.62 | 12.8
+  2003 |  260 | 156 | 125 0.72 | 0 21 |  500 |1¾| .. 0.5 0.2 | 0.78 | 12.6
+  1974 |  211 | 127 | 125 0.87 | 0 26 |  600 |2 | .. 0.5 0.2 | 0.95 | 12.4
+  1946 |  183 | 110 | 125 1.01 | 0 30 |  700 |2¼| .. 0.5 0.2 | 1.11 | 12.2
+  1909 |  163 |  98 | 125 1.16 | 0 34 |  800 |2¾| .. 0.5 0.2 | 1.28 | 12.0
+  1883 |  143 |  85 | 125 1.31 | 0 39 |  900 |3 | .. 0.6 0.3 | 1.44 | 11.8
+  1857 |  130 |  78 | 125 1.45 | 0 43 | 1000 |3¼| .. 0.6 0.3 | 1.61 | 11.6
+  1830 |  118 |  71 | 125 1.60 | 0 47 | 1100 |3¾| .. 0.6 0.3 | 1.78 | 11.4
+  1803 |  110 |  66 | 125 1.74 | 0 51 | 1200 |4 | .. 0.6 0.3 | 1.95 | 11.2
+  1776 |  101 |  61 | 125 1.89 | 0 55 | 1300 |4½| .. 0.7 0.4 | 2.12 | 11.0
+  1749 |   93 |  56 | 125 2.03 | 0 59 | 1400 |4¾| .. 0.7 0.4 | 2.30 | 10.8
+  1722 |   86 |  52 | 125 2.18 | 1  3 | 1500 |5 | .. 0.7 0.4 | 2.47 | 10.6
+  1695 |   80 |  48 | 125 2.32 | 1  7 | 1600 |5½| 25 0.8 0.5 | 2.65 | 10.5
+  1669 |   71 |  43 | 125 2.47 | 1 11 | 1700 |5¾| 25 0.9 0.5 | 2.84 | 10.3
+  1642 |   67 |  40 | 100 2.61 | 1 16 | 1800 |6¼| 25 1.0 0.5 | 3.03 | 10.1
+  1616 |   61 |  37 | 100 2.76 | 1 22 | 1900 |6½| 25 1.1 0.6 | 3.23 |  9.9
+  1591 |   57 |  34 | 100 2.91 | 1 27 | 2000 |7 | 25 1.2 0.6 | 3.41 |  9.7
+  -----+------+-----+----------+------+------+--+------------+------+-----
+
+   The last column in the Range Table giving the inches of penetration into
+wrought iron is calculated from the remaining velocity by an empirical
+formula, as explained in the article ARMOUR PLATES.
+
+_High Angle and Curved Fire._--"High angle fire," as defined officially,
+"is fire at elevations greater than 15°," and "curved fire is fire from
+howitzers at all angles of elevation not exceeding 15°." In these cases the
+curvature of the trajectory becomes considerable, and the formulae employed
+in direct fire must be modified; the method generally employed is due to
+Colonel Siacci of the Italian artillery.
+
+Starting with the exact equations of motion in a resisting medium,
+
+  (43)     d^2x/dt^2 = -r cos i = -r dx/ds,
+
+  (44)     d^2y/dt^2 = -r sin i - g = -r dy/ds - g,
+
+and eliminating r,
+
+  (45)     dx/dt d^2y/dt^2 - dy/dt d^2x/dt^2 = -g{dx/dt};
+
+and this, in conjunction with
+
+  (46)     tan i = dy/dx = {dy/dt}/{dx/dt},
+
+  (47)     sec^2 i{di/dt} =
+           ({dx/dt}{d^2y/dt^2} - {dy/dt}{d^2x/dt^2}) / (dx/dt)^2,
+
+reduces to
+
+  (48)     di/dt = -{g/v} cos i, or {d tan i}/dt = -g/{v cos i},
+
+the equation obtained, as in (18), by resolving normally in the trajectory,
+but di now denoting the _increment_ of i in the increment of time dt.
+
+Denoting dx/dt, the horizontal component of the velocity, by q, so that
+
+  (49)     v cos i = q,
+
+equation (43) becomes
+
+  (50)     dq/dt = -r cos i,
+
+and therefore by (48)
+
+  (51)     dq/di = {dq/dt} {dt/di} = {rv}/g.
+
+It is convenient to express r as a function of v in the previous notation
+
+  (52)     Cr = f(v),
+
+and now
+
+  (53)     dq/di = {v f(v)}/{Cg},
+
+an equation connecting q and i.
+
+Now, since v = g sec i
+
+  (54)     dt/dq = -C sec i / f(q sec i),
+
+and multiplying by dx/dt or q,
+
+  (55)     dx/dq = -C q sec i / f(q sec i),
+
+and multiplying by dy/dx or tan i,
+
+  (56)     dy/dq = -C q sec i tan i / f(q sec i);
+
+also
+
+  (57)     di/dq = Cg / {q sec i . f(q sec i)},
+
+  (58)     d tan i/dq = C g sec i / {q . f(q sec i)},
+
+from which the values of t, x, y, i, and tan i are given by integration
+with respect to q, when sec i is given as a function of q by means of (51).
+
+Now these integrations are quite intractable, even for a very simple
+mathematical assumption of the function f(v), say the quadratic or cubic
+law, f(v) = v^2/k or v^3/k.
+
+But, as originally pointed out by Euler, the difficulty can be turned if we
+notice that in the ordinary trajectory of practice the quantities i, cos i,
+and sec i vary so slowly that they may be replaced by their _mean_ values,
+[eta], cos [eta], and sec [eta], especially if the trajectory, when
+considerable, is divided up in the calculation into arcs of small
+curvature, the curvature of an arc being defined as the angle between the
+tangents or normals at the ends of the arc.
+
+Replacing then the angle i on the right-hand side of equations (54) - (56)
+by some mean value [eta], we introduce Siacci's pseudo-velocity u defined
+by
+
+  (59)     u = q sec [eta],
+
+so that u is a quasi-component parallel to the mean direction of the
+tangent, say the direction of the chord of the arc.
+
+[v.03 p.0274] Integrating from any initial pseudo-velocity U,
+
+  (60)     t = C[Integral,u:U] du/f(u),
+  (61)     x = C cos [eta] [Integral] u du/f(u),
+  (62)     y = C sin [eta] [Integral] u du/f(u);
+
+and supposing the inclination i to change from [phi] to [theta] radians
+over the arc,
+
+  (63)     [phi] - [theta] = Cg cos [eta] [Integral] du/{u f(u)},
+  (64)     tan [phi] - tan [theta] = Cg sec [eta] [Integral] du/{u f(u)}.
+
+But according to the definition of the functions T, S, I and D of the
+ballistic table, employed for direct fire, with u written for v,
+
+  (65)     [Integral,u:U] du/f(u) = [Integral] du/gp = T(U) - T(u),
+  (66)     [Integral] u du/f(u) = S(U) - S(u),
+  (67)     [Integral] g du/u f(u) = I(U) - I(u);
+
+and therefore
+
+  (68)     t = C[T(U) - T(u)],
+  (69)     x = C cos [eta] [S(U) - S(u)],
+  (70)     y = C sin [eta] [S(U) - S(u)],
+  (71)     [phi] - [theta] = C cos [eta] [I(U) - I(u)],
+  (72)     tan [phi] - tan [theta] = C sec [eta] [I(U) - I(u)],
+
+while, expressed in degrees,
+
+  (73)     [phi]° - [theta]° = C cos [eta] [D(U) - D(u)],
+
+The equations (66)-(71) are Siacci's, slightly modified by General
+Mayevski; and now in the numerical applications to high angle fire we can
+still employ the ballistic table for direct fire.
+
+It will be noticed that [eta] cannot be exactly the same mean angle in all
+these equations; but if [eta] is the same in (69) and (70),
+
+  (74)     y/x = tan [eta].
+
+so that [eta] is the inclination of the chord of the arc of the trajectory,
+as in Niven's method of calculating trajectories (_Proc. R.S._, 1877): but
+this method requires [eta] to be known with accuracy, as 1% variation in
+[eta] causes more than 1% variation in tan [eta].
+
+The difficulty is avoided by the use of Siacci's altitude-function A or
+A(u), by which y/x can be calculated without introducing sin [eta] or tan
+[eta], but in which [eta] occurs only in the form cos [eta] or sec [eta],
+which varies very slowly for moderate values of [eta], so that [eta] need
+not be calculated with any great regard for accuracy, the arithmetic mean
+½([phi] + [theta]) of [phi] and [theta] being near enough for [eta] over
+any arc [phi] - [theta] of moderate extent.
+
+Now taking equation (72), and replacing tan [theta], as a variable final
+tangent of an angle, by tan i or dy/dx,
+
+  (75)     tan [phi] - dy/dx = C sec [eta] [I(U) - I(u)],
+
+and integrating with respect to x over the arc considered,
+
+  (76)     x tan [phi] - y = C sec [eta] [xI(U) - [Integral,0:x] I(u)dx],
+
+But
+
+  (77)     [Integral,0:x] I(u)dx = [Integral,U:u] I(u) dx/du du
+             = C cos [eta] [Integral,x:U] I(u) {u du}/{g f(u)}
+             = C cos [eta] [A(U) - A(u)]
+
+in Siacci's notation; so that the altitude-function A must be calculated by
+summation from the finite difference [Delta]A, where
+
+  (78)     [Delta]A = I(u) u[Delta]u / gp = I(u)[Delta]S,
+
+or else by an integration when it is legitimate to assume that f(v)=v^m/k
+in an interval of velocity in which m may be supposed constant.
+
+Dividing again by x, as given in (76),
+
+  (79)     tan [phi] - y/x =
+           C sec [eta] [I(U) - {A(U) - A(u)}/{S(U) - S(u)}]
+
+from which y/x can be calculated, and thence y.
+
+In the application of Siacci's method to the calculation of a trajectory in
+high angle fire by successive arcs of small curvature, starting at the
+beginning of an arc at an angle [phi] with velocity v_[phi], the curvature
+of the arc [phi] - [theta] is first settled upon, and now
+
+  (80)     [eta] = ½([phi] + [theta])
+
+is a good first approximation for [eta].
+
+Now calculate the pseudo-velocity u_[phi] from
+
+  (81)     u_[phi] = v_[phi] cos [phi] sec [eta],
+
+and then, from the given values of [phi] and [theta], calculate u_[theta]
+from either of the formulae of (72) or (73):--
+
+  (82)     I(u_[theta]) =
+           I(u_[phi]) - {tan [phi] - tan [theta]}/{C sec [eta]},
+  (83)     D(u_[theta]) =
+           D(u_[phi]) - {[phi]° - [theta]°}/{C cos [eta]}.
+
+Then with the suffix notation to denote the beginning and end of the arc
+[phi] - [theta],
+
+  (84)     _[phi]t_[theta] = C[T(u_[phi]) - T(u_[theta])],
+  (85)     _[phi]x_[theta] = C cos [eta] [S(u_[phi]) - S(u_[theta])],
+  (86)     _[phi](y/x)_[theta] =
+           tan [phi] - C sec [eta] [I(u_[phi]) - [Delta]A/[Delta]S];
+
+[Delta] now denoting any finite tabular difference of the function between
+the initial and final (pseudo-) velocity.
+
+[Illustration: FIG. 2.]
+
+Also the velocity v_{[theta]} at the end of the arc is given by
+
+  (87)     v_[theta] = u_[theta] sec [theta] cos [eta].
+
+Treating this final velocity v_[theta] and angle [theta] as the initial
+velocity v_[phi] and angle [phi] of the next arc, the calculation proceeds
+as before (fig. 2).
+
+In the long range high angle fire the shot ascends to such a height that
+the correction for the tenuity of the air becomes important, and the
+curvature [phi] - [theta] of an arc should be so chosen that
+_[phi]y_[theta] the height ascended, should be limited to about 1000 ft.,
+equivalent to a fall of 1 inch in the barometer or 3% diminution in the
+tenuity factor [tau].
+
+A convenient rule has been given by Captain James M. Ingalls, U.S.A., for
+approximating to a high angle trajectory in a single arc, which assumes
+that the mean density of the air may be taken as the density at two-thirds
+of the estimated height of the vertex; the rule is founded on the fact that
+in an unresisted parabolic trajectory the average height of the shot is
+two-thirds the height of the vertex, as illustrated in a jet of water, or
+in a stream of bullets from a Maxim gun.
+
+The longest recorded range is that given in 1888 by the 9.2-in. gun to a
+shot weighing 380 lb fired with velocity 2375 f/s at elevation 40°; the
+range was about 12 m., with a time for flight of about 64 sec., shown in
+fig. 2.
+
+A calculation of this trajectory is given by Lieutenant A. H. Wolley-Dod,
+R.A., in the _Proceedings R.A. Institution_, 1888, employing Siacci's
+method and about twenty arcs; and Captain Ingalls, by assuming a mean
+tenuity-factor [tau]=0.68, corresponding to a height of about 2 m., on the
+estimate that the shot would reach a height of 3 m., was able to obtain a
+very accurate result, working in two arcs over the whole trajectory, up to
+the vertex and down again (Ingalls, _Handbook of Ballistic Problems_).
+
+Siacci's altitude-function is useful in direct fire, for giving immediately
+the angle of elevation [phi] required for a given range of R yds. or X ft.,
+between limits V and v of the velocity, and also the angle of descent
+[beta].
+
+In direct fire the pseudo-velocities U and u, and the real velocities V and
+v, are undistinguishable, and sec [eta] may be replaced by unity so that,
+putting y = 0 in (79),
+
+  (88)     tan [phi] = C [I(V) - [Delta]A/[Delta]S].
+
+Also
+
+  (89)     tan [phi] - tan [beta] = C [I(V) - L(v)]
+
+so that
+
+  (90)     tan [beta] = C [[Delta]A/[Delta]S - I(v)],
+
+or, as (88) and (90) may be written for small angles,
+
+  (91)     sin 2[phi] = 2C [I(V) - [Delta]A/[Delta]S],
+  (92)     sin 2[beta] = 2C [[Delta]A/[Delta]S - I(v)].
+
+To simplify the work, so as to look out the value of sin 2[phi] without the
+intermediate calculation of the remaining velocity v, a double-entry table
+has been devised by Captain Braccialini Scipione [v.03 p.0275] (_Problemi
+del Tiro_, Roma, 1883), and adapted to yd., ft., in. and lb units by A. G.
+Hadcock, late R.A., and published in the _Proc. R.A. Institution_, 1898,
+and in _Gunnery Tables_, 1898.
+
+In this table
+
+  (93)     sin 2[phi] = Ca,
+
+where a is a function tabulated for the two arguments, V the initial
+velocity, and R/C the reduced range in yards.
+
+The table is too long for insertion here. The results for [phi] and [beta],
+as calculated for the range tables above, are also given there for
+comparison.
+
+_Drift_.--An elongated shot fired from a rifled gun does not move in a
+vertical plane, but as if the mean plane of the trajectory was inclined to
+the true vertical at a small angle, 2° or 3°; so that the shot will hit the
+mark aimed at if the back sight is tilted to the vertical at this angle
+[delta], called the permanent angle of deflection (see SIGHTS).
+
+This effect is called _drift_ and the reason of it is not yet understood
+very clearly.
+
+It is evidently a gyroscopic effect, being reversed in direction by a
+change from a right to a left-handed twist of rifling, and being increased
+by an increase of rotation of the shot.
+
+The axis of an elongated shot would move parallel to itself only if fired
+in a vacuum; but in air the couple due to a sidelong motion tends to place
+the axis at right angles to the tangent of the trajectory, and acting on a
+rotating body causes the axis to precess about the tangent. At the same
+time the frictional drag damps the nutation and causes the axis of the shot
+to follow the tangent of the trajectory very closely, the point of the shot
+being seen to be slightly above and to the right of the tangent, with a
+right-handed twist. The effect is as if there was a mean sidelong thrust w
+tan [delta] on the shot from left to right in order to deflect the plane of
+the trajectory at angle [delta] to the vertical. But no formula has yet
+been invented, derived on theoretical principles from the physical data,
+which will assign by calculation a definite magnitude to [delta].
+
+An effect similar to drift is observable at tennis, golf, base-ball and
+cricket; but this effect is explainable by the inequality of pressure due
+to a vortex of air carried along by the rotating ball, and the deviation is
+in the opposite direction of the drift observed in artillery practice, so
+artillerists are still awaiting theory and crucial experiment.
+
+After all care has been taken in laying and pointing, in accordance with
+the rules of theory and practice, absolute certainty of hitting the same
+spot every time is unattainable, as causes of error exist which cannot be
+eliminated, such as variations in the air and in the muzzle-velocity, and
+also in the steadiness of the shot in flight.
+
+To obtain an estimate of the accuracy of a gun, as much actual practice as
+is available must be utilized for the calculation in accordance with the
+laws of probability of the 50% zones shown in the range table (see
+PROBABILITY.)
+
+II. INTERIOR BALLISTICS
+
+The investigation of the relations connecting the pressure, volume and
+temperature of the powder-gas inside the bore of the gun, of the work
+realized by the expansion of the powder, of the dynamics of the movement of
+the shot up the bore, and of the stress set up in the material of the gun,
+constitutes the branch of interior ballistics.
+
+[Illustration: FIG. 3.]
+
+A gun may be considered a simple thermo-dynamic machine or heat-engine
+which does its work in a single stroke, and does not act in a series of
+periodic cycles as an ordinary steam or gas-engine.
+
+[Illustration: FIG. 4. Pressure Curves, from Chronoscope Experiments in 6
+inch gun of 100 calibres, with various Explosives.]
+
+An indicator diagram can be drawn for a gun (fig. 3) as for a [v.03 p.0276]
+steam-engine, representing graphically by a curve CPD the relation between
+the volume and pressure of the powder-gas; and in addition the curves AQE
+of energy e, AvV of velocity v, and AtT of time t can be plotted or
+derived, the velocity and energy at the muzzle B being denoted by V and E.
+
+After a certain discount for friction and the recoil of the gun, the net
+work realized by the powder-gas as the shot advances AM is represented by
+the area ACPM, and this is equated to the kinetic energy e of the shot, in
+foot-tons,
+
+  (1)     e = {w /2240} (1 + {4k^2 / d^2} tan^2 [delta]) {v^2 / 2g},
+
+in which the factor 4(k^2/d^2)tan^2[delta] represents the fraction due to
+the rotation of the shot, of diameter d and axial radius of gyration k, and
+[delta] represents the angle of the rifling; this factor may be ignored in
+the subsequent calculations as small, less than 1%.
+
+The mean effective pressure (M.E.P.) in tons per sq. in. is represented in
+fig. 3 by the height AH, such that the rectangle AHKB is equal to the area
+APDB; and the M.E.P. multiplied by ¼[pi]d^2, the cross-section of the bore
+in square inches, gives in tons the mean effective thrust of the powder on
+the base of the shot; and multiplied again by l, the length in inches of
+the travel AB of the shot up the bore, gives the work realized in
+inch-tons; which work is thus equal to the M.E.P. multiplied by ¼[pi]d^2l =
+B - C, the volume in cubic inches of the rifled part AB of the bore, the
+difference between B the total volume of the bore and C the volume of the
+powder-chamber.
+
+[Illustration: FIG. 5. Velocity Curves, from Chronoscope experiments in 6
+inch gun of 100 calibres, with Cordite.]
+
+Equating the muzzle-energy and the work in foot-tons
+
+  (2)     E = w/2240 V^2/2g = {B - C} / 12 × M.E.P.
+
+  (3)     M.E.P. = w/2240 V^2/2g 12/{B - C}
+
+Working this out for the 6-in. gun of the range table, taking L = 216 in.,
+we find B - C = 6100 cub. in., and the M.E.P. is about 6.4 tons per sq. in.
+
+But the maximum pressure may exceed the mean in the ratio of 2 or 3 to 1,
+as shown in fig. 4, representing graphically the result of Sir Andrew
+Noble's experiments with a 6-in. gun, capable of being lengthened to 100
+calibres or 50 ft. (_Proc. R.S._, June 1894).
+
+On the assumption of uniform pressure up the bore, practically realizable
+in a Zalinski pneumatic dynamite gun, the pressure-curve would be the
+straight line HK of fig. 3 parallel to AM; the energy-curve AQE would be
+another straight line through A; the velocity-curve AvV, of which the
+ordinate v is as the square root of the energy, would be a parabola; and
+the acceleration of the shot being constant, the time-curve AtT will also
+be a similar parabola.
+
+If the pressure falls off uniformly, so that the pressure-curve is a
+straight line PDF sloping downwards and cutting AM in F, then the
+energy-curve will be a parabola curving downwards, and the velocity-curve
+can be represented by an ellipse, or circle with centre F and radius FA;
+while the time-curve will be a sinusoid.
+
+But if the pressure-curve is a straight line F'CP sloping upwards, cutting
+AM behind A in F', the energy-curve will be a parabola curving upwards, and
+the velocity-curve a hyperbola with center at F'.
+
+These theorems may prove useful in preliminary calculations where the
+pressure-curve is nearly straight; but, in the absence of any observable
+law, the area of the pressure-curve must be read off by a planimeter, or
+calculated by Simpson's rule, as an indicator diagram.
+
+To measure the pressure experimentally in the bore of a gun, the
+crusher-gauge is used as shown in fig. 6, nearly full size; it records the
+maximum pressure by the compression of a copper cylinder in its interior;
+it may be placed in the powder-chamber, or fastened in the base of the
+shot.
+
+In Sir Andrew Noble's researches a number of plugs were inserted in the
+side of the experimental gun, reaching to the bore and carrying
+crusher-gauges, and also chronographic appliances which registered the
+passage of the shot in the same manner as the electric screens in
+Bashforth's experiments; thence the velocity and energy of the shot was
+inferred, to serve as an independent control of the crusher-gauge records
+(figs. 4 and 5).
+
+As a preliminary step to the determination of the pressure in the bore of a
+gun, it is desirable to measure the pressure obtained by exploding a charge
+of powder in a closed vessel, varying the weight of the charge and thereby
+the density of the powder-gas.
+
+The earliest experiments of this nature are due to Benjamin Robins in 1743
+and Count Rumford in 1792; and their method has been revived by Dr Kellner,
+War Department chemist, who employed the steel spheres of bicycle
+ball-bearings as safety-valves, loaded to register the pressure at which
+the powder-gas will blow off, and thereby check the indications of the
+crusher-gauge (_Proc. R.S._, March 1895).
+
+Chevalier d'Arcy, 1760. also experimented on the pressure of powder and the
+velocity of the bullet in a musket barrel; this he accomplished by
+shortening the barrel successively, and measuring the velocity obtained by
+the ballistic pendulum; thus reversing Noble's procedure of gradually
+lengthening the gun.
+
+But the most modern results employed with gunpowder are based on the
+experiments of Noble and Abel (_Phil. Trans._, 1875-1880-1892-1894 and
+following years).
+
+[Illustration: FIG. 6.]
+
+A charge of powder, or other explosive, of varying weight P lb, is fired in
+an explosion-chamber (fig. 7, scale about 1/5) of which the volume C, cub.
+in., is known accurately, and the pressure p, tons per sq. in., was
+recorded by a crusher-gauge (fig. 6).
+
+[v.03 p.0277] The result is plotted in figs. 8 and 9, in a curve showing
+the relation between p and D the _gravimetric density_, which is the
+specific gravity of the P lb of powder when filling the volume C, cub. in.,
+in a state of gas; or between p and v, the reciprocal of D, which may be
+called the _gravimetric volume_ (G.V.), being the ratio of the volume of
+the gas to the volume of an equal weight of water.
+
+[Illustration: FIG. 7. Explosion Vessel.]
+
+The results are also embodied in the following Table;--
+
+                         TABLE 1.
+                         Pressure in Tons per sq. in.
+      G.D.       G.V.     Pebble Powder.   Cordite.
+      0.05      20.00         0.855          3.00
+         6      16.66         1.00           3.80
+         8      12.50         1.36           5.40
+      0.10      10.00         1.76           7.10
+        12       8.33         2.06           8.70
+        14       7.14         2.53          10.50
+        15       6.66         2.73          11.36
+        16       6.25         2.96          12.30
+        18       5.55         3.33          14.20
+        20       5.00         3.77          16.00
+        22       4.54         4.26          17.90
+        24       4.17         4.66          19.80
+        25       4.00         4.88          20.63
+        26       3.84         5.10          21.75
+        30       3.33         6.07          26.00
+        35       2.85         7.35          31.00
+        40       2.50         8.73          36.53
+        45       2.22        10.23          42.20
+        50       2.00        11.25          48.66
+        55       1.81        13.62          55.86
+        60       1.66        15.55          63.33
+
+The term _gravimetric density_ (G.D.) is peculiar to artillerists; it is
+required to distinguish between the specific gravity (S.G.) of the powder
+filling a given volume in a state of gas, and the specific gravity of the
+separate solid grain or cord of powder.
+
+Thus, for instance, a lump of solid lead of given S.G., when formed into a
+charge of lead shot composed of equal spherules closely packed, will have a
+G.D. such that
+
+  (4)     G.D. of charge of lead shot
+          --------------------------- = 1/6 [pi] [sqrt]2 = 0.7403;
+           S.G. of lump of solid lead
+
+while in the case of a bundle of cylindrical sticks of cordite,
+
+  (5)     G.D. of charge of cordite
+          -------------------------- = 1/6 [pi] [sqrt]3 = 0.9067.
+           S.G. of stick of cordite
+
+At the standard temperature of 62° F. the volume of the gallon of 10 lb of
+water is 277.3 cub. in.; or otherwise, 1 cub. ft. or 1728 cub. in. of water
+at this temperature weighs 62.35 lb, and therefore 1 lb of water bulks 1728
+÷ 62.35 = 27.73 cub. in.
+
+[Illustration: FIG. 8.]
+
+Thus if a charge of P lb of powder is placed in a chamber of volume C cub.
+in., the
+
+  (6)     G.D.= 27.73P/C,  G.V. = C/27.73 P.
+
+Sometimes the factor 27.68 is employed, corresponding to a density of water
+of about 62.4 lb per cub. ft., and a temperature 12° C., or 54° F.
+
+With metric units, measuring P in kg., and C in litres, the G.D. = P/C,
+G.V. = C/P, no factor being required.
+
+From the Table I., or by quadrature of the curve in fig. 9, the work E in
+foot-tons realized by the expansion of 1 lb of the powder from one
+gravimetric volume to another is inferred; for if the average pressure is p
+tons per sq. in., while the gravimetric volume changes from v - ½[Delta]v
+to v + ½[Delta]v, a change of volume of 27.73[Delta]v cub. in., the work
+done is 27.73p[Delta]v inch-tons, or
+
+  (7)     [Delta]E = 2.31 p[Delta]v foot-tons;
+
+and the differences [Delta]E being calculated from the observed values of
+p, a summation, as in the ballistic tables, would give E in a tabular form,
+and conversely from a table of E in terms of v, we can infer the value of
+p.
+
+On drawing off a little of the gas from the explosion vessel it was found
+that a gramme of cordite-gas at 0° C. and standard atmospheric pressure
+occupied 700 ccs., while the same gas compressed into 5 ccs. at the
+temperature of explosion had a pressure of 16 tons per sq. in., or 16 ×
+2240 / 14.7 = 2440 atmospheres, of 14.7 lb per sq. in.; one ton per sq. in.
+being in round numbers 150 atmospheres.
+
+The absolute centigrade temperature T is thence inferred from the gas
+equation
+
+  (8)     R = pv / T = p_0v_0/273,
+
+which, with p = 2440, v = 5, p_0 = 1, v_0 = 700, makes T = 4758, a
+temperature of 4485° C. or 8105° F.
+
+[Illustration: FIG. 9.]
+
+In the heading of the 6-in. range table we find the description of the
+charge.
+
+Charge: weight 13 lb 4 oz.; gravimetric density 55.01/0.504; nature,
+cordite, size 30.
+
+So that P = 13.25, the G.D. = 0.504, the upper figure 55.01 denoting the
+specific volume of the charge measured in cubic inches per lb, filling the
+chamber in a state of gas, the product of the two numbers 55.01 and 0.504
+being 27.73; and the chamber capacity C = 13.25 × 55.01 = 730 cub. in.,
+equivalent to 25.8 in. or 2.15 ft. length of bore, now called the
+equivalent length of the chamber (E.L.C.).
+
+If the shot was not free to move, the closed chamber pressure due to the
+explosion of the charge at this G.D. (= 0.5) would be nearly 49 tons per
+sq. in., much too great to be safe.
+
+But the shot advances during the combustion of the cordite, and the chief
+problem in interior ballistics is to adjust the G.D. of the charge to the
+weight of the shot so that the advance of the shot during the combustion of
+the charge should prevent the maximum pressure from exceeding a safe limit,
+as shown by the maximum ordinate of the pressure curve CPD in fig. 3.
+
+Suppose this limit is fixed at 16 tons per sq. in., corresponding in Table
+1. to a G.D., 0.2; the powder-gas will now occupy a volume b = 3/2 × C =
+1825 cub. in., corresponding to an advance of the shot 3/2 × 2.15 = 3.225
+ft.
+
+Assuming an average pressure of 8 tons per sq. in., the shot will have
+acquired energy 8 × ¼[pi]d^2 × 3.225 = 730 foot-tons, and a velocity about
+v = 1020 f/s, so that the time over the 3.225 ft. at an average velocity
+510 f/s is about 0.0063 sec.
+
+Comparing this time with the experimental value of the time occupied by the
+cordite in burning, a start is made for a fresh estimate and a closer
+approximation.
+
+Assuming, however, that the agreement is close enough for practical
+requirement, the combustion of the cordite may be considered complete at
+this stage P, and in the subsequent expansion it is assumed that the gas
+obeys an adiabatic law in which the pressure varies inversely as some
+m^{th} power of the volume.
+
+The work done in expanding to infinity from p tons per sq. in. [v.03
+p.0278] at volume b cub. in. is then pb/(m - 1) inch-tons, or to any volume
+B cub. in. is
+
+  (9)     pb/{m - 1}[1 - (b/B)^{m-1}]
+
+It is found experimentally that m = 1.2 is a good average value to take for
+cordite; so now supposing the combustion of the charge of the 6-in. is
+complete in 0.0063 sec., when p = 16 tons per sq. in., b = 1825 cub. in.,
+and that the gas expands adiabatically up to the muzzle, where
+
+  (10)     B/b = (216 + 25.8)/(2.5 × 25.8) = 3.75
+
+we find the work realized by expansion is 2826 foot-tons, sufficient to
+increase the velocity from 1020 to 2250 f/s at the muzzle.
+
+This muzzle velocity is about 5% greater than the 2150 f/s of the range
+table, so on these considerations we may suppose about 10% of work is lost
+by friction in the bore: this is expressed by saying that the _factor of
+effect_ is f = 0.9.
+
+The experimental determination of the time of burning under the influence
+of the varying pressure and density, and the size of the grain, is thus of
+great practical importance, as thereby it is possible to estimate close
+limits to the maximum pressure that will be reached in the bore of a gun,
+and to design the chamber so that the G.D. of the charge may be suitable
+for the weight and acceleration of the shot. Empirical formulas based on
+practical experience are employed for an approximation to the result.
+
+A great change has come over interior ballistics in recent years, as the
+old black gunpowder has been abandoned in artillery after holding the field
+for six hundred years. It is replaced by modern explosives such as those
+indicated on fig. 4, capable of giving off a very much larger volume of gas
+at a greater temperature and pressure, more than threefold as seen on fig.
+8, so that the charge may be reduced in proportion, and possessing the
+military advantage of being nearly smokeless. (See EXPLOSIVES.)
+
+The explosive cordite is adopted in the British service; it derives the
+name from its appearance as cord in short lengths, the composition being
+squeezed in a viscous state through the hole in a die, and the cordite is
+designated in size by the number of hundredths of an inch in the diameter
+of the hole. Thus the cordite, size 30, of the range table has been
+squeezed through a hole 0.30 in. diameter.
+
+The thermochemical properties of the constituents of an explosive will
+assign an upper limit to the volume, temperature and pressure of the gas
+produced by the combustion; but much experiment is required in addition.
+Sir Andrew Noble has published some of his results in the _Phil. Trans._,
+1905-1906 and following years.
+
+AUTHORITIES.--Tartaglia, _Nova Scientia_ (1537); Galileo (1638); Robins,
+_New Principles of Gunnery_ (1743); Euler (trans. by Hugh Brown), _The True
+Principles of Gunnery_ (1777); Didion, Hélie, Hugoniot, Vallier, Baills,
+&c., _Balistique_ (French); Siacci, _Balistica_ (Italian); Mayevski,
+Zabudski, _Balistique_ (Russian); La Llave, Ollero, Mata, &c., _Balistica_
+(Spanish); Bashforth, _The Motion of Projectiles_ (1872); _The Bashforth
+Chronograph_ (1890); Ingalls, _Exterior and Interior Ballistics, Handbook
+of Problems in Direct and Indirect Fire_; Bruff, _Ordnance and Gunnery_;
+Cranz, _Compendium der Ballistik_ (1898); _The Official Text-Book of
+Gunnery_ (1902); Charbonnier, _Balistique_ (1905); Lissak, _Ordnance and
+Gunnery_ (1907).
+
+(A. G. G.)

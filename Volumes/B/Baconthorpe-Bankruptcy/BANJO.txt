@@ -1,0 +1,64 @@
+BANJO, a musical instrument with strings plucked by fingers or plectrum,
+popular among the American negroes and introduced by them into Europe. The
+word is either a corruption of "bandore" or "pandura" (_q.v._), an
+instrument of the guitar type, or is derived from "bania," the name of a
+similar primitive Senegambian instrument.
+
+The banjo consists of a body composed of a single piece of vellum stretched
+like a drum-head over a wooden or metal hoop to ensure the requisite degree
+of resonance; the parchment may be tightened or slackened by means of a
+series of screws disposed round the circumference of the hoop. Attached to
+the body, which has no back, is a long neck, terminating in a flat head
+acting as a peg-box and bent back slightly at an obtuse angle from the
+neck. There are five, six or nine strings to the banjo; they are fastened
+to a tail-piece as in the violin, pass over a low bridge, on the body, and
+are strained over the nut or ridge at the end of the neck, where they are
+threaded through holes and wound round the tuning-pegs fixed in the back of
+the head in Oriental fashion, as in the lute (_q.v._). The strings are
+stopped [v.03 p.0318] by the pressure of the fingers against the
+finger-board which lies over the front of the neck; the correct positions
+for the formation of the intervals of the scale are indicated in some
+banjos by frets consisting of metal or wooden bands inlaid in the
+finger-board. The vibrating length of the strings from bridge to nut is 24
+in. for all except the highest in pitch, known as the "chanterelle,"
+"melody" or "thumb string," which is only 16 in. long; its tuning peg is
+inserted half-way up the neck. The chanterelle is not, as in other stringed
+instruments, in its position as the highest in pitch, but is placed next
+the lowest string for convenience in playing it with the thumb. In the
+tables of accordance here given, the chanterelle is indicated by a X. The
+five-stringed banjo is tuned either
+
+[Notation: 5:E5X 4:A3 3:E4 2:G4# 1:B4.] or [Notation: 5:D5X 4:G3 3:D4 2:F4#
+1:A4.]
+
+The six-stringed is tuned [Notation: 6:G5X 5:G3 4:D4 3:G4 2:B4 1:D5.]
+
+The nine-stringed banjo has three thumb strings thus [Notation: 9:F5#X
+8:G5X 7:A5X 6:G3 5:C4 4:D4 3:G4 2:B4 1:D5.]
+
+The G clef is used in notation, but the notes sound an octave lower than
+they are written. The banjo is usually a transposing instrument in the
+sense that, when playing with other instruments, the A corresponds to the C
+of the piano or violin; the key of A major is therefore the first to be
+mastered. The chanterelle does not lie over the finger-board and is always
+played open by the thumb.
+
+The banjo is held so that the neck is even with the left shoulder and the
+body rests on the right thigh; the front of the instrument is held inclined
+at an angle, allowing the performer to see all the strings. When played as
+a solo instrument, a plectrum may be used with good effect to produce rapid
+scale and arpeggio passages, or to produce the tremolo or sustained notes
+as on the mandoline (_q.v._). The best results are obtained by means of a
+tortoise-shell plectrum about the size of a shilling,[1] having the
+contact-edges highly polished, bevelled and terminating in a point. The
+tone of the banjo is louder and harder than that of the guitar. Chords of
+two, three and four notes can be played on it.
+
+The banjo or bania of the African negro having grass strings is still in
+use on the coast of Guinea. The banjo was made known in England through
+companies of coloured minstrels from the United States, one of which came
+over to London as early as 1846.
+
+(K. S.)
+
+[1] See A. H. Nassau-Kennedy, I.S.M., _Banjo-Plectring_.

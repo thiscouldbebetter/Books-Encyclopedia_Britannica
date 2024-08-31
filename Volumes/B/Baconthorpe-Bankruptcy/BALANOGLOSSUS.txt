@@ -1,0 +1,331 @@
+BALANOGLOSSUS, the general name given to certain peculiar, opaque,
+worm-like animals which live an obscure life under stones, and burrow in
+the sand from between tide-marks down to the abyssal regions of the sea.
+Their colour is usually some tone of yellow with dashes of red, brown and
+green, and they frequently emit a pungent odour. The name has reference to
+the tongue-shaped muscular proboscis by which the animal works its way
+through the sand. The proboscis is not the only organ of locomotion, being
+assisted by the succeeding segment of the body, the buccal segment or
+collar. By the waves of contraction executed by the proboscis accompanied
+by inflation of the collar, progression is effected, sometimes with
+marvellous rapidity. The third body region or trunk may attain a great
+length, one or two feet, or even more, and is also muscular, but the
+truncal muscles are of subordinate importance in locomotion, serving
+principally to promote the peristaltic contractions of the body by which
+the food is carried through the gut. The function of alimentation is
+closely associated with that of locomotion, somewhat as in the burrowing
+earthworm; in the excavation of its burrows the sand is passed through the
+body, and any nutrient matter that may adhere to it is extracted during its
+passage through the intestine, the exhausted sand being finally ejected
+through the vent at the orifice of the burrow and appearing at low tide as
+a worm casting. In accordance with this manner of feeding, the mouth is
+kept permanently open and prevented from collapsing by a pair of skeletal
+cornua belonging to a sustentacular apparatus (the nuchal skeleton), the
+body of which lies within the narrow neck of the proboscis; the latter is
+inserted into the collar and surrounded by the anterior free flap of this
+segment of the body.
+
+When first discovered by J. F. Eschscholtz at the Marshall Islands in 1825,
+_Balanoglossus_ was described as a worm-like animal belonging to the
+Echinoderm order of Holothurians or sea-cucumbers. In 1865 Kowalevsky
+discovered that the organs of respiration consist of numerous pairs of
+gill-slits leading from the digestive canal through the thickness of the
+body-wall to the exterior. On this account the animal was subsequently
+placed by Gegenbaur in a special class of Vermes, the Enteropneusta. In
+1883-1886 Bateson showed by his embryological researches that the
+Enteropneusta exhibit chordate (vertebrate) affinities in respect of the
+coelomic, skeletal and nervous systems as well as in regard to the
+respiratory system, and, further, that the gill-slits are formed upon a
+plan similar to that of the gill-slits of _Amphioxus_, being subdivided by
+tongue-bars which depend from the dorsal borders of the slits.
+
+_Coelom and Pore-canals_.--In correspondence with the tri-regional
+differentiation of the body in its external configuration, the coelom
+(body-cavity, perivisceral cavity) is divided into three portions
+completely separated from one another by septa:--(1) proboscis-coelom, or
+first body-cavity; (2) the collar-coelom, or second body-cavity; (3)
+truncal coelom, or third body-cavity. Of these divisions of the coelom the
+first two communicate with the exterior by means of a pair of ciliated
+pore-canals placed at the posterior end of their respective segments. The
+proboscis-pores are highly variable, and frequently only one is present,
+that on the left side; sometimes the pore-canals of the proboscis unite to
+open by a common median orifice, and sometimes their communication with the
+proboscis-coelom appears to be occluded, and finally the pore-canals may be
+quite vestigial. The collar-pores are remarkable for their constancy; this
+is probably owing co the fact that they have become adapted to a special
+function, the inhalation of water to render the collar turgid during
+progression. There are reasons for supposing that the truncal coelom was at
+one time provided with pore-canals, but supposed vestiges of these
+structures have only been described for one genus, _Spengelia_, in which
+they lie near the anterior end of the truncal coelom.
+
+_Enteron_.--Not only is the coelom thus subdivided, but the enteron (gut,
+alimentary canal, digestive tube) itself shows indications of three main
+subsections in continuity with one another:--(1) proboscis-gut
+(_Eicheldarm_, stomochord, _vide infra_); (2) collar-gut (buccal cavity,
+throat); (3) truncal gut extending from the collar to the vent.
+
+_Stomochord_.--The proboscis-gut occurs as an outgrowth from the anterior
+dorsal wall of the collar-gut, and extends forward into the basal
+(posterior) region of the proboscis, through the neck into the
+proboscis-coelom, ending blindly in front. Although an integral portion of
+the gut, it has ceased to assist in alimentation, its epithelium undergoes
+vacuolar differentiation and hypertrophy, and its lumen becomes more or
+less vestigial. It has, in fact, become metamorphosed into a resistant
+supporting structure resembling in some respects the notochord of the true
+Chordata, but probably not directly comparable with the latter structure,
+being related to it solely by way of substitution. On account of the
+presence and mode of origin (from the gut-wall) of this organ Bateson
+introduced the term hemichorda as a phyletic name for the class
+Enteropneusta. As the proboscis-gut appears to have undoubtedly skeletal
+properties, and as it also has topographical relations with the mouth, it
+has been designated in English by the non-committal term stomochord. It is
+not a simple diverticulum of the collar-gut, but a complex structure
+possessing paired lateral pouches and a ventral convexity (ventral caecum)
+which rests in a concavity at the front end of the body of the nuchal
+skeleton (fig. 3). In some species (_Spengelidae_) there is a long
+capillary vermiform extension of the stomochord in front. The nuchal
+skeleton is a non-cellular laminated thickening of basement-membrane
+underlying that portion of the stomochord which lies between the
+above-mentioned pouches and the orifice into the throat. At the point where
+the stomochord opens into the buccal cavity the nuchal skeleton bifurcates,
+and the two cornua thus produced pass obliquely backwards and downwards
+embedded in the wall of the throat, often giving rise to projecting ridges
+that bound a dorsal groove of the collar-gut which is in continuity with
+the wall of the stomochord (fig. 3).
+
+_Nervous System_.--At the base of the epidermis (which is in general
+ciliated) there is over the entire surface of the body a layer of
+nerve-fibres, occurring immediately outside the basement-membrane which
+separates the epidermis from the subjacent musculature. The nervous system
+is thus essentially epidermal in position and diffuse in distribution; but
+an interesting concentration of nerve-cells and fibres has taken place in
+the collar-region, where a medullary tube, closed in from the outside,
+opens in front and behind by anterior and posterior neuropores. This is the
+collar nerve-tube. Sometimes the central canal is wide and uninterrupted
+between the two neuropores; in other cases it becomes broken up into a
+large number of small closed medullary cavities, and in others again it is
+obsolete. In one family, the _Ptychoderidae_, the medullary tube of the
+collar is connected at intermediate points with the epidermis by means of a
+variable number of unpaired outgrowths from its dorsal wall, generally
+containing an axial lumen derived from and in continuity with the central
+canal. These hollow roots terminate blindly in the dorsal epidermis of the
+collar, and place the nervous layer of the latter in direct connexion with
+the fibres of the nerve-tube. The exact significance of these roots is a
+matter for speculation, but it seems possible that they are epiphysial
+structures remotely comparable with the epiphysial (pineal) complex of the
+craniate vertebrates. In accordance with this view there would be also some
+probability in favour of regarding the collar nerve-tube of the
+Enteropneusta as the equivalent of the cerebral vesicle only of _Amphioxus_
+and the Ascidian tadpole, and also of the primary fore-brain of
+vertebrates.
+
+Special thickenings of the diffuse nervous layer of the epidermis occur in
+certain regions and along certain lines. In the neck of the proboscis the
+fibrous layer is greatly thickened, and other intensifications of this
+layer occur in the dorsal and ventral middle lines of the trunk extending
+to the posterior end of the body. The dorsal epidermal nerve-tract is
+continued in front into the ventral wall of the collar nerve-tube, and at
+the point of junction there is a circular commissural thickening following
+the posterior rim of the collar and affording a special connexion between
+the dorsal and ventral nerve-tracts. From the ventral surface of the collar
+nerve-tube numerous motor fibres may be seen passing to the subjacent
+musculature. These fibres are not aggregated into roots.
+
+[v.03 p.0238] [Illustration: FIG. 2.--Structure of branchial region.
+
+_bc_, coelom.
+_tb_, tongue-bars.
+_ds_, mesentery.
+_pr_, ridge.
+_vv_, vessel.
+_gp_, gill-pore.
+_dn_, dorsal nerve.
+_dv_, vessel.
+_oe_, oesophagus.
+_vs_, mesentery.
+_vn_, ventral nerve. ]
+
+_Gill-slits_.--The possession of gill-slits is as interesting a feature in
+the organization of _Balanoglossus_ as is the presence of tracheae in
+_Peripatus_. These gill-slits occupy a variable extent of the anterior
+portion of the trunk, commencing immediately behind the collar-trunk
+septum. The branchial bars which constitute the borders of the clefts are
+of two kinds:--(1) Septal bars between two contiguous clefts, corresponding
+to the primary bars in _Amphioxus_; (2) Tongue-bars. The chief resemblances
+between _Balanoglossus_ and _Amphioxus_ in respect of the gill-slits may be
+stated briefly as follows:--([alpha]) the presence of two kinds of
+branchial bars in all species and also of small crossbars (synapticula) in
+many species; ([beta]) numerous gill-slits, from forty to more than a
+hundred pairs; ([gamma]) the addition of new gill-slits by fresh
+perforation at the posterior end of the pharynx throughout life. The chief
+differences are, that (a) the tongue-bar is the essential organ of the
+gill-slit in _Balanoglossus_, and exceeds the septal bars in bulk, while in
+_Amphioxus_ the reverse is the case; (b) the tongue-bar contains a large
+coelomic space in _Balanoglossus_, but is solid in _Amphioxus_; (c) the
+skeletal rods in the tongue-bars of _Balanoglossus_ are double; (d) the
+tongue-bar in _Balanoglossus_ does not fuse with the ventral border of the
+cleft, but ends freely below, thus producing a continuous U-shaped cleft.
+The meaning of this singular contrast between the two animals may be that
+we have here an instance of an interesting gradation in evolution. From
+serving primitively as the essential organ of the cleft the tongue-bar may
+have undergone reduction and modification, becoming a secondary bar in
+_Amphioxus_, subordinate to the primary bars in size, vascularity and
+development; finally, in the craniate vertebrates it would then have
+completed its involution, the suggestion having been made that the
+tongue-bars are represented by the thymus-primordia.
+
+_Gill-pouches and Gill-pores_.--Only rarely do the gill-slits open freely
+and directly to the exterior (fig. 1). In most species of _Balanoglossus_
+each gill-slit may be said to open into its own atrial chamber or
+gill-pouch; this in its turn opens to the exterior by a minute gill-pore.
+There are, therefore, as many gill-pouches as there are gill-slits and as
+many gill-pores as pouches. The gill-pores occur on each side of the dorsal
+aspect of the worm in a longitudinal series at the base of a shallow
+groove, the branchial groove. The respiratory current of water is therefore
+conducted to the exterior by different means from that adopted by
+_Amphioxus_, and this difference is so great that the theory which seeks to
+explain it has to postulate radical changes of structure, function and
+topography.
+
+_Excretory and Vascular Systems_.--It seems likely that the coelomic
+pore-canals were originally excretory organs, but in the existing
+Enteropneusta the pore-canals (especially the collar canals) have, as we
+have seen, acquired new functions or become vestigial, and the function of
+excretion is now mainly accomplished by a structure peculiar to the
+Enteropneusta called the glomerulus, a vascular complex placed on either
+side of the anterior portion of the stomochord, projecting into the
+proboscis-coelom. The vascular system itself is quite peculiar, consisting
+of lacunae and channels destitute of endothelium, situated within the
+thickness of the basement-membrane of the body-wall, of the gut-wall and of
+the mesenteries. The blood, which is a non-corpuscular fluid, is propelled
+forwards by the contractile dorsal vessel and collected into the central
+blood-sinus; this lies over the stomochord, and is surrounded on three
+sides by a closed vesicle, with contractile walls, called the pericardium
+(_Herzblase_). By the pulsation of the pericardial vesicle (best observed
+in the larva) the blood is driven into the glomerulus, from which it issues
+by efferent vessels which effect a junction with the ventral
+(sub-intestinal) vessel in the trunk. The vascular system does not readily
+lend itself to morphological comparison between such widely different
+animals as _Balanoglossus_ and _Amphioxus_, and the reader is therefore
+referred to the memoirs cited at the end of this article for further
+details.
+
+[Illustration: FIG. 3.--Structure of anterior end.
+
+a, Arrow from proboscis-cavity (pc) passing to left of pericardium (per)
+and out through proboscis pore-canal.
+b^1, arrow from central canal of neurochord (cnc) passed out through
+anterior neuropore.
+b^2, ditto; through posterior neuropore.
+c, arrow intended to pass from 1st gill-pouch through collar pore-canal
+into collar-coelom (cc).
+cts, posterior limit of collar.
+dv, dorsal vessel passing into central sinus (bs).
+ev, efferent vessel passing into ventral vessel (vv).
+epr, epiphysial tubes.
+st, stomochord.
+vs, ventral septum of proboscis.
+sk, body of nuchal skeleton.
+m, mouth.
+th, throat.
+tb, tongue-bars.
+tc, trunk coelom. ]
+
+_Reproductive System_.--The sexes are separate, and when mature are
+sometimes distinguished by small differences of colour in the genital
+region. Both male and female gonads consist of more or less lobulated
+hollow sacs connected with the epidermis by short ducts. In their
+disposition they are either uniserial, biserial or multiserial. They occur
+in the branchial region, and also extend to a variable distance behind it.
+In exceptional cases they are either confined to the branchial region or
+excluded from it. When they are arranged in uniserial or biserial rows the
+genital ducts open into or near the branchial grooves in the region of the
+pharynx and in a corresponding position in the post-branchial region. An
+important feature is the occurrence in some species (_Ptychoderidae_) of
+paired longitudinal pleural or lateral folds of the body which are mobile,
+and can be approximated at their free edges so as to close in the dorsal
+surface, embracing both the median dorsal nerve-tract and the branchial
+grooves with the gill-pores, so as to form a temporary peri-branchial and
+medullary tube, open behind where the folds cease. On the other hand, they
+can be spread out horizontally so as to expose their own upper side as well
+as the dorsal surface of the body (fig. 1). These folds are called the
+genital pleurae because they contain the bulk of the gonads. Correlated
+with the presence of the genital pleurae there is a pair of vascular folds
+of the basement membrane proceeding from the dorsal wall of the gut in the
+post-branchial portion of the branchio-genital region, and from the dorsal
+angles made by the pleural folds with the body-wall in the pharyngeal
+region; they pass, in their most fully developed condition, to the free
+border of the genital pleurae. These vascular membranes are called the
+lateral septa. Since there are many species which do not possess these
+genital pleurae, the question arises as to whether their presence or their
+absence is the more primitive condition. Without attempting to answer this
+question categorically, it may be pointed out that within the limits of the
+family (_Ptychoderidae_) which is especially characterized by their
+presence there are some species in [v.03 p.0239] which the genital pleurae
+are quite obsolete, and yet lateral septa occur (_e.g._ _Ptychodera
+ruficollis_), seeming to indicate that the pleural folds have in such cases
+been secondarily suppressed.
+
+_Development_.--The development of _Balanoglossus_ takes place according to
+two different schemes, known as direct and indirect, correlated with the
+occurrence in the group of two kinds of ova, large and small. Direct
+development, in which the adult form is achieved without striking
+metamorphosis by a gradual succession of stages, seems to be confined to
+the family _Balanoglossidae_. The remaining two families of Enteropneusta,
+_Ptychoderidae_ and _Spengelidae_, contain species of which probably all
+pursue an indirect course of development, culminating in a metamorphosis by
+which the adult form is attained. In these cases the larva, called
+_Tornaria_, is pelagic and transparent, and possesses a complicated
+ciliated seam, the longitudinal ciliated band, often drawn out into
+convoluted bays and lappets. In addition to this ciliated band the form of
+the _Tornaria_ is quite characteristic and unlike the adult. The Tornaria
+larva offers a certain similarity to larvae of Echinoderms (sea-urchins,
+star-fishes, and sea-cucumbers), and when first discovered was so
+described. It is within the bounds of possibility that _Tornaria_ actually
+does indicate a remote affinity on the part of the Enteropneusta to the
+Echinoderms, not only on account of its external form, but also by reason
+of the possession of a dorsal water-pore communicating with the anterior
+body-cavity. In the direct development Bateson showed that the three
+divisions of the coelom arise as pouches constricted off from the
+archenteron or primitive gut, thus resembling the development of the
+mesoblastic somites of _Amphioxus_. It would appear that while the direct
+development throws light upon the special plan of organization of the
+Enteropneusta, the indirect development affords a clue to their possible
+derivation. However this may be, it is sufficiently remarkable that a small
+and circumscribed group like the Enteropneusta, which presents such a
+comparatively uniform plan of composition and of external form, should
+follow two such diverse methods of development.
+
+_Distribution_.--Some thirty species of _Balanoglossus_ are known,
+distributed among all the principal marine provinces from Greenland to New
+Zealand. The species which occurs in the English Channel is _Ptychodera
+sarniensis_. The _Ptychoderidae_ and _Spengelidae_ are predominantly
+tropical and subtropical, while the _Balanoglossidae_ are predominantly
+arctic and temperate in their distribution. One of the most singular facts
+concerning the geographical distribution of Enteropneusta has recently been
+brought to light by Benham, who found a species of _Balanoglossus_, _sensu
+stricto_, on the coast of New Zealand hardly distinguishable from one
+occurring off Japan. Finally, _Glandiceps abyssicola_ (_Spengelidae_) was
+dredged during the "Challenger" expedition in the Atlantic Ocean off the
+coast of Africa at a depth of 2500 fathoms.
+
+AUTHORITIES.--W. Bateson, "Memoirs on the Direct Development of
+Balanoglossus," _Quart. Journ. Micr. Sci._ (vols. xxiv.-xxvi., 1884-1886);
+W. B. Benham, "Balanoglossus otagoensis, n. sp," _Q. J. M. S._ (vol. xlii.
+p. 497, 1899); Yves Delage and Éd. Hérouard, _Traité de zoologie concrète_
+(t. viii.), "Les Procordés" (1898); S. F. Harmer, "Note on the Name
+Balanoglossus," _Proc. Camb. Phil. Soc._ (x. p. 190, 1900); T. H. Morgan,
+"Memoirs on the Indirect Development of Balanoglossus," _Journ. Morph._
+(vol. v., 1891, and vol. ix., 1894); W. E. Ritter, "_Harrimania maculosa_,
+a new Genus and Species of Enteropneusta from Alaska," Papers from the
+Harriman Alaska Exhibition (ii.), _Proc. Washington Ac._ (ii. p. 111,
+1900); J. W. Spengel, "Die Enteropneusten," _Eighteenth Monograph on the
+Fauna und Flora des Golfes von Neapel_ (1893); A. Willey, "Enteropneusta
+from the South Pacific, with Notes on the West Indian Species," _Zool.
+Results_ (Willey), part iii., 1899; see also _Q. J. M. S._ (vol. xlii. p.
+223, 1899); J. P. Hill, "The Enteropneusta of Funafuti," _Mem. Austral.
+Mus._ (iii., 1897-1898); M. Caullery and F. Mesnil, "Balanoglossus
+Kochleri, n. sp. English Channel," _C. R. Soc. Biol._ lii. p. 256 (1900).
+
+(A. W.*)
