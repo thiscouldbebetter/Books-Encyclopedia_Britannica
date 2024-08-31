@@ -1,0 +1,199 @@
+BARREL-ORGAN (Eng. "grinder-organ," "street-organ," "hand-organ," "Dutch
+organ"; Fr. _orgue de Barbarie_, _orgue d'Allemagne_, _orgue mécanique_,
+_cabinet d'orgue_, _serinette_; Ger. _Drehorgel_, _Leierkasten_; Ital.
+_organetto a manovella_, _organo tedesco_), a small portable organ
+mechanically played by turning a handle. The barrel-organ owes its name to
+the cylinder on which the tunes are pricked out with pins and staples of
+various lengths, set at definite intervals according to the scheme required
+by the music. The function of these pins and staples is to raise balanced
+keys connected by simple mechanism with the valves of the pipes, which are
+thus mechanically opened, admitting the stream of air from the wind-chest.
+The handle attached to the shaft sets the cylinder in slow rotation by
+means of a worm working in a fine-toothed gear on the barrel-head; the same
+motion works the bellows by means of cranks and connecting rods on the
+shaft. The wind is thereby forced into a reservoir, whence it passes into
+the wind-chest, on the sides of which are grouped the pipes. The barrel
+revolves slowly from back to front, each revolution as a rule playing one
+complete tune. A notch-pin in the barrelhead, furnished with as many
+notches as there are tunes, enables the performer to shift the barrel and
+change the tune. The ordinary street barrel-organ had a compass varying
+from 24 to 34 notes, forming a diatonic scale with a few accidentals,
+generally F#, G#, C#. There were usually two stops, one for the open pipes
+of metal, the other for the closed wooden pipes. Barrel-organs [v.03
+p.0433] have been made with as many as three or four cylinders set in a
+circular revolving frame, but these more elaborate instruments were mainly
+used in churches[1] and chapels, a purpose for which they were in great
+demand for playing hymns, chants and voluntaries during the 18th and early
+19th centuries. A barrel-organ was built for Fulham church by Wright, and a
+large instrument with four barrels was constructed by Bishop for
+Northallerton church in 1820.
+
+[Illustration: FIG. 1.--Large stationary barrel-organ worked by hydraulic
+power, from Solomon de Caus, _Les Raisons des forces mouvantes_
+(Frankfort-on-Main, 1615).]
+
+The origin of the barrel-organ is now clearly established, and many will
+doubtless be surprised to find that it must be sought in the Netherlands as
+early as the middle of the 15th century, and that accurate and detailed
+diagrams of every part of the mechanism for a large stationary barrel-organ
+worked by hydraulic power were published in 1615. There are letters patent
+preserved in the archives of Belgium appointing a certain organ-builder,
+Jehan van Steenken, _dit_ Aren, "Master of organs which play of
+themselves"; in the original Flemish _Meester van orgelen spelende bij hen
+selven_.[2] This organ was not a portable one like English street organs,
+but a more imposing instrument, as we learn from other documents giving a
+detailed account of the moneys paid to Maistre Jehan for conveying the
+organs from Bruges to Brussels.[3] Steenken was, by virtue of the same
+letters patent, awarded an annual pension of fifty Rhenish florins in
+consideration of the services rendered to the duke of Burgundy, and on
+condition of his submitting to his liege Philip the Good all other
+instruments he might make in the future. There is nothing singular in the
+early date of this invention, for the 15th century was distinguished for
+the extraordinary impulse which the patronage and appreciation of the dukes
+of Burgundy gave to automatic contrivances of all kinds, carillons, clocks,
+speaking animals and other curiosities due to Flemish genius.[4] No
+contemporary illustration is forthcoming, but in 1615 Solomon de Caus, who
+avowedly owed his inspiration to Hero and Vitruvius, describes a number of
+hydraulic machines, amongst which is the barrel-organ,[5] illustrating his
+description by means of several large drawings and diagrams very carefully
+carried out. De Caus' organ, entitled "Machine par laquelle l'on fera
+sonner un jeu d'orgues par le moyen de l'eau," was built up on a wall a
+foot thick. In the illustrations the barrel is shown to be divided into
+bars, and each bar into eight beats for the quavers. The whole drum is
+pierced with holes at the intersecting points, the pins being movable, so
+that when the performer grew tired of one tune, he could re-arrange the
+pins to form another. The four bellows are set in motion by means of ropes
+strained over pulleys and attached to four cranks on the rotating shaft.
+Solomon de Caus lays no claim to the invention of this organ, but only to
+the adaptation of hydraulic power for revolving the drum; on the contrary,
+in a dissertation on the invention of hydraulic machines and organs, he
+states that there was evidently some difference between the organs of the
+ancients and those of his day, since there is no mention in the classics of
+any musical wheel by means of which tunes could be played in several
+parts--the ancients, indeed, seem to have used their fingers on the
+keyboard to sound their organs. The eighteen keys drawn in one diagram bear
+names, beginning at the left, D, C, B, A, G, F, F#, E, D, C, B, A, G, F, E,
+D, C, B; De Caus states that only half the keyboard is given for want of
+space; the compass, therefore, probably was as shown, with a few
+accidentals. [Notation: D6 to D2.] A barrel-organ, also worked by hydraulic
+power, is somewhat fantastically drawn by Robert Fludd in a work[6]
+published two years after that of Solomon de Caus. This diagram is of no
+value except as a curiosity, for the author betrays a very imperfect
+knowledge of the mechanical principles involved. The piece of music
+actually set on de Caus' barrel-organ, six bars of which can be made
+out,[7] consists of a madrigal, "Chi fara fed' al ciel," by Alessandro
+Striggio, written in organ tablature by Peter Philips, organist of the
+Chapel Royal, Brussels, at the end of the 16th century.[8] A French
+barrel-organ[9] in the collection of the Brussels Conservatoire, bearing
+the date "5 Mars 1797," has the following compass with flats, beginning at
+the left:--
+
+[Illustration]
+
+Other evidences of the origin of the barrel-organ are not wanting. The
+inventory of the organs and other keyboard instruments belonging to the
+duke of Modena, drawn up in 1598, contains two entries of an _organo
+Tedesco_.[10] In England these organs were also known as "Dutch organs,"
+and the name clung to the instrument even in its diminutive form of
+hand-organ of the itinerant musician. In Jedediah Morse's description of
+the [v.03 p.0434] manners and customs of the Netherlands,[11] we find the
+following allusion:--"The diversions of the Dutch differ not much from
+those of the English, who seem to have borrowed from them the neatness of
+their drinking booths, skittle and other grounds ... which form the
+amusements of the middle ranks, not to mention their hand-organs and other
+musical inventions." An illustration of the hand-organ of that period is
+given in Knight's _London_[12] being one of a collection of street views
+published by Dayes in 1789. In a description of Bartholomew Fair, as held
+at the beginning of the 18th century, is a further reference to the Dutch
+origin of the barrel-organ:--"A band at the west-end of the town, well
+known for playing on winter evenings before Spring Garden Coffee House,
+opposite Wigley's great exhibition room, consisted of a double drum, a
+Dutch organ, the tambourine, violin, pipes and the Turkish jingle used in
+the army. This band was generally hired at one of the booths of the
+fair."[13] Mr Thomas Brown relates that one Mr Stephens, a _Poultry_
+author, proposed to parliament for any one that should presume to keep an
+organ in a Publick House to be fined £20 and made incapable of being an
+ale-draper for the future.[14] In 1737 Horace Walpole writes[15]:--"I am
+now in pursuit of getting the finest piece of music that ever was heard; it
+is a thing that will play eight tunes. Handel and all the great musicians
+say that it is beyond anything they can do, and this may be performed by
+the most ignorant person, and when you are weary of those eight tunes, you
+may have them changed for any other that you like." The organ was put in a
+lottery and fetched £1000.
+
+There was a very small barrel-organ in use during the 18th and 19th
+centuries, known as the bird-organ (Fr. _serinette_, _turlutaine_,
+_merline_). One of these now in the collection of the Brussels
+Conservatoire is described by V. C. Mahillon.[16] The instrument is in the
+form of a book, on the back of which is the title "_Le chant des oiseaux,
+Tome vi._" There are ten pewter stopped pipes giving the scale of G with
+the addition of Fb and A two octaves higher. [Notation: G4 A5.] The whole
+instrument measures approximately 8 × 5½ × 2¾ in. and plays eight tunes.
+Mozart wrote an _Andante_[17] for a small barrel-organ.
+
+For an illustration of the construction of the barrel-organ during the 18th
+century, consult P. M. D. J. Engramelle, _La Tonotechnie ou l'art de noter
+les cylindres et tout ce qui est susceptible de notage dans les instruments
+de concerts méchaniques_ (Paris, 1775), with engravings (not in the British
+Museum); and for a clear diagram of the modern instrument the article on
+"Automatic Appliances connected with Music," by Dr. E. J. Hopkins, in
+Grove's _Dictionary of Music and Musicians_, vol. i. (1904), p. 134.
+
+(K. S.)
+
+[1] This practice had evidently not been adopted in Germany, as the
+following instance will show. The use of barrel-organs (_Drehorgeln_) in
+country churches was seriously recommended by an anonymous writer in two
+German papers at the beginning of the 19th century (_Beobachter an der
+Spree_, Berlin, 22nd October 1821, and in _Markische Boten_, Nos. 138 and
+139, 1821). The organist Wilke of Leipzig published in reply an article in
+the _Allgem. musik. Zeitung_ (1822, pp. 777 et seq.) in which "he very
+properly repudiated such a laughable recommendation."
+
+[2] _Archives générales du royaume de Belgique, Chambre des Comptes_, No.
+2, 449 r^o. cf. 52 r^o.; and Edmund van der Straeten, _La Musique aux
+Pays-Bas_, vol. vii. pp. 230-232.
+
+[3] Van der Straeten, _op. cit._ p. 299.
+
+[4] Van der Straeten, _op. cit._ p. 231.
+
+[5] Solomon de Caus, _Les Raisons des forces mouvantes_ (Frankfort, 1615),
+problems 25, 28, 29, 30.
+
+[6] _Historia utriusque cosmi_ (Oppenheim, 1617), t. i., experimentum viii.
+p. 483.
+
+[7] _Op. cit._ problem 29 shows the arrangement of the bellows for the
+wind-supply. In problem 30 is drawn a large section of the barrel, showing
+six bars of music represented by the pin tablature, which can be actually
+deciphered by the help of the keyboard included in the drawing. These
+diagrams are admirably clear and of real technical value. A copy of this
+work is in the library of the British Museum.
+
+[8] See also E. van der Straeten, who has translated Philips' setting into
+modern notation, _op. cit._ t. vi. pp. 506 and 510.
+
+[9] See V. C. Mahillon, _Catalogue descriptif_ (Brussels, 1896), No. 1137,
+p. 371.
+
+[10] _Tedesco_ was applied by Italians to both German and Dutch. Count
+Valdrighi, _Musurgiana I. Serandola, Pianoforte, Salterio_ (Modena, 1879),
+pp. 27 and 28; and E. van der Straeten, _op. cit._ vol. vi. p. 122.
+
+[11] Jedediah Morse _American Geography_, part ii. p. 334 (Boston, Mass.,
+1796).
+
+[12] Knight's _London_, vol. i. p. 144.
+
+[13] Hone's _Every Day Book_, i. p. 1248.
+
+[14] _Collection of all the Dialogues written by Mr Thomas Brown_ (London,
+1704), p. 297.
+
+[15] Hone's _Every Day Book_, ii. pp. 1452-1453.
+
+[16] See _Catalogue descriptif_ (Ghent, 1880), Nos. 461 and 462.
+
+[17] Breitkopf and Härtel's _Critically revised edition of Mozart's Works_,
+series x. no. 10.

@@ -1,0 +1,329 @@
+BASSOON (Fr. _basson_; Ger. _Fagott_; Ital. _fagotto_), a woodwind
+instrument with double reed mouthpiece, a member of the oboe (_q.v._)
+family, of which it is the bass. The German and Italian names of the
+instrument were bestowed from a fancied resemblance to a bundle of sticks,
+the bassoon being the first instrument of the kind to be doubled back upon
+itself; its direct ancestor, the bass pommer, 6 ft. in length, was quite
+straight. The English and French names refer to the pitch of the instrument
+as the bass of the wood-wind.
+
+The bassoon is composed of five pieces, which, when fitted together, form a
+wooden tube about 8 ft. long (93 in.) with a conical bore tapering from a
+diameter of 1¾ in., at the bell, to 3/16 in. at the reed. The tube is
+doubled back upon itself, the shorter joint extending to about two-thirds
+of the length of the longer, whereby the height of the instrument is
+reduced to about 4 ft. The holes are brought into a convenient position for
+the fingers by the device of boring them obliquely through the thickness of
+the wood. The five pieces are:--(1) the bell; (2) the long joint, forming
+the upper part of the instrument when played, although its notes are the
+lowest in pitch; (3) the wing overlapping the long joint and having a
+projecting flap through which are bored three holes; (4) the butt or lower
+end of the instrument (when played) containing the double bore necessitated
+by the abrupt bend of the tube upon itself. Both bores are pierced in one
+block of wood, the prolongation of the double tube being usually stopped by
+a flat oval pad of cork in the older models, whereas the modern instruments
+have instead a U-shaped tube; (5) the crook, a narrow curved metal tube
+about 12 in. long, to which is attached the double reed forming the
+mouthpiece.
+
+The performer holds the instrument in a diagonal position; the lower part
+of the tube (the butt joint) played by the right hand resting against his
+right thigh, and the little bell, turned upwards, pointing over his left
+shoulder; a strap round the neck affords additional support. The notes are
+produced by means of seven holes and 16, 17, or 19 keys. The mechanism and
+fingering are very intricate. Theoretically the whole construction of the
+bassoon is imperfect and arbitrary, important acoustic principles being
+disregarded, but these mechanical defects only enhance its value as an
+artistic musical instrument. The player is obliged to rely very much on his
+ear in order to obtain a correct intonation, and next to the strings no
+instrument gives greater scope to the artist.
+
+The bassoon has an eight foot tone, the compass extending from Bb bass [1]
+[Notation: B1b.] to Ab treble [Notation: A4b.], or in modern instruments by
+means of additional mechanism to C or even F [Notation: C5 or F5.]. These
+extra high notes are from their extreme sweetness called _vox humana_. The
+pitch of the bassoon apparently lies two octaves below that of the oboe,
+since the lowest note of both is B, but in reality the interval is only a
+twelfth, as may be ascertained by comparing their fundamental scales. On
+the bassoon the fundamental scale is that of F maj., obtained by opening
+and closing the holes; the notes downwards from F to Bb [Notation: F2 to
+B1b.] are extra notes obtained by means of interlocking keys on the long
+joint, worked by the left thumb; they have no counterpart on the oboe and
+do not belong to the fundamental scale of the bassoon. The fundamental
+scale of the oboe is that of C, although the compass has been extended a
+tone to Bb [Notation: B3b.]. Therefore the difference in pitch between the
+bassoon and the oboe is a twelfth. In the first [v.03 p.0496] register of
+the bassoon, seven semitones [Notation: B1b to E2.] are obtained, as stated
+above, by means of keys in the long joint and bell; the next eight notes
+(holes and keys) each produce two sounds--the fundamental tone, and, by
+increased pressure of the breath, its harmonic octave. The remaining notes
+are obtained by cross fingering and by overblowing the notes of the
+fundamental scale a twelfth as far as Ab [Notation: A4b.] which forms the
+normal compass. From A to Eb the _vox humana_ notes are produced by the
+help of small harmonic holes opened by means of keys at the top of the wind
+joint; exceptional players obtain, without additional keys, two or more
+higher harmonic notes, which, however, are only used by _virtuosi_. This
+then forms the intricate scheme of fingering for the bassoon, and in order
+to appreciate the efforts of such instrument makers as Carl Almenräder in
+Germany, Triebert and Jancourt in France, Sax in Belgium, Cornelius Ward
+and Morton in England, to introduce improvements based upon acoustic
+principles, it is necessary to understand what these general principles
+are, and why they have been disregarded in the bassoon. In all tubes the
+note given by the vibrating air column is influenced directly by the length
+of the tube, but very little, if at all, by the diameter of the bore. The
+pitch, however, is greatly affected by the diameter of the opening, whether
+lateral or at the bell, through which the vibrating column of air is again
+brought into communication with the outer air. The tube only sounds the
+normal note in proportion to its length, when the diameter of the lateral
+opening is equal to the internal diameter of the tube at the opening. As in
+most of our early wood-wind instruments the holes would in that case have
+been too large to be stopped by the fingers, and key-mechanism was still
+primitive, instrument-makers resorted to the expedient of substituting a
+hole of smaller diameter nearer the mouthpiece for one of greater diameter
+in the position the hole should theoretically occupy. This important
+principle was well understood by the Romans, and perhaps even by the
+ancient Greeks, as is proved by existing specimens of the aulos (_q.v._)
+and by certain passages from the classics.[2]
+
+Another curious acoustic phenomenon bears upon the construction of wind
+instruments, and especially upon the bassoon. When the diameter of the
+lateral opening or bell is smaller than that of the bore, the portion of
+the tube below the hole, which should theoretically be as though
+non-existent, asserts itself, lowering the pitch of the note produced at
+the hole and damping the tone; this is peculiarly noticeable in the A of
+the bassoon [Notation: A2.] whose hole is much too high and too small in
+diameter.[3] To cite an example of the scope of Carl Almenräder's
+improvements in the bassoon, he readjusted the position of the A hole,
+stopped by the third finger of the right hand, boring lower down the tube,
+not one large hole, but two of medium diameter, covered by an open key to
+be closed by the same finger from the accustomed position; one of these A
+holes communicates with the narrower bore in the butt joint, and the other
+with the wider bore. The effect is a perfectly clear, full and accurate
+tone. Almenräder's other alterations were made on the same principle, and
+produced an instrument more perfect mechanically and theoretically than
+Savary's, but lacking some of the characteristics of the bassoon. In
+Germany Almenräder's improvements[4] have been generally adopted and his
+model with 16 keys is followed by most makers, and notably by Heckel of
+Biebrich.[5]
+
+The unwieldy bass pommers of the 15th and 16th centuries led to many
+attempts to produce a more practical bass for the orchestra by doubling
+back the long tube of the instrument. Thus transformed, the pommer became a
+fagotto. The invention of the bassoon or fagotto is ascribed to Afranio, a
+canon of Ferrara, in a work by his nephew, Theseus Ambrosius Albonesius,
+entitled _Introductio in Chaldaicam Linguam ... et descriptio ac Simulacrum
+Phagoti Afranii_ (Pavia, 1539). The illustration of the instrument, showing
+front and back views (p. 179), taken in conjunction with the detailed
+description (pp. 33-38), at once disposes of the suggestion that the
+phagotus of Afranio and the fagotto or bassoon were in any way related; the
+author himself is greatly puzzled as to the etymology of the word. The
+phagotus in fact, resembles nothing so much as the musical curiosity known
+as _flûte-à-bec à colonne_[6], but double and played by bellows, assigned
+by G. Chouquet to the 16th century. This flute consisted of a column, with
+base and capital, both stopped, the vent and the whistle being concealed
+within perforated brass boxes, in the upper and lower parts of the column.
+Afranio's phagotus consisted of two similar twin columns with base and
+capital containing finger-holes and keys; between the columns in front was
+a shorter column for ornament, and at the back of it another still shorter
+whose capital could be lifted, and a sort of bellows or bag-pipe inserted
+by means of which the instrument was sounded. The first instrument was
+made, we are told, by Ravilius of Ferrara, from Afranio's design.[7]
+Mersenne[8], who does not seem to have any difficulty in understanding the
+construction of Afranio's phagotus, does not consider him the inventor of
+the fagotto or bassoon, but of another kind of fagotto which he classes
+with the Neapolitan _sourdeline_, a complicated kind of musette[9] (see
+BAG-PIPE). Afranio's instrument consists, he states, of two _bassons_ as it
+were interconnected by tubes and blown by bellows. As in the _sourdeline_,
+these only speak when the springs (keys) are open. He disposes of Theseus
+Albonesius's fanciful etymology of the name by showing it to be nothing but
+the French word _fagot_, and that it was applied because the instrument
+consists of two or more "flutes," bound or _fagotées_ together. There is no
+evidence that the phagotus contained a reed, which would account for
+Mersenne calling the pipes flutes. Mersenne's statements thus seem to
+uphold the theory that Afranio's phagotus was only a double _flûte à
+colonne_ with bellows. Evidence is at hand that in 1555 a contrabass wind
+instrument was well known as fagotto. In the catalogue of the musical
+instruments belonging to the Flemish band of Marie de Hongrie in Spain, we
+find the following: "Ala dicha prinçesa y al dicho matoto dos ynstrumentos
+de musica contrabaxos, que llaman fagotes, metidos en dos caos redondas
+como pareçe por el dicho entrego."[10] Sigmund Schnitzer[11] of Nuremberg
+(d. 1578), a maker of wind instruments who attained considerable notoriety,
+has been [v.03 p.0497] named as the probable author of the transformation
+of pommer into bassoon.
+
+We learn from an historical work of the 18th century, that he was renowned
+"almost everywhere" as a maker of _fagotte_ of extraordinary size, of
+skilful workmanship and pure intonation, speaking easily. Schnitzer's
+instruments were so highly appreciated not only all over Germany, but also
+in France and Italy, that he was kept continually at work producing
+_fagotte_ for lovers of music.[12]
+
+An earlier chronicler of the artistic celebrities and craftsmen of
+Nuremberg, Johann Neudorfer, writing in 1549,[13] names Sigmund Schnitzer
+merely as _Pfeifenmacher und Stadtpfeifer._ Had he been also noted as an
+inventor of a new form of instrument, the fellow-citizen and contemporary
+chronicler would not have failed to note the fact. If Schnitzer had been
+the first to reduce the great length of the bass pommer by doubling the
+tube back upon itself, he would hardly have been handed down to posterity
+as the clever craftsman _who made fagottos of extraordinary size_;
+Doppelmaier, who chronicles in these eulogistic terms, wrote nearly two
+centuries after the supposed invention of the fagotto, the value of which
+was realized later by retrospection.
+
+[Illustration: FIG. 2.--Old English double curtail (before 1688). (From
+Harl MS 2034 in Brit. Mus.)]
+
+An explanation may perhaps be found in Eisel's statement about the
+_Deutscher Basson_, which he distinguishes from the _Basson_ (our bassoon).
+"The _Deutsche Bassons_, Fagotte or Bombardi, as our German ancestors
+termed them, before music was clothed in Italian and French style, are no
+longer in use" (Eisel wrote in 1738) "and therefore it is unnecessary to
+waste paper on them."[14] This refers, of course, to the _bombard_ or bass
+pommer, the extraordinarily long instruments which Schnitzer made so
+successfully. From this it would seem that our bassoon was not of German
+origin. In the meanwhile we get a clue to the early history of the pommer
+in transition, but we find it under a different name in no way connected
+with _fagotto_. In order to shorten the unwieldy proportions of the tenor
+pommer in C, and to increase its portability, it was constructed out of a
+block of wood of rather more than double the diameter of the pommer, in
+which two bores were cut, communicating at the bottom of the instrument
+which was flat. The bell and the crook containing the double reed
+mouthpiece were side by side at the top. This instrument, which had six
+holes in front and one at the back as well as two keys, was known as the
+_dulceian, dolcian, douçaine_, and also in France as _courtaud_ and in
+England as the _curtail_, _curtal_,[15] _curtoll_, &c., being mentioned in
+1582--"The common bleting musick of ye Drone, Hobius (Hautboy) and
+Curtoll." The next step in the evolution produced the double curtail, a
+converted bass pommer an octave below the single curtail and therefore
+identical in pitch as in construction with the early fagotto in C. The
+instrument is shown in fig. 2, the reproduction of a drawing in the MS. of
+_The Academy of Armoury_ by Randle Holme,[16] written some time before
+1688. At the side of the drawing is the following description: "A double
+curtaile.[17] This is double the bigness of the single, mentioned ch. xvi.
+n. 6" (the MS. begins at ch. xvii. of bk. 3) "and is played 8 notes deeper.
+It is as it were 2 pipes fixed in on(e) thick bass pipe, one much longer
+than the other, from the top of the lower comes a crooked pipe of brass in
+which is fixed a reed, through it the wind passeth to make the instrument
+make a sound. It hath 6 holes on the outside and one on that side next the
+man or back part and 2 brass keys, the highest called double _La sol re_,
+and the other double _B mi_."
+
+We may therefore conclude that the satirical name _fagotto_, presumably
+bestowed in Italy, since the French equivalent _fagot_ was never used for
+the _basson_, was not necessarily applied to the new form of pommer at the
+outset, but in any case before 1555; that the very term _Phagoto
+d'Afranio_, by which the instrument was known during its short fabulous
+existence, with its pretended Greek etymology, presupposes the
+pre-existence in Italy of another _fagotto_ with which Afranio was
+acquainted, perhaps imperfectly. Afranio's was the age of ingenious
+mechanical devices applied to musical instruments, many of which, like
+Afranio's, being mere freaks, did not survive the inventor. A document
+selected from the valuable archives published by Edm. van der Straeten[18]
+suggests a satisfactory clue. In 1426 Louis Willay, a musical instrument
+maker of Bruges, sold to Philippe le Bon a triple set of wood-wind
+instruments, _i.e._ "4 bombardes, 4 douçaines and 4 flûtes," to be sent as
+a gift to Nicolas III., marquis of Ferrara. The new instrument, the
+douçaine, we may imagine, by its unusual appearance provoked the satirical
+wit of some courtier, and was henceforth known as _fagotto_. Just a century
+later Ravilius of Ferrara made Afranio's first phagotus from the inventor's
+design.
+
+The bassoon has been a favourite with all the great masters, excepting
+Handel. Beethoven uses the bassoon largely in his symphonies, writing
+everywhere for it independent parts of great beauty and originality. Bach,
+in his mass in B min., has parts for two bassoons. Mozart wrote a concerto
+in Bb for bassoon, with orchestra (Kochel, No. 191). Weber has also written
+a concerto for bassoon in F (op. 75), scored for full orchestra.
+
+See also Etienne Ozi, _Nouvelle Methode du Bassoon_ (Paris, 1788 and 1800);
+J. B. J. Willent-Bordogny, _Gran Methodo completo per il Fagotto_ (Milan,
+1844), with illustrations of early bassoons (English edition, London, J. R.
+Lafleur & Son); Joseph Fröhlich, _Vollständige Musikschule für alle beym
+Orchester gebrauchliche wichtigere Instrumente_ (many practical
+illustrations) (Cologne, Bonn, 1811); article "Bassoon," by W. H. Stone and
+D. J. Blaikley in Grove's _Dictionary of Music and Musicians_ (2nd ed.);
+article "Fagott" in Mendel's _Musikalisches Conversations-Lexikon_; for the
+history of the instrument, and of its prototypes, see OBOE and BOMBARD.
+
+(K. S.)
+
+[1] At Wagner's instigation, the wind-instrument-maker, W. Heckel of
+Biebrich-am-Rhein, made bassoons with an extra key, extending the compass
+downwards to A.
+
+[2] Macrobius in _Somn. Scip._ lib. ii. cap. 4. 5.
+
+[3] Gottfried Weber, "Verbesserungen des Fagotts," in _Cacilia_ (Mainz,
+1825), vol. ii. p. 123.
+
+[4] See _Traité sur le perfectionnement du basson, avec 2 tableaux, par
+Charles Almenräder_ (Mayence, Schott), and also the above mentioned article
+by Gottfried Weber in _Cacilia_, whose explanations are clearer than those
+of the inventor.
+
+[5] For a description of the modern instrument see Victor Charles Mahillon,
+_Catalogue descriptif et analytique du musée instrumental du Conservatoire
+Royal de Musique_ (Bruxelles, 1896), vol. ii. pp. 275-276, No. 999.
+
+[6] As far as is known only three of these curious instruments are in
+existence; two in the museum of the Conservatoire, Paris, and one in
+Brussels; all three bear a trefoil as maker's mark; the smallest, in F, is
+reproduced in the _Catalogue of the Musical Instruments exhibited at the
+Royal Military Exhibition, London_, 1890, by Capt. C. R. Day (London,
+1891), pl. iv. F. It is also described (without illustration) in Mahillon's
+_Catalogue_, p. 201, No. 189. The two flutes in Paris, measuring 73 cm. and
+94 cm., are described by Gustave Chouquet, _Le Musée du Conservatoire
+National de Musique--Catalogue descriptif et raisonné_ (Paris, 1884), Nos.
+409 and 410, p. 106.
+
+[7] An Italian translation of the description is given by Count L. F.
+Valdrighi in _Musurgiana_, No. 4 (Milano, 1881), "Il Phagotus di Afranio,"
+p. 40 et seq. (without illustration). An illustration of the phagotus is
+given by W. J. von Wasielewski in _Gesch. d. Instrumentalmusik im XVI.
+Jahrh._ (Berlin, 1878), pl. v. and vi., text p. 74.
+
+[8] See _L'Harmonie universelle_ (Paris, 1636), part ii. p. 305.
+
+[9] Ibid., illustrated and described, bk. v. p. 293.
+
+[10] See Edm. van der Straeten, _Hist. de la musique aux Pays-Bas_, vol.
+vii. pp. 433, 436, 448.
+
+[11] J. J. Quantz, Frederick the Great's flute-master, gives France the
+credit of transforming the bombard (pommer) into the bassoon, and the
+schalmey into oboe, see _Versuch einer Anweisung die Flote traversière zu
+spielen_ (Berlin, 1752), p. 24 and again p. 241, § 6.
+
+[12] J. G. Doppelmaier, _Historische Nachricht von den Nürnbergischen
+Mathematicis und Künstlern_ (Nürnberg, 1730), p. 293.
+
+[13] See "Nachrichten von Künstlern und Werkleuten Nürnbergs aus dem Jahre
+1549," in R. Eitelberger von Edelberg's _Quellenschriften für
+Kunstgeschichte und Kunsttechnik des Mittelalters_ (Vienna. 1875), vols.
+viii.-x.
+
+[14] See J. J. Eisel, _Musicus autodidactus oder der sich selbst
+informierende Musicus_ (Erfurt, 1738), pp. 104 and 100, and also J.
+Mattheson, _Das neu-eröffnete Orchester_ (Hamburg, 1713), "Basson," from
+whom Eisel borrowed.
+
+[15] See the _New English Dictionary_, and Bateman upon Bartholinus, 423,
+1, margin.
+
+[16] British Museum, Harl. MS. 2034, fol. 207_b_, a reference communicated
+by Augustus Hughes-Hughes from his valuable appendix to part iii.
+(Instrumental Music and Works on Music) of a _Catalogue of MS. Music in the
+British Museum_ (London, 1908-1909). The Appendix contains a list of
+typical musical instruments represented in illuminated MSS., or described
+in other MSS. in the British Museum, with a brief description and full
+references.
+
+[17] Compare Randle Holme's _double curtail_ with the dolcian in C, pl. vi.
+H. of Capt. C. R. Day's catalogue, and with a dolcian or single curtail by
+J. C. Denner in Paul de Wit's _Katalog des Musikhistorischen Museums von
+Paul de Wit_ (Leipzig, 1903), p. 127, No. 380, and illust. p. 121
+(Collection now transferred to Cologne). Consult also Mersenne, _op. cit_.,
+and Michael Praetorius, _Syntagma Musicum_ (Wolfenbüttel, 1618), both of
+whom describe and figure these forms of early bassoons.
+
+[18] _Op. cit_. vol. vii. p. 38.

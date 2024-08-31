@@ -1,0 +1,94 @@
+BASSET HORN (Fr. _Cor de Basset_, or _Cor de Bassette_; Ger. _Bassethorn_,
+_Basshorn_; Ital. _Corno di Bassetto_), a wood-wind instrument, not a
+"horn," member of the clarinet family, of which it is the tenor. The basset
+horn consists of a nearly cylindrical tube of wood (generally cocus or
+box-wood), having a cylindrical bore and terminating in a metal bell wider
+than that of the clarinet. For convenience in reaching the keys and holes,
+the modern instrument is usually bent or curved either near the mouthpiece
+or at the bell, which is turned upwards. The older models were bent in the
+middle at an obtuse angle, and had at the bottom of the lower joint, near
+the bell, a wooden block, inside which the bore was reflexed, and bent down
+upon itself.[1] The basset horn has the same fingering as the clarinet, and
+corresponds to the tenor of that instrument, being pitched a fifth below
+the clarinet in C. The alto clarinet in Eb is often substituted for the
+basset horn, especially in military bands, but the instruments differ in
+three particulars:--(1) The basset horn has a metal bell instead of the
+pear-shaped contracted bell of the alto clarinet. (2) The bore of the
+basset horn is wider than that of the alto clarinet in Eb, or of the tenor
+clarinet in F. (3) The tube of the basset horn is longer than that of the
+clarinet, and contains four additional long keys, worked by the thumb of
+the right hand, which in the clarinet is only used to steady the
+instrument. These keys give the basset horn an extended compass of two
+tones downwards to F [Notation: F2.] whereas the Eb clarinet only extends
+to G [Notation: G2.] and the F clarinet to A [Notation: A2.] (actual
+sounds). This brings the compass of the basset horn to a range of four
+octaves from [Notation: C3 to C7.], actual sounds [Notation: F2 to F6.].
+
+[v.03 p.0494] [Illustration: FIG. 1. (From photographs lent by M. Victor
+Mahillon.)]
+
+Like the clarinet, the basset horn is a transposing instrument, its music
+being written a fifth higher than the actual sounds. The treble clef is
+used in notation for all but the lowest register. The technical
+capabilities of the basset horn are the same as for the clarinet, except
+that the extra low notes from A to F (actual sounds) can only be intoned
+slowly and _staccato_; the notes of the upper register being better
+represented in the clarinet are seldom used in orchestral music.
+
+The tone of the basset horn is extremely reedy and rich, especially in the
+medium and low registers; the tone colour is similar to that of the
+clarinet without its brilliancy; it is mellow and sensuous, but slightly
+sombre, and therefore well adapted for music of an elegiac funereal
+character.
+
+The basset horn flourished mainly in Germany, where at the end of the 18th
+century it was the favourite solo instrument of many celebrated
+instrumentalists, such as Czerny, David, Lotz, Springer, &c. Among the
+great masters, Mozart seems to have been foremost in his appreciation of
+this beautiful instrument. In his _Requiem_, the reed family is represented
+by two basset horns having independent parts, and two bassoons. Mozart has
+also used the instrument with great effect in his opera _La Clemenza di
+Tito_, where he has written a fine obbligato for it in the aria "Non piu di
+Flori"; in _Zauberflöte_; and in chamber music, viz. short adagio for two
+basset horns and bassoon, and another for two clarinets and three basset
+horns (Series 10 of Breitkopf & Härtel's complete edition). Beethoven
+employed it in his _Prometheus_ overture. Mendelssohn used it in military
+music, and in two concerted pieces for clarinet and basset horn with
+pianoforte accompaniment, in F and D min., opp. 113 and 114, dedicated to
+Heinrich and Carl Bärmann.
+
+The archetypes of the basset horn are the same as those of the clarinet
+(_q.v._). The basset horn was the outcome of the desire, prevailing during
+the 16th and 17th centuries, to obtain complete families of instruments to
+play in concert. The invention of the basset horn in 1770 is attributed to
+a clarinet maker of Passau, named Horn, whose name was given to the
+instrument;[2] by a misnomer, the basset horn became known in Italy as
+_corno di bassetto_, and in France as _cor de basset_. In 1782, Theodore
+Lotz of Pressburg made some modifications in the instrument, which was
+further improved by two instrumentalists of Vienna, Anton and Johann
+Stadler, and finally in 1812 by Iwan Mueller, a famous clarinettist, who
+invented the alto clarinet in Eb from the basset horn, by giving the latter
+a construction and fingering analogous to those of the clarinet in Bb,
+which he took as his model, instead of the clarinet in C.
+
+See J. G. H. Backofen, _Anweisung zur Klarinette, nebst einer kurzen
+Abhandlung über das Basset-Horn_, with illustration, p. 37 (Leipzig,
+Breitkopf & Härtel, 1803); Iwan Mueller, _Anweisung zu der neuen Clarinette
+und der Clarinette-alto, nebst einigen Bemerkungen für Instrumentenmacher_
+(Leipzig, Freidrich Hofmeister, 1826, with illustrations); Gottfried Weber,
+"Über Clarinette und Bassethorn," _Cacilia_, Band xi. pp. 35-37 (Mainz,
+1834); Wilhelm Altenburg, _Die Clarinette, ihre Entstehung und Entwickelung
+bis zur Jetztzeit in akustischer, technischer u. musikalischer Beziehung_
+(Heilbronn, 1904), pp. 16-32; good heliogravures of early basset horns in
+_Descriptive Catalogue of the Musical Instruments at the Royal Military
+Exhibition, London_, 1890, compiled by Capt. C. R. Day (1891), pl. v.
+
+(K. S.)
+
+[1] An instrument of this type, stamped "H. Grenser, S. Wiesner, Dresden,"
+is in the collection of the Rev. F. W. Galpin, of Hatfield, Broad Oak.
+
+[2] _Cantor Lectures on Musical Instruments, their Construction and
+Capabilities_, by A. J. Hipkins, p. 15; Henri Lavoix, _Histoire de
+l'instrumentation depuis le seizième siècle jusqu'à nos jours_ (Paris,
+1878), on p. 123 the date is given as 1777.
